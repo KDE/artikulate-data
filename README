@@ -5,16 +5,40 @@ website https://projects.kde.org/projects/playground/edu/artikulate.
 The provided courses are created by the people listed in file AUTHORS. You can
 use, modify, and redistribute the provided files under the following terms:
 
+
 Course Files:
--------------
-All course files contained in this repository (especially thoses included in
+=============
+All course files contained in this repository (especially those included in
 directories "skeletons" and "courses") are free; you can redistribute and or
 modify them under the terms of the"Creative Commons Attribution-Share Alike 3.0
 Unported" license. The license text can be found in the file COPYING.COURSES.
 
+Directory Structure of "course":
+-------------
+The directory "course" has the following structure (and scripts depend on this
+structure to be correct!):
+* "course contains a folder for each course (usually this should be associated
+  to a skeleton file)
+* each of these course folders contains a subfolder for each language in that
+  the course exists
+
+Example:
+course
+ + basic
+   + de
+     + de.xml
+     + < several sound files >
+   + fr
+     + fr.xml
+      + < several sound files >
+
+Directory Structure of "skeleton":
+-------------
+The directory contains course skeleton files without any further subfolders.
+
 
 Script Files:
--------------
+=============
 All script files contained in this repository (especially those included in
 the directory "scripts") are free; you can redistribute and/or modify them
 under the terms of the GNU Lesser General Public License as published by the
