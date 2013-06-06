@@ -618,6 +618,366 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{53705f4a-2a84-476d-90bf-aea23d6df487}</id>
+   <title>Family</title>
+   <phrases>
+    <phrase>
+     <id>{a45209f9-2797-4b21-9e5f-cd2f65417515}</id>
+     <text>mother</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f13aa413-12db-4ac4-970f-a049a02b7e30}</id>
+     <text>father</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7cef4738-6d85-4685-a781-46a5a52d1af7}</id>
+     <text>uncle</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{bcfd006d-c3e8-49ef-bc08-0768c18c9cbe}</id>
+     <text>aunt</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b81fd88c-bc00-4aea-a9cc-9489e566a00a}</id>
+     <text>brother</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ca56ec04-0662-425d-ae9d-4f282a342fb5}</id>
+     <text>sister</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{65f2a6bd-5be6-4169-afb5-3581f8e06078}</id>
+     <text>grandmother</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{108a4ddf-8c9b-4632-9188-0a7cfda508a1}</id>
+     <text>grandfather</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5c475011-d85f-47fa-9dd5-d83b230145f9}</id>
+     <text>daughter</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c5ac8139-5acc-4c5e-b458-7cccdffa7105}</id>
+     <text>son</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4a17e0b5-117f-4123-aa09-699debeb26d5}</id>
+     <text>siblings</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3da7d5bb-73a4-4a15-92e7-b28f08fec585}</id>
+     <text>grandson</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ff3ca9c7-09fc-42f8-bd91-807ef443acea}</id>
+     <text>granddaughter</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{56ff75ed-c079-467a-b702-d83e2aa940ec}</id>
+     <text>wife</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e9d6f3c9-2adc-44da-b376-c47033d941dc}</id>
+     <text>husband</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{650e213c-3aa1-4c00-89d3-ae708208c742}</id>
+     <text>niece</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6a867158-3c7f-48b7-9161-ea7317efe3f9}</id>
+     <text>nephew</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{89a5acb9-f4c3-44ec-abde-a2eb538f9eec}</id>
+     <text>spouse</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8862489f-7972-497b-be5d-b4afead9b4cd}</id>
+     <text>marriage</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{226d188f-054e-48bc-8d66-342b14286a7a}</id>
+     <text>couple</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{65b33bbd-a5ba-45df-9b96-292e493220d5}</id>
+     <text>cousin</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{337596af-ef04-4d45-b73f-22bbf477447d}</id>
+     <text>godson</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{51a09dd3-ac20-4bd0-a571-ab8e6384b769}</id>
+     <text>children</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5cab4a17-e261-460e-83b9-7219cbaac107}</id>
+     <text>babe</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3bedbf55-a0b4-4b77-a037-ba8f5f3348d7}</id>
+     <text>adopt</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b8751e3b-fa9e-4f9c-970c-2dbff5e212b9}</id>
+     <text>relative</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f0ff8f87-6998-4186-82b0-a5195c3cd2e6}</id>
+     <text>orphan</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{89ae77b7-1653-4510-824e-12ad53d77951}</id>
+     <text>disinherit</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{13a560b9-0217-48bb-ace9-68606c7c260b}</id>
+     <text>single</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0fb64cac-9f4b-48c6-84b9-5363acd8363b}</id>
+     <text>family</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d9b61e3c-7ed8-4b23-b940-f95143b3a4b8}</id>
+     <text>great grandfather</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{98afb7b3-0977-49d9-a445-6fe26ae08397}</id>
+     <text>great grandmother</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{6fecb201-d3dc-4f22-81cf-de7fcdfde111}</id>
+     <text>twin brothers</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{5642138b-8ebe-4a69-9dd9-3596ab757a56}</id>
+     <text>twin sisters</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f3e4fae7-4c2e-4228-858d-004b85489a37}</id>
+     <text>step-father</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bc83b5cc-90d3-4bb7-b4f6-b8ac53d4e504}</id>
+     <text>step-mother</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{08bd9966-4282-4fdb-82d1-4d8f21bf29e4}</id>
+     <text>ex-husband</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{df2d2387-2712-4e6d-9bb2-bcf7b5960be5}</id>
+     <text>ex-wife</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{17e9b72d-f2c2-4e92-9b06-7dcecc76262d}</id>
+     <text>bring up</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{fbf42837-2a51-4882-a5fb-2a40c6d444cc}</id>
+     <text>foster child</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{6cbc3c63-65a5-4892-8e56-2a2e663b6d65}</id>
+     <text>be divorced</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bc4e9420-0424-4206-9d4f-7dfbd2878730}</id>
+     <text>elder sister</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0fa0a6cf-01e1-4ae1-9313-b85d4639b348}</id>
+     <text>be married</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{a2746154-d49f-4e1f-aa5e-708d2b76f8f2}</id>
+     <text>be engaged</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{fc9a8359-3689-481f-8708-c725f8309537}</id>
+     <text>get on well</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bb315977-2a75-4355-b1f2-eefbaa357a03}</id>
+     <text>black sheep</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{a162d6d7-55d3-474c-bd77-e4062a7903a8}</id>
+     <text>family gathering</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b60de9ba-53fb-4df4-8893-31e67d022646}</id>
+     <text>family name</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{71fb26a0-a8b4-4926-bbde-3e67d508c295}</id>
+     <text>biological brother</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{368dabbd-e453-4104-ba9b-673048767000}</id>
+     <text>be separated</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{28ea7f77-900f-4836-887c-7ebba9a00e0d}</id>
+     <text>I have one younger brother and two sisters.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{8a74340e-5f78-48df-80ff-de6e94e416c0}</id>
+     <text>My parents got divorced two years ago.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{2a3c6479-3d24-4d3f-a3ba-dfd367b9680e}</id>
+     <text>My sister-in-law just got pregnant and she is expecting a babe. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a0a49252-3009-4c0a-86f4-0bab74ec379f}</id>
+     <text>My family lives in New York.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{eda7da2b-520e-44c6-b2ae-928b27af2db8}</id>
+     <text>We have been married for 10 years and we have two children. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{70ed088d-d131-442d-b07e-531776d2c9d8}</id>
+     <text>They are twins.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ef982491-0319-41cb-93ff-c99a4adb6cf0}</id>
+     <text>George is Robert's and Susan's father.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{b86467c0-f354-45f0-ada0-9f9d81c65d77}</id>
+     <text>Are you married?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{b8f8243f-b323-4359-bbfd-7ad8ddc3ad00}</id>
+     <text>Anne is the youngest child in our family.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{843e46b9-d6c2-4bc9-9f23-4af732aaff57}</id>
+     <text>Carol and Michael are Robert's grandparents. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a76df398-1e68-442e-8944-d4ca0c17aaaf}</id>
+     <text>The modern nuclear family consists of dad the breadwinner, mum the housewife and several children.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{5af079ba-7415-42e6-ab66-805ca279808f}</id>
+     <text>My mother died last year.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c6ef1ec6-0c36-45bd-888a-3fc7a6d75157}</id>
+     <text>My father is an engineer. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{383e2b89-9c86-4b6c-a7d1-2ab688625ef4}</id>
+     <text>How big is your family?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c8e812e6-d98e-4154-972a-acbd051e42cd}</id>
+     <text>Do you have any siblings?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{801eeb35-50d2-4377-9bcf-0a2e9729ac0d}</id>
+     <text>What is your family name?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{d715af37-b8c2-4f68-a8f0-fb1940717027}</id>
+     <text>Are your parents separated or they still live together?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{9fe9aead-cfdd-4106-b6fe-3b9ff70607ca}</id>
+     <text>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{a45ad81d-c749-49e7-a752-25e8b358f093}</id>
+     <text>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{b4691fce-fcef-4d07-a854-b4378014e66a}</id>
+     <text>My family is a rather a small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{e6ad70f5-ff48-4ccb-a6ba-54ea6d8a3995}</id>
+     <text>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto.  My father stayed in Washington and I decided to live with him.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
-
