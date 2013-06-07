@@ -1335,5 +1335,331 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{b390b3da-121f-470b-a342-f51ee654dc9e}</id>
+   <title>Countries and cultures</title>
+   <phrases>
+    <phrase>
+     <id>{565a4bc9-884b-4104-a96e-fb5830792bb8}</id>
+     <text>Greece</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7005dad7-79e4-49de-9636-c6a72689b5ea}</id>
+     <text>Germany</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{39ec664c-fb90-4e44-b3fe-5f4c0c5cf809}</id>
+     <text>United States of America</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f3be58dc-59f0-46af-aaf8-d4fac7f39f35}</id>
+     <text>Spain</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3da04216-0700-4fd4-b1bc-9f7b8fb03be8}</id>
+     <text>France</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{67f07b95-e524-46a8-9f13-794559c7d47d}</id>
+     <text>Great Britain</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{37abb84a-0dcb-4087-a453-13ad455ed302}</id>
+     <text>Brazil</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f70b0692-8a4d-4642-8533-93213d7a9d86}</id>
+     <text>Argentina</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a096001d-a154-4d16-8950-ed749aecc48d}</id>
+     <text>Russia</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3180c47c-69fe-411a-a5a8-295febff5ab1}</id>
+     <text>Canada</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b176862d-7684-4758-8f90-d5e273802d2a}</id>
+     <text>Australia</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{27849b42-f31c-4da0-aeb3-0169a575e07d}</id>
+     <text>New Zealand </text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5f15704c-5772-4b39-aac1-8abaab761c70}</id>
+     <text>China</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b83341ef-7fe1-4566-b490-b5a69a54b1c5}</id>
+     <text>India</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{81e31083-47b5-4526-aa6c-ea975f813858}</id>
+     <text>Japan</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{98903ca5-3a97-4600-8861-a0d94c5fb15d}</id>
+     <text>American</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{20ec9757-7a35-40f7-a389-6bddb0786702}</id>
+     <text>English</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ef7e1122-90d9-4655-986d-c0fa69414bc4}</id>
+     <text>Canadian</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1b755772-da58-4694-b482-ed812a0b1b12}</id>
+     <text>Spanish</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4c2f86d4-a09f-4175-ac70-ba23f826c0a6}</id>
+     <text>Brazilian</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c2d8ac5c-3827-4be8-bfed-f687b816fb06}</id>
+     <text>Argentinian</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5beab421-e04e-4d7b-b544-91d0f06f55f0}</id>
+     <text>Japanese</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{fdccc110-6d48-40d4-8e52-75bba6928881}</id>
+     <text>Chinese</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{638fdfe5-8b77-44fa-9402-978102fd638b}</id>
+     <text>French</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5726ba83-871f-4007-8f0f-b4ba6a8f8a56}</id>
+     <text>currency</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d3e44058-e136-45e5-9804-f1c86c9e6487}</id>
+     <text>flag</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{aa4d046a-55b2-4138-ac05-55f98efbb1bc}</id>
+     <text>passport</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3527919b-8a7c-4880-a298-b98bc750fda2}</id>
+     <text>speak a language</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{335bb3a1-712a-42d5-8e4a-bd02b24ca651}</id>
+     <text>come from</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{1b61b73e-a5db-4a80-86de-c9dc99827a9b}</id>
+     <text>traditional dress</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{eec7bd1a-4944-47fb-be0c-873fe4c40100}</id>
+     <text>be fluent</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b24165ba-6027-4e70-a0d3-2e46ad639c32}</id>
+     <text>foreign country</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{efa99dc5-1498-4cbf-a2a8-3a5934a46f8a}</id>
+     <text>regional outfit</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{c27bde10-87fd-493d-9e93-e00f143b987d}</id>
+     <text>official language</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bb1b66bd-4af2-4029-92df-ed70278d50bf}</id>
+     <text>national dish</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f27236b1-cd29-4008-93c5-7b08ef572cf8}</id>
+     <text>capital city</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{492aac48-4c49-40bd-90a0-e3bf0d8a99c1}</id>
+     <text>European Union</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9a0983a0-491c-4de6-9580-1664868f6b18}</id>
+     <text>go abroad</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{a7c7eb74-d770-485e-b06e-890525ec927c}</id>
+     <text>travel overseas</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{a9be6a5e-7979-41dd-ab74-575082a52efe}</id>
+     <text>mother tongue</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{af3a2074-66c1-4eb0-87b5-6234ce6d82cb}</id>
+     <text>local dialect</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d68b2825-e8a9-443b-9159-a4dfec6ff7e6}</id>
+     <text> culture shock</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{fd8cbffa-3907-4d51-bcde-b7c20d4d1d77}</id>
+     <text>cultural stereotype</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{71c5bf98-fe19-45cb-9f2d-28a27056a001}</id>
+     <text>Where are you from?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{64be1424-598a-48fe-b0ee-7e075cdd8ff2}</id>
+     <text>What is you nationality?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{53345892-f6f1-4c9f-ad05-45ec2290ca85}</id>
+     <text>In Brazil people speak portuguese.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{6d6335a1-d7a1-453d-9815-e3bc926e5872}</id>
+     <text> I am French. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{fc0a450f-bcbc-4ea7-a127-d815d2646c60}</id>
+     <text>Polish and Check are Slavic languages.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{32a35a54-6b25-47bc-8ea7-7a2e05c39626}</id>
+     <text> I live in Australia.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{8ab66404-44a6-446e-96eb-0cb7745d7ac7}</id>
+     <text> I can speak Spanish, German and a bit of Italian.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{7240079e-64ea-403a-9ec6-13e059b6d97b}</id>
+     <text>Haggis is a Scottish national dish.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{5ba2ee29-0342-46f7-a082-37d4452624fd}</id>
+     <text>There are three colours on German flag: red, black and yellow.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4916c445-b916-4afa-be27-f068247727d7}</id>
+     <text>Warsaw is Poland's capital city. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e4aa21fd-f647-45c5-98be-ffddba6111f4}</id>
+     <text> What is a traditional Indian dish?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{b3fe2864-42a5-4bc2-8349-d3baa7dfaa1c}</id>
+     <text>I was born in a small village in Salvador. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{758cb73e-7410-4708-9854-48f554248611}</id>
+     <text>Italian dialect from south is very different from any other dialects spoken in the country.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{47d08943-2a92-45da-be63-f500d4b595b5}</id>
+     <text>Los Angeles has a large amount of ethnic and cultural diversity.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{caebae74-e96a-4ced-9994-65d5e8c953a8}</id>
+     <text> Eating turkey on Christmas Day in Australia is a tradition.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{f7e0fe37-846a-4190-b132-e5fba0461900}</id>
+     <text>Russia is the largest country in the world.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{2a7ce4b0-8af9-429a-80b8-91f8fc341f92}</id>
+     <text>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3d1444b2-ac16-4756-98ff-c4e5aea14234}</id>
+     <text> Switzerland has four official languages. They speak Italian, French, German and  Romansh. </text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{58326819-3659-4317-b4ae-3b5ca03122e8}</id>
+     <text>I have double nationality. I am a French citizen and I also have a British passport. </text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{3d4fb2ea-67ba-431f-9b28-209869c96d91}</id>
+     <text>Egypt is a country in north Africa. Its capital is Cairo and it has a population of over 90 million people.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{32794fd5-6247-4d13-a3eb-5c42d265d628}</id>
+     <text>I come from Spain and I was born in Barcelona. When I was four years old my family emigrated to USA and we stayed there until now. I can speak both Spanish and English. </text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
