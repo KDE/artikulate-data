@@ -979,5 +979,361 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{05f5f1d8-4c0a-4d61-b05a-b08b467ea94e}</id>
+   <title>Sport</title>
+   <phrases>
+    <phrase>
+     <id>{b0ad1fd6-e767-4653-8283-64cd3fe2b391}</id>
+     <text>volleyball</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f5a6aac6-2af2-454a-af4e-f2f196a0e3ee}</id>
+     <text>football</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b86133c9-610b-48a3-890c-191e1b9381b8}</id>
+     <text>basketball</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{49f57de6-c935-4e91-bff6-b54b4a3ba716}</id>
+     <text>tennis</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4754b1fc-dc0f-43e9-8871-1e823a00ece4}</id>
+     <text>karate</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3f03356b-d8a1-4415-a290-13cfb28fb58b}</id>
+     <text>squash</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8e81d815-2754-4d25-a296-6d4e1d8e5b85}</id>
+     <text>athletics</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{bcb3b2af-f897-4223-b6e6-6bb6da0b72a9}</id>
+     <text>swimming</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{da3cca9e-4d87-4790-9f1c-abfaeef2ed99}</id>
+     <text>hockey</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c6d05914-189d-4a83-ac58-6ba705420ab1}</id>
+     <text>rugby</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{75c9d101-0e32-40aa-9f89-b00277713458}</id>
+     <text>skiing</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{50c0411a-153b-4106-8c31-a84ebf09efe6}</id>
+     <text>snowboarding</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{77c3c5ae-7366-425a-8ad0-7d13d4963adf}</id>
+     <text>fitness</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d5c92520-4251-4ba2-bba6-1ba49165b160}</id>
+     <text>opponent</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{eb51a170-01ac-4dbe-b2c8-7338995128c6}</id>
+     <text>record</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a84f81ac-fd16-4bea-913c-a4f0ceb2908a}</id>
+     <text>spectator</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{80e12978-fefc-462d-ac97-80a3ee7b03dc}</id>
+     <text>stadium</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0a0419bd-8408-4467-a36c-da04144664a7}</id>
+     <text>score</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{590c37a6-6674-4b70-90a9-aaa3841a660c}</id>
+     <text>referee</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{db779dea-1cb4-4693-a59c-f3cde5585ce7}</id>
+     <text>pitch</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a41476b7-58f5-4504-9bd4-febeebf74040}</id>
+     <text>coach</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b35a79e3-d6c6-40cd-a483-a836441874a4}</id>
+     <text>athlete</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{fd6a1c16-d676-4d30-a0d0-6e46550e888d}</id>
+     <text>cycling</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7f60b129-c130-4b41-a584-ee16031ca4bf}</id>
+     <text>boxing</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8e46076f-85b9-4782-bd2c-521ae488fc73}</id>
+     <text>winter sports</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{5d041d55-48fe-469c-8ce7-b0821bc4d85a}</id>
+     <text>Olympic Games</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{1239190b-8685-42d6-9b40-d8408783e559}</id>
+     <text>sports fun</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7be6d279-52aa-4173-a704-a5e6f9d0121f}</id>
+     <text>play basketball</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{02aeb29b-933b-46b8-a04a-8d0e42a81c8d}</id>
+     <text>tennis court</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{00f4b510-b27f-4dd3-8ddd-0d7ac8cbab16}</id>
+     <text>football field</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0e3679e7-e2ac-4dec-93fa-aa066b42f532}</id>
+     <text>do jogging</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b062ce57-98fa-4643-b335-33f3de03c2d1}</id>
+     <text>ride a bike</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{80fef4e7-36fa-49d9-b01e-527e2ae44b8f}</id>
+     <text> beach volleyball</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7507bde1-5f41-4836-baea-db108477def1}</id>
+     <text>Australian rules football</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4b9b8449-ae55-4e47-8969-ae91983d1650}</id>
+     <text>rugby match</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{506cfec9-6489-4bf4-8e9e-c655a49b1447}</id>
+     <text>martial arts</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4a6f39cc-aa7a-4047-94d0-c783d2e4358c}</id>
+     <text>golf club</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{da93b103-6a30-4eb9-9070-9b96fd4e8cb0}</id>
+     <text>horse racing event</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b977ff67-7f24-43a5-9fb7-5a7aac60e286}</id>
+     <text>competitive player</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f7f97587-e141-4f32-9b50-20929ae4efec}</id>
+     <text>national sport</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d8133ce4-14a8-4d82-9241-af0718f05d4b}</id>
+     <text>outdoor sport</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{6e3becd5-d8eb-46d9-b6fa-a9ce364a8b84}</id>
+     <text>be fit</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{14a12df4-c6e6-4b80-a9ab-c042e7ce7d7f}</id>
+     <text> aerobic exercise</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d0b3978e-f7e3-4233-acb2-a1e7df110e84}</id>
+     <text>healthy weight</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0e5f8f40-5329-45e0-a191-63e745927919}</id>
+     <text>team sport</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4dce30f2-5298-477a-8468-e3b36ca6e354}</id>
+     <text>I play tennis twice a week.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{82669d0f-31ff-4bf8-85db-ac1fe0be0a8c}</id>
+     <text>What sports do you like? </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{b1dd77b4-636e-4cf3-b5ea-3549e62fd829}</id>
+     <text>Last night we went to a live basketball game.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ad8c4d73-1f0a-4e1c-a601-957840786770}</id>
+     <text> My grandfather was university boxing champion.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{bc4f163c-bd0f-421a-b1f4-ed50baced348}</id>
+     <text>The Philadelphia Marathon is a popular athletic event.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{431526fb-25bc-434b-91a4-698b5e218d6b}</id>
+     <text>Some people consider martial arts to be dangerous.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4c5cef55-e0d6-4e98-8a38-5d941a66dc0f}</id>
+     <text>Do you like watching football on TV?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e9d451ab-9ccd-4152-8aaa-9376b4e54763}</id>
+     <text>People often take up swimming to improve their fitness.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c9c402ad-9f57-41c6-8842-9c4867a3e17a}</id>
+     <text> Darts is a popular pub game.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{aaa6c5cc-0e72-4b15-abc4-c4d003bad926}</id>
+     <text>Do you think this team will go to the finals?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{9897c4f3-a2e9-4a21-9f53-828585a5a914}</id>
+     <text>London hosted 2012 Olympic Games.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a7b4f177-3daa-48a5-8cbe-523e8c28a4d0}</id>
+     <text> Chess is a sport that requires skills and intelligence.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{85e28aaa-bf38-49be-8fa9-6c6ecfb8f2cc}</id>
+     <text>Basketball is a team sport that was invented in USA. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e6ef007f-47ff-4fc4-b7a0-ea356bad5c59}</id>
+     <text>Many families take their children and go ice skating in the evenings. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3717bd9a-f51f-4b4f-8cef-d17d588ca2a7}</id>
+     <text>Baseball is very popular in United States. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{f0adfacc-4566-4d29-8a77-6a8830f3538e}</id>
+     <text>He did not pass the ball to the other player. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{fa039182-42e9-4ec2-ab58-387707689fdb}</id>
+     <text>Today we are going to win.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{33073916-636d-48d7-9e82-9ddb7ab2e66a}</id>
+     <text>This is the best football magazine. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ada0b7be-ba0d-44a5-9b4b-e99456fd8bc7}</id>
+     <text>Paula's father reads sports news everyday. </text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{b6369b8b-17df-478b-af81-b7f0edabd3cd}</id>
+     <text>Let's celebrate the victory.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{93b45a67-97b7-47f3-b331-c01b7c57c153}</id>
+     <text>My father goes jogging every day. He is very fit. </text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{6df53553-810b-44ff-a722-a01728b5c6e7}</id>
+     <text>I like to play sports. My favourite is badminton.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{8867d861-0e56-4f93-8bb2-d58f76f5353c}</id>
+     <text>Ian Thorpe is a famous Australian swimmer. He has won three gold medals in Sydney Summer Olympic Games.  </text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{cdb98274-36af-406f-afcd-7f0ed3dddf2a}</id>
+     <text>I have been thinking about exchanging our tennis tickets. Instead of going on Friday, we should go on Saturday. What do you think?</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{bca3de0e-252c-410a-bbad-88ecbb3f8fc1}</id>
+     <text>In football game there are two teams playing. Each team consist of ten field players and a goalie. </text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
