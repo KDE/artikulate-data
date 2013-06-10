@@ -453,7 +453,7 @@
     </phrase>
     <phrase>
      <id>{d8ccc087-a104-4325-bada-fddbe87adcb9}</id>
-     <text> boat trip</text>
+     <text>boat trip</text>
      <type>expression</type>
     </phrase>
     <phrase>
@@ -884,7 +884,7 @@
     </phrase>
     <phrase>
      <id>{2a3c6479-3d24-4d3f-a3ba-dfd367b9680e}</id>
-     <text>My sister-in-law just got pregnant and she is expecting a babe. </text>
+     <text>My sister-in-law just got pregnant and she is expecting a babe.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -894,7 +894,7 @@
     </phrase>
     <phrase>
      <id>{eda7da2b-520e-44c6-b2ae-928b27af2db8}</id>
-     <text>We have been married for 10 years and we have two children. </text>
+     <text>We have been married for 10 years and we have two children.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -919,7 +919,7 @@
     </phrase>
     <phrase>
      <id>{843e46b9-d6c2-4bc9-9f23-4af732aaff57}</id>
-     <text>Carol and Michael are Robert's grandparents. </text>
+     <text>Carol and Michael are Robert's grandparents.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -934,7 +934,7 @@
     </phrase>
     <phrase>
      <id>{c6ef1ec6-0c36-45bd-888a-3fc7a6d75157}</id>
-     <text>My father is an engineer. </text>
+     <text>My father is an engineer.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1145,7 +1145,7 @@
     </phrase>
     <phrase>
      <id>{80fef4e7-36fa-49d9-b01e-527e2ae44b8f}</id>
-     <text> beach volleyball</text>
+     <text>beach volleyball</text>
      <type>expression</type>
     </phrase>
     <phrase>
@@ -1195,7 +1195,7 @@
     </phrase>
     <phrase>
      <id>{14a12df4-c6e6-4b80-a9ab-c042e7ce7d7f}</id>
-     <text> aerobic exercise</text>
+     <text>aerobic exercise</text>
      <type>expression</type>
     </phrase>
     <phrase>
@@ -1215,7 +1215,7 @@
     </phrase>
     <phrase>
      <id>{82669d0f-31ff-4bf8-85db-ac1fe0be0a8c}</id>
-     <text>What sports do you like? </text>
+     <text>What sports do you like?</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1225,7 +1225,7 @@
     </phrase>
     <phrase>
      <id>{ad8c4d73-1f0a-4e1c-a601-957840786770}</id>
-     <text> My grandfather was university boxing champion.</text>
+     <text>My grandfather was university boxing champion.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1250,7 +1250,7 @@
     </phrase>
     <phrase>
      <id>{c9c402ad-9f57-41c6-8842-9c4867a3e17a}</id>
-     <text> Darts is a popular pub game.</text>
+     <text>Darts is a popular pub game.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1265,27 +1265,27 @@
     </phrase>
     <phrase>
      <id>{a7b4f177-3daa-48a5-8cbe-523e8c28a4d0}</id>
-     <text> Chess is a sport that requires skills and intelligence.</text>
+     <text>Chess is a sport that requires skills and intelligence.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
      <id>{85e28aaa-bf38-49be-8fa9-6c6ecfb8f2cc}</id>
-     <text>Basketball is a team sport that was invented in USA. </text>
+     <text>Basketball is a team sport that was invented in USA.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
      <id>{e6ef007f-47ff-4fc4-b7a0-ea356bad5c59}</id>
-     <text>Many families take their children and go ice skating in the evenings. </text>
+     <text>Many families take their children and go ice skating in the evenings.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
      <id>{3717bd9a-f51f-4b4f-8cef-d17d588ca2a7}</id>
-     <text>Baseball is very popular in United States. </text>
+     <text>Baseball is very popular in United States.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
      <id>{f0adfacc-4566-4d29-8a77-6a8830f3538e}</id>
-     <text>He did not pass the ball to the other player. </text>
+     <text>He did not pass the ball to the other player.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1295,12 +1295,12 @@
     </phrase>
     <phrase>
      <id>{33073916-636d-48d7-9e82-9ddb7ab2e66a}</id>
-     <text>This is the best football magazine. </text>
+     <text>This is the best football magazine.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
      <id>{ada0b7be-ba0d-44a5-9b4b-e99456fd8bc7}</id>
-     <text>Paula's father reads sports news everyday. </text>
+     <text>Paula's father reads sports news everyday.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1310,7 +1310,7 @@
     </phrase>
     <phrase>
      <id>{93b45a67-97b7-47f3-b331-c01b7c57c153}</id>
-     <text>My father goes jogging every day. He is very fit. </text>
+     <text>My father goes jogging every day. He is very fit.</text>
      <type>paragraph</type>
     </phrase>
     <phrase>
@@ -1320,7 +1320,7 @@
     </phrase>
     <phrase>
      <id>{8867d861-0e56-4f93-8bb2-d58f76f5353c}</id>
-     <text>Ian Thorpe is a famous Australian swimmer. He has won three gold medals in Sydney Summer Olympic Games.  </text>
+     <text>Ian Thorpe is a famous Australian swimmer. He has won three gold medals in Sydney Summer Olympic Games.</text>
      <type>paragraph</type>
     </phrase>
     <phrase>
@@ -1330,7 +1330,7 @@
     </phrase>
     <phrase>
      <id>{bca3de0e-252c-410a-bbad-88ecbb3f8fc1}</id>
-     <text>In football game there are two teams playing. Each team consist of ten field players and a goalie. </text>
+     <text>In football game there are two teams playing. Each team consist of ten field players and a goalie.</text>
      <type>paragraph</type>
     </phrase>
    </phrases>
@@ -1396,7 +1396,7 @@
     </phrase>
     <phrase>
      <id>{27849b42-f31c-4da0-aeb3-0169a575e07d}</id>
-     <text>New Zealand </text>
+     <text>New Zealand</text>
      <type>word</type>
     </phrase>
     <phrase>
@@ -1546,7 +1546,7 @@
     </phrase>
     <phrase>
      <id>{d68b2825-e8a9-443b-9159-a4dfec6ff7e6}</id>
-     <text> culture shock</text>
+     <text>culture shock</text>
      <type>expression</type>
     </phrase>
     <phrase>
@@ -1571,7 +1571,7 @@
     </phrase>
     <phrase>
      <id>{6d6335a1-d7a1-453d-9815-e3bc926e5872}</id>
-     <text> I am French. </text>
+     <text>I am French.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1581,12 +1581,12 @@
     </phrase>
     <phrase>
      <id>{32a35a54-6b25-47bc-8ea7-7a2e05c39626}</id>
-     <text> I live in Australia.</text>
+     <text>I live in Australia.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
      <id>{8ab66404-44a6-446e-96eb-0cb7745d7ac7}</id>
-     <text> I can speak Spanish, German and a bit of Italian.</text>
+     <text>I can speak Spanish, German and a bit of Italian.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1601,17 +1601,17 @@
     </phrase>
     <phrase>
      <id>{4916c445-b916-4afa-be27-f068247727d7}</id>
-     <text>Warsaw is Poland's capital city. </text>
+     <text>Warsaw is Poland's capital city.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
      <id>{e4aa21fd-f647-45c5-98be-ffddba6111f4}</id>
-     <text> What is a traditional Indian dish?</text>
+     <text>What is a traditional Indian dish?</text>
      <type>sentence</type>
     </phrase>
     <phrase>
      <id>{b3fe2864-42a5-4bc2-8349-d3baa7dfaa1c}</id>
-     <text>I was born in a small village in Salvador. </text>
+     <text>I was born in a small village in Salvador.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1626,7 +1626,7 @@
     </phrase>
     <phrase>
      <id>{caebae74-e96a-4ced-9994-65d5e8c953a8}</id>
-     <text> Eating turkey on Christmas Day in Australia is a tradition.</text>
+     <text>Eating turkey on Christmas Day in Australia is a tradition.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1636,17 +1636,17 @@
     </phrase>
     <phrase>
      <id>{2a7ce4b0-8af9-429a-80b8-91f8fc341f92}</id>
-     <text>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey. </text>
+     <text>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
      <id>{3d1444b2-ac16-4756-98ff-c4e5aea14234}</id>
-     <text> Switzerland has four official languages. They speak Italian, French, German and  Romansh. </text>
+     <text>Switzerland has four official languages. They speak Italian, French, German and  Romansh.</text>
      <type>paragraph</type>
     </phrase>
     <phrase>
      <id>{58326819-3659-4317-b4ae-3b5ca03122e8}</id>
-     <text>I have double nationality. I am a French citizen and I also have a British passport. </text>
+     <text>I have double nationality. I am a French citizen and I also have a British passport.</text>
      <type>paragraph</type>
     </phrase>
     <phrase>
@@ -1656,7 +1656,353 @@
     </phrase>
     <phrase>
      <id>{32794fd5-6247-4d13-a3eb-5c42d265d628}</id>
-     <text>I come from Spain and I was born in Barcelona. When I was four years old my family emigrated to USA and we stayed there until now. I can speak both Spanish and English. </text>
+     <text>I come from Spain and I was born in Barcelona. When I was four years old my family emigrated to USA and we stayed there until now. I can speak both Spanish and English.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
+  <unit>
+   <id>{6bef0e3f-7bc3-4b48-ac77-eeb86c04a458}</id>
+   <title>Weather</title>
+   <phrases>
+    <phrase>
+     <id>{64e017d7-88cd-4f0a-92ba-94aa999bf208}</id>
+     <text>thunderstorm</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3fb5bc95-16a8-48e4-95f1-6fafa8cf9606}</id>
+     <text>sunny</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a8a8b5f5-cbd5-4be1-a8e0-b130ff34d0ce}</id>
+     <text>weather</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{dcc5c3f3-576b-49c2-b42d-b5e42531de59}</id>
+     <text>rainy</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0f6d42af-f878-4887-9c85-eb4fa5ab6fb9}</id>
+     <text>windy</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{52137abe-6cb0-426b-8825-c7d6367d21c2}</id>
+     <text>snow</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3b71f855-e0c4-4e21-b604-8ad79de89773}</id>
+     <text>temperature</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e2e6e20b-a8e8-4a02-b5ff-da145fb03d07}</id>
+     <text>cool</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{aaf37294-bc1c-47ad-80f8-24baa44117d9}</id>
+     <text>warm</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0df49aef-2874-4120-86e0-d1933279748a}</id>
+     <text>flood</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{57fd2370-d302-48c4-811b-c239d8748c5f}</id>
+     <text>drought</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{74b3353d-3cc9-495d-96a2-b7caf34effe1}</id>
+     <text>hail</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{cee4b96a-ed08-4c24-af7a-b61ed432f769}</id>
+     <text>rainbow</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{40985c4e-648e-4b28-8c1b-b11438ed9b59}</id>
+     <text>earthquake</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{543760ed-ed4e-438d-8d41-0c155441423f}</id>
+     <text>cyclone</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d91e0877-bbd6-42a0-a4e4-aba5cd8adf26}</id>
+     <text>climate</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{dab75a11-12ca-470d-85bd-41b455bd0f13}</id>
+     <text>ice</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{25286749-936a-4b37-ab35-44f08ea5a973}</id>
+     <text>summer</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{924330a4-be39-48a9-9855-5497c2284965}</id>
+     <text>winter</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e5d41765-9299-4be3-9974-54cd85db4ca1}</id>
+     <text>spring</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{2dc79256-0882-46c3-b801-511a28df022f}</id>
+     <text>autumn</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b2d3865d-1e2e-4958-b2b1-f09d4050ef66}</id>
+     <text>tsunami</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{cd3e98e3-ffa1-4b3a-8369-22951b8ca08e}</id>
+     <text>sunrise</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{23febf80-6508-4069-b9af-8f92ce733b33}</id>
+     <text>humid</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4c51b96e-e6d6-41e0-ad71-b17f8cc3a9da}</id>
+     <text>meteorology</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{01b7fd05-e376-4869-bb2a-711581fb4070}</id>
+     <text>jungle</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9243d51f-43ae-43a3-94e4-bfd08d76cd65}</id>
+     <text>degrees Celsius</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{c92a8688-5d39-4e86-bccb-1051b0fd64f6}</id>
+     <text>degrees Fahrenheit</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{8a26b497-b97a-4ac3-8fbf-d7fe3eef692a}</id>
+     <text>heavy rain</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{075f4420-6448-4dfd-9d8c-bc9f9c8dad01}</id>
+     <text>clear sky</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{752428d8-b71f-4f2a-82bc-29a80ed450fa}</id>
+     <text>water temperature</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f38c8194-feb4-41dc-9af4-4e591df5f994}</id>
+     <text>freezing cold</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{a3760564-e07c-42fa-8f42-e50144cd68cf}</id>
+     <text>partly cloudy</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{560a5abd-3869-47fc-b594-1003af104da7}</id>
+     <text>air pressure</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{dca2806c-5604-4f97-a76d-0679ebf318f0}</id>
+     <text>global warming</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{db835d85-86f7-4fea-8ebc-964b85e8a930}</id>
+     <text>winter season</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{1b21362a-d75f-4d81-b8f5-d605b2a430bb}</id>
+     <text>tropical storm</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b7a6905f-8661-4ccd-a9df-b706c3fbd3e6}</id>
+     <text>heat wave</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7cda5919-dbe3-4387-bdc9-5ca8a33e9049}</id>
+     <text>sunny day</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{c171361b-7f1f-41d8-8419-43071b6e080d}</id>
+     <text>coastal area</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9d8246c3-d2f2-4e52-a457-95613ae59b46}</id>
+     <text>scattered showers</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9e952a0a-4a1c-4aea-9a3c-b16ed8522d33}</id>
+     <text>gust of wind</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7b5e669b-a59e-4a08-8e06-e6de66bb8cd8}</id>
+     <text>weather forecast</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d0072f79-dfce-4406-9be5-6af05caba26f}</id>
+     <text>mediterranean climate</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{749a8a41-288e-44ea-b35e-6e01da3f99f5}</id>
+     <text>polar ice cap</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b96bc1fb-a3a5-46d8-b423-c150eea67335}</id>
+     <text>It is snowing.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{fab1ab80-ef00-4d3b-b4c4-0f61b528f7b6}</id>
+     <text>What is the weather like?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{15c7a201-aab1-4250-83e5-24cd8392bfa9}</id>
+     <text>Is it raining outside?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{86aaf64d-b399-4c29-86f8-d27707916b36}</id>
+     <text>It look like it is going to be windy tomorrow.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{9a9d0f51-7a1b-49bf-bcd7-454f35c13203}</id>
+     <text>It is pouring down.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{251b17ce-fb83-4036-af23-028eb8e445f8}</id>
+     <text>Let’s hope the weather holds out.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e647765c-0ef9-4fc7-9b90-3a1b76d8749c}</id>
+     <text>Yesterday it was hot and humid.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{14e81d70-8dcf-4c29-8fea-e88867a3d5c6}</id>
+     <text>Take an umbrella, it’s raining.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{8343e98c-688f-4624-9e43-ea5a115ae8b8}</id>
+     <text>A lot of the crops dried up because of the drought.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{6b4dc159-7699-4c9c-bf5c-fbde86d5f3ad}</id>
+     <text>It is chilly today.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{f60c5550-328f-4df4-9025-399119d72084}</id>
+     <text>I can feel the warm sunshine on my arms.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ffa2d311-3daf-40d3-b314-9abd386a76d7}</id>
+     <text>The wind is blowing.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{8eb069fc-0316-43c7-b6c6-521529ebce6b}</id>
+     <text>You get better weather on the east cost.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{43679199-c006-4405-88f7-d0a8f68dc993}</id>
+     <text>Last night we saw a beautiful sunset.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{233842c1-3c29-4fad-91a1-beada64fe040}</id>
+     <text>A desert is a landscape form or region that receives very little precipitation.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{9c720f3f-8a98-4a56-8eb7-f7b2ea77a982}</id>
+     <text>The bad weather spoiled our plans for the weekend.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e32a4fc3-3285-4fa9-89b9-304fa8ade0fc}</id>
+     <text>In savanna climate we can distinguish to main seasons: wet and dry.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{b7e7842b-c462-4130-a980-39b2ecbcea6c}</id>
+     <text>The alpine area  has in general a much harsher climate than the rest of the country.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{7c2fad53-f0c7-418c-a3e2-4bd20e646a8b}</id>
+     <text>We had a drought in our area last summer. It did not rain for two months.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{1f5d20d4-7386-492f-99a8-32e8d12c521b}</id>
+     <text>It is usually cold in winter. The temperatures are often below zero.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{be9e6e8e-5446-4ad2-8929-b392f70ed7ce}</id>
+     <text>Tropical rainforests are found close to the equator. These areas are characterized by high humidity and heavy rains.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{d36df743-452d-4edf-b72d-b4b0f34e2012}</id>
+     <text>It is pretty warm. What is the temperature?</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{2fd8d252-622b-43fa-9a71-479447165d38}</id>
+     <text>Summers are warm with occasional showers and cool nights. Winter temperatures range between 2°C and 5°C.</text>
      <type>paragraph</type>
     </phrase>
    </phrases>
