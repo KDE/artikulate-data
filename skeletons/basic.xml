@@ -2007,5 +2007,396 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{0acb0757-ee0a-4393-bef3-ea0fea4aef58}</id>
+   <title>Time and Dates</title>
+   <phrases>
+    <phrase>
+     <id>{ae35c2ce-2c62-4c8a-847b-5b7320e16ef4}</id>
+     <text>hour</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c5b3d17e-929a-457b-addf-b308b563ea2d}</id>
+     <text>minute</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6e53d461-1b6e-45ec-8ce8-93c6deb0c85b}</id>
+     <text>second</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{00a2ab96-367b-4ee9-bcb2-0e21dd30ec12}</id>
+     <text>morning</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{94fb6368-3554-499a-ac67-074a84cb95a0}</id>
+     <text>afternoon</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{91c15fee-4501-4501-a9cf-b1ffbb5fbdf9}</id>
+     <text>evening</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f8c2706c-675d-4d2b-ac86-34b10743a318}</id>
+     <text>day</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{035bfa88-a2de-4b70-898a-84d31ee7b9ba}</id>
+     <text>night</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1532e66f-a0e1-4cd7-8763-d42e651379bb}</id>
+     <text>half</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b236085a-b33c-41f8-9558-b0906d6ca8cb}</id>
+     <text>quarter</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{465f47c1-6e2e-4b0f-9e09-e035c4b4ff8e}</id>
+     <text>week</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9822a8a9-a5bc-4f29-92a3-99d159113d03}</id>
+     <text>Monday</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{277f067d-a046-49db-9ad2-d65c5a66525a}</id>
+     <text>Tuesday</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6e7a38a5-3fe2-42b4-a218-94e96eea1c0f}</id>
+     <text>Wednesday</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1a4b48b7-56a9-491f-bb6c-0e0cd9c43cde}</id>
+     <text>Thursday</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{74fa92a1-19d0-453a-9536-561516f19ceb}</id>
+     <text>Friday</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c8579df1-7426-49b1-9eff-1d5d504cd7a1}</id>
+     <text>Saturday</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1d2dad26-790a-4385-986e-a7709c151487}</id>
+     <text>Sunday</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e4419e87-85c5-44f7-9b04-2b00e023a326}</id>
+     <text>month</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c04a9c01-e56e-4cff-9e59-a9fcbfbe0823}</id>
+     <text>January</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{00bada29-0cd1-49c7-b738-f26a800647d7}</id>
+     <text>February</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4faed864-c6bc-4186-8501-8c5b91fef5a3}</id>
+     <text>March</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8ca1a0c4-e70e-4d27-808e-63b74f243c12}</id>
+     <text>April</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c6ebefad-4dde-45d4-b887-8ffacbd902e2}</id>
+     <text>May</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7507cab0-4fd2-49f1-808d-862e145d2a76}</id>
+     <text>June</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{666a5101-fd4a-487c-8223-157c120e20eb}</id>
+     <text>July</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5b280d4a-c342-4a65-b5f2-2f96130766ee}</id>
+     <text>August</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c7cbf0a6-69ac-41b8-b9fb-c7a6b9cf6ea5}</id>
+     <text>September</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d1d31fb1-d8e7-488e-b958-1a5f55fe9517}</id>
+     <text>October</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{35abad03-516a-42b1-95ed-3668ffac7aeb}</id>
+     <text>November</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{69dd0405-d468-40e8-aa9e-864230543a34}</id>
+     <text>December</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5204eb4d-7da4-461a-a7b3-bdcd6b6887a2}</id>
+     <text>year</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{36335b54-7f72-43ce-9b0f-6dbab028f30c}</id>
+     <text>decade</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7f99d382-d61e-44e5-a375-4b3f2cbb6b10}</id>
+     <text>calendar</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{38f4481a-44b8-425d-9241-549f06c418e5}</id>
+     <text>weekend</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5858fbef-9663-4ad4-bb88-aa274444181d}</id>
+     <text>quarter to twelve</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{efed04e6-9959-488a-a977-e851f4384b20}</id>
+     <text>half past eight</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d9845eb7-1801-4f4e-8e80-b04bdcbd0e8e}</id>
+     <text>10 minutes past midnight</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{de680210-fa6b-49e6-a41d-fa50ed506d4c}</id>
+     <text>25th of December</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f9185dc8-c4f0-4b37-80b8-a83a7ef8df83}</id>
+     <text>New Year's Eve</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{93e3b0b8-b500-4305-90d9-2a371aedfbc3}</id>
+     <text>Christmas Day</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{e2557b04-4951-4140-9be6-4ac6f31a3f62}</id>
+     <text>5 pm</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{a0632227-3977-492e-b1c8-0f9bf672372a}</id>
+     <text>1 am</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f0adbbcd-e92c-48d2-a1de-4b27eb448db2}</id>
+     <text>Before Christ</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{825884b6-0644-4cd9-a7c3-2d4462fc25a4}</id>
+     <text>XXI century</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0346bda3-8f3c-4487-860c-3b8c0def5ae9}</id>
+     <text>around 10 o'clock</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{5feee433-1ad9-44a4-95e7-2b971e946ada}</id>
+     <text>public holiday</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d71a5ab4-511a-47e4-a78b-f60884e0ac46}</id>
+     <text>working week</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{fc671988-937e-4787-97b2-bf26da11ff4f}</id>
+     <text>early twenties</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{3baea57e-8dda-4463-92ee-54003c50a085}</id>
+     <text>100 hours</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{3e2bc2c7-0725-429c-8859-657baff94a43}</id>
+     <text>few minutes ago</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{3a501153-1290-4910-869a-019b135baf67}</id>
+     <text>last week</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{c9f1c2a8-029b-4be2-bafb-dc728d653b2b}</id>
+     <text>in the future</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0bb615c9-e50a-4713-9d8b-9beedde1c861}</id>
+     <text>following year</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9ddc1d37-151f-46ca-83fb-ff521d399606}</id>
+     <text>4th August 1972</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{cd8628d8-444f-4d88-8791-bb31743a6ec6}</id>
+     <text>time zone</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{c2abd6f8-633b-4d15-ad49-b362c89225ab}</id>
+     <text>It is first of July 2012.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4eca4f60-dccd-4f39-876b-68ae2610be5b}</id>
+     <text>We are meeting on Monday.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{baafc251-1b2c-43c6-82ea-fce70e9a03a9}</id>
+     <text>My birthday is on the 22nd of November.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{beea2ec5-ae82-4249-816d-fbb81fc0277a}</id>
+     <text>It is 12 o'clock.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{119ebe92-16e8-4c35-85c4-7a704fd3ce20}</id>
+     <text>He was born in 1988.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{237ce4bc-264c-4950-bb5c-01626bee84eb}</id>
+     <text>What time is it?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{be0a5a95-f9ec-41e2-b76f-b796cedb2458}</id>
+     <text>I work through all week except Saturdays and Sundays.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a4a1a498-a12f-41e6-96fa-da5026bf64b0}</id>
+     <text>1st of October is Chinese National Day.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e53a316a-4758-46d5-aeca-9e72506ce7af}</id>
+     <text>When is your birthday?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{13f445de-ba11-4bd0-bd8c-e1f23e5d930c}</id>
+     <text>A millennium is a period of one thousand years.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ee5e1777-62a8-4854-8239-9150e5633039}</id>
+     <text>My training period is from April 15 to May 11.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{f7673017-5562-4d37-b2b3-1490971353c7}</id>
+     <text>Valentine's Day is 14th of February.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{9683bd47-1071-4337-82b9-cbead8b662b6}</id>
+     <text>Most people in France go on holiday in July.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{d0053de5-1270-46cb-83b2-656a97e7b3f3}</id>
+     <text>I am going to a party next Friday.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{db36973e-59fc-4ad9-ac82-7066a9c7269f}</id>
+     <text>When does the concert begin?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{fa1dd8f7-08d0-4883-87f2-d0ce44cc676f}</id>
+     <text>We land at 5.30 pm local time.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{229e2379-9afe-4b1c-8174-4c51d79891eb}</id>
+     <text>Easter is a movable feast. Last year Easter Sunday was in first week of April.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{f94d3270-cf6c-486e-9ec1-c0f8fc757151}</id>
+     <text>4th of July is an important date in American history. On this day in 1776 America declared independence from Great Britain. After this it became a national holiday.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{768f6a4a-ef4d-4e7b-9ad9-adef38a3fcca}</id>
+     <text>Christopher Columbus was born on 31 October 1451. He become famous for discovering America. He died in 1506 at the age of 54.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{2a75e701-f615-4af3-9217-795afc8d0193}</id>
+     <text>The meeting is going to be at 1 pm. It is going to last for 1 hour and 30 minutes.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{a85b5b1e-5722-4c4d-97f5-ba203356f3e0}</id>
+     <text>We are going to depart at 6 o'clock. Please arrive at least 15 minutes earlier.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
