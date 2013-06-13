@@ -2398,5 +2398,346 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{e0a2aee8-e11d-4b05-9a3b-ebf094d47482}</id>
+   <title>Clothing</title>
+   <phrases>
+    <phrase>
+     <id>{00cd82f1-c7dc-4261-b4a0-f3bb958265fe}</id>
+     <text>shirt</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8a859aa3-ee9a-4a78-922d-d196ce16ceb8}</id>
+     <text>trousers</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{30428966-1334-4fea-bcdb-4a592956698d}</id>
+     <text>jeans</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1449fc28-ada2-4c76-bbd1-4ee82d512d3d}</id>
+     <text>jumper</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{773efcc7-b491-4a3c-9161-e4200dc810f7}</id>
+     <text>gloves</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4ca286f1-d190-4dc2-b366-5c2d6f7b9510}</id>
+     <text>hat</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{07d33486-9ce3-4032-92e1-094a69385e05}</id>
+     <text>T-shirt</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{774a7142-26b3-4efc-88ac-fb0a3042a8f6}</id>
+     <text>blouse</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{31b05cfe-4819-4ffc-93d8-823dbec24c6b}</id>
+     <text>shorts</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{709c090e-df1e-4d6e-ba64-4fa1bfd336b8}</id>
+     <text>shoes</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{216ad380-0e3b-4efb-8c27-ae861c194954}</id>
+     <text>trainers</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{178cf5da-3eb5-4189-a371-eb3c864d3ec6}</id>
+     <text>sandals</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1ce2163d-77bb-4f44-9e13-239c9a227e90}</id>
+     <text>bikini</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3b84ba49-354b-4d8b-8eb7-e2b69f210f8f}</id>
+     <text>underwear</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{84717073-8207-4c10-a226-fc31f4842093}</id>
+     <text>skirt</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f5879b35-4eca-41f6-9851-4eac71ef22fc}</id>
+     <text>suit</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{42a4e86b-0c69-44e3-823e-74cae0dd1f0f}</id>
+     <text>jacket</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e85bc489-bef0-4cdc-aeab-579d2a4966a5}</id>
+     <text>pyjama</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8242df90-5393-4296-a128-288fd9123193}</id>
+     <text>yellow</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9de01466-8334-4c27-a33b-ecf235904b14}</id>
+     <text>red</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0f9db6cf-ac9e-495f-8c86-1d3617503c1d}</id>
+     <text>green</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{569bde6d-5166-414c-ae4f-338eae72232b}</id>
+     <text>blue</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ec172453-46fe-4e88-90f5-67aaa961aba8}</id>
+     <text>white</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3f39c716-d0d8-4e8e-b79f-34f4b227398f}</id>
+     <text>black</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3a24f03a-6e12-4164-bf49-4768c771bfe2}</id>
+     <text>stripes</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8615220b-d325-49d2-a101-c2a1757649e9}</id>
+     <text>small</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1d0c9113-f6ec-415d-a68b-28a1564b9a69}</id>
+     <text>big</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9f22770a-ee8d-4973-a21b-368ffb4288a3}</id>
+     <text>loose</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e8221ab1-9e13-4c73-8ef4-cd7576358836}</id>
+     <text>short</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5e38b7b2-b7e2-41fa-9dc9-b76f1e928064}</id>
+     <text>long</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6170f45a-4d87-4958-9fb7-81757d95f8f4}</id>
+     <text>pink gloves</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{790b43bb-f63a-4da2-9037-0c1b7380f697}</id>
+     <text>large vest</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{5be9dad4-ee22-4a46-afb3-b44ad0f9f8ba}</id>
+     <text>wear glasses</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{e98908f0-2728-4a79-a831-5d4227bde3df}</id>
+     <text>expensive watch</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{18d390df-61af-4ab9-99ba-fe6ffaad26d0}</id>
+     <text>too narrow</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f9158622-3f4d-4354-b763-f2d73a567887}</id>
+     <text>get dressed</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{36564d95-dc09-4328-8741-e91c3e2f4adc}</id>
+     <text>changing room</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bf855118-fa8b-4092-afe2-89e22a44b541}</id>
+     <text>size 12</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bc84522b-244f-4793-876e-f38252888cad}</id>
+     <text>beautiful earrings</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4c39f52b-ac56-4b3f-af44-3389e03df71a}</id>
+     <text>summer sale</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{60bad8c7-0925-4ceb-be3a-f08a443c4fd7}</id>
+     <text>pair of sleepers</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{a1d6d97c-6b3e-48c4-8b9e-4d86a2278aed}</id>
+     <text>fit someone</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7068dcdd-2097-469c-83ad-9a66def8c3d9}</id>
+     <text>go clothes shopping</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{efc2883c-0545-4a56-ae4f-25b6e9fa06ae}</id>
+     <text>take off</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7e968523-df55-4e2c-b87a-dd56470fcf7a}</id>
+     <text>famous brand</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bba9aac8-7d46-49f3-a894-c3979f2b31da}</id>
+     <text>second-hand clothes</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4d95f00e-19ab-443d-bfa2-0b0ddfa1a9b8}</id>
+     <text>This red dress suits you well.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{754e4fa4-6d95-42eb-8beb-2cfac5208171}</id>
+     <text>It is just a bit too tight.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{882def05-077a-4ee6-9267-91084e4abbe5}</id>
+     <text>What are you going to wear tonight?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{43e67e18-3e78-4162-a598-a4e0b8c85b21}</id>
+     <text>Why don't you try it on?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4bc955a9-6952-436f-8848-3600ebfcf256}</id>
+     <text>You cannot wear trainers with a suit.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{57106c8a-065d-4c82-8d1b-356965b734c0}</id>
+     <text>I like it but I think I need a slightly smaller size.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{0a2052e3-0143-461e-9011-10a5af2ff2f3}</id>
+     <text>It does not fit.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a4551120-2870-44da-9124-3a2967dc31af}</id>
+     <text>Where do you have changing rooms?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e45f0d16-e888-4c0f-8679-a723e88ec31e}</id>
+     <text>I need to buy a new winter jacket.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{cc1d85c9-fa38-48f0-aa78-20583be9f404}</id>
+     <text>Please, take off your shoes.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{28e6e787-ae9d-41d9-b52c-bbf64154e952}</id>
+     <text>Did you wash my white summer dress?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{bf9c214b-197f-4ab1-bcd8-7ff0fae7e4de}</id>
+     <text>You need to wear long sleeve shirt.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{af8bc51f-c740-49dc-94fa-d2fb78c8485a}</id>
+     <text>He is wearing a red T-shirt and black trousers today.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{8888ce66-0fae-416a-b016-aa83f842f3f6}</id>
+     <text>He bought her a gold ring.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e56c8862-4e3c-49ae-9423-57a1a521ea86}</id>
+     <text>She looks very elegant.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a81f4f15-1b82-497a-94a1-fdbeac90dc3f}</id>
+     <text>This mini skirt is a bit too short.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a4f0fee7-038e-46b9-8c83-8c8757390c11}</id>
+     <text>Take a hat and sunglasses. It is very sunny.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{f7404f91-ce9b-4a0f-8fcb-bb0ff8538eb1}</id>
+     <text>She prefers casual clothes. She usually wears blue jeans and a sweater to class.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{270db466-be79-4c4b-b615-4c7be3139c83}</id>
+     <text>Did you see Jim's new coat? It is very fashionable.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{28993b79-dfd1-496c-bf6b-28d23b4b73aa}</id>
+     <text>She is so stylish! She must read all the fashion magazines.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{3fabd9f5-b36b-4113-957c-ac2b3dd50a15}</id>
+     <text>I hate wearing high-heel shoes. They are always so uncomfortable.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
