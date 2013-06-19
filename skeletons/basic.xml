@@ -2739,5 +2739,341 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{0a545fff-8256-4da5-9b20-2c3a4dea5d1c}</id>
+   <title>Entertainment</title>
+   <phrases>
+    <phrase>
+     <id>{427d8e09-01c1-4990-bafe-5ce6deff55e9}</id>
+     <text>film</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f24ce65d-c3f0-407e-a387-cfe014478978}</id>
+     <text>crime</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8aba1ba2-46fa-48f5-8230-3936d511238a}</id>
+     <text>thriller</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1af1e8a5-f8a4-478d-b8f9-4d0cb7f56b42}</id>
+     <text>drama</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{349feb8f-4c0e-4365-aef1-1be4035e5eac}</id>
+     <text>comedy</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8975628f-e49d-427f-b58a-087e8153abf4}</id>
+     <text>theatre</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f30e3ceb-c032-4549-b9e6-e766a4924437}</id>
+     <text>music</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0573361a-ab9a-47f9-9b39-eca1b116848d}</id>
+     <text>rock</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{69dc9b0d-4848-4f53-987b-c7aff70bd0ca}</id>
+     <text>pop</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f443e584-337c-437e-9a76-75e961c8ffae}</id>
+     <text>book</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{311b06b6-8102-4da6-bfa2-549aee014468}</id>
+     <text>novel</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9e252a1b-c527-48d6-a95a-1bc9ce675eed}</id>
+     <text>author</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{bfacf17d-8122-45cb-aa27-d4bacd75b132}</id>
+     <text>director</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ac2b92c7-dd22-4931-b24b-3534ac978336}</id>
+     <text>writer</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e170dc17-d24c-43de-b202-8258917ada18}</id>
+     <text>read</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b621e2d9-5ca3-4400-a9d9-60018bf61426}</id>
+     <text>ballet</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{dbf84dc0-92b0-45c2-a20e-1b014bdb3252}</id>
+     <text>actor</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8d01ffe9-630c-4ac8-ac56-fada9f5e3202}</id>
+     <text>nightclub</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{2f613a60-5036-4304-a64e-4e61933f3ccc}</id>
+     <text>circus</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d00bcf38-abf0-4cca-9cdc-44e027aaf043}</id>
+     <text>singer</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9c9aa673-2851-4840-9ae1-13b01bb02628}</id>
+     <text>composer</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b653b385-22b2-4d15-9f25-c95fa24bb287}</id>
+     <text>cartoon</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{84b4be1f-9f8e-47c0-a8c9-c81e06576a73}</id>
+     <text>heavy metal</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{237cf071-13b8-4521-abd1-3ab12e298c15}</id>
+     <text>listen to music</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{713e0a62-c5df-4858-89d5-8d3d4cc7e09f}</id>
+     <text>go to the cinema</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bfd46f10-08e0-433b-803d-5ea917a28302}</id>
+     <text>movie night</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{8e8b1fed-8aee-4fe9-85ad-60bfab1ab2a0}</id>
+     <text>go clubbing</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{ad71538f-7e64-471e-bdb2-3a393504d176}</id>
+     <text>meet friends</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{51cf771c-1691-49d7-a135-f096e2284d7f}</id>
+     <text>have drinks</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d02099ab-6a17-4811-b5e4-4dc045c0400b}</id>
+     <text>chill out</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d86ef931-ff7a-420f-8a20-d7efc768784f}</id>
+     <text>play video games</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4cdf6ccd-185f-4e9f-a2b6-36e101bad70c}</id>
+     <text>stay at home</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{928a6958-184b-429c-9f57-7407753534cb}</id>
+     <text>film star</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{44a09652-3923-4a2d-8c66-0abca8e93eea}</id>
+     <text>play a role</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{e6407930-3461-43dd-a4dc-ce235d036617}</id>
+     <text>science fiction movie</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4118423f-38d5-4300-9f4c-cf23e420d7e7}</id>
+     <text>attraction park</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f7f6bb7c-2fa1-4ca2-9697-d818679e08f5}</id>
+     <text>play the guitar</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{94319c5d-798e-42eb-987a-88dd1cd92142}</id>
+     <text>animated movie</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{8838e047-6749-443c-8e3b-ebc07b5d364f}</id>
+     <text>action movie</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d133dd10-4448-4853-81fd-57b3b088404a}</id>
+     <text>star in a film</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{fea2b2d2-d084-4446-8dfe-68739f775218}</id>
+     <text>We are going to the cinema tomorrow.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{79416454-e9c9-445d-ae0a-858cf7938bad}</id>
+     <text>Have you seen the latest Harry Potter movie?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{b226b063-4388-44db-bffa-2044c19a31e4}</id>
+     <text>I like classical music.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3ca17d48-65eb-41ad-9dde-61151cd7befe}</id>
+     <text>Argo is a 2012 historical drama thriller film directed by Ben Affleck.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{b9234c78-3726-40ed-98ed-05ea93c9fe75}</id>
+     <text>This movie is based on the novel.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{1aada1d4-f8d4-47ae-9301-0aea890d36b9}</id>
+     <text>Steven Spielberg is a famous director.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{063e8b2f-5be3-4b5f-9d89-da387f4275a2}</id>
+     <text>Let's go out tonight.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{1b5bd79a-c9d0-4833-8949-cd012418ba73}</id>
+     <text>I read three or four books every month.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{46ccb2ef-0d02-499b-b795-0a1c10afe2ac}</id>
+     <text>Shakira is a Colombian pop singer.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e5e66768-a64c-44ce-8ca3-65f58932b6ae}</id>
+     <text>We have seen a magician show last week.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{47301ecc-12b0-4b6e-b4d0-0b728a7fe81b}</id>
+     <text>Nowadays most towns have multiplex cinemas.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{868d446a-b896-4ba4-952c-7be65f996e67}</id>
+     <text>In theatres you can see plays, musicals or pantomimes.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4e7dbcaa-2b19-4721-b169-a9ccbd005257}</id>
+     <text>Many people go to their local pub where they can play darts or pool.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c5fd918a-e8b6-414c-9436-e63a3788f77f}</id>
+     <text>Jennifer Aniston is a Hollywood actress.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{5f03c6eb-e1de-476a-8feb-aeb8a417ca77}</id>
+     <text>At the weekend, younger people often go to a local disco.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{99c8356a-65aa-4155-b14b-87b9c4bd9b17}</id>
+     <text>There will be a concert of folk music at the town square.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{062656a3-e80d-47f4-8591-ad24650aad1e}</id>
+     <text>Do you like going to the theatre?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{26f54c0f-0d3e-4ffc-944c-f11125676812}</id>
+     <text>This play got very good reviews.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{6b9226a1-7b40-41c2-a8e7-57c00f1e9ee7}</id>
+     <text>What row do you like to sit in?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{8963c3a1-ed0c-4808-9dc5-dd40903918da}</id>
+     <text>I will ll try to find good seats for tonight show.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{fb82b0b1-49de-4b40-82d4-3566d18a6b2c}</id>
+     <text>The circus brings the best magicians and clowns.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{d843e00f-f846-41a8-8030-cbc4848195d7}</id>
+     <text>They specialize in making fun of the audience.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{d2795df4-4fe5-4bf4-a265-be2ca10a98d6}</id>
+     <text>I'm exhausted. I'm going to stay at home and watch a movie.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{b784d7ef-b18d-4568-9f71-4cd44fb2e741}</id>
+     <text>This book is about police investigator. I really recommend it if you like crime stories.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{31a71925-8837-4df9-be1c-7d7de8e244e5}</id>
+     <text>Each year Rio de Janeiro hosts the biggest carnival in the world. The tradition dates back to 1823.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{a6e9b7e2-aa81-4607-a234-e105cfcd9ffd}</id>
+     <text>This movie has won three Oscars last year. It is an absolute must see.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
