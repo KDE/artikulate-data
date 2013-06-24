@@ -3418,8 +3418,349 @@
   </unit>
   <unit>
    <id>{3d02d417-b10a-496e-85cd-4c635e7ca324}</id>
-   <title>New Unit</title>
-   <phrases/>
+   <title>At the supermarket</title>
+   <phrases>
+    <phrase>
+     <id>{887e994d-71c8-4599-b549-ff43d49b9312}</id>
+     <text>food</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{553b9e3d-007f-40a3-b4ba-39a8cbf6a444}</id>
+     <text>tomato</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d544dfa7-6d3a-4d8a-ac5a-ea9191b2ca94}</id>
+     <text>cucumber</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{480f7b84-a793-4b39-b09e-63b9cea492fe}</id>
+     <text>potato</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{11050d64-d888-481f-ac2d-49b8ec4e521c}</id>
+     <text>onion</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{51ad2943-430b-4bf8-8bb4-3b7670180b00}</id>
+     <text>garlic</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d643ba3d-f0cf-4aaf-bb7a-d123620f797f}</id>
+     <text>lettuce</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{209a0741-8c93-4cc1-b408-77ea0b89a654}</id>
+     <text>salt</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{2e55b9d9-bc84-46c8-b457-498d6087e806}</id>
+     <text>pepper</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{97a89f5d-40ab-4935-9e67-fcda1583f010}</id>
+     <text>flour</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e9620e31-f1df-444d-9c07-da02a78f5906}</id>
+     <text>egg</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e7b81d85-ca39-4683-b88e-6791b42c892a}</id>
+     <text>meat</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{cb49e0cc-7e6c-4322-8f8b-011ef6f71c25}</id>
+     <text>cheese</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b115e05f-e2d0-43f2-9d26-83f05a00b140}</id>
+     <text>spices</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{29d3280b-0d1c-4aa4-8e63-8d0682ffd286}</id>
+     <text>bread</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{592588eb-1127-45ef-9ba1-2fd11ebb6940}</id>
+     <text>yoghurt</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b79b6dbd-e5b2-4aa8-bfae-41f98babcbb3}</id>
+     <text>cake</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{90d703a7-19ca-4ad7-bde3-fa06935f4b9d}</id>
+     <text>ketchup</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ee4e784a-7470-4fff-99a2-480b6944eecb}</id>
+     <text>mayonnaise</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6da8f62c-d6eb-48ae-919a-c9da2ff4c77d}</id>
+     <text>chocolate</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{964d7c8d-e889-482c-a5e2-b3f16a19c87e}</id>
+     <text>fish</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d4c6b36b-3e24-4d95-978a-cb76890559bd}</id>
+     <text>ice-cream</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{44e2cbae-f167-43f7-97ed-8170fd37eba3}</id>
+     <text>one kilogram of edam cheese</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{73e581be-1866-4bb2-b3d8-a63bde5958cc}</id>
+     <text>125 grams of butter</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{132f567a-0449-4b4b-96b2-32856d468e40}</id>
+     <text>slice of pizza</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{eaf8c3f7-83c4-453b-b318-3ee053f03e59}</id>
+     <text>frozen food section</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{44898c95-748b-47a4-af81-016a7f8e8aa6}</id>
+     <text>loaf of bread</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{8ab772c6-74c6-4ac8-8602-47efb8fd9618}</id>
+     <text>two pounds of olives</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{8ab289d5-00f7-4968-81d9-e003a08820fe}</id>
+     <text>one litre of oil</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{40f65c4e-34d5-4292-8c8a-3ce86e43cf32}</id>
+     <text>grocery shopping</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{5127ea6e-1305-4dfb-a7c2-3181b0785e85}</id>
+     <text>household items</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{fcc31a15-d533-435a-b0d6-8610ec683d5d}</id>
+     <text>shopping cart</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{ab6c2ed3-eb9a-44b0-9abd-09742b85caf7}</id>
+     <text>health and beauty section</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{ef164c2e-590b-481b-9c83-0e458b178638}</id>
+     <text>bag the items</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0c826e85-5f34-4295-8e06-32d7e9da3bb2}</id>
+     <text>baked goods</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0e81efab-b17d-41ae-976e-6c63d68e791f}</id>
+     <text>frozen vegetables</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{add1ed91-5361-445e-9ff8-eb3db22038fa}</id>
+     <text>scan an item</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0b35357e-4bf8-41a8-9bca-721f41f1297b}</id>
+     <text>soft drink</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{5bc90140-6312-415c-bf74-e637e1e969e1}</id>
+     <text>dried fruits</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{95d23c1a-b9a6-4e9f-b0a1-3332230de10f}</id>
+     <text>spring onions</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{01833a12-cc43-4ce8-ada0-629fcd3a91cb}</id>
+     <text>alcoholic drinks</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{8df50f48-a303-4d3b-9f6f-971c2d63a069}</id>
+     <text>salad dressing</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7598bb90-4394-4975-a15d-d4d9cc115aad}</id>
+     <text>jar of jam</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d70bf326-ad57-4a16-a8aa-e343bb76204b}</id>
+     <text>return policy</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{da62182e-9696-4852-a6f1-4686a6a0812d}</id>
+     <text>Are you being served?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3df95096-6abe-4561-af6b-9c3e4c9e15bd}</id>
+     <text>We do not sell alcohol after 10 pm.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{286782c9-305f-4aaf-8d17-a40ea2e3250d}</id>
+     <text>Is this on sale?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{8b8f5c97-30ff-4462-9edc-993591ff04ae}</id>
+     <text>You can go to express checkout if you have less than five items.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{f040aa1d-95df-4777-b0fe-2fc5af92c83e}</id>
+     <text>Do you have a loyalty card?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{b125245b-8ee2-4c23-bad7-6e609e28a92a}</id>
+     <text>It needs to be used by 13th of August 2013.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{0ecde442-84d8-478a-a9bd-efc85f258e84}</id>
+     <text>That is $32.47.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{347d5b1b-12be-4cfc-8d78-ef11431c2435}</id>
+     <text>How much is it?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{094c93df-4092-45ea-8b81-4f6bcb911b11}</id>
+     <text>Could I have a carrier bag, please?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{121162fc-4d4c-440d-b93e-81a402b909c7}</id>
+     <text>The opening hours are 8am-10pm.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{965e6778-6192-4679-8774-fbf171de4fee}</id>
+     <text>When you done with the shopping, go to the cashier.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3a650473-c01b-4b17-9b55-7948c9a39e81}</id>
+     <text>Would you like to pay with cash or credit card?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{697f9e86-ce9e-4c0c-9814-e482104e3ae0}</id>
+     <text>Here is your change and your receipt.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c1e3aaa6-b342-49b0-8f20-aa942ac491f1}</id>
+     <text>Can I have a bottle of whisky?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{08c9959b-5863-4bc4-a07e-b588b2ebcd1b}</id>
+     <text>Pasta is in aisle 6.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{53230591-5879-47f2-9bb3-86d911835d0d}</id>
+     <text>I would like 20 slices of ham, please.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{85adbe97-ba03-4d43-8087-686fc25a2621}</id>
+     <text>Today, more and more companies offer food delivery.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{53fb1972-cc86-49b6-ba46-005483e23cbe}</id>
+     <text>I usually buy organic products.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{48dcc587-2051-465c-a4a5-b2de4ba4fc7b}</id>
+     <text>You should ask one of the shop assistants.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e44dd705-56fd-41ba-ac80-c4e684b89ef1}</id>
+     <text>Please, enter your PIN number.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ac0fbeca-b1c2-406a-9279-811a5156987e}</id>
+     <text>Supermarkets are quite convenient. They offer a much larger variety of products than traditional grocery stores.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{e9153c8b-0e73-45ea-a14a-da85aadf7d8d}</id>
+     <text>Cheeses are in two places. The pre-packaged cheese is in the cheese aisle just next to us. You can also get cheese from the counter at the back of the supermarket.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{0ba380ae-d5ff-4d86-bfa6-e17ad67990df}</id>
+     <text>You have 14 days to return the item. We can replace it or exchange for something else. You can also have a full refund.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{1a4ea148-616a-4c50-b05f-66a72419075e}</id>
+     <text>Good afternoon! There is an offer on the biscuits today. Come and try them for free.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
   </unit>
   <unit>
    <id>{593149f5-8d8c-46ba-a383-63c55632921e}</id>
