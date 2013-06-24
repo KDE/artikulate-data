@@ -3075,5 +3075,361 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{014eff78-2a10-4cbe-92fb-2dc27f35c150}</id>
+   <title>At the doctor's</title>
+   <phrases>
+    <phrase>
+     <id>{978ea2b2-bba3-4d3a-a075-b9b653573170}</id>
+     <text>head</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9c6053f1-44ce-4121-9b9b-e5d96902f35f}</id>
+     <text>eye</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c276be5f-d8b3-4a62-a260-e1ae864a8864}</id>
+     <text>mouth</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{50937b19-99a7-465f-ae46-01f32e3a9fa4}</id>
+     <text>nose</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6c71d1cd-df66-4d12-9107-3f7a8655407b}</id>
+     <text>ear</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3341f1a2-0248-4786-af3c-43151c5e2995}</id>
+     <text>chin</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a17a067d-57c7-4f7b-b777-7a52ec2a28a3}</id>
+     <text>neck</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{936cc123-0231-4973-8221-1ce02a00131b}</id>
+     <text>arm</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{228bb20f-2d77-4350-bbb6-4456c9345306}</id>
+     <text>hand</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b333684c-90fc-4915-a44c-a2d48e54a28a}</id>
+     <text>finger</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{421bfeb0-4b74-4fc7-a956-b61ef0bd54e6}</id>
+     <text>stomach</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5e570f2a-f0d5-4103-ba9b-0346b8d8f4b2}</id>
+     <text>thigh</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4fb53603-4ffb-4716-8a71-8aeda31258a5}</id>
+     <text>chest</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8683e6c5-b482-4a6b-b533-c7862c0b6b2f}</id>
+     <text>shoulder</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a29e6480-b689-43ac-b9bd-1589478476bc}</id>
+     <text>leg</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b307f466-e262-45a6-9b6b-a7bdd79fa5d7}</id>
+     <text>knee</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f9c0d813-e3cd-48c3-938a-8e6b6299353c}</id>
+     <text>ankle</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{83389629-c64a-4be6-950f-da89ba7d543a}</id>
+     <text>foot</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6f9b3358-e758-4878-b308-2d60723d8e4e}</id>
+     <text>toe</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{369ec525-984b-44b2-bad9-f7a32d8c5399}</id>
+     <text>palm</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{73c9762b-4ded-4c16-96b0-4348a212157b}</id>
+     <text>elbow</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f28131a9-a47d-478e-83a4-fc81ab22f5f1}</id>
+     <text>have a fever</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{13fe6af4-66a2-4f2a-a33a-fd240d14c7b4}</id>
+     <text>cut a finger</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f1deaf55-7158-4dc5-87e0-2796476c107a}</id>
+     <text>get a cold</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{480eaaa7-8592-4a83-9579-4277bf21e196}</id>
+     <text>break an arm</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7567aeea-cbb1-4d94-bd59-f799cd55ed99}</id>
+     <text>be in pain</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{5a0b73b0-d6ad-4019-bda5-0aa48c7ec8c7}</id>
+     <text>get an injection</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4b1ad981-4ee7-4fd7-a50a-052a78d2358c}</id>
+     <text>blood pressure</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d5dc99e7-a458-4698-b947-bbee0b13a5bd}</id>
+     <text>have a soar knee</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9fbe9bea-6dae-4a0c-b8a5-994c3c318782}</id>
+     <text>be sick</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{25f392c9-fa60-41ca-8e59-cfb72d759b30}</id>
+     <text>have a stomachache</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{641a29aa-c450-4267-bd38-4ef7a070f16e}</id>
+     <text>x-ray scan</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{74c66cf2-4b6c-41b8-b9e6-f87d21ed3c0d}</id>
+     <text>cut down on drinking</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d3389bb8-8825-4daf-bc36-258be516476d}</id>
+     <text>take pills</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{33d6ed14-32c4-4b90-ba03-98e580847cf0}</id>
+     <text>have a black eye</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{e5de73c1-78b5-4079-9f64-f1c451d0c288}</id>
+     <text>sick note</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{c15b2d06-1a3f-4137-9993-25334d2b79e2}</id>
+     <text>be congested</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{28dbc507-6f11-46fb-b891-9b8ab2e26c0d}</id>
+     <text>pull a muscle</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{04dd9571-8b9d-48d8-8eaf-47330b972473}</id>
+     <text>have diarrhoea</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{5b97090f-f005-48cb-8fb0-dc893085a60b}</id>
+     <text>have little energy</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{34df363f-3c78-4b3b-be35-738b0f96d48c}</id>
+     <text>insulin injection</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{646c91b5-94ef-4c29-a592-c621ba18f5d0}</id>
+     <text>I have a appointment with a nurse tomorrow.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c35f8724-1f65-4ced-9741-9cdb75a4999b}</id>
+     <text>Do you have medical insurance?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c23f86d9-d69e-499c-a7a6-0bf2a71d0687}</id>
+     <text>What are your symptoms?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{33c96725-15cd-4fb7-beb8-9b15334efeff}</id>
+     <text>I have got a pain in my back.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{acc3b824-3234-460d-98bd-d4713a292373}</id>
+     <text>It is prescription for the chemist.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{6c22be49-47a7-4d6b-a0e1-cef8be5bec90}</id>
+     <text>I am having difficulty with breathing.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{128eb6bc-f971-4cb0-bfe0-d4e6872189d5}</id>
+     <text>Do you have any allergies?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{5a1a34fa-f19e-4b82-ba55-32b99038c292}</id>
+     <text>You need to loose some weight.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{7e30c1e7-c7b6-4321-b5c5-24ec5d71d0bb}</id>
+     <text>Take three of these pills a day.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{69dbc8cf-1dd6-4835-a3c7-3099c6929b65}</id>
+     <text>A nurse needs to take your blood sample.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{49e587dd-a8c2-4155-ba30-a63cd85c6391}</id>
+     <text>Are you on any sort of medication?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3e297d69-18d3-47ee-a676-75608f5e5f0e}</id>
+     <text>I am going to prescribe you some strong antibiotics.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{88ea6e83-482f-4861-99d1-e22606668568}</id>
+     <text>My temperature is a little bit high.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{11871be1-c4ba-4d6d-9302-d693b89c86ee}</id>
+     <text>Does it hurt when I press here?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c5987882-f550-43cd-8487-d58f0c1c3e97}</id>
+     <text>Open your moth, please.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{d5f91e4c-ef33-43c8-bda4-e614ef7810c1}</id>
+     <text>Do you have any doctors who speak English?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{fd391f4e-9c52-4c2a-9284-a5fe42b4527c}</id>
+     <text>I am diabetic.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{1d85facc-2ddf-41e9-b6c6-668834000f1f}</id>
+     <text>We are going to put a plaster on you knee.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{0059416d-8c54-45dc-b507-47130a0331f7}</id>
+     <text>You should give up smoking.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ebf60531-1caf-4e00-8b2f-a07eff8e868e}</id>
+     <text>There is a possibility you might be pregnant.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a80f87ab-be88-4a07-9bc8-84d2209f3139}</id>
+     <text>I do not fell very well. I think I need to see a doctor.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{be62ccf5-b7e8-4758-90bd-8976d5a2f9c3}</id>
+     <text>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{adb8fa13-592c-4637-80c1-1051254655f9}</id>
+     <text>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{a7f8f39f-40db-4d65-af85-71d8365846d8}</id>
+     <text>There are several patients in the lobby waiting for medical exams. Hopefully the doctor will be able to see you in about an hour.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{eae50b0c-2924-47e1-a9e1-8e4d3653c0b3}</id>
+     <text>After asking a few questions, the doctor's diagnosis was that I had a bacterial infection. She wrote me out a prescription.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{dd4539d6-e3fd-4ba3-baf3-1847f213084b}</id>
+     <text>My grandmother suggested that I need to eat chicken soup. I will try this tomorrow and if it does not help I will see a specialist.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
+  <unit>
+   <id>{3d02d417-b10a-496e-85cd-4c635e7ca324}</id>
+   <title>New Unit</title>
+   <phrases/>
+  </unit>
+  <unit>
+   <id>{593149f5-8d8c-46ba-a383-63c55632921e}</id>
+   <title>New Unit</title>
+   <phrases/>
+  </unit>
+  <unit>
+   <id>{41c77bb6-d38e-4d67-ad7a-d8f730d94d4e}</id>
+   <title>New Unit</title>
+   <phrases/>
+  </unit>
  </units>
 </skeleton>
