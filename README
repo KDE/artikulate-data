@@ -15,15 +15,15 @@ Unported" license. The license text can be found in the file COPYING.COURSES.
 
 Directory Structure of "course":
 -------------
-The directory "course" has the following structure (and scripts depend on this
+The directory "courses" has the following structure (and scripts depend on this
 structure to be correct!):
-* "course contains a folder for each course (usually this should be associated
+* "courses" contains a folder for each course (usually this should be associated
   to a skeleton file)
 * each of these course folders contains a subfolder for each language in that
   the course exists
 
 Example:
-course
+courses
  + basic
    + de
      + de.xml
@@ -32,7 +32,7 @@ course
      + fr.xml
       + < several sound files >
 
-Directory Structure of "skeleton":
+Directory Structure of "skeletons":
 -------------
 The directory contains course skeleton files without any further subfolders.
 
