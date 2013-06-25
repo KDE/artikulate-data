@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <course>
  <id>fr</id>
+ <foreignId>artikulate-basic</foreignId>
  <title>ArtiKulate Français</title>
  <description>Course française.</description>
  <language>fr</language>
