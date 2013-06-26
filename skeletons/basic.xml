@@ -3356,7 +3356,7 @@
     </phrase>
     <phrase>
      <id>{c5987882-f550-43cd-8487-d58f0c1c3e97}</id>
-     <text>Open your moth, please.</text>
+     <text>Open your mouth, please.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -4184,6 +4184,432 @@
     <phrase>
      <id>{ada3cd95-5264-4d8a-9434-670c9af9b177}</id>
      <text>We are in a bit of a hurry. So, can you get us the bill please. Also, as we am running short on cash, I would like to make the payment using my Credit Card. I hope that is acceptable here. If not, then can you please give me the address of a nearby ATM counter.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
+  <unit>
+   <id>{2568ad3b-910f-4d12-89fd-2f8238da1419}</id>
+   <title>At a Bank</title>
+   <phrases>
+    <phrase>
+     <id>{a5e681b7-dc07-48b5-8662-2416d4fac4b6}</id>
+     <text>money</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{79a199f5-878c-4ae4-b548-566862785616}</id>
+     <text>cash</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{251e6077-72fa-4fd2-a93d-281ddf696bf0}</id>
+     <text>cheque</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b3a9ba1d-ee1f-4511-9628-5df53758a9ac}</id>
+     <text>bank</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f63b1515-e14d-4634-95ce-f273c1eff345}</id>
+     <text>account</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7ede60ae-baa2-4b16-98c2-f467df526ab7}</id>
+     <text>deposit</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{415b158e-5812-48e8-b8b4-716da9c9a4a1}</id>
+     <text>withdraw</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{90e4fe27-4dbd-4aff-89a3-ad12b31eb6b9}</id>
+     <text>debit</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e6fbc4e8-9e87-463d-817a-a511dba7d403}</id>
+     <text>credit</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{874b259b-0be9-4180-9a98-81681b5387f8}</id>
+     <text>savings</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ecb7391a-bc46-4f19-9619-98baf561a3e9}</id>
+     <text>current</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b3a26b4f-7219-4999-9891-56b992431af6}</id>
+     <text>recurring</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c4c20156-4482-4cea-943b-2aaeab5e7efe}</id>
+     <text>interest</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{bba23296-7c9f-4064-902e-579c66ea7a19}</id>
+     <text>percentage</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{2fa731b5-f8ff-4161-b42e-db1d5665070b}</id>
+     <text>loan</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{2b0bea63-f249-4d3d-8073-69cbd0728b04}</id>
+     <text>amount</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{73f7d9ad-d55f-4a32-8e2d-b8c84c111953}</id>
+     <text>transfer</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{230a55ae-412c-441d-b34f-ccca0061c325}</id>
+     <text>secure</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{2b0a0c99-d54c-4aba-a67c-f3a9c429a246}</id>
+     <text>manager</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{76dac0af-f540-44bd-963e-7e315db564f5}</id>
+     <text>cashier</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b9228a20-08a9-4053-beb3-153025e3c24d}</id>
+     <text>deduction</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3d3cffde-84bd-4e97-bf3b-0cc7b611860f}</id>
+     <text>transaction</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8981f543-e007-4690-83cd-99e035d217f7}</id>
+     <text>term</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c72756ea-8bea-4734-8d40-8e35c969e4ca}</id>
+     <text>scheme</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8a60a601-606a-48cb-8c2f-0114aeeba0f9}</id>
+     <text>annum</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0ddc147b-ae79-42f9-8c6d-ea4d0da9cb3b}</id>
+     <text>mortgage</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{882bb7bf-1890-495c-ab60-e183e293b4dd}</id>
+     <text>form</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ccece622-a24e-4bce-9bac-31534ce75823}</id>
+     <text>charge</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4908658d-65af-4077-bdf5-1bc69b9b8604}</id>
+     <text>capital</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{96550de0-612c-4087-a2bd-b48f7c4cfdce}</id>
+     <text>corporate</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0da09af5-e4bd-4723-b913-d0e39eee124b}</id>
+     <text>business</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4a6e8dd4-5917-4dee-af85-73af41e315d8}</id>
+     <text>finance</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{661057a4-a95c-4545-953b-a7b43aa1d6dd}</id>
+     <text>locker</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c3d8cf0a-6e4e-4a3e-8819-76743a7d1b0c}</id>
+     <text>currency</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e621db05-f183-4d1d-ac34-a751e2403c1a}</id>
+     <text>rupee</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c5362768-b5b2-4973-af7c-f1565747a1ff}</id>
+     <text>dollar</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d6b1d2c4-c9c0-409b-a65a-97ad78dd85dd}</id>
+     <text>euro</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{70050825-3a8f-46a2-ada0-321bbc690eb1}</id>
+     <text>pound</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9c51053b-3a74-4cf7-8244-053b048be61c}</id>
+     <text>demand draft</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{6807a68c-3ba0-49f7-a6cf-9253f99cee26}</id>
+     <text>pay slip</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0ae32780-ed28-45b4-894f-17602b646444}</id>
+     <text>income tax</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{3c366ac6-2df3-4878-b1a4-ee47bdf90b32}</id>
+     <text>fund transfer</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{5322849b-4cfa-428c-92bd-23aedc6ff3d1}</id>
+     <text>bank statement</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9f098f51-d2f8-4d80-ac14-107403feb67c}</id>
+     <text>real time gross settlement</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{da202901-4e27-4bb2-899d-1dc3e218c3d8}</id>
+     <text>monthly income certificate</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{11dfa23b-0662-480e-9eb0-0659cffa7d06}</id>
+     <text>housing loan</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7f052629-2b5e-448c-b139-d2024f2f91fa}</id>
+     <text>personal loan</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d41df197-45c5-4370-8c07-74ee905510e0}</id>
+     <text>cash credit loan</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{724d5b9b-fe0e-4c9f-ad88-7dba798780de}</id>
+     <text>banker's cheque</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d95f1ffe-3cf2-4f91-a7fb-a86014e8525f}</id>
+     <text>bank draft</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{60a476a6-b7cf-40cf-bfba-d22da61bd185}</id>
+     <text>gift cheque</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b1ad6bbd-51e8-4bd3-8286-31b9683684af}</id>
+     <text>collateral security</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b63835ec-9739-44cf-a380-1ec0c066d900}</id>
+     <text>internet banking</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{63911e62-ddf9-4aa4-a8d3-24db384c0826}</id>
+     <text>ATM counter</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{fda10976-fbe7-418a-be1d-595e5bd6814c}</id>
+     <text>Master card</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{2323a03a-0aae-4fcb-932a-9454e421926a}</id>
+     <text>VISA debit card</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{1b0c0858-b895-4d38-b0c6-96f10cd4ef8a}</id>
+     <text>account payee</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4dc5fb82-363e-4d30-8f83-f096da50a02b}</id>
+     <text>fixed deposit</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d171e2bc-bbb8-44c9-8529-3eb03a5c01cc}</id>
+     <text>clearing house</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{2025236d-f4c1-41ad-acf3-4157f928036c}</id>
+     <text>I want to open an account.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{451473d0-40d4-43f1-a3e5-424d70163eb3}</id>
+     <text>Can you please help me with opening a savings account?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{8ad29dfc-dc40-45dc-8d3f-efd4cf3fabba}</id>
+     <text>I would like to update my passbook.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a48db0eb-bd6c-40c6-a1b4-72d9d913d4cc}</id>
+     <text>I would like to open a joint account with my wife.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{eb836c24-3b03-4649-a7bf-e60f8ee40c4f}</id>
+     <text>Please sign here.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{eea76c1b-3733-4142-92de-4f32f5fc8177}</id>
+     <text>How many specimen signatures do you need?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{95c3f7ad-07ba-48c6-bacf-ca14061551e6}</id>
+     <text>How much do I have to deposit to open a current account?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{cd4d149b-866e-4bd8-b7d0-76a06cef66a1}</id>
+     <text>I want a cheque book.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ecb4ce53-45da-4c8b-a076-d2867b3fe62f}</id>
+     <text>I want to encash this cheque.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{cc8de27a-e399-4377-867c-5de052abc222}</id>
+     <text>Are you a customer of this bank?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{513aaba4-e4ce-4d99-80d0-16ac24869b4b}</id>
+     <text>Would you like to deposit the cheque for clearance?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3c4e430f-cf97-4416-89c5-ca9f23777882}</id>
+     <text>I need the money urgently.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{cde12205-3f37-4859-ba2a-0f8b5b317332}</id>
+     <text>Will they give me the money today?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{6dd45b9b-6e71-47a3-a9b9-7618973cf786}</id>
+     <text>It will take about two days, since it is a local cheque.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3877cfda-28ed-4ecf-91c8-ac3c01624cd6}</id>
+     <text>Which way is counter number 7?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{58937831-5c5f-4653-88e9-9885cfde49b7}</id>
+     <text>I would like to meet the bank manager immediately.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{eb9d7064-ed30-4c0b-998d-aed4b77c24f2}</id>
+     <text>Please sign on the back of the cheque.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{350c36d8-5647-4d78-9eaf-6854e61351f2}</id>
+     <text>I need thousand rupees notes only.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{591bb58d-04f3-420d-a83d-62f2ad2dfb6f}</id>
+     <text>I want to deposit $300.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4fa49978-d3d9-4ba1-8350-bfbfa22d2ab5}</id>
+     <text>Please fill out this application.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c5edb42d-d187-4f3d-b1f5-a5255a8f825b}</id>
+     <text>It is advisable that you open both a checking account as well as a savings account. To open these accounts, you will need to make a deposit of at least $50.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{89851a94-8aa6-4f18-8579-df00c7baab7f}</id>
+     <text>If you would like to order cheques, you can do that right away. All you need to do is fill out this application. Give it about five to seven business days, and you should receive them in the mail.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{e8349074-1a2b-4d49-913b-bd30a5013809}</id>
+     <text>Hi, I need some help. I wrote a cheque of $100 which bounced. I am quite sure that there is sufficient money in my account. My account number is 30773933648. Can you please look into it?</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{bb305347-44a3-4759-a8fc-13a19bc2e79c}</id>
+     <text>I need to file a complaint. Yesterday while I was making an online payment using my VISA debit card, I lost my internet connection right at the end of the transaction. As a result, my transaction failed but strangely enough, the exact amount of money got debited from my account.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{a1172857-8c30-4276-a0ab-8dbe187e8af7}</id>
+     <text>Hello. I’d like, some information on the telephone banking services offered by you. Can you tell me how the telephone banking services work? My account number is 855678900089548 at the MG Road Branch.</text>
      <type>paragraph</type>
     </phrase>
    </phrases>

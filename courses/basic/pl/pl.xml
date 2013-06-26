@@ -7458,18 +7458,6 @@
    </phrases>
   </unit>
   <unit>
-   <id>{5061a165-7cb6-43bc-b1c8-20d7fde7e1b5}</id>
-   <foreignId>{593149f5-8d8c-46ba-a383-63c55632921e}</foreignId>
-   <title>New Unit</title>
-   <phrases/>
-  </unit>
-  <unit>
-   <id>{8ed0dac5-ec9a-4758-be4d-7e2920d68126}</id>
-   <foreignId>{41c77bb6-d38e-4d67-ad7a-d8f730d94d4e}</foreignId>
-   <title>New Unit</title>
-   <phrases/>
-  </unit>
-  <unit>
    <id>{193a7c24-9cbe-4397-8e62-13be23b08ecc}</id>
    <foreignId>{e68bdc28-8b9c-4387-9825-047ed77e7258}</foreignId>
    <title>In a Restaurant</title>
