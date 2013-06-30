@@ -4614,5 +4614,456 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{a6d118cb-bca6-4206-907c-d66401fbf03a}</id>
+   <title>In a Zoo</title>
+   <phrases>
+    <phrase>
+     <id>{5440de29-12a3-47c5-85aa-010c88e143eb}</id>
+     <text>zoo</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a9091248-708a-409e-83a6-865e1e3e42e6}</id>
+     <text>fence</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1899b334-78d1-4634-a07f-cee0b11ab6ec}</id>
+     <text>animals</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f0ada064-70aa-439e-be56-8bd74f59ed42}</id>
+     <text>mammal</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5c318918-758a-41e4-b83d-acc8795ba0dd}</id>
+     <text>reptile</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8eb44b2e-cd47-4468-bf97-534ae80b9d28}</id>
+     <text>amphibian</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f1e238dd-af5a-4f3b-b4e3-4a2f572e25bf}</id>
+     <text>bird</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{46d3d589-737a-4091-86eb-8ceb505e4333}</id>
+     <text>primate</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ba44856e-72b0-44ba-9461-b8a0dd251cd0}</id>
+     <text>feline</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c17b885a-037b-4532-8e79-39dc1333611d}</id>
+     <text>ungulate</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{17aff141-3fb9-4af8-be9e-ea9f227f6d17}</id>
+     <text>marsupial</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{dbb19f88-a2c8-4c1c-87b5-b5878989fe56}</id>
+     <text>monkey</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7a550622-420c-4433-868d-2d0244ab6f96}</id>
+     <text>chimpanzee</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{bca22879-8cf7-41a5-9e4e-6d1ec44bc0ba}</id>
+     <text>gorilla</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6606fcd3-2921-47c8-99ba-99ecca1e6398}</id>
+     <text>lion</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b2d9e06c-ba1f-4519-af11-b76fb1bcc30c}</id>
+     <text>tiger</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{94b277bc-52d3-4fcf-bd3c-9a4630a6699f}</id>
+     <text>fox</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ef72cb0c-26f0-4a73-b508-ba079d3b6c7d}</id>
+     <text>wolf</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1edc77eb-8d9f-4801-bda0-6cfdaa6ab2ee}</id>
+     <text>jaguar</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9d5f506b-2ae7-43c3-ad94-f7876e0ac3c4}</id>
+     <text>hyena</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{57ff2bf4-b62a-4735-97e0-a58cedcb85ad}</id>
+     <text>margay</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7e7f3cc8-12a7-44ba-8aca-54a0b1d33d8b}</id>
+     <text>coyote</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3d5c2d35-df8c-4830-b4d5-c873061a1541}</id>
+     <text>elephant</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7d4749a0-ffee-4526-ae04-89c6b223449f}</id>
+     <text>giraffe</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{83a75278-787c-4df6-962b-246653d47b0b}</id>
+     <text>zebra</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e74a4276-6e9c-4cdd-8fe4-5063a1fbe887}</id>
+     <text>kangaroo</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e89d318a-0983-4d9c-bb0f-eed15da5bebb}</id>
+     <text>koala</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ec7191d0-0ded-427b-8538-5ae20f6d40c4}</id>
+     <text>porcupine</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{16a01f56-8949-49e2-9296-de010b4c03f0}</id>
+     <text>hippopotamus</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d7c045f8-17c1-47d2-8280-e187a52a28a9}</id>
+     <text>rhinoceros</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{94cdb782-8ed8-436c-8209-8b6d6b4ceb69}</id>
+     <text>reindeer</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d996ce62-b258-4dca-81b7-810d8d9a77f3}</id>
+     <text>skunk</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0e0bfff4-03d7-4cb9-8e75-df01189eef74}</id>
+     <text>warthog</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{46396123-9c24-4080-ad95-90f9f9dd608f}</id>
+     <text>crocodile</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{17aaadf8-7194-4f6a-b4d7-8d299e27d4f2}</id>
+     <text>alligator</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{061fdeba-c487-4edd-840e-3e94a1b03ca2}</id>
+     <text>snake</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ce59158f-43cb-45b1-b38a-65f293d667dd}</id>
+     <text>anaconda</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{11a3a16c-3169-4b7c-90c8-846d196091d0}</id>
+     <text>python</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c0df2d5a-f39b-4f1a-bada-1ab6e0bc2744}</id>
+     <text>tortoise</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{74ddae14-4ccc-40ca-a4ab-ff9f77cdfe1d}</id>
+     <text>peacock</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{567271b9-6504-4585-8388-409ed3dea347}</id>
+     <text>flamingo</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4c418afe-c158-42ab-9c5e-62778311f72d}</id>
+     <text>mongoose lemur</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{8c8f87ab-b4fc-4a95-ae8e-4cdd3c758d7c}</id>
+     <text>sumatran orangutan</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bc446ebf-ac00-4b1a-9c40-e994f1a97368}</id>
+     <text>coquerel's sifaka</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{284ec187-1e1a-4f31-9c84-3b830d1fdebf}</id>
+     <text>white-handed gibbon</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{cde0868a-b86a-4a67-9fa7-bfdf65170b8f}</id>
+     <text>pygmy marmoset</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{93c0498e-d8fc-45cf-94fd-fa437cdc847c}</id>
+     <text>clouded leopard</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{fd0698d1-147e-461a-a6a7-067851b6278d}</id>
+     <text>african cheetah</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{a503580f-2351-41b7-b494-f11ace452324}</id>
+     <text>arabian oryx</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{c8e7838a-8623-4695-84f2-170ae941ae45}</id>
+     <text>red panda</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{133bc978-f056-4504-a4cb-0c16bdba958a}</id>
+     <text>sloth bear</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{563bfa13-3217-4460-87a7-53562e5fac72}</id>
+     <text>mule deer</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bd0d8ee1-8b55-4e48-bf5b-39e185c6d051}</id>
+     <text>thomson's gazelle</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{56ce580d-7dd8-4143-a8b1-48e0d478ed49}</id>
+     <text>north american racoon</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b27ca54a-1723-49e1-95c0-1a0650531b4f}</id>
+     <text>tree pangolin</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4d79a717-5ad4-4246-86a2-8ad1dfd5741c}</id>
+     <text>blue-banded iguana</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bce6c33f-f1d4-4272-83af-d1000bf0bd17}</id>
+     <text>komodo dragon</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f00cb6f1-d6be-4c08-ae6e-06ca62e7197d}</id>
+     <text>tree monitor</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{12d78977-4d6c-4fdc-a2f2-4fdfd96a5872}</id>
+     <text>gila lizard</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0459fd2f-d11c-495e-9e83-5f5f9129e5c4}</id>
+     <text>king cobra</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b91cc464-8a4e-4e5b-ad9c-0454406ada3a}</id>
+     <text>pit viper</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4f54bb76-5890-4b99-8f5b-c38b1d99ff1d}</id>
+     <text>leaf tailed gecko</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b767cf45-6ab3-4a98-a725-91229490f171}</id>
+     <text>pond turtle</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9089239f-bf3b-4cc0-918f-b0ad555d3e5c}</id>
+     <text>california tiger salamander</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{e7398bab-b75e-4b36-97a3-aa050b679574}</id>
+     <text>poison dart frog</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d8b77bc9-7ba5-4756-9ca3-370396d18cc1}</id>
+     <text>Do not go near the fence, please.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4e1dd580-c2e4-4d09-8a02-a1ae18e36538}</id>
+     <text>Look, there is a cute white tiger cub.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{313d8cc9-18bd-454a-9c7b-485396e2ce00}</id>
+     <text>During winter, you will find lots of migratory birds by this lake.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{120b269e-96a5-405d-9abc-030cf52846d0}</id>
+     <text>Do you know where the reptile park is?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ca09974e-dd61-4ec5-9e86-8ac3b21ab892}</id>
+     <text>You will find the information kiosk right beside the entrance gate.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{01188091-f643-43df-a966-8ec857fcb7c1}</id>
+     <text>Do not forget to get the zoo map at the information kiosk.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{18df4512-d562-4645-bd1f-8a710e33094d}</id>
+     <text>Please do not feed or tease any wild animals of the zoo.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{5b4b8678-62df-4246-96c7-7bcb87996618}</id>
+     <text>Polythene bags, plastic bottles and food items are not allowed inside the zoo premises.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{73a23af6-172a-43d6-8bc9-7894696172ff}</id>
+     <text>Do not try to enter any animal enclosure.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c23c7dac-b32c-413b-8794-f7db0f13e37c}</id>
+     <text>You are not allowed to carry any firearms or sharp objects inside the zoo.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3531b2a6-e1f5-4262-8a2b-7c370da8730d}</id>
+     <text>Spoonbill, an endangered species is regularly being bred here.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ded1f582-3b89-4ece-ab3a-08f02c55a45f}</id>
+     <text>The word 'zoo' is short for 'zoological park' or 'zoological garden'.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a44eec79-84e4-49f6-90ea-bdd31e7d9863}</id>
+     <text>You shall be fined if you are caught littering the zoo premises.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{18b64ce8-cd52-4501-99b6-dc4b0fc2c682}</id>
+     <text>Lions are known to sleep for 18-20 hours a day.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{2378e330-dd07-4ac8-ae84-1ab0d2d9fa20}</id>
+     <text>The zoo remains open for visitors from nine in the morning to five in the evening.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{39530feb-1de4-42d5-9f19-d7316f03dc84}</id>
+     <text>Bisons are the heaviest land animals in North America.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{579fe786-2e19-4782-be3b-83fd3b7def29}</id>
+     <text>Wheelchairs are available at the entrance at no charge on a first-come, first-served basis.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{9c981323-3399-4e88-864b-ecf7220e3523}</id>
+     <text>The Zoo is equipped with disabled-friendly restrooms.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{abb346cd-a02a-42ee-856d-24a70afaaedb}</id>
+     <text>The Beluga, or white whale, is one of the smallest species of whales.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{7e59d165-399c-430a-8d1f-c7a1a5d6dcc3}</id>
+     <text>Despite looking like a cross between a pig, an elephant and a panda, these tapirs are closely related to rhinos and horses. The tapir’s trunk is a powerful sense organ that is integral to its search for food. It serves a dual purpose as hands to guide food into the mouth and to probe unfamiliar objects.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{09026d53-0ac3-425e-a7c9-2516e7969de9}</id>
+     <text>This is the world's best rainforest zoo having more than 2,800 animals representing over 300 species of mammals, birds and reptiles. Here the animals roam freely in open and naturalistic habitats and are on well-balanced diets ensuring their best health and optimum weight.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{333e14fa-1ce0-489f-a13b-22e9d1022419}</id>
+     <text>The Zoo remains closed to the visitors on every Thursday except if it is a national holiday. In that case, it remains open to the visitors on that day and the weekly closure is observed on the next available working day.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{50bc2639-dad6-4872-984e-13cf0a4091e3}</id>
+     <text>These American alligators once faced extinction. The United States Fish and Wildlife Service placed them on the endangered species list in 1967. Thanks to the legal protection, they were taken off the list just 20 years later.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{6c7d16b8-5cbd-4bad-9cfd-8a88ea4d97c3}</id>
+     <text>About 90% of the park are paved pathways which are accessible by wheelchair. There are also ramps and allocated viewing areas for disabled guests to view various exhibits and shows at the zoo.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
