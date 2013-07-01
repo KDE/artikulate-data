@@ -5531,5 +5531,461 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{734a054a-6bbe-4a68-8492-60e760a18887}</id>
+   <title>During an Emergency</title>
+   <phrases>
+    <phrase>
+     <id>{e48e1bf5-7ec6-49d9-baf7-99ad9f09c21b}</id>
+     <text>help</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{12d223e8-0b66-419b-ad70-79063bcfcc66}</id>
+     <text>police</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{75a3aefd-c990-4992-946e-3865eb3ec84b}</id>
+     <text>hospital</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{20eea2fd-814a-4498-824b-ba994c3abc54}</id>
+     <text>ambulance</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{46e8939c-b755-408d-8aa1-9239bd7670d7}</id>
+     <text>doctor</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3f63355f-1572-4ac6-b8c8-794658ebe68d}</id>
+     <text>injury</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0b5d266b-ddf5-435d-a1ed-538abaa89a56}</id>
+     <text>fire</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f4de2be2-be6c-4e65-8592-54a728c12b88}</id>
+     <text>disaster</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3d6274d7-1198-43b5-a120-0375b004e70a}</id>
+     <text>calamity</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{21488ee7-0e5f-433b-aaee-20781c16b261}</id>
+     <text>death</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{21328797-6ae7-4ba5-b5fc-c95f08a4ead0}</id>
+     <text>murder</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7fb1f4fa-e5fb-4e26-b798-b96374403f8a}</id>
+     <text>kidnap</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a8431712-2a8e-4fc3-b27b-92ab990ac504}</id>
+     <text>hijack</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{eb9e30f9-d2c4-4e9d-b045-f11b50755d3c}</id>
+     <text>hurry</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{771a05aa-0f96-45c0-a585-62e99917a5be}</id>
+     <text>report</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c7915bd6-c704-45fa-ba51-a2864c0d6201}</id>
+     <text>theft</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{42ca71b9-474c-4ed4-b56a-d80c3d487dee}</id>
+     <text>robbery</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{2f06ca25-aa20-472f-aa23-0aa4efe7e14b}</id>
+     <text>burglary</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{36111d35-3340-4198-aa03-8956b1264426}</id>
+     <text>escape</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{65f5cc14-acb5-4e79-a5c7-c311b9b9a53a}</id>
+     <text>homicide</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{eca7f2a3-d5e4-4b22-89d6-09e7f0a87396}</id>
+     <text>flood</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{986a988b-33be-49cb-9d93-7137b911bc07}</id>
+     <text>cyclone</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a8eb6700-ebb7-4ee7-9085-9ff08c76531a}</id>
+     <text>tornado</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6da2c27c-ba8e-4908-af75-65019934e873}</id>
+     <text>hurricane</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6b10b667-9c2d-42e7-9cf1-4046c157d6b7}</id>
+     <text>tsunami</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9f1daa80-54e0-4987-8237-79e89d4673df}</id>
+     <text>earthquake</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9d856de8-aca7-4d1a-87fd-c519ec500df3}</id>
+     <text>landslide</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{722c310d-8745-4a3b-b512-eb71caf03ef1}</id>
+     <text>attack</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{798d13c9-7bad-45ed-ae66-4dd4fce3bdb1}</id>
+     <text>safety</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0219b2c1-b5ba-433a-84a0-132b37e158e3}</id>
+     <text>security</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{94e5496a-4ce0-4ed7-b7f8-c2000cfdd0e7}</id>
+     <text>evacuate</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8a00817c-1764-42dc-ae40-982d931da5ce}</id>
+     <text>investigation</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c1890562-a513-477c-9538-edb7cfdb1d9d}</id>
+     <text>intervention</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5ff94165-e434-46a5-9e31-06a908aa91d9}</id>
+     <text>prevention</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{511fa07c-d5c9-47eb-9919-3cf86c2e8b86}</id>
+     <text>jurisdiction</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a8e6e7f0-7998-4f31-a748-0e9c58381dc8}</id>
+     <text>victim</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{34be17a8-5263-4110-99d3-2b9cd62c724e}</id>
+     <text>perpetrator</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a49b5eb5-99aa-4f42-a8f2-2e8cd6254784}</id>
+     <text>danger</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{df1d6c7a-4404-479a-a1bc-bf115e16a4a1}</id>
+     <text>threatening</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f8d6d4ce-5fbb-4eee-89f0-818168596b9c}</id>
+     <text>fear</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4b651ae2-fd54-40fc-99cf-30beeeca154c}</id>
+     <text>remain calm</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{e0fefde5-a68d-4d2b-b08a-6ee68fe62604}</id>
+     <text>feeling scared</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d69ff627-2633-4af1-b290-72abb41b5d47}</id>
+     <text>have patience</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{54b4e3cf-9623-444a-8142-f62cd2fa5044}</id>
+     <text>being courageous</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{48c148c9-11f8-432a-b27d-0a8893a1eeef}</id>
+     <text>rescue operation</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7419e19c-04e5-426a-bc81-c675075c12f6}</id>
+     <text>emergency exit</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b117655b-1ac3-47c1-8b58-0d3582e56783}</id>
+     <text>volcanic eruptions</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{2d715685-3958-4238-ab66-4f0b78383fb1}</id>
+     <text>richter scale</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{3b846ac1-6edc-45b6-9cd0-4ebf350b0337}</id>
+     <text>scene of crime</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{c223a7ca-3c27-4372-8008-5fc69006c43c}</id>
+     <text>act of terror</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0d917552-139e-4b8f-871c-710bbdd75dbc}</id>
+     <text>file a complaint</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{5c6064d4-ea12-443c-975e-d26448df1370}</id>
+     <text>lodge a report</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{15d6801a-d811-4cda-8b53-f2bafa65ff36}</id>
+     <text>call 911</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{ecc35ee6-8dde-4e87-91a6-2138608eaf0f}</id>
+     <text>bomb blast</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9101ba9d-472b-4aa8-ac63-f858d8e22e55}</id>
+     <text>fire alarm</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{924fd909-2d51-44de-9d79-eb68a9426a89}</id>
+     <text>fire extinguisher</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9e7625ce-eb8e-4cfb-b1c6-a1cc170dddb4}</id>
+     <text>fire service</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{085a4197-eff0-479d-bdd9-b07f8142c7b0}</id>
+     <text>fire exit</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{fc48bb2b-9ebc-42ef-a310-15f66c091910}</id>
+     <text>victims of a disaster</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f1c89b38-d96f-4994-bf24-36f3259bb529}</id>
+     <text>survival strategy</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{ccc5b7f3-4f17-411e-82cd-2cf4c1145dd1}</id>
+     <text>been mugged</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{6ddb3823-aff3-4c1b-adce-6f6cf7cef798}</id>
+     <text>lost valuables</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{8b4df30b-5d8d-40e4-8bbf-c822ae12c02b}</id>
+     <text>life risk</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{505878fe-f3e5-45a6-8a02-04c8cad4e0e4}</id>
+     <text>civil rights</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{03eb3ebc-adde-4543-b7d3-63047d5ba3b7}</id>
+     <text>local emergency number</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4b82e142-1cbb-483b-9302-20f913c0cd97}</id>
+     <text>Please help me.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c5aba185-c137-4c0f-9c00-f244f0c97679}</id>
+     <text>Call the police.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{699d6261-52ff-4e7c-b28d-1066e0be0fe6}</id>
+     <text>Please call the ambulance.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{08a43f0a-3bfc-4f79-a8b9-2b1724c3bb81}</id>
+     <text>Can I use your mobile phone, please?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{85dc6216-3dc3-4180-abb2-981c129b14b2}</id>
+     <text>There was a gun shot in the alley.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{42db9c96-bb95-4e58-a073-1e1b14f7200a}</id>
+     <text>Two men were murdered.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{6f5294db-b387-4170-9c70-4964898e4ee2}</id>
+     <text>My brother has been missing for two days now.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{85035a10-4f7c-45ee-a3f0-c98374b48b86}</id>
+     <text>I want to lodge a complaint against the teacher for child abuse.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{785a217d-6724-4362-88f3-f8a58c6a8f04}</id>
+     <text>Where is the emergency exit?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c0ab297e-ccac-4de9-b176-65a20b89472a}</id>
+     <text>Take deep breaths.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{9296525e-55a4-463c-954e-d4abd45d1c9c}</id>
+     <text>What is the local emergency number?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{121beac8-d843-4eab-bb5a-b75fb93fddd2}</id>
+     <text>Somebody broke into the house.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{1b66ce36-a635-42fa-b80e-38871b1f6530}</id>
+     <text>All the sea shores have been evacuated.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{840d75b4-b641-4648-ae93-a35bf02c40e2}</id>
+     <text>There has been a theft in my apartment.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{1d6b5dc5-f179-4938-b15b-b1a0c020aea2}</id>
+     <text>All flights have been cancelled due to the heavy rains.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ab07c72b-ec94-4203-8f00-e1136ffcd879}</id>
+     <text>You are asked to move to the emergency shelter as soon as possible.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{923d2a40-5c5a-40d1-aaa5-ea531220d37d}</id>
+     <text>There has been a train accident.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{93b31566-b586-45c8-adc5-6bfa8c829a9a}</id>
+     <text>Please do not panic.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{5cfb1a43-b60d-4ba3-9018-bc0d203c9d5d}</id>
+     <text>Please evacuate the building.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{96812e1b-7efa-4ef4-ab4e-b2deed446dec}</id>
+     <text>A lady and her two kids are trapped on the ninth floor.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c5dc268e-b4ce-4d8b-8424-ccdc67663618}</id>
+     <text>Please hurry up and call the ambulance. My son was hit by a car. He is unconcious and is bleeding profusely.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{39822cb4-5abf-489d-a468-4af9470c35f9}</id>
+     <text>Never use water on electrical fires, equipment or wires. Unplug equipment or cut power at the control panel if possible. If the fire is small, use baking soda or a multipurpose or dry chemical fire extinguisher. Call the emergency services as soon as possible.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{6c5b0710-d976-4562-a747-3b11ea459535}</id>
+     <text>If your clothing catches fire, do not run. Stop where you are, drop to the ground, cover your face with your hands, and roll over and over to smother the flames. If someone else's clothes catch fire, push them to the ground and roll them over and over, or smother the flames with a blanket or carpet.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{2f8d06a9-9ef7-4bb5-b9f7-85e0ee62ac5a}</id>
+     <text>Incessant and intense rains have hit the hills for over three days triggering flash floods and landslides. This has led to hundreds of deaths and hundreds more going missing. With many bodies still buried under 5-10 feet high mounds of debris in the valley area, the threat of an epidemic due to decaying corpses is looming large.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{01ddec7a-52fe-42fb-8c37-0dc61a2b8090}</id>
+     <text>There were a series of bomb blasts and continuous firing at the town centre two hours ago. Fifty-four people have died including twenty-three women and nine childrean and around a hundred have been injured. The area has been evacuated and cordoned off. The police have started their investigation.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
