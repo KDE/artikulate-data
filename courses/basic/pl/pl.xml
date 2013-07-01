@@ -3293,211 +3293,211 @@
     <phrase>
      <id>{658b242c-7959-4469-8491-57605f6741b3}</id>
      <foreignId>{64e017d7-88cd-4f0a-92ba-94aa999bf208}</foreignId>
-     <text>thunderstorm</text>
+     <text>burza</text>
      <i18nText>thunderstorm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c1d0e2e-2a28-44f0-a831-92f7d5e8b9a3}</id>
      <foreignId>{3fb5bc95-16a8-48e4-95f1-6fafa8cf9606}</foreignId>
-     <text>sunny</text>
+     <text>słonecznie</text>
      <i18nText>sunny</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5939fa38-62d4-4881-9704-97c50de0e2ef}</id>
      <foreignId>{a8a8b5f5-cbd5-4be1-a8e0-b130ff34d0ce}</foreignId>
-     <text>weather</text>
+     <text>pogoda</text>
      <i18nText>weather</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{32fd81ad-7381-41bd-bde3-73303cff5c99}</id>
      <foreignId>{dcc5c3f3-576b-49c2-b42d-b5e42531de59}</foreignId>
-     <text>rainy</text>
+     <text>deszczowo</text>
      <i18nText>rainy</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fcb3e633-a54f-444a-9758-f8951728d7a6}</id>
      <foreignId>{0f6d42af-f878-4887-9c85-eb4fa5ab6fb9}</foreignId>
-     <text>windy</text>
+     <text>wietrznie</text>
      <i18nText>windy</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2cd8147e-f51b-4fd3-b22b-2694d18b6eb2}</id>
      <foreignId>{52137abe-6cb0-426b-8825-c7d6367d21c2}</foreignId>
-     <text>snow</text>
+     <text>śnieg</text>
      <i18nText>snow</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a6ba2543-3db1-4f30-9408-e9f7fa12b788}</id>
      <foreignId>{3b71f855-e0c4-4e21-b604-8ad79de89773}</foreignId>
-     <text>temperature</text>
+     <text>temperatura</text>
      <i18nText>temperature</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89159c9a-0964-4039-915b-26c4cfaff8c9}</id>
      <foreignId>{e2e6e20b-a8e8-4a02-b5ff-da145fb03d07}</foreignId>
-     <text>cool</text>
+     <text>chłodno</text>
      <i18nText>cool</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b1e8e4ed-aa54-49b9-88c9-eaa4e0b2dd77}</id>
      <foreignId>{aaf37294-bc1c-47ad-80f8-24baa44117d9}</foreignId>
-     <text>warm</text>
+     <text>ciepło</text>
      <i18nText>warm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{92bbf54b-c943-4a22-8af2-e4784f8f139c}</id>
      <foreignId>{0df49aef-2874-4120-86e0-d1933279748a}</foreignId>
-     <text>flood</text>
+     <text>powódź</text>
      <i18nText>flood</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5c3f6798-3af9-4211-a7a2-cb7761353532}</id>
      <foreignId>{57fd2370-d302-48c4-811b-c239d8748c5f}</foreignId>
-     <text>drought</text>
+     <text>susza</text>
      <i18nText>drought</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9b3df0dd-8b7c-4996-94e5-0e1650fe640b}</id>
      <foreignId>{74b3353d-3cc9-495d-96a2-b7caf34effe1}</foreignId>
-     <text>hail</text>
+     <text>grad</text>
      <i18nText>hail</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ccd2079a-28fa-4999-9efb-6f1a8c81c711}</id>
      <foreignId>{cee4b96a-ed08-4c24-af7a-b61ed432f769}</foreignId>
-     <text>rainbow</text>
+     <text>tęcza</text>
      <i18nText>rainbow</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2cba9ebd-4b7b-49ce-aeda-e3cdedc618ee}</id>
      <foreignId>{40985c4e-648e-4b28-8c1b-b11438ed9b59}</foreignId>
-     <text>earthquake</text>
+     <text>trzęsienie ziemi</text>
      <i18nText>earthquake</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fae63d65-91e9-402a-9357-86e837501fdc}</id>
      <foreignId>{543760ed-ed4e-438d-8d41-0c155441423f}</foreignId>
-     <text>cyclone</text>
+     <text>cyklon</text>
      <i18nText>cyclone</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2403463a-6127-4296-842d-66c0d0e8b9c8}</id>
      <foreignId>{d91e0877-bbd6-42a0-a4e4-aba5cd8adf26}</foreignId>
-     <text>climate</text>
+     <text>klimat</text>
      <i18nText>climate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{62270e3c-cbb5-489d-bf89-37c4a0de0fe9}</id>
      <foreignId>{dab75a11-12ca-470d-85bd-41b455bd0f13}</foreignId>
-     <text>ice</text>
+     <text>lód</text>
      <i18nText>ice</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{99a12362-3c19-4dae-ba54-b8ceb530616a}</id>
      <foreignId>{25286749-936a-4b37-ab35-44f08ea5a973}</foreignId>
-     <text>summer</text>
+     <text>lato</text>
      <i18nText>summer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0743f143-5002-478a-8f79-254c8d53dc54}</id>
      <foreignId>{924330a4-be39-48a9-9855-5497c2284965}</foreignId>
-     <text>winter</text>
+     <text>zima</text>
      <i18nText>winter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{732d6ac3-72b8-4778-98bd-148fa75c4a4d}</id>
      <foreignId>{e5d41765-9299-4be3-9974-54cd85db4ca1}</foreignId>
-     <text>spring</text>
+     <text>wiosna</text>
      <i18nText>spring</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ac3c4b63-9654-4187-8014-2852bad34a8c}</id>
      <foreignId>{2dc79256-0882-46c3-b801-511a28df022f}</foreignId>
-     <text>autumn</text>
+     <text>jesień</text>
      <i18nText>autumn</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3507,427 +3507,427 @@
      <i18nText>tsunami</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89e525c3-6517-4f80-bef3-c607d669014b}</id>
      <foreignId>{cd3e98e3-ffa1-4b3a-8369-22951b8ca08e}</foreignId>
-     <text>sunrise</text>
+     <text>wschód słońca</text>
      <i18nText>sunrise</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{62d73961-244e-42b8-ad54-52498dfe6cef}</id>
      <foreignId>{23febf80-6508-4069-b9af-8f92ce733b33}</foreignId>
-     <text>humid</text>
+     <text>wilgotno</text>
      <i18nText>humid</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fb00c374-491d-4a7b-a41c-c5cf88b696d1}</id>
      <foreignId>{4c51b96e-e6d6-41e0-ad71-b17f8cc3a9da}</foreignId>
-     <text>meteorology</text>
+     <text>meteorologia</text>
      <i18nText>meteorology</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3f37bb5c-8c52-49dc-9e4e-45ac832f9185}</id>
      <foreignId>{01b7fd05-e376-4869-bb2a-711581fb4070}</foreignId>
-     <text>jungle</text>
+     <text>dżungla</text>
      <i18nText>jungle</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d5dfdc32-3dbb-4f75-aa17-e6f848bea016}</id>
      <foreignId>{9243d51f-43ae-43a3-94e4-bfd08d76cd65}</foreignId>
-     <text>degrees Celsius</text>
+     <text>stopnie Celcjusza</text>
      <i18nText>degrees Celsius</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0071f73e-260a-4aa8-b9ac-4fa1daf6c9e2}</id>
      <foreignId>{c92a8688-5d39-4e86-bccb-1051b0fd64f6}</foreignId>
-     <text>degrees Fahrenheit</text>
+     <text>stopnie Fahrenheita</text>
      <i18nText>degrees Fahrenheit</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cedcf94d-6cc8-40c2-ad6f-d5f66d19e1e3}</id>
      <foreignId>{8a26b497-b97a-4ac3-8fbf-d7fe3eef692a}</foreignId>
-     <text>heavy rain</text>
+     <text>mocny deszcz</text>
      <i18nText>heavy rain</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{479b8410-bdb7-44f5-81b8-81ee5edf44be}</id>
      <foreignId>{075f4420-6448-4dfd-9d8c-bc9f9c8dad01}</foreignId>
-     <text>clear sky</text>
+     <text>czyste niebo</text>
      <i18nText>clear sky</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{560d06dd-e1ef-44b6-b568-380224a32e10}</id>
      <foreignId>{752428d8-b71f-4f2a-82bc-29a80ed450fa}</foreignId>
-     <text>water temperature</text>
+     <text>temperatura wody</text>
      <i18nText>water temperature</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f641c521-aa6d-4c31-be6a-f0f130bb031f}</id>
      <foreignId>{f38c8194-feb4-41dc-9af4-4e591df5f994}</foreignId>
-     <text>freezing cold</text>
+     <text>lodowato</text>
      <i18nText>freezing cold</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{638f08e9-36e3-4a1f-a954-a84e9ca08798}</id>
      <foreignId>{a3760564-e07c-42fa-8f42-e50144cd68cf}</foreignId>
-     <text>partly cloudy</text>
+     <text>częściowo zachmurzone</text>
      <i18nText>partly cloudy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{36fc1052-6bd2-4420-8054-fe9aea63b3c3}</id>
      <foreignId>{560a5abd-3869-47fc-b594-1003af104da7}</foreignId>
-     <text>air pressure</text>
+     <text>ciśnienie powietrza</text>
      <i18nText>air pressure</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a6907533-5e33-47c5-aeef-71eb00cecb26}</id>
      <foreignId>{dca2806c-5604-4f97-a76d-0679ebf318f0}</foreignId>
-     <text>global warming</text>
+     <text>globalne ocieplenie</text>
      <i18nText>global warming</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{87f967b9-fc25-45d7-808a-bada08c559d2}</id>
      <foreignId>{db835d85-86f7-4fea-8ebc-964b85e8a930}</foreignId>
-     <text>winter season</text>
+     <text>sezon zimowy</text>
      <i18nText>winter season</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4fba16c4-c1ce-43c4-8538-bbcbb288aa3e}</id>
      <foreignId>{1b21362a-d75f-4d81-b8f5-d605b2a430bb}</foreignId>
-     <text>tropical storm</text>
+     <text>burza tropikalna</text>
      <i18nText>tropical storm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{20cc5b66-cbf4-4c3a-b82f-41d8cbc8da0b}</id>
      <foreignId>{b7a6905f-8661-4ccd-a9df-b706c3fbd3e6}</foreignId>
-     <text>heat wave</text>
+     <text>fala gorąca</text>
      <i18nText>heat wave</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{82982314-838c-4d22-b770-cf6778eb2ab1}</id>
      <foreignId>{7cda5919-dbe3-4387-bdc9-5ca8a33e9049}</foreignId>
-     <text>sunny day</text>
+     <text>słoneczny dzień</text>
      <i18nText>sunny day</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{944f9f24-7de5-4b7b-9c74-ffc20429d51b}</id>
      <foreignId>{c171361b-7f1f-41d8-8419-43071b6e080d}</foreignId>
-     <text>coastal area</text>
+     <text>teren nadmorski</text>
      <i18nText>coastal area</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{95030762-978c-438b-8a2d-2f4ed305c2a4}</id>
      <foreignId>{9d8246c3-d2f2-4e52-a457-95613ae59b46}</foreignId>
-     <text>scattered showers</text>
+     <text>przejściowe deszcze</text>
      <i18nText>scattered showers</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{84d73187-3ed5-4e66-b3b2-490ddfb9c7cc}</id>
      <foreignId>{9e952a0a-4a1c-4aea-9a3c-b16ed8522d33}</foreignId>
-     <text>gust of wind</text>
+     <text>powiew wiatru</text>
      <i18nText>gust of wind</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cf367651-c19d-4046-8619-c387d4b0ff9d}</id>
      <foreignId>{7b5e669b-a59e-4a08-8e06-e6de66bb8cd8}</foreignId>
-     <text>weather forecast</text>
+     <text>prognoza pogody</text>
      <i18nText>weather forecast</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a3d23067-7807-4cb7-a726-d4fb71dc7f15}</id>
      <foreignId>{d0072f79-dfce-4406-9be5-6af05caba26f}</foreignId>
-     <text>mediterranean climate</text>
+     <text>klimat śródziemnomorski</text>
      <i18nText>mediterranean climate</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{506abcc7-4ace-48fe-8414-a4fcacf17808}</id>
      <foreignId>{749a8a41-288e-44ea-b35e-6e01da3f99f5}</foreignId>
-     <text>polar ice cap</text>
+     <text>pokrywa lodowa</text>
      <i18nText>polar ice cap</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f6856d4f-6277-4ae0-b94b-e721436a9c73}</id>
      <foreignId>{b96bc1fb-a3a5-46d8-b423-c150eea67335}</foreignId>
-     <text>It is snowing.</text>
+     <text>Pada śnieg.</text>
      <i18nText>It is snowing.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cefe3e49-90aa-4063-b651-5355b58370c6}</id>
      <foreignId>{fab1ab80-ef00-4d3b-b4c4-0f61b528f7b6}</foreignId>
-     <text>What is the weather like?</text>
+     <text>Jaka jest pogoda?</text>
      <i18nText>What is the weather like?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7d4c10b2-9bed-459d-b6c9-fbb68d3423b9}</id>
      <foreignId>{15c7a201-aab1-4250-83e5-24cd8392bfa9}</foreignId>
-     <text>Is it raining outside?</text>
+     <text>Pada na dworze?</text>
      <i18nText>Is it raining outside?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ee22b3ed-3714-454c-86ef-9114da9dce33}</id>
      <foreignId>{86aaf64d-b399-4c29-86f8-d27707916b36}</foreignId>
-     <text>It look like it is going to be windy tomorrow.</text>
+     <text>Wygląda na to że jutro bedzie wiało.</text>
      <i18nText>It look like it is going to be windy tomorrow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2b8e760f-7c96-46ea-9e5a-21ec0559b079}</id>
      <foreignId>{9a9d0f51-7a1b-49bf-bcd7-454f35c13203}</foreignId>
-     <text>It is pouring down.</text>
+     <text>Leje deszcz.</text>
      <i18nText>It is pouring down.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fa464731-6f68-4853-8d8e-d1aa19c37c4c}</id>
      <foreignId>{251b17ce-fb83-4036-af23-028eb8e445f8}</foreignId>
-     <text>Let’s hope the weather holds out.</text>
+     <text>Miejmy nadzieje że pogoda się nie zmieni.</text>
      <i18nText>Let’s hope the weather holds out.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4ec79048-cf03-4cf0-b560-2cf0b9c66017}</id>
      <foreignId>{e647765c-0ef9-4fc7-9b90-3a1b76d8749c}</foreignId>
-     <text>Yesterday it was hot and humid.</text>
+     <text>Wczoraj było gorąco i wilgotno.</text>
      <i18nText>Yesterday it was hot and humid.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{384ff7b2-2af0-4cb2-8d2e-97bdadb9aa16}</id>
      <foreignId>{14e81d70-8dcf-4c29-8fea-e88867a3d5c6}</foreignId>
-     <text>Take an umbrella, it’s raining.</text>
+     <text>Weź parasolkę bo pada deszcz.</text>
      <i18nText>Take an umbrella, it’s raining.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6643faa8-9187-4de8-bac0-2a57888d653c}</id>
      <foreignId>{8343e98c-688f-4624-9e43-ea5a115ae8b8}</foreignId>
-     <text>A lot of the crops dried up because of the drought.</text>
+     <text>Wiele plonów zgineło z powodu suszy.</text>
      <i18nText>A lot of the crops dried up because of the drought.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{721657ce-6578-4b90-8cdf-0982c60dbacd}</id>
      <foreignId>{6b4dc159-7699-4c9c-bf5c-fbde86d5f3ad}</foreignId>
-     <text>It is chilly today.</text>
+     <text>Dzisiaj jest chłodno.</text>
      <i18nText>It is chilly today.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1d1a783d-ae9d-4044-ab78-f74292ac7b35}</id>
      <foreignId>{f60c5550-328f-4df4-9025-399119d72084}</foreignId>
-     <text>I can feel the warm sunshine on my arms.</text>
+     <text>Czuje promienie słońca na moich ramionach.</text>
      <i18nText>I can feel the warm sunshine on my arms.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e766516e-d806-4651-a809-1c75d84cd34a}</id>
      <foreignId>{ffa2d311-3daf-40d3-b314-9abd386a76d7}</foreignId>
-     <text>The wind is blowing.</text>
+     <text>Wieje wiatr.</text>
      <i18nText>The wind is blowing.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c4264c76-1b3c-4c7c-9064-c3a3a52a759f}</id>
      <foreignId>{8eb069fc-0316-43c7-b6c6-521529ebce6b}</foreignId>
-     <text>You get better weather on the east cost.</text>
+     <text>Na wschodnim wybrzeżu jest lepsza pooda.</text>
      <i18nText>You get better weather on the east cost.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f7fd086d-0d70-4fbb-83a0-0f54c33909f0}</id>
      <foreignId>{43679199-c006-4405-88f7-d0a8f68dc993}</foreignId>
-     <text>Last night we saw a beautiful sunset.</text>
+     <text>Wczoraj wieczorem widzieliśmy piękny zachód słońca.</text>
      <i18nText>Last night we saw a beautiful sunset.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d3c79f40-d538-46de-88ab-1a1928685af8}</id>
      <foreignId>{233842c1-3c29-4fad-91a1-beada64fe040}</foreignId>
-     <text>A desert is a landscape form or region that receives very little precipitation.</text>
+     <text>Pustynia to region, który otrzymuje bardzo mało deszczu.</text>
      <i18nText>A desert is a landscape form or region that receives very little precipitation.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1c320d17-584d-48ef-be2f-4968049e7ddd}</id>
      <foreignId>{9c720f3f-8a98-4a56-8eb7-f7b2ea77a982}</foreignId>
-     <text>The bad weather spoiled our plans for the weekend.</text>
+     <text>Zła pogoda zepsuła nasze plany na weekend.</text>
      <i18nText>The bad weather spoiled our plans for the weekend.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{804280a3-0711-491c-9886-3c182eb5658f}</id>
      <foreignId>{e32a4fc3-3285-4fa9-89b9-304fa8ade0fc}</foreignId>
-     <text>In savanna climate we can distinguish to main seasons: wet and dry.</text>
+     <text>Na sawannie wyróżniamy dwa sezony: deszczowy i suchy.</text>
      <i18nText>In savanna climate we can distinguish to main seasons: wet and dry.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{151bffb0-c6ce-4a12-b2b7-1d8c926cd556}</id>
      <foreignId>{b7e7842b-c462-4130-a980-39b2ecbcea6c}</foreignId>
-     <text>The alpine area  has in general a much harsher climate than the rest of the country.</text>
+     <text>Region alpejski ma dużu bardziej ostry kilmat niż reszta kraju.</text>
      <i18nText>The alpine area  has in general a much harsher climate than the rest of the country.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9698159f-adb1-41e2-8b87-a310132cd118}</id>
      <foreignId>{7c2fad53-f0c7-418c-a3e2-4bd20e646a8b}</foreignId>
-     <text>We had a drought in our area last summer. It did not rain for two months.</text>
+     <text>Ostatniego lata mieliśmy suszę. Nie padało przez dwa miesiące.</text>
      <i18nText>We had a drought in our area last summer. It did not rain for two months.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9154,7 +9154,7 @@
   <unit>
    <id>{a22b6afd-89a4-4a85-9f72-b45324e9c2e4}</id>
    <foreignId>{a6d118cb-bca6-4206-907c-d66401fbf03a}</foreignId>
-   <title>In a Zoo</title>
+   <title>W Zoo</title>
    <phrases>
     <phrase>
      <id>{267a5894-35b2-4668-88d8-4f741cc40c94}</id>
@@ -10041,6 +10041,933 @@
      <foreignId>{6c7d16b8-5cbd-4bad-9cfd-8a88ea4d97c3}</foreignId>
      <text>About 90% of the park are paved pathways which are accessible by wheelchair. There are also ramps and allocated viewing areas for disabled guests to view various exhibits and shows at the zoo.</text>
      <i18nText>About 90% of the park are paved pathways which are accessible by wheelchair. There are also ramps and allocated viewing areas for disabled guests to view various exhibits and shows at the zoo.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+   </phrases>
+  </unit>
+  <unit>
+   <id>{9665f6d7-2ee1-4aee-8d9d-b5818ff15e82}</id>
+   <foreignId>{02f0bc36-a06a-4835-b23e-5ff22fc78b72}</foreignId>
+   <title>Na rozmowie o pracę</title>
+   <phrases>
+    <phrase>
+     <id>{fe61cd40-9607-4db9-a29a-e172fed3be26}</id>
+     <foreignId>{4dd57b53-de84-4c61-ab7c-d1ce63764456}</foreignId>
+     <text>occupation</text>
+     <i18nText>occupation</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{fd0bec86-77a1-45e6-b8c3-5ec3f8c1c330}</id>
+     <foreignId>{3a01aaba-f5df-4c31-8b55-ba240597775e}</foreignId>
+     <text>hired</text>
+     <i18nText>hired</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f9d4f734-f3b3-4bde-8d53-7f04f9da2bdd}</id>
+     <foreignId>{fdf5007f-e1c1-4479-8b5e-40daf5a37c17}</foreignId>
+     <text>vacancy</text>
+     <i18nText>vacancy</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{57304702-a210-4b0b-bc8d-4ce3f4a1cf33}</id>
+     <foreignId>{9cbf1b59-57fb-4e7e-8a2d-8cefa0041028}</foreignId>
+     <text>post</text>
+     <i18nText>post</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{62ee6ab6-6512-4a10-a6e0-a76b40e6e3fd}</id>
+     <foreignId>{154d138e-74e7-48a9-a19a-eb9c9b988286}</foreignId>
+     <text>company</text>
+     <i18nText>company</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{59e436f8-cca3-4166-b024-0abea711380d}</id>
+     <foreignId>{ca478dc5-a4b3-4461-8164-fe8301e69933}</foreignId>
+     <text>firm</text>
+     <i18nText>firm</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{134090ee-c1b1-44d7-8d94-036ff249a310}</id>
+     <foreignId>{d4780920-00cb-414a-9540-1e9e89201c46}</foreignId>
+     <text>organization</text>
+     <i18nText>organization</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{691e2336-9ba7-4a8b-902f-691339fa520f}</id>
+     <foreignId>{0a3ee35d-47c1-424e-91be-b56dfbece1dc}</foreignId>
+     <text>qualifications</text>
+     <i18nText>qualifications</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{835e5e58-1f64-4f86-acc1-a7d0432aa42a}</id>
+     <foreignId>{1eb1dd3f-9159-4297-b700-4c160ddda350}</foreignId>
+     <text>degree</text>
+     <i18nText>degree</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b0468985-ddd8-479f-9cc9-14481de22420}</id>
+     <foreignId>{2653672e-6d60-4c8e-8b78-61b8a57bb489}</foreignId>
+     <text>resume</text>
+     <i18nText>resume</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{45bdaf3e-bc96-4477-b349-d33f85393349}</id>
+     <foreignId>{6546a26a-ab1f-4283-afa7-d60b1444f025}</foreignId>
+     <text>recommendation</text>
+     <i18nText>recommendation</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{938e7147-980e-47f6-a5f8-af9a6e1b625e}</id>
+     <foreignId>{ef55d4b5-2b49-4a92-9bb7-e712fac89407}</foreignId>
+     <text>staff</text>
+     <i18nText>staff</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{7869386d-eefb-4a1c-9fbf-d50f761305c7}</id>
+     <foreignId>{d27f3a66-e999-4546-a2df-cb2689afe7cb}</foreignId>
+     <text>employee</text>
+     <i18nText>employee</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{6429c221-d63b-4f38-9f69-c1f3d4c48fc7}</id>
+     <foreignId>{3df0206d-a975-44fe-ba8f-3274347c98e3}</foreignId>
+     <text>employer</text>
+     <i18nText>employer</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{05b0ed41-f9a6-4dec-a45c-171208f9f108}</id>
+     <foreignId>{d504ee07-0841-4470-abf9-b21e01ea67d3}</foreignId>
+     <text>subordinate</text>
+     <i18nText>subordinate</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4adaa7c7-ed6a-40a3-95d9-4a1465a4d50d}</id>
+     <foreignId>{4d857fe6-8c38-4ab1-87aa-fa10998c81d6}</foreignId>
+     <text>colleague</text>
+     <i18nText>colleague</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{180ebb4c-7cd1-48cc-92e2-3380757b3dc9}</id>
+     <foreignId>{d3cd780f-e235-4292-b4b4-4f353d84e0ab}</foreignId>
+     <text>recruitment</text>
+     <i18nText>recruitment</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f492612d-fb77-4c3f-a282-51616900533a}</id>
+     <foreignId>{45835a28-3c20-427c-81b6-2051c85cbff6}</foreignId>
+     <text>sir</text>
+     <i18nText>sir</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b852311c-a8f3-4704-aa69-d84bd708d726}</id>
+     <foreignId>{12a92cb6-1656-4582-90a6-c47da5ee241e}</foreignId>
+     <text>madam</text>
+     <i18nText>madam</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a0d32c0e-f7b0-4b25-91c3-ced189eb04cb}</id>
+     <foreignId>{5a0ffca0-f3b8-4532-920f-afe9fd5df88f}</foreignId>
+     <text>proficiency</text>
+     <i18nText>proficiency</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{7ebfd05b-e76b-44d3-87c8-33e9a882f437}</id>
+     <foreignId>{acbaa712-0b6b-4a2c-a228-478aca41de7e}</foreignId>
+     <text>offer</text>
+     <i18nText>offer</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4b030b84-629d-4abb-9839-1692f9b33acc}</id>
+     <foreignId>{718dd854-1894-43bc-ba04-d9d8cb4ff962}</foreignId>
+     <text>apply</text>
+     <i18nText>apply</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b8e883fa-ec28-47ef-8fb6-3fd1f81bca5e}</id>
+     <foreignId>{6c4f9ae6-eb10-4ead-887a-5cf0deae7a89}</foreignId>
+     <text>career</text>
+     <i18nText>career</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{55600a4c-b11c-4b77-acf0-cf3db13978c8}</id>
+     <foreignId>{5aa41839-96f7-415e-956f-75e66a9d9a66}</foreignId>
+     <text>experience</text>
+     <i18nText>experience</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0f33faab-15bc-42a9-87c9-95b961773264}</id>
+     <foreignId>{69ea1743-47bb-45b7-8024-9a8f46d8ae88}</foreignId>
+     <text>office</text>
+     <i18nText>office</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0228a906-410d-4621-9707-e39fe182e9b8}</id>
+     <foreignId>{3f1fd3bd-3964-41a3-8d55-fcb0cf06fe8a}</foreignId>
+     <text>designation</text>
+     <i18nText>designation</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{9c812e2a-a186-4461-8472-8b1fad26eb13}</id>
+     <foreignId>{6d2c4fbb-d75a-439e-9958-f85cb06edf0f}</foreignId>
+     <text>scholarship</text>
+     <i18nText>scholarship</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{49efbaae-1a8b-4f5b-9145-a2345c098156}</id>
+     <foreignId>{198bf0fb-5447-4efc-846b-430888b88097}</foreignId>
+     <text>fellowship</text>
+     <i18nText>fellowship</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{c80d9227-42c5-404d-8ba8-e730ce8ed58e}</id>
+     <foreignId>{f78c8626-9256-44bc-b5c0-c123ac913367}</foreignId>
+     <text>diploma</text>
+     <i18nText>diploma</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{788ee93f-ee11-48b6-b2e4-09cb032296e8}</id>
+     <foreignId>{eb2a9ceb-9350-4a55-b80b-8c36bfd78896}</foreignId>
+     <text>freelancer</text>
+     <i18nText>freelancer</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{32fe13f1-8d64-4a9a-aeaa-63418ca28b1a}</id>
+     <foreignId>{b1b62402-98f7-4670-ae6b-90efe1611b1a}</foreignId>
+     <text>polytechnic</text>
+     <i18nText>polytechnic</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{8df2cb3c-aff9-4b58-bcee-cf54c02bfe8d}</id>
+     <foreignId>{8bbe7619-fdbd-4627-90b0-d2865cb37db6}</foreignId>
+     <text>payscale</text>
+     <i18nText>payscale</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a17c755d-86b1-4073-a5b9-fadf86fd2920}</id>
+     <foreignId>{69eddae5-38ab-4481-9615-b6f9fd93a27e}</foreignId>
+     <text>cumulative</text>
+     <i18nText>cumulative</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{276c812e-7094-4228-a939-4224a6d1cffb}</id>
+     <foreignId>{6a8df988-a74e-4a2a-933c-b8a9abadfe17}</foreignId>
+     <text>remuneration</text>
+     <i18nText>remuneration</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{24dfacdf-7b14-48d5-af53-c4c881a14a5a}</id>
+     <foreignId>{bbc3d875-16b4-48fa-be88-66aa6b7c3463}</foreignId>
+     <text>bonus</text>
+     <i18nText>bonus</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a466cdcf-e53b-45ee-8f19-cf70f0c3300f}</id>
+     <foreignId>{310d66d9-e005-4886-b755-bc082cd88024}</foreignId>
+     <text>university</text>
+     <i18nText>university</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{cc6f6976-249e-4456-a155-a493bad8d551}</id>
+     <foreignId>{f4cbfb25-d4f9-41d9-86c6-14096cdec2c3}</foreignId>
+     <text>graduation</text>
+     <i18nText>graduation</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0b47fd09-9f99-40b9-becf-c912f7bf34b5}</id>
+     <foreignId>{d13a3b0e-3694-45df-848f-2052717e37fa}</foreignId>
+     <text>doctorate</text>
+     <i18nText>doctorate</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{29830129-45c7-4fdb-a483-5d8db6615998}</id>
+     <foreignId>{04f32774-b116-42e6-871a-7d6eeaf76d22}</foreignId>
+     <text>school</text>
+     <i18nText>school</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2268f037-a045-4443-b117-a4f14d195cb8}</id>
+     <foreignId>{740c2247-b47e-4276-a269-64fed2b812fc}</foreignId>
+     <text>college</text>
+     <i18nText>college</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{365fc056-da17-47e7-971c-bf538d783050}</id>
+     <foreignId>{f26f6bb1-52bd-4e01-ad35-bbbd513d5fc6}</foreignId>
+     <text>eligibility criteria</text>
+     <i18nText>eligibility criteria</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{1591211c-e5ba-42e0-bdd2-4fda490cec0c}</id>
+     <foreignId>{cbc00dba-bc8b-4938-a53d-ed7aa2d7361a}</foreignId>
+     <text>curriculum vitae</text>
+     <i18nText>curriculum vitae</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4f29afa5-e490-43e1-bb45-15ca593c2863}</id>
+     <foreignId>{a180f87f-48a6-4bf2-a6ac-0a1f8ba3f627}</foreignId>
+     <text>job experience</text>
+     <i18nText>job experience</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{77567ee3-abee-4821-aa2e-3c77a03cdc8e}</id>
+     <foreignId>{dc4cbab4-9c2a-4f9d-b458-6b1baf89fa85}</foreignId>
+     <text>offer letter</text>
+     <i18nText>offer letter</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{bc5ccc70-8844-44d6-b263-d89990dc82dc}</id>
+     <foreignId>{8e4fefdd-c259-4075-a70c-e54385813c24}</foreignId>
+     <text>post graduate course</text>
+     <i18nText>post graduate course</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ee3f9a76-dbd3-4391-abf6-c4a97196a97a}</id>
+     <foreignId>{148cf39a-90be-44c0-a686-a6abe4fa6cef}</foreignId>
+     <text>post doctoral fellowship</text>
+     <i18nText>post doctoral fellowship</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b401a0ff-a1d1-42b7-ba2f-d7781a8bea44}</id>
+     <foreignId>{a54b552e-3e5e-4478-ad30-10a9351cb90f}</foreignId>
+     <text>career counsellor</text>
+     <i18nText>career counsellor</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ea3c46c1-eee5-40bd-9d30-4a3275373de4}</id>
+     <foreignId>{80cb395f-7925-47b6-8a6c-688601d64cab}</foreignId>
+     <text>financial advisor</text>
+     <i18nText>financial advisor</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{d78634da-74b5-45e5-94ec-e30b8cfd525a}</id>
+     <foreignId>{1e18f411-94fd-4b3a-941a-d4a9cf82489e}</foreignId>
+     <text>summer internship</text>
+     <i18nText>summer internship</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{74426645-7338-460f-a324-09fa0103b208}</id>
+     <foreignId>{2825d4a3-61d2-4f03-a25e-5d5599a3bf68}</foreignId>
+     <text>human resource development</text>
+     <i18nText>human resource development</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{31e57c3f-212c-40c5-9870-ffcdf37aec70}</id>
+     <foreignId>{456360b6-f251-4bf6-9862-b1d592fa44ab}</foreignId>
+     <text>board of directors</text>
+     <i18nText>board of directors</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b32326e9-8145-4bb8-84cc-d36e2b790f04}</id>
+     <foreignId>{0f962908-ce45-4bcf-9c57-56278779423d}</foreignId>
+     <text>managing director</text>
+     <i18nText>managing director</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f030508e-8e73-4e10-b53b-5150e66f87db}</id>
+     <foreignId>{ce1b01b4-f311-4709-a361-2f2e1accb0c4}</foreignId>
+     <text>executive director</text>
+     <i18nText>executive director</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4ed97374-eb28-4d77-b35c-eeb337b767dd}</id>
+     <foreignId>{b6c4e282-0a89-4cc8-b1f1-c0ee810f34f5}</foreignId>
+     <text>deputy registrar</text>
+     <i18nText>deputy registrar</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{6510b3a0-83f3-4a13-98b3-f142fdd02233}</id>
+     <foreignId>{0e2b827d-2eee-47fb-b071-375fa1ca7ef4}</foreignId>
+     <text>project manager</text>
+     <i18nText>project manager</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f93282f0-574d-4977-8e6f-6297feb8697d}</id>
+     <foreignId>{d5079fa2-9774-4761-a069-299cf70f90a9}</foreignId>
+     <text>research assisstant</text>
+     <i18nText>research assisstant</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{118b4098-a6e2-459a-a1cb-01680334b522}</id>
+     <foreignId>{6de6e374-21fd-4e30-bc87-f3e974623ffc}</foreignId>
+     <text>associate software engineer</text>
+     <i18nText>associate software engineer</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{422711f0-5081-4823-b8e9-3f192b69b87f}</id>
+     <foreignId>{689682cc-86ee-4cc9-8624-49464ad2cc92}</foreignId>
+     <text>chartered accountant</text>
+     <i18nText>chartered accountant</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e803ec05-8202-4e87-ae46-3dda603e6640}</id>
+     <foreignId>{307d2010-38fd-4097-a25a-94d6191b8a88}</foreignId>
+     <text>law firm</text>
+     <i18nText>law firm</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e46d4240-f6b6-4750-9452-e50f43b1f45f}</id>
+     <foreignId>{c6bd171e-743a-47c9-a8ba-ca0247d7f9d7}</foreignId>
+     <text>audit firm</text>
+     <i18nText>audit firm</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2f24228b-2a0f-4f5a-97c0-efb2d7ba9b41}</id>
+     <foreignId>{d93a8780-87a1-4a0b-8364-0257322b4a77}</foreignId>
+     <text>intelligence quotient</text>
+     <i18nText>intelligence quotient</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{8a352675-9601-486d-add9-2173c5d904e6}</id>
+     <foreignId>{cd580506-4797-4624-af78-30f9c033c889}</foreignId>
+     <text>programming skills</text>
+     <i18nText>programming skills</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{6667039e-459b-4679-9e46-4a820b003998}</id>
+     <foreignId>{16a80207-8ba9-4e26-9bbc-580668c494da}</foreignId>
+     <text>extra curricular activities</text>
+     <i18nText>extra curricular activities</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{56505c67-2efd-4e5d-8a69-da930ee2c637}</id>
+     <foreignId>{9580b87a-f210-4f85-99e8-d1b7f26b6fe7}</foreignId>
+     <text>probation period</text>
+     <i18nText>probation period</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{c1068c1a-fcfe-401c-b45b-6c95254c0823}</id>
+     <foreignId>{0cb64209-18f3-4fbb-bac9-2aae4af66e4b}</foreignId>
+     <text>fashion designer</text>
+     <i18nText>fashion designer</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a01ce950-7df1-491d-a980-aff431178bb6}</id>
+     <foreignId>{7c879ba6-55cc-44d2-990f-bf1dce39fb91}</foreignId>
+     <text>master of business administration</text>
+     <i18nText>master of business administration</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{644f1c94-c492-4b13-90cb-6f5895d97b3f}</id>
+     <foreignId>{2efc2ed6-3c12-45e5-8a00-04514bcb1906}</foreignId>
+     <text>bachelor of technology</text>
+     <i18nText>bachelor of technology</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{df88d4c1-414a-4fc0-98a4-926157301c11}</id>
+     <foreignId>{6c564aa7-5027-4d25-88e7-c3b3c06114db}</foreignId>
+     <text>I really appreciate the opportunity to interview for this position.</text>
+     <i18nText>I really appreciate the opportunity to interview for this position.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0d6ce123-f795-496c-9b5a-98ce7a7d1db7}</id>
+     <foreignId>{f2436862-850f-4fa7-92f2-abf508c99851}</foreignId>
+     <text>Hi, my name is Michelle Scott.</text>
+     <i18nText>Hi, my name is Michelle Scott.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2bcd122e-bd99-4664-a76c-74fe98dc2d77}</id>
+     <foreignId>{736a7353-c44a-4f8b-a5ea-b03163434bbd}</foreignId>
+     <text>I am very familiar with what your company does.</text>
+     <i18nText>I am very familiar with what your company does.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{6f5be7c3-e154-454d-9a09-5e17ed30cc8c}</id>
+     <foreignId>{dadb38e0-ed2a-4b96-8ebc-3f9b42ee125d}</foreignId>
+     <text>I am highly motivated.</text>
+     <i18nText>I am highly motivated.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{442fe64f-28dd-4aef-892b-3f08febad8dc}</id>
+     <foreignId>{34d50b3c-4d0f-41c6-a341-70a52313c066}</foreignId>
+     <text>I am seeking to become an expert in my field.</text>
+     <i18nText>I am seeking to become an expert in my field.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2a3bf020-4b00-43a3-b830-c803b76a1e2c}</id>
+     <foreignId>{3708ad0a-195a-4546-8fbe-2d6b51ee86ab}</foreignId>
+     <text>I am energetic and have a positive attitude.</text>
+     <i18nText>I am energetic and have a positive attitude.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{245e29b0-b70f-428c-8d45-e5e3aa5399f6}</id>
+     <foreignId>{ee382601-1d3c-4df2-bc25-29ba3be802cc}</foreignId>
+     <text>I have a great deal of experience.</text>
+     <i18nText>I have a great deal of experience.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{851198f8-8775-41cf-b258-5f7b170c558d}</id>
+     <foreignId>{294493c4-72af-4c85-ab9d-31b70cf26f9f}</foreignId>
+     <text>I am a team player.</text>
+     <i18nText>I am a team player.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b5606f78-d7ae-49a5-ae0c-05c47a6fbd1c}</id>
+     <foreignId>{a8db142a-d193-4570-b777-d591be9769f1}</foreignId>
+     <text>I am flexible.</text>
+     <i18nText>I am flexible.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a878668e-b26c-4203-b294-83bdf96c8119}</id>
+     <foreignId>{4dc15e53-1365-479e-8896-6bc24cbc59f3}</foreignId>
+     <text>I need job security.</text>
+     <i18nText>I need job security.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f1e156fd-8438-4cf8-9bca-3fcb8cfac380}</id>
+     <foreignId>{2a45d5f8-d63a-4004-a52d-c5d56cff35ec}</foreignId>
+     <text>I am open to relocating.</text>
+     <i18nText>I am open to relocating.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{00c721d9-4ed0-493d-9932-ac1b8aa48bef}</id>
+     <foreignId>{461d9cdc-53cd-4b11-8807-b28426453b24}</foreignId>
+     <text>I need to stay in the area because of family.</text>
+     <i18nText>I need to stay in the area because of family.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{23edc355-f253-41c7-856f-a2dccc81c416}</id>
+     <foreignId>{2a2dcbd8-e045-4270-834b-8545cb7091be}</foreignId>
+     <text>I want to grow in my job and move ahead.</text>
+     <i18nText>I want to grow in my job and move ahead.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{15f072ff-fabf-4fa0-a83d-0992bc38eb1a}</id>
+     <foreignId>{7197bbff-5ff1-445a-9455-d6883619f158}</foreignId>
+     <text>I like to work alone on some things and then bring those things to the group.</text>
+     <i18nText>I like to work alone on some things and then bring those things to the group.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{fb3c2ef3-a47e-4939-a5a3-bf9f227e0287}</id>
+     <foreignId>{e5b20ed8-f7c3-4f04-a59f-7ab0960025d2}</foreignId>
+     <text>I pride myself on my customer service skills and my ability to resolve what could be difficult situations.</text>
+     <i18nText>I pride myself on my customer service skills and my ability to resolve what could be difficult situations.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{596b65ac-da62-4bbf-b816-07b957b63dc7}</id>
+     <foreignId>{1361120a-9abd-4395-92fd-7ec3cddd2b7d}</foreignId>
+     <text>I have exceeded my sales goals every quarter and I've earned a bonus each year since I started with my current employer.</text>
+     <i18nText>I have exceeded my sales goals every quarter and I've earned a bonus each year since I started with my current employer.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f404e61d-acf0-4a7c-bc3e-bb6fddf54cc1}</id>
+     <foreignId>{f54e3fc7-fef6-4052-81f0-21243e8dc5f7}</foreignId>
+     <text>I've learned to make my perfectionism work to my advantage at work.</text>
+     <i18nText>I've learned to make my perfectionism work to my advantage at work.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b7563433-4f20-4f0f-a3a0-45cbf322174a}</id>
+     <foreignId>{6342f8c5-e6bc-44dd-9dc7-a679f0d5a42e}</foreignId>
+     <text>Being organized wasn't my strongest point, but I implemented a time management system that really helped my organization skills.</text>
+     <i18nText>Being organized wasn't my strongest point, but I implemented a time management system that really helped my organization skills.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{643f9942-e828-4b26-b29c-4f7db109ad68}</id>
+     <foreignId>{c307cb09-4f75-4e37-a736-d6de1289c8a9}</foreignId>
+     <text>I was the university topper in 2006.</text>
+     <i18nText>I was the university topper in 2006.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{01a7bd89-dc13-4fa0-a80c-19c228936600}</id>
+     <foreignId>{fb2ddff2-0f5a-4391-9ac8-fb55ba32c89a}</foreignId>
+     <text>I'm the kind of person who stays calm under pressure, and handles stress fairly easily.</text>
+     <i18nText>I'm the kind of person who stays calm under pressure, and handles stress fairly easily.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2f340cab-a01c-488f-b65c-d365e1375b44}</id>
+     <foreignId>{95f62584-95d4-4131-88cc-7ca7392c86a9}</foreignId>
+     <text>My time management skills are excellent and I'm organized, efficient, and take pride in excelling at my work. When I'm working on a project, I don't want just to meet deadlines. Rather, I prefer to complete the project well ahead of schedule.</text>
+     <i18nText>My time management skills are excellent and I'm organized, efficient, and take pride in excelling at my work. When I'm working on a project, I don't want just to meet deadlines. Rather, I prefer to complete the project well ahead of schedule.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{906d2547-d5f3-41ea-92e8-73403242a218}</id>
+     <foreignId>{56cb3897-be0a-4c7b-8cda-def7ccdbc09e}</foreignId>
+     <text>I like to make sure that my work is perfect, so I tend to perhaps spend a little too much time checking it. However, I've come to a good balance by setting up a system to ensure everything is done correctly the first time.</text>
+     <i18nText>I like to make sure that my work is perfect, so I tend to perhaps spend a little too much time checking it. However, I've come to a good balance by setting up a system to ensure everything is done correctly the first time.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{9298af44-6bf9-44df-a906-f36acdcbcf7f}</id>
+     <foreignId>{45d03f99-421b-473c-9d56-cf99a830119a}</foreignId>
+     <text>Sometimes, I spend more time than necessary on a task, or take on tasks personally that could easily be delegated to someone else. Although I've never missed a deadline, it is still an effort for me to know when to move on to the next task, and to be confident when assigning others work.</text>
+     <i18nText>Sometimes, I spend more time than necessary on a task, or take on tasks personally that could easily be delegated to someone else. Although I've never missed a deadline, it is still an effort for me to know when to move on to the next task, and to be confident when assigning others work.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ded24558-c071-4783-a6bd-3112281f61fd}</id>
+     <foreignId>{11dad32a-2b5c-4054-90af-2bbf45319c41}</foreignId>
+     <text>I evaluate success in different ways. At work, it is meeting the goals set by my supervisors and my fellow workers. It is my understanding, from talking to other employees, that the GGR company is recognized for not only rewarding success, but giving employees opportunity to grow as well. After work, I enjoy playing softball, so success on the field is catching the winning pop-up.</text>
+     <i18nText>I evaluate success in different ways. At work, it is meeting the goals set by my supervisors and my fellow workers. It is my understanding, from talking to other employees, that the GGR company is recognized for not only rewarding success, but giving employees opportunity to grow as well. After work, I enjoy playing softball, so success on the field is catching the winning pop-up.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2583a624-20d8-4810-a5e0-c4b6961d0cc6}</id>
+     <foreignId>{360a7171-7908-4d55-ae11-b017909634cf}</foreignId>
+     <text>Stress is very important to me. With stress, I do the best possible job. The appropriate way to deal with stress is to make sure I have the correct balance between good stress and bad stress. I need good stress to stay motivated and productive.</text>
+     <i18nText>Stress is very important to me. With stress, I do the best possible job. The appropriate way to deal with stress is to make sure I have the correct balance between good stress and bad stress. I need good stress to stay motivated and productive.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
      <editState>unknown</editState>
