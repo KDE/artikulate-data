@@ -2646,101 +2646,101 @@
     <phrase>
      <id>{6867ccd8-5099-4615-8318-18181ba47fde}</id>
      <foreignId>{565a4bc9-884b-4104-a96e-fb5830792bb8}</foreignId>
-     <text>Greece</text>
+     <text>Grecja</text>
      <i18nText>Greece</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4926914b-da36-4c04-aebd-dd908666cac0}</id>
      <foreignId>{7005dad7-79e4-49de-9636-c6a72689b5ea}</foreignId>
-     <text>Germany</text>
+     <text>Niemcy</text>
      <i18nText>Germany</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e1d4a842-dabb-47a2-9711-2beee5497d7f}</id>
      <foreignId>{39ec664c-fb90-4e44-b3fe-5f4c0c5cf809}</foreignId>
-     <text>United States of America</text>
+     <text>Stany Zjednoczone Ameryki</text>
      <i18nText>United States of America</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fab6b18c-2402-4453-83a7-325f954b2861}</id>
      <foreignId>{f3be58dc-59f0-46af-aaf8-d4fac7f39f35}</foreignId>
-     <text>Spain</text>
+     <text>Hiszpania</text>
      <i18nText>Spain</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ef71fad0-f7c1-41d6-9073-9ba15e567df8}</id>
      <foreignId>{3da04216-0700-4fd4-b1bc-9f7b8fb03be8}</foreignId>
-     <text>France</text>
+     <text>Francja</text>
      <i18nText>France</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{994018ba-80c0-49be-85f6-885cda80ba54}</id>
      <foreignId>{67f07b95-e524-46a8-9f13-794559c7d47d}</foreignId>
-     <text>Great Britain</text>
+     <text>Wielka Brytania</text>
      <i18nText>Great Britain</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9841f2a7-d272-4081-96cb-15c3c141a266}</id>
      <foreignId>{37abb84a-0dcb-4087-a453-13ad455ed302}</foreignId>
-     <text>Brazil</text>
+     <text>Brazylia</text>
      <i18nText>Brazil</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ee042dd1-e507-4730-b6da-dd757ac6da99}</id>
      <foreignId>{f70b0692-8a4d-4642-8533-93213d7a9d86}</foreignId>
-     <text>Argentina</text>
+     <text>Argentyna</text>
      <i18nText>Argentina</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{81e6c8cf-25c7-4030-ba00-d9e68179bbf0}</id>
      <foreignId>{a096001d-a154-4d16-8950-ed749aecc48d}</foreignId>
-     <text>Russia</text>
+     <text>Rosja</text>
      <i18nText>Russia</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7d8bcf2d-be3a-4fdc-9f39-52927e357e98}</id>
      <foreignId>{3180c47c-69fe-411a-a5a8-295febff5ab1}</foreignId>
-     <text>Canada</text>
+     <text>Kanada</text>
      <i18nText>Canada</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2750,487 +2750,487 @@
      <i18nText>Australia</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1e2d0bb3-01c7-43c5-bede-638ca3ff2cd3}</id>
      <foreignId>{27849b42-f31c-4da0-aeb3-0169a575e07d}</foreignId>
-     <text>New Zealand</text>
+     <text>Nowa Zelandia</text>
      <i18nText>New Zealand</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6cdcdcfa-2501-4f5f-b718-002824ae8c10}</id>
      <foreignId>{5f15704c-5772-4b39-aac1-8abaab761c70}</foreignId>
-     <text>China</text>
+     <text>Chiny</text>
      <i18nText>China</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{23f9cfc6-dc99-4f7d-9109-84c54b187981}</id>
      <foreignId>{b83341ef-7fe1-4566-b490-b5a69a54b1c5}</foreignId>
-     <text>India</text>
+     <text>Indie</text>
      <i18nText>India</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1ff6d135-d07a-4e56-aa11-0ede2f8dd355}</id>
      <foreignId>{81e31083-47b5-4526-aa6c-ea975f813858}</foreignId>
-     <text>Japan</text>
+     <text>Japonia</text>
      <i18nText>Japan</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0201ca07-fbf9-466f-9931-271cc682ce51}</id>
      <foreignId>{98903ca5-3a97-4600-8861-a0d94c5fb15d}</foreignId>
-     <text>American</text>
+     <text>Amerkanin</text>
      <i18nText>American</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7c74edb6-a6e8-4519-a3dc-89cdb643b222}</id>
      <foreignId>{20ec9757-7a35-40f7-a389-6bddb0786702}</foreignId>
-     <text>English</text>
+     <text>Anglik</text>
      <i18nText>English</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7f50d92d-1e6e-4db7-bf67-ec2a27362b2e}</id>
      <foreignId>{ef7e1122-90d9-4655-986d-c0fa69414bc4}</foreignId>
-     <text>Canadian</text>
+     <text>Kanadyjczyk</text>
      <i18nText>Canadian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9464ae17-5010-454e-b3e1-a2173ef9d202}</id>
      <foreignId>{1b755772-da58-4694-b482-ed812a0b1b12}</foreignId>
-     <text>Spanish</text>
+     <text>Hiszpan</text>
      <i18nText>Spanish</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{098a5ae2-79b0-4d1a-8bfb-d8efe7b7c6f9}</id>
      <foreignId>{4c2f86d4-a09f-4175-ac70-ba23f826c0a6}</foreignId>
-     <text>Brazilian</text>
+     <text>Brazylijczyk</text>
      <i18nText>Brazilian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ec6b3390-dbab-4980-ae15-69a5d8323c76}</id>
      <foreignId>{c2d8ac5c-3827-4be8-bfed-f687b816fb06}</foreignId>
-     <text>Argentinian</text>
+     <text>Argentyńczyk</text>
      <i18nText>Argentinian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b9ea353b-8ee5-4719-8505-9e0a9bfaebc0}</id>
      <foreignId>{5beab421-e04e-4d7b-b544-91d0f06f55f0}</foreignId>
-     <text>Japanese</text>
+     <text>Japończyk</text>
      <i18nText>Japanese</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6ee6c109-97bb-48a8-8592-76b638e5367a}</id>
      <foreignId>{fdccc110-6d48-40d4-8e52-75bba6928881}</foreignId>
-     <text>Chinese</text>
+     <text>Chińczyk</text>
      <i18nText>Chinese</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fb0fa3d7-145c-4565-8edc-ed3ec7983d17}</id>
      <foreignId>{638fdfe5-8b77-44fa-9402-978102fd638b}</foreignId>
-     <text>French</text>
+     <text>Francuz</text>
      <i18nText>French</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1c47bab5-3c96-455b-ba64-ebae3b7613d0}</id>
      <foreignId>{5726ba83-871f-4007-8f0f-b4ba6a8f8a56}</foreignId>
-     <text>currency</text>
+     <text>waluta</text>
      <i18nText>currency</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6d282c6e-89df-4558-b226-cc0f8088a2f9}</id>
      <foreignId>{d3e44058-e136-45e5-9804-f1c86c9e6487}</foreignId>
-     <text>flag</text>
+     <text>flaga</text>
      <i18nText>flag</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0ff394dc-18a0-45c9-9d68-1c418cc15a84}</id>
      <foreignId>{aa4d046a-55b2-4138-ac05-55f98efbb1bc}</foreignId>
-     <text>passport</text>
+     <text>paszport</text>
      <i18nText>passport</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8190e5bc-c072-491f-b713-f32ddb2866cc}</id>
      <foreignId>{3527919b-8a7c-4880-a298-b98bc750fda2}</foreignId>
-     <text>speak a language</text>
+     <text>mówić w języku</text>
      <i18nText>speak a language</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0a0f338b-da40-4586-87ec-183d3594fe6e}</id>
      <foreignId>{335bb3a1-712a-42d5-8e4a-bd02b24ca651}</foreignId>
-     <text>come from</text>
+     <text>pochodzić</text>
      <i18nText>come from</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77ca8ca1-16ce-408a-8d01-40947c620de4}</id>
      <foreignId>{1b61b73e-a5db-4a80-86de-c9dc99827a9b}</foreignId>
-     <text>traditional dress</text>
+     <text>tradycyjny ubiór</text>
      <i18nText>traditional dress</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dd978729-58bc-4cbb-a13c-f6fc314ae0fc}</id>
      <foreignId>{eec7bd1a-4944-47fb-be0c-873fe4c40100}</foreignId>
-     <text>be fluent</text>
+     <text>mówić płynnie</text>
      <i18nText>be fluent</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e1daf2b5-2e45-4d98-99c5-eb63ba1ac561}</id>
      <foreignId>{b24165ba-6027-4e70-a0d3-2e46ad639c32}</foreignId>
-     <text>foreign country</text>
+     <text>kraj zagraniczny</text>
      <i18nText>foreign country</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eb7a4ccd-e951-4f13-b276-87dc217308f5}</id>
      <foreignId>{efa99dc5-1498-4cbf-a2a8-3a5934a46f8a}</foreignId>
-     <text>regional outfit</text>
+     <text>regionalny ubiór</text>
      <i18nText>regional outfit</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bd48f468-7283-415a-a993-e24923896363}</id>
      <foreignId>{c27bde10-87fd-493d-9e93-e00f143b987d}</foreignId>
-     <text>official language</text>
+     <text>oficjanly język</text>
      <i18nText>official language</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{82e56899-57fe-4b16-a61d-ef5b83101058}</id>
      <foreignId>{bb1b66bd-4af2-4029-92df-ed70278d50bf}</foreignId>
-     <text>national dish</text>
+     <text>narodowa potrawa</text>
      <i18nText>national dish</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3db626dd-ff46-4f9f-b0ee-1c593cb11fad}</id>
      <foreignId>{f27236b1-cd29-4008-93c5-7b08ef572cf8}</foreignId>
-     <text>capital city</text>
+     <text>stolica</text>
      <i18nText>capital city</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b22be053-1dde-45ac-8780-ed109bec3313}</id>
      <foreignId>{492aac48-4c49-40bd-90a0-e3bf0d8a99c1}</foreignId>
-     <text>European Union</text>
+     <text>Unia Europejska</text>
      <i18nText>European Union</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e95faa8e-1f9f-456b-b937-a9dee97ae67d}</id>
      <foreignId>{9a0983a0-491c-4de6-9580-1664868f6b18}</foreignId>
-     <text>go abroad</text>
+     <text>jechać za granicę</text>
      <i18nText>go abroad</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1d9f66ba-31d5-4e8a-869e-3676efba87e3}</id>
      <foreignId>{a7c7eb74-d770-485e-b06e-890525ec927c}</foreignId>
-     <text>travel overseas</text>
+     <text>podróżować za ocean</text>
      <i18nText>travel overseas</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{efd2cc0e-a4a9-4ec8-aec4-9ae15c91b31f}</id>
      <foreignId>{a9be6a5e-7979-41dd-ab74-575082a52efe}</foreignId>
-     <text>mother tongue</text>
+     <text>język ojczysty</text>
      <i18nText>mother tongue</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{821fd196-e212-4e7a-9db5-828cc7881754}</id>
      <foreignId>{af3a2074-66c1-4eb0-87b5-6234ce6d82cb}</foreignId>
-     <text>local dialect</text>
+     <text>lokalny dialekt</text>
      <i18nText>local dialect</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{36fb543f-c75b-4995-bc6f-6aa78c77e89e}</id>
      <foreignId>{d68b2825-e8a9-443b-9159-a4dfec6ff7e6}</foreignId>
-     <text>culture shock</text>
+     <text>szok kulturowy</text>
      <i18nText>culture shock</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{55f27c18-6558-4bec-911c-7469367f67bf}</id>
      <foreignId>{fd8cbffa-3907-4d51-bcde-b7c20d4d1d77}</foreignId>
-     <text>cultural stereotype</text>
+     <text>kulturowy stereotyp</text>
      <i18nText>cultural stereotype</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d5323842-d2bc-445e-994b-f7d9c74ca627}</id>
      <foreignId>{71c5bf98-fe19-45cb-9f2d-28a27056a001}</foreignId>
-     <text>Where are you from?</text>
+     <text>Skąd pochodzisz?</text>
      <i18nText>Where are you from?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cb6ae5f9-82d1-452a-80d0-c790c9ed7728}</id>
      <foreignId>{64be1424-598a-48fe-b0ee-7e075cdd8ff2}</foreignId>
-     <text>What is you nationality?</text>
+     <text>Jakiej narodowości jesteś?</text>
      <i18nText>What is you nationality?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{43354223-c4d7-4158-9542-996f15f02a37}</id>
      <foreignId>{53345892-f6f1-4c9f-ad05-45ec2290ca85}</foreignId>
-     <text>In Brazil people speak portuguese.</text>
+     <text>W Brazyli mówi się po portugalsku.</text>
      <i18nText>In Brazil people speak portuguese.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9920a319-9aeb-4eb1-8e09-bfe073b06aa2}</id>
      <foreignId>{6d6335a1-d7a1-453d-9815-e3bc926e5872}</foreignId>
-     <text>I am French.</text>
+     <text>Jestem francuską.</text>
      <i18nText>I am French.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b26af1b7-2ea7-4725-8050-f77843e79f0f}</id>
      <foreignId>{fc0a450f-bcbc-4ea7-a127-d815d2646c60}</foreignId>
-     <text>Polish and Check are Slavic languages.</text>
+     <text>Polski i czeski są językami słowiańskimi.</text>
      <i18nText>Polish and Check are Slavic languages.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{62012703-d43f-4f03-97b0-44899bfdc69a}</id>
      <foreignId>{32a35a54-6b25-47bc-8ea7-7a2e05c39626}</foreignId>
-     <text>I live in Australia.</text>
+     <text>Mieszkam w Australii.</text>
      <i18nText>I live in Australia.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ed105412-571e-4365-97e2-3e0b618835fd}</id>
      <foreignId>{8ab66404-44a6-446e-96eb-0cb7745d7ac7}</foreignId>
-     <text>I can speak Spanish, German and a bit of Italian.</text>
+     <text>Mówię po hiszpańsku, niemiecku i trochę po włosku.</text>
      <i18nText>I can speak Spanish, German and a bit of Italian.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{afb8382d-37ec-4c17-97d7-9f5728550b6d}</id>
      <foreignId>{7240079e-64ea-403a-9ec6-13e059b6d97b}</foreignId>
-     <text>Haggis is a Scottish national dish.</text>
+     <text>Haggis to narodowa potrawa szkocka.</text>
      <i18nText>Haggis is a Scottish national dish.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fbccdd35-669d-4cc3-b2f9-5cfc5e253709}</id>
      <foreignId>{5ba2ee29-0342-46f7-a082-37d4452624fd}</foreignId>
-     <text>There are three colours on German flag: red, black and yellow.</text>
+     <text>Niemiecka flaga składa się z trzech kolorów: czrewonego, czarngeo i żółtego.</text>
      <i18nText>There are three colours on German flag: red, black and yellow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c67b54f6-fb61-481a-aee3-f7bbbdb254b1}</id>
      <foreignId>{4916c445-b916-4afa-be27-f068247727d7}</foreignId>
-     <text>Warsaw is Poland's capital city.</text>
+     <text>Warszawa jest stolicą Polski.</text>
      <i18nText>Warsaw is Poland's capital city.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a8ace78e-e5d8-4537-99bb-a9a5a174ae9a}</id>
      <foreignId>{e4aa21fd-f647-45c5-98be-ffddba6111f4}</foreignId>
-     <text>What is a traditional Indian dish?</text>
+     <text>Jaka jest narodowa potrawa indyjska?</text>
      <i18nText>What is a traditional Indian dish?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a18e7ea4-0b95-436b-8306-c2595ff9f0b2}</id>
      <foreignId>{b3fe2864-42a5-4bc2-8349-d3baa7dfaa1c}</foreignId>
-     <text>I was born in a small village in Salvador.</text>
+     <text>Urodziłem się w małej wiosce w Salwadorze.</text>
      <i18nText>I was born in a small village in Salvador.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{443b1da8-8ae0-4ffe-bef6-8cd6b30fb3b4}</id>
      <foreignId>{758cb73e-7410-4708-9854-48f554248611}</foreignId>
-     <text>Italian dialect from south is very different from any other dialects spoken in the country.</text>
+     <text>Włoski dialekt z południa różnie sie wiele od jakiegokolwiek dialektu tego kraju.</text>
      <i18nText>Italian dialect from south is very different from any other dialects spoken in the country.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fa625fc3-05f5-455f-87f9-91edf47d1ca3}</id>
      <foreignId>{47d08943-2a92-45da-be63-f500d4b595b5}</foreignId>
-     <text>Los Angeles has a large amount of ethnic and cultural diversity.</text>
+     <text>Los Angeles jest bardzo zróżnicowane etnicznie i kulturowo.</text>
      <i18nText>Los Angeles has a large amount of ethnic and cultural diversity.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60f0c6c6-d228-42f9-acda-4206f706b921}</id>
      <foreignId>{caebae74-e96a-4ced-9994-65d5e8c953a8}</foreignId>
-     <text>Eating turkey on Christmas Day in Australia is a tradition.</text>
+     <text>W Australii tradycyjnie je się indyka w Święta Bożego Narodzenia.</text>
      <i18nText>Eating turkey on Christmas Day in Australia is a tradition.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0a216e68-5355-4154-8ff9-e9246ceb9d9d}</id>
      <foreignId>{f7e0fe37-846a-4190-b132-e5fba0461900}</foreignId>
-     <text>Russia is the largest country in the world.</text>
+     <text>Rosja jest największym krajem na świecie.</text>
      <i18nText>Russia is the largest country in the world.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
