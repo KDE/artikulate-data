@@ -5065,5 +5065,471 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{02f0bc36-a06a-4835-b23e-5ff22fc78b72}</id>
+   <title>At a Job Interview</title>
+   <phrases>
+    <phrase>
+     <id>{4dd57b53-de84-4c61-ab7c-d1ce63764456}</id>
+     <text>occupation</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3a01aaba-f5df-4c31-8b55-ba240597775e}</id>
+     <text>hired</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{fdf5007f-e1c1-4479-8b5e-40daf5a37c17}</id>
+     <text>vacancy</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9cbf1b59-57fb-4e7e-8a2d-8cefa0041028}</id>
+     <text>post</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{154d138e-74e7-48a9-a19a-eb9c9b988286}</id>
+     <text>company</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ca478dc5-a4b3-4461-8164-fe8301e69933}</id>
+     <text>firm</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d4780920-00cb-414a-9540-1e9e89201c46}</id>
+     <text>organization</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0a3ee35d-47c1-424e-91be-b56dfbece1dc}</id>
+     <text>qualifications</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1eb1dd3f-9159-4297-b700-4c160ddda350}</id>
+     <text>degree</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{2653672e-6d60-4c8e-8b78-61b8a57bb489}</id>
+     <text>resume</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6546a26a-ab1f-4283-afa7-d60b1444f025}</id>
+     <text>recommendation</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ef55d4b5-2b49-4a92-9bb7-e712fac89407}</id>
+     <text>staff</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d27f3a66-e999-4546-a2df-cb2689afe7cb}</id>
+     <text>employee</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3df0206d-a975-44fe-ba8f-3274347c98e3}</id>
+     <text>employer</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d504ee07-0841-4470-abf9-b21e01ea67d3}</id>
+     <text>subordinate</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4d857fe6-8c38-4ab1-87aa-fa10998c81d6}</id>
+     <text>colleague</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d3cd780f-e235-4292-b4b4-4f353d84e0ab}</id>
+     <text>recruitment</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{45835a28-3c20-427c-81b6-2051c85cbff6}</id>
+     <text>sir</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{12a92cb6-1656-4582-90a6-c47da5ee241e}</id>
+     <text>madam</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5a0ffca0-f3b8-4532-920f-afe9fd5df88f}</id>
+     <text>proficiency</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{acbaa712-0b6b-4a2c-a228-478aca41de7e}</id>
+     <text>offer</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{718dd854-1894-43bc-ba04-d9d8cb4ff962}</id>
+     <text>apply</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6c4f9ae6-eb10-4ead-887a-5cf0deae7a89}</id>
+     <text>career</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5aa41839-96f7-415e-956f-75e66a9d9a66}</id>
+     <text>experience</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{69ea1743-47bb-45b7-8024-9a8f46d8ae88}</id>
+     <text>office</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3f1fd3bd-3964-41a3-8d55-fcb0cf06fe8a}</id>
+     <text>designation</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6d2c4fbb-d75a-439e-9958-f85cb06edf0f}</id>
+     <text>scholarship</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{198bf0fb-5447-4efc-846b-430888b88097}</id>
+     <text>fellowship</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f78c8626-9256-44bc-b5c0-c123ac913367}</id>
+     <text>diploma</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{eb2a9ceb-9350-4a55-b80b-8c36bfd78896}</id>
+     <text>freelancer</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b1b62402-98f7-4670-ae6b-90efe1611b1a}</id>
+     <text>polytechnic</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{8bbe7619-fdbd-4627-90b0-d2865cb37db6}</id>
+     <text>payscale</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{69eddae5-38ab-4481-9615-b6f9fd93a27e}</id>
+     <text>cumulative</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6a8df988-a74e-4a2a-933c-b8a9abadfe17}</id>
+     <text>remuneration</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{bbc3d875-16b4-48fa-be88-66aa6b7c3463}</id>
+     <text>bonus</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{310d66d9-e005-4886-b755-bc082cd88024}</id>
+     <text>university</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f4cbfb25-d4f9-41d9-86c6-14096cdec2c3}</id>
+     <text>graduation</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d13a3b0e-3694-45df-848f-2052717e37fa}</id>
+     <text>doctorate</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{04f32774-b116-42e6-871a-7d6eeaf76d22}</id>
+     <text>school</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{740c2247-b47e-4276-a269-64fed2b812fc}</id>
+     <text>college</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f26f6bb1-52bd-4e01-ad35-bbbd513d5fc6}</id>
+     <text>eligibility criteria</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{cbc00dba-bc8b-4938-a53d-ed7aa2d7361a}</id>
+     <text>curriculum vitae</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{a180f87f-48a6-4bf2-a6ac-0a1f8ba3f627}</id>
+     <text>job experience</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{dc4cbab4-9c2a-4f9d-b458-6b1baf89fa85}</id>
+     <text>offer letter</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{8e4fefdd-c259-4075-a70c-e54385813c24}</id>
+     <text>post graduate course</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{148cf39a-90be-44c0-a686-a6abe4fa6cef}</id>
+     <text>post doctoral fellowship</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{a54b552e-3e5e-4478-ad30-10a9351cb90f}</id>
+     <text>career counsellor</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{80cb395f-7925-47b6-8a6c-688601d64cab}</id>
+     <text>financial advisor</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{1e18f411-94fd-4b3a-941a-d4a9cf82489e}</id>
+     <text>summer internship</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{2825d4a3-61d2-4f03-a25e-5d5599a3bf68}</id>
+     <text>human resource development</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{456360b6-f251-4bf6-9862-b1d592fa44ab}</id>
+     <text>board of directors</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0f962908-ce45-4bcf-9c57-56278779423d}</id>
+     <text>managing director</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{ce1b01b4-f311-4709-a361-2f2e1accb0c4}</id>
+     <text>executive director</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b6c4e282-0a89-4cc8-b1f1-c0ee810f34f5}</id>
+     <text>deputy registrar</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0e2b827d-2eee-47fb-b071-375fa1ca7ef4}</id>
+     <text>project manager</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d5079fa2-9774-4761-a069-299cf70f90a9}</id>
+     <text>research assisstant</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{6de6e374-21fd-4e30-bc87-f3e974623ffc}</id>
+     <text>associate software engineer</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{689682cc-86ee-4cc9-8624-49464ad2cc92}</id>
+     <text>chartered accountant</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{307d2010-38fd-4097-a25a-94d6191b8a88}</id>
+     <text>law firm</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{c6bd171e-743a-47c9-a8ba-ca0247d7f9d7}</id>
+     <text>audit firm</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d93a8780-87a1-4a0b-8364-0257322b4a77}</id>
+     <text>intelligence quotient</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{cd580506-4797-4624-af78-30f9c033c889}</id>
+     <text>programming skills</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{16a80207-8ba9-4e26-9bbc-580668c494da}</id>
+     <text>extra curricular activities</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9580b87a-f210-4f85-99e8-d1b7f26b6fe7}</id>
+     <text>probation period</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0cb64209-18f3-4fbb-bac9-2aae4af66e4b}</id>
+     <text>fashion designer</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7c879ba6-55cc-44d2-990f-bf1dce39fb91}</id>
+     <text>master of business administration</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{2efc2ed6-3c12-45e5-8a00-04514bcb1906}</id>
+     <text>bachelor of technology</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{6c564aa7-5027-4d25-88e7-c3b3c06114db}</id>
+     <text>I really appreciate the opportunity to interview for this position.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{f2436862-850f-4fa7-92f2-abf508c99851}</id>
+     <text>Hi, my name is Michelle Scott.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{736a7353-c44a-4f8b-a5ea-b03163434bbd}</id>
+     <text>I am very familiar with what your company does.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{dadb38e0-ed2a-4b96-8ebc-3f9b42ee125d}</id>
+     <text>I am highly motivated.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{34d50b3c-4d0f-41c6-a341-70a52313c066}</id>
+     <text>I am seeking to become an expert in my field.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3708ad0a-195a-4546-8fbe-2d6b51ee86ab}</id>
+     <text>I am energetic and have a positive attitude.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{ee382601-1d3c-4df2-bc25-29ba3be802cc}</id>
+     <text>I have a great deal of experience.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{294493c4-72af-4c85-ab9d-31b70cf26f9f}</id>
+     <text>I am a team player.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{a8db142a-d193-4570-b777-d591be9769f1}</id>
+     <text>I am flexible.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4dc15e53-1365-479e-8896-6bc24cbc59f3}</id>
+     <text>I need job security.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{2a45d5f8-d63a-4004-a52d-c5d56cff35ec}</id>
+     <text>I am open to relocating.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{461d9cdc-53cd-4b11-8807-b28426453b24}</id>
+     <text>I need to stay in the area because of family.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{2a2dcbd8-e045-4270-834b-8545cb7091be}</id>
+     <text>I want to grow in my job and move ahead.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{7197bbff-5ff1-445a-9455-d6883619f158}</id>
+     <text>I like to work alone on some things and then bring those things to the group.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e5b20ed8-f7c3-4f04-a59f-7ab0960025d2}</id>
+     <text>I pride myself on my customer service skills and my ability to resolve what could be difficult situations.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{1361120a-9abd-4395-92fd-7ec3cddd2b7d}</id>
+     <text>I have exceeded my sales goals every quarter and I've earned a bonus each year since I started with my current employer.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{f54e3fc7-fef6-4052-81f0-21243e8dc5f7}</id>
+     <text>I've learned to make my perfectionism work to my advantage at work.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{6342f8c5-e6bc-44dd-9dc7-a679f0d5a42e}</id>
+     <text>Being organized wasn't my strongest point, but I implemented a time management system that really helped my organization skills.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{c307cb09-4f75-4e37-a736-d6de1289c8a9}</id>
+     <text>I was the university topper in 2006.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{fb2ddff2-0f5a-4391-9ac8-fb55ba32c89a}</id>
+     <text>I'm the kind of person who stays calm under pressure, and handles stress fairly easily.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{95f62584-95d4-4131-88cc-7ca7392c86a9}</id>
+     <text>My time management skills are excellent and I'm organized, efficient, and take pride in excelling at my work. When I'm working on a project, I don't want just to meet deadlines. Rather, I prefer to complete the project well ahead of schedule.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{56cb3897-be0a-4c7b-8cda-def7ccdbc09e}</id>
+     <text>I like to make sure that my work is perfect, so I tend to perhaps spend a little too much time checking it. However, I've come to a good balance by setting up a system to ensure everything is done correctly the first time.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{45d03f99-421b-473c-9d56-cf99a830119a}</id>
+     <text>Sometimes, I spend more time than necessary on a task, or take on tasks personally that could easily be delegated to someone else. Although I've never missed a deadline, it is still an effort for me to know when to move on to the next task, and to be confident when assigning others work.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{11dad32a-2b5c-4054-90af-2bbf45319c41}</id>
+     <text>I evaluate success in different ways. At work, it is meeting the goals set by my supervisors and my fellow workers. It is my understanding, from talking to other employees, that the GGR company is recognized for not only rewarding success, but giving employees opportunity to grow as well. After work, I enjoy playing softball, so success on the field is catching the winning pop-up.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{360a7171-7908-4d55-ae11-b017909634cf}</id>
+     <text>Stress is very important to me. With stress, I do the best possible job. The appropriate way to deal with stress is to make sure I have the correct balance between good stress and bad stress. I need good stress to stay motivated and productive.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
