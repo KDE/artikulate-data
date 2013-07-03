@@ -66,222 +66,316 @@
     <phrase>
      <id>{a93b607a-cba0-4140-827e-8a5a7e20a9a5}</id>
      <foreignId>{24e8ef0c-9234-4da5-a6fe-dbd5104f57d5}</foreignId>
-     <text>0</text>
+     <text>০</text>
      <i18nText>0</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8f45e40c-9ab2-4b9e-a0b4-8034cd082a59}</id>
      <foreignId>{ae91a229-b4a9-4264-9a26-75a55aa5d302}</foreignId>
-     <text>1</text>
+     <text>১</text>
      <i18nText>1</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c37b6896-018c-450d-b162-8bac171366fc}</id>
      <foreignId>{8d7b65c2-e8f2-4153-86cc-9ed3293959d5}</foreignId>
-     <text>2</text>
+     <text>২</text>
      <i18nText>2</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>ui</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8a2bfd58-a823-424e-83d4-3d28ca7e8816}</id>
      <foreignId>{b682e2bd-b16d-4eaf-9935-5eabaa97f1a1}</foreignId>
-     <text>3</text>
+     <text>৩</text>
      <i18nText>3</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{187a067d-d142-44f4-9230-e82092bb810a}</id>
      <foreignId>{9718cb32-b05d-4f99-9f3a-e5e3973cfe2a}</foreignId>
-     <text>4</text>
+     <text>৪</text>
      <i18nText>4</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{374fea21-9f68-415a-868e-b4fef4485285}</id>
      <foreignId>{b5e7f4e3-c265-427f-acb0-f9d1922d994b}</foreignId>
-     <text>5</text>
+     <text>৫</text>
      <i18nText>5</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>c</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f4ae7f19-f148-41a5-88a8-bf9aa79b891f}</id>
      <foreignId>{eafc05e9-0bb4-4c54-ae0c-990d2610b68b}</foreignId>
-     <text>6</text>
+     <text>৬</text>
      <i18nText>6</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1041a9b7-c2d7-433c-a909-401f40ec1498}</id>
      <foreignId>{d24872ac-7751-41c4-b1c4-cf2a54bd95f5}</foreignId>
-     <text>7</text>
+     <text>৭</text>
      <i18nText>7</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e318b9c2-8e1b-469b-89d9-9c1621d2454c}</id>
      <foreignId>{8178c10f-1204-4cc3-9023-69935eea0c1e}</foreignId>
-     <text>8</text>
+     <text>৮</text>
      <i18nText>8</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{567230d0-2360-4425-82ea-f620666aa093}</id>
      <foreignId>{01320417-9ccf-4bd7-8c66-659e68e2449a}</foreignId>
-     <text>9</text>
+     <text>৯</text>
      <i18nText>9</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8e5233e1-ed9c-46ff-bfcf-6119e8bbf715}</id>
      <foreignId>{83a9943b-1d34-45a0-a446-b6388784b2de}</foreignId>
-     <text>10</text>
+     <text>১০</text>
      <i18nText>10</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4e7ca8f0-584e-46f6-82bc-25d80d01618b}</id>
      <foreignId>{ebd67728-48e8-4dee-846b-a8d55f9173b4}</foreignId>
-     <text>11</text>
+     <text>১১</text>
      <i18nText>11</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4a967904-af42-4995-9965-13be9c750e1e}</id>
      <foreignId>{c1c55dc8-cfac-43df-bf61-f15d9d65cd17}</foreignId>
-     <text>12</text>
+     <text>১২</text>
      <i18nText>12</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ebb4b140-6e15-4afd-9386-f2e1fc218e60}</id>
      <foreignId>{eccc866d-4600-4284-82b4-96fb1120fc7f}</foreignId>
-     <text>13</text>
+     <text>১৩</text>
      <i18nText>13</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5bb23429-37a1-4b6f-9434-41aa31f9a88b}</id>
      <foreignId>{b88e772d-5311-45f5-8628-259df44fafbe}</foreignId>
-     <text>14</text>
+     <text>১৪</text>
      <i18nText>14</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{04a561d5-104f-43b4-9d4d-b6f4ca8ae302}</id>
      <foreignId>{992b0dad-e3d3-428c-99fe-920e6646186d}</foreignId>
-     <text>15</text>
+     <text>১৫</text>
      <i18nText>15</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4e2476f7-5074-441a-bf3a-c326653c243e}</id>
      <foreignId>{efd24631-c719-44e9-a5d5-bccfe4a32c10}</foreignId>
-     <text>16</text>
+     <text>১৬</text>
      <i18nText>16</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{faef8f9c-c51a-4a72-8672-1887677643b9}</id>
      <foreignId>{9b410c81-c696-4bbd-9dc1-76d30c981dc5}</foreignId>
-     <text>17</text>
+     <text>১৭</text>
      <i18nText>17</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e2d082ec-952a-4273-9d51-8971cbc5e3bd}</id>
      <foreignId>{a8119748-2dd9-4833-9bc7-956f3229b2be}</foreignId>
-     <text>18</text>
+     <text>১৮</text>
      <i18nText>18</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>th</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{791c7626-f8fc-4442-a61b-d07069f96820}</id>
      <foreignId>{5e43eccb-80bc-46b9-807d-465540f26a9e}</foreignId>
-     <text>19</text>
+     <text>১৯</text>
      <i18nText>19</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>u</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{83bb7e7b-c6ca-4e36-876f-ee46e3029886}</id>
      <foreignId>{f71d08ef-5349-4bdf-b934-f45711ad4f88}</foreignId>
-     <text>20</text>
+     <text>২০</text>
      <i18nText>20</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{65e883b4-6ad0-4598-9c89-2225d2ea8096}</id>
      <foreignId>{213604b9-75ff-42bd-85bc-5db8db7c607a}</foreignId>
-     <text>21</text>
+     <text>২১</text>
      <i18nText>21</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
    </phrases>
   </unit>
