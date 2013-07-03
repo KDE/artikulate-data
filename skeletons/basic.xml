@@ -5987,5 +5987,406 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{9656d693-2cbc-4ff5-be52-c3749effd144}</id>
+   <title>Pets</title>
+   <phrases>
+    <phrase>
+     <id>{7a3093e2-4668-499b-924f-0c3745c09fe7}</id>
+     <text>dog</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{86ff747e-01c1-4909-b17c-5c46c77a01dd}</id>
+     <text>puppies</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{53151b94-a46a-41fc-95c5-52d7e43c77c0}</id>
+     <text>cat</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0cad0354-c55c-401a-8258-aa013f4b9c82}</id>
+     <text>kitten</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ea69888e-8df5-41ff-90b9-91e5013dcc17}</id>
+     <text>companion</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{668cf3d0-0f1e-4c58-803a-84b0ff37c591}</id>
+     <text>adopt</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4f585b0b-37cf-470b-93e1-6390046b170a}</id>
+     <text>rodent</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b0a79606-2b25-4f28-b108-1e10a36deeae}</id>
+     <text>avian</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{cc8d0351-9da6-42bf-905a-0bdae81a11cd}</id>
+     <text>aquarium</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{e8e00a23-409a-4030-be85-d90018d21c61}</id>
+     <text>gerbils</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{903eeb14-e304-4d12-813c-15fdf094577c}</id>
+     <text>hamsters</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9e9dcfd9-7813-4218-8e69-8ebee12f8e7c}</id>
+     <text>chinchillas</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f5b7ad46-7538-41cc-8883-ade2eec16d10}</id>
+     <text>canaries</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{dc48bd8b-4fb3-46d4-a9a3-01a1f9900fef}</id>
+     <text>parakeets</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{26948fe8-620e-4939-a6aa-a5424402b2fb}</id>
+     <text>parrots</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4e47aef6-6039-4b4f-b5a9-91c02b0974a9}</id>
+     <text>turtles</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{441de0b2-8b23-4e12-be2a-fa3dc8794892}</id>
+     <text>lizards</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{79f2a834-46e2-42f2-87e4-29f090f228ae}</id>
+     <text>snakes</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b3a54aad-eab9-4d7f-8dcb-02c0c1e38150}</id>
+     <text>fish</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f1bfd3b2-83cb-4226-b2ca-f28c637a982a}</id>
+     <text>frogs</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{cf842fb6-ffdd-4dd5-b22f-568ca65be521}</id>
+     <text>arthropod</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{cd535508-6e00-46b7-aa4e-b29a9b10d7fb}</id>
+     <text>tarantula</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{9dbffee5-819f-4083-a15c-f2d8adae421f}</id>
+     <text>equine</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{33232aa8-8358-4c14-8cc3-83ec1f41ad9d}</id>
+     <text>rabbit</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ce99d8aa-3e3e-4134-a040-874976b10ff1}</id>
+     <text>millipede</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a248e424-159f-4af3-b3e9-3bfc16ef3731}</id>
+     <text>friend</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b3ffb883-1a07-4e1c-b429-18196c85f4f6}</id>
+     <text>love</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3712b08f-e33a-4ff2-83df-a80958c21585}</id>
+     <text>care</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6e088abb-9e85-42c3-9478-63a2223dbbb4}</id>
+     <text>protection</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3c097561-fab5-4b74-898d-bf5a363efb53}</id>
+     <text>shelter</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{417f49ff-cb38-4f89-9fe1-cc2833963605}</id>
+     <text>house</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c025082b-e2a0-4dda-af8a-d3600504242e}</id>
+     <text>veterinarian</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{85fff692-40bc-45f0-af04-7eb95ee9b8bd}</id>
+     <text>disease</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{bdc6a92c-593d-49ef-95c0-e849e3d905ab}</id>
+     <text>fur</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1f57915f-aa60-4aff-97fb-40fc59012722}</id>
+     <text>tail</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0259fedf-9e38-43b6-94c4-0db9f30d6a4c}</id>
+     <text>spaniel</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{fc6dde39-5dde-4138-a4e9-88c041fbab1c}</id>
+     <text>bulldog</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d346e26b-0bce-4fee-9f41-b6a26e214831}</id>
+     <text>aquatic pet</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0adec509-3070-4b8d-a0b9-6502df04a462}</id>
+     <text>tropical fish</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d5373204-d88a-4c86-93d3-cb8fa9b317ec}</id>
+     <text>hermit crab</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{db5e12c2-0afc-4e0c-8310-689632e8bfd6}</id>
+     <text>stick insect</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4ad454e4-809e-4bdb-afa5-e95a311bb2e4}</id>
+     <text>regular health checkups</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d1f7c570-1c43-4593-9653-cdb82b9a2700}</id>
+     <text>guinea pig</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{84779753-ecc7-4fb6-b9fc-2f859f48c34d}</id>
+     <text>fancy rat</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{d70782c3-017c-46ce-b47b-be35b15ddc04}</id>
+     <text>breeds of dogs</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bf4d95bc-e8b4-4ed3-b40a-8b198a5b990a}</id>
+     <text>german shepherd</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{0573566f-847d-4fa6-b902-4ad7255ed910}</id>
+     <text>black russian terrier</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9e7798a3-abf1-43be-a986-8d8cab1b3a66}</id>
+     <text>chow chow</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{64172dca-d896-4386-9052-9396086ba053}</id>
+     <text>cute little puppies</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{1f41fb5f-9eed-4fdb-988f-855c1da3dc99}</id>
+     <text>go for a walk</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{ded7fc23-1b01-4959-87e2-c09b3ca13936}</id>
+     <text>feed the cats</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{c7fec4c3-ea65-4b83-842e-da1f60454999}</id>
+     <text>fight loneliness</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f4eb5447-f44a-426f-817b-ceb1a4791caa}</id>
+     <text>furry friend</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{07c49776-3c63-488f-a81e-bf60d97e6fab}</id>
+     <text>feel happy</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{50ccf5fe-ccb9-46a7-8e34-b537699c2aff}</id>
+     <text>yellow labrador retriever</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{2b22ff78-53a0-4cc9-994e-b6f8f002edc8}</id>
+     <text>play with</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{6d123bc2-b303-47f0-89e7-7f6ea9189833}</id>
+     <text>talk to</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{12c47607-c183-4ba6-8c76-881710d22df9}</id>
+     <text>family member</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b75a3b38-04b8-456d-8d36-fb47b5864495}</id>
+     <text>Dog is man's best friend.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{7aee94c4-2835-4aa1-aefb-d5349fad3f9d}</id>
+     <text>I need to take my dog for a walk now.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{5daa81cb-bce9-497e-9fff-d396ba6929e1}</id>
+     <text>Are pets allowed inside the supermarket?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{1a9660cc-3b37-4a1f-959d-3868ee88bc02}</id>
+     <text>I take my cats to the vet every month.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e4b8b08b-4fc6-4b03-b1b6-201185c59ef2}</id>
+     <text>Where can I get dog food?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e493c854-e0ee-419b-8a77-e733c06d245b}</id>
+     <text>My son recently got a pet iguana which he named Jamie.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{f3b7e4b2-8dea-47ee-8870-cfbbb7733fd3}</id>
+     <text>My dog won the local pet talent show this week.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{768ae8f5-35d9-4130-a663-c691d26d9835}</id>
+     <text>Does that gorgeous golden retriever belong to you?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3a7d156c-af72-4230-b1aa-612e662b20b5}</id>
+     <text>Pugs are one of the most popular pet dogs.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{6a035e5b-84e7-4ed3-a913-d84ece8b1e32}</id>
+     <text>Its my cat's first birthday today.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{9a70d618-bf90-4a85-8100-1f15e7f92193}</id>
+     <text>My dog is five years and eight months old.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4514bf50-9547-4465-a746-1bf984f77d0e}</id>
+     <text>My grandmother gifted me these two lovely parakeets on my birthday this year.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{5aab3f35-390e-415d-bc08-6f10e90740e7}</id>
+     <text>Our neighbour's hamster went missing last night.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{6e47e36d-96e0-4297-8a26-ec28b48a26b5}</id>
+     <text>Mrs Wilson had a tough time dealing with her dog's sudden death.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{44c01401-d2d1-4bcb-9b96-2a87f1f007a7}</id>
+     <text>I always wanted to have pet rabbits.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{2f0ebad7-0e8e-4645-a917-6e9efab78fa3}</id>
+     <text>My mother takes care of the kittens while I'm at work.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{caf316c1-0c78-49fb-b9d9-e0cf25c5350f}</id>
+     <text>After a lot of pestering, my father got me a cat last summer. She is absolutely adorable and her furry coat is as white as snow. So, we named her Snowball.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{283e769b-7b7c-47e4-9798-17c73f066a4a}</id>
+     <text>When I was six years old, I had a little dog named Jimmy. He was a very faithful dog to our family. He used to take care of me and my sister when we were little. My mother always trusted Jimmy because he never used to leave us alone or allow anyone to touch us while she was away.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{644769f9-1851-4d5e-bf11-e211f2ac1918}</id>
+     <text>Pets have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past. Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{9f2a289a-ea4f-4999-8879-6b17c9595599}</id>
+     <text>Snakes are among the most fascinating animals to keep as pets, and with a wide variety of species to choose from, snake lovers may have a tough time keeping just one type. Though ferocious predators, most snakes can become docile and even friendly with enough handling and good care.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{81f52b41-ab44-463d-9934-a7f997ed6381}</id>
+     <text>One of the health risks that is associated with pets is falling injuries. Tripping over pets, especially dogs, causes more than 86,000 falls serious enough to prompt a trip to the emergency room each year in the United States. Among elderly and disabled people, these falls have resulted in life-threatening injuries and broken bones.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
