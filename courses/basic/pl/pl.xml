@@ -280,9 +280,9 @@
      <foreignId>{060b6311-c362-451d-a245-68887c63bd6f}</foreignId>
      <text>A</text>
      <i18nText>A</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bd258a73-8b2d-4620-9c58-b79017ecd3ae}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -300,9 +300,9 @@
      <foreignId>{4a1c0d9b-126e-4ca9-8a01-55d192c60a6b}</foreignId>
      <text>C</text>
      <i18nText>C</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8ab7ce3d-c04d-4cc7-8c3f-1ec89694314c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -320,9 +320,9 @@
      <foreignId>{6e23fb32-f5f2-48e6-bb9e-74e42d8baa16}</foreignId>
      <text>E</text>
      <i18nText>E</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f4c10610-d30b-489c-80e1-eddde9bf29b2}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -340,9 +340,9 @@
      <foreignId>{9b6b6670-e42c-411a-9ecf-e4b7393b83b4}</foreignId>
      <text>G</text>
      <i18nText>G</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bdee2ee0-025b-48ba-a025-8b13e5cabced}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -360,9 +360,9 @@
      <foreignId>{fc484cb7-e3aa-4217-a837-c334712d5781}</foreignId>
      <text>I</text>
      <i18nText>I</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5c9909e4-371e-4e15-a3bb-67d25fdb3481}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -380,9 +380,9 @@
      <foreignId>{69099f11-b5ac-444c-b4c3-16d00303eb8e}</foreignId>
      <text>K</text>
      <i18nText>K</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7e4d36a1-eb2d-421f-b453-76988617b6d1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -400,9 +400,9 @@
      <foreignId>{fe194e00-9c71-4512-8b71-59fe924b7ae2}</foreignId>
      <text>M</text>
      <i18nText>M</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7ff0988e-d101-4060-aad0-19036dc80016}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -420,9 +420,9 @@
      <foreignId>{c93bbcdf-4e9d-410b-a7e6-c6fdfe10fedf}</foreignId>
      <text>O</text>
      <i18nText>O</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{71631ec0-9c83-46a1-8a68-694117e84b94}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -440,9 +440,9 @@
      <foreignId>{90fb287a-3ddc-45d8-8e3c-267d9f9cbb9d}</foreignId>
      <text>Q</text>
      <i18nText>Q</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5e5fe418-268e-4d19-a439-81bff461f974}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -460,9 +460,9 @@
      <foreignId>{1883ac71-a239-4640-bc85-22b9127314cd}</foreignId>
      <text>S</text>
      <i18nText>S</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{77da3d85-40d0-4679-8c3a-576d068adff0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -480,9 +480,9 @@
      <foreignId>{78f84cb3-a595-4d3f-bc5a-b032ed3e50b1}</foreignId>
      <text>U</text>
      <i18nText>U</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ba1fcfaa-c9e7-410d-81e0-6000661355f9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -500,9 +500,9 @@
      <foreignId>{bf6f88c0-87f9-4ad9-ab2c-d7644954451a}</foreignId>
      <text>W</text>
      <i18nText>W</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0877289b-9c44-4d42-806b-1305af642c32}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -520,9 +520,9 @@
      <foreignId>{31480e8b-849c-448e-9c74-cd406189c9d1}</foreignId>
      <text>Y</text>
      <i18nText>Y</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d560145c-e76f-4901-b54f-f2b622ebc9c1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -539,9 +539,9 @@
      <id>{de4788fd-de4b-442d-aee4-8767ff5ab5dd}</id>
      <text>Ą</text>
      <i18nText></i18nText>
-     <soundFile></soundFile>
+     <soundFile>{de4788fd-de4b-442d-aee4-8767ff5ab5dd}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -557,9 +557,9 @@
      <id>{51750724-ca52-4ec0-8661-d05acbdc910b}</id>
      <text>Ę</text>
      <i18nText></i18nText>
-     <soundFile></soundFile>
+     <soundFile>{51750724-ca52-4ec0-8661-d05acbdc910b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -575,9 +575,9 @@
      <id>{a85d3c92-6b47-439a-9744-f76822f8daa2}</id>
      <text>Ó</text>
      <i18nText></i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a85d3c92-6b47-439a-9744-f76822f8daa2}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -593,9 +593,9 @@
      <id>{39a70209-29c6-4d97-971c-1dd3fb36a3da}</id>
      <text>Ź</text>
      <i18nText></i18nText>
-     <soundFile></soundFile>
+     <soundFile>{39a70209-29c6-4d97-971c-1dd3fb36a3da}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -11031,6 +11031,1710 @@
      <foreignId>{360a7171-7908-4d55-ae11-b017909634cf}</foreignId>
      <text>Stress is very important to me. With stress, I do the best possible job. The appropriate way to deal with stress is to make sure I have the correct balance between good stress and bad stress. I need good stress to stay motivated and productive.</text>
      <i18nText>Stress is very important to me. With stress, I do the best possible job. The appropriate way to deal with stress is to make sure I have the correct balance between good stress and bad stress. I need good stress to stay motivated and productive.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+   </phrases>
+  </unit>
+  <unit>
+   <id>{529e3fa6-426a-43ab-9608-d7b266120ae8}</id>
+   <foreignId>{734a054a-6bbe-4a68-8492-60e760a18887}</foreignId>
+   <title>During an Emergency</title>
+   <phrases>
+    <phrase>
+     <id>{a016ac9e-2672-48a3-88c0-5c878a8a0586}</id>
+     <foreignId>{e48e1bf5-7ec6-49d9-baf7-99ad9f09c21b}</foreignId>
+     <text>help</text>
+     <i18nText>help</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ffa55fa5-696e-4c81-8b87-1b720b93f567}</id>
+     <foreignId>{12d223e8-0b66-419b-ad70-79063bcfcc66}</foreignId>
+     <text>police</text>
+     <i18nText>police</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{66c7ba06-b19f-4d80-837a-ddbd4b224eab}</id>
+     <foreignId>{75a3aefd-c990-4992-946e-3865eb3ec84b}</foreignId>
+     <text>hospital</text>
+     <i18nText>hospital</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{67414b22-e4d1-4da7-9275-67e08a63aab4}</id>
+     <foreignId>{20eea2fd-814a-4498-824b-ba994c3abc54}</foreignId>
+     <text>ambulance</text>
+     <i18nText>ambulance</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{7b38a826-b965-4f7a-8a9c-c7eed5b15188}</id>
+     <foreignId>{46e8939c-b755-408d-8aa1-9239bd7670d7}</foreignId>
+     <text>doctor</text>
+     <i18nText>doctor</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2938cca0-6570-4cbe-976f-f0632519aa28}</id>
+     <foreignId>{3f63355f-1572-4ac6-b8c8-794658ebe68d}</foreignId>
+     <text>injury</text>
+     <i18nText>injury</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{963cd611-f95d-43eb-873f-d636c47adacd}</id>
+     <foreignId>{0b5d266b-ddf5-435d-a1ed-538abaa89a56}</foreignId>
+     <text>fire</text>
+     <i18nText>fire</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f45aefb9-a300-4179-aee7-6ec484033d3c}</id>
+     <foreignId>{f4de2be2-be6c-4e65-8592-54a728c12b88}</foreignId>
+     <text>disaster</text>
+     <i18nText>disaster</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{434782ce-c260-441e-ab92-362cafa8d107}</id>
+     <foreignId>{3d6274d7-1198-43b5-a120-0375b004e70a}</foreignId>
+     <text>calamity</text>
+     <i18nText>calamity</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4a560abb-5086-422f-be9f-f23185487415}</id>
+     <foreignId>{21488ee7-0e5f-433b-aaee-20781c16b261}</foreignId>
+     <text>death</text>
+     <i18nText>death</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{de34e732-327c-436d-a322-5e995f0bac1c}</id>
+     <foreignId>{21328797-6ae7-4ba5-b5fc-c95f08a4ead0}</foreignId>
+     <text>murder</text>
+     <i18nText>murder</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{83f457ae-d4b5-4f72-bf99-5de14e4af9ee}</id>
+     <foreignId>{7fb1f4fa-e5fb-4e26-b798-b96374403f8a}</foreignId>
+     <text>kidnap</text>
+     <i18nText>kidnap</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{3a5bb2d1-feda-4a2e-8b45-23cf2e4f7da7}</id>
+     <foreignId>{a8431712-2a8e-4fc3-b27b-92ab990ac504}</foreignId>
+     <text>hijack</text>
+     <i18nText>hijack</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{eca1ec8b-7f70-47cb-b2f3-570a3fa064dc}</id>
+     <foreignId>{eb9e30f9-d2c4-4e9d-b045-f11b50755d3c}</foreignId>
+     <text>hurry</text>
+     <i18nText>hurry</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b1cb7a26-69e6-4199-ab49-d1967771e685}</id>
+     <foreignId>{771a05aa-0f96-45c0-a585-62e99917a5be}</foreignId>
+     <text>report</text>
+     <i18nText>report</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f29f6ba6-5653-4726-a95c-4f77edc022a5}</id>
+     <foreignId>{c7915bd6-c704-45fa-ba51-a2864c0d6201}</foreignId>
+     <text>theft</text>
+     <i18nText>theft</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5ec44425-e3f4-4507-92b1-1dc18532c160}</id>
+     <foreignId>{42ca71b9-474c-4ed4-b56a-d80c3d487dee}</foreignId>
+     <text>robbery</text>
+     <i18nText>robbery</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{d837325e-5218-4597-91cd-380df69e445b}</id>
+     <foreignId>{2f06ca25-aa20-472f-aa23-0aa4efe7e14b}</foreignId>
+     <text>burglary</text>
+     <i18nText>burglary</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a3d28238-ecad-42e0-8ce2-bb940ed08464}</id>
+     <foreignId>{36111d35-3340-4198-aa03-8956b1264426}</foreignId>
+     <text>escape</text>
+     <i18nText>escape</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e9ea1169-f569-4ced-acbd-6e9ecb3fc986}</id>
+     <foreignId>{65f5cc14-acb5-4e79-a5c7-c311b9b9a53a}</foreignId>
+     <text>homicide</text>
+     <i18nText>homicide</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{72e1447e-ab47-4ac7-9517-d55f07e03214}</id>
+     <foreignId>{eca7f2a3-d5e4-4b22-89d6-09e7f0a87396}</foreignId>
+     <text>flood</text>
+     <i18nText>flood</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{3352bfa1-41f3-43aa-a4de-d85a5ac50003}</id>
+     <foreignId>{986a988b-33be-49cb-9d93-7137b911bc07}</foreignId>
+     <text>cyclone</text>
+     <i18nText>cyclone</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{bff0c156-f120-48b1-b07d-676dcc4cc3c7}</id>
+     <foreignId>{a8eb6700-ebb7-4ee7-9085-9ff08c76531a}</foreignId>
+     <text>tornado</text>
+     <i18nText>tornado</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{8139e158-880e-49ed-a3fd-ed8386ecf007}</id>
+     <foreignId>{6da2c27c-ba8e-4908-af75-65019934e873}</foreignId>
+     <text>hurricane</text>
+     <i18nText>hurricane</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a4ce345c-3920-4312-ad46-370f094e3943}</id>
+     <foreignId>{6b10b667-9c2d-42e7-9cf1-4046c157d6b7}</foreignId>
+     <text>tsunami</text>
+     <i18nText>tsunami</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2ae30d69-57da-4402-957c-c486663dc442}</id>
+     <foreignId>{9f1daa80-54e0-4987-8237-79e89d4673df}</foreignId>
+     <text>earthquake</text>
+     <i18nText>earthquake</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{6605ada2-31ee-43f8-a50f-937b121da74d}</id>
+     <foreignId>{9d856de8-aca7-4d1a-87fd-c519ec500df3}</foreignId>
+     <text>landslide</text>
+     <i18nText>landslide</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{3913631e-3d89-4c32-994a-b546429a66e8}</id>
+     <foreignId>{722c310d-8745-4a3b-b512-eb71caf03ef1}</foreignId>
+     <text>attack</text>
+     <i18nText>attack</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{7a38754d-bbf9-4967-8707-1f6fc23dd40a}</id>
+     <foreignId>{798d13c9-7bad-45ed-ae66-4dd4fce3bdb1}</foreignId>
+     <text>safety</text>
+     <i18nText>safety</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0804a544-443a-4bc8-9d86-766128928839}</id>
+     <foreignId>{0219b2c1-b5ba-433a-84a0-132b37e158e3}</foreignId>
+     <text>security</text>
+     <i18nText>security</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{9a8394c2-e945-48fa-ad29-125ff8b553ad}</id>
+     <foreignId>{94e5496a-4ce0-4ed7-b7f8-c2000cfdd0e7}</foreignId>
+     <text>evacuate</text>
+     <i18nText>evacuate</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{645a707e-71b3-409d-828a-eeb137062a74}</id>
+     <foreignId>{8a00817c-1764-42dc-ae40-982d931da5ce}</foreignId>
+     <text>investigation</text>
+     <i18nText>investigation</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{db9c60aa-3e5c-457f-bdd8-80915ad7a9ff}</id>
+     <foreignId>{c1890562-a513-477c-9538-edb7cfdb1d9d}</foreignId>
+     <text>intervention</text>
+     <i18nText>intervention</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{8f301fbb-15dd-4e66-8e34-70564f04f402}</id>
+     <foreignId>{5ff94165-e434-46a5-9e31-06a908aa91d9}</foreignId>
+     <text>prevention</text>
+     <i18nText>prevention</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{7d20375e-28d2-478a-8033-e21c3dbe1df4}</id>
+     <foreignId>{511fa07c-d5c9-47eb-9919-3cf86c2e8b86}</foreignId>
+     <text>jurisdiction</text>
+     <i18nText>jurisdiction</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a19e4cce-c2ca-484b-bb0c-c9381f4db203}</id>
+     <foreignId>{a8e6e7f0-7998-4f31-a748-0e9c58381dc8}</foreignId>
+     <text>victim</text>
+     <i18nText>victim</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5edb72ec-8c08-4fdd-bdc4-f583f9cebf03}</id>
+     <foreignId>{34be17a8-5263-4110-99d3-2b9cd62c724e}</foreignId>
+     <text>perpetrator</text>
+     <i18nText>perpetrator</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{18279354-e1be-4a9d-ae9d-f31ec32747a7}</id>
+     <foreignId>{a49b5eb5-99aa-4f42-a8f2-2e8cd6254784}</foreignId>
+     <text>danger</text>
+     <i18nText>danger</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{1fa28413-0c44-4122-a0b2-0f6231995a9c}</id>
+     <foreignId>{df1d6c7a-4404-479a-a1bc-bf115e16a4a1}</foreignId>
+     <text>threatening</text>
+     <i18nText>threatening</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{549ccfd6-9dad-4601-a5fc-af8e1d95b963}</id>
+     <foreignId>{f8d6d4ce-5fbb-4eee-89f0-818168596b9c}</foreignId>
+     <text>fear</text>
+     <i18nText>fear</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{03164ede-fab8-4662-8304-dfbd88d4bd79}</id>
+     <foreignId>{4b651ae2-fd54-40fc-99cf-30beeeca154c}</foreignId>
+     <text>remain calm</text>
+     <i18nText>remain calm</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b6db4560-9003-4afd-adc6-ba5fcb6acaff}</id>
+     <foreignId>{e0fefde5-a68d-4d2b-b08a-6ee68fe62604}</foreignId>
+     <text>feeling scared</text>
+     <i18nText>feeling scared</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f3633bc5-acf9-4fd2-956b-fa54a6304426}</id>
+     <foreignId>{d69ff627-2633-4af1-b290-72abb41b5d47}</foreignId>
+     <text>have patience</text>
+     <i18nText>have patience</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e2bfc925-a395-41b7-954f-ace90e11f2ee}</id>
+     <foreignId>{54b4e3cf-9623-444a-8142-f62cd2fa5044}</foreignId>
+     <text>being courageous</text>
+     <i18nText>being courageous</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e4f1c69d-7c3f-46e6-9849-bd5e2c59b00b}</id>
+     <foreignId>{48c148c9-11f8-432a-b27d-0a8893a1eeef}</foreignId>
+     <text>rescue operation</text>
+     <i18nText>rescue operation</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4d63db6f-d683-4efc-a6ee-eac292409b15}</id>
+     <foreignId>{7419e19c-04e5-426a-bc81-c675075c12f6}</foreignId>
+     <text>emergency exit</text>
+     <i18nText>emergency exit</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{cfb04020-67b8-4ee5-a22a-60b690aa67de}</id>
+     <foreignId>{b117655b-1ac3-47c1-8b58-0d3582e56783}</foreignId>
+     <text>volcanic eruptions</text>
+     <i18nText>volcanic eruptions</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{8742f332-de06-4fdb-9db0-9431529c8db5}</id>
+     <foreignId>{2d715685-3958-4238-ab66-4f0b78383fb1}</foreignId>
+     <text>richter scale</text>
+     <i18nText>richter scale</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{999e99a0-afd8-49e0-b534-518cc1748cc2}</id>
+     <foreignId>{3b846ac1-6edc-45b6-9cd0-4ebf350b0337}</foreignId>
+     <text>scene of crime</text>
+     <i18nText>scene of crime</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{263f6e2c-86e4-46e5-8f30-25090de9f57f}</id>
+     <foreignId>{c223a7ca-3c27-4372-8008-5fc69006c43c}</foreignId>
+     <text>act of terror</text>
+     <i18nText>act of terror</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5abb9e27-9ff9-446a-b370-a95dab82d8f9}</id>
+     <foreignId>{0d917552-139e-4b8f-871c-710bbdd75dbc}</foreignId>
+     <text>file a complaint</text>
+     <i18nText>file a complaint</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{71fd0cd6-2001-457c-87a5-7bb353554678}</id>
+     <foreignId>{5c6064d4-ea12-443c-975e-d26448df1370}</foreignId>
+     <text>lodge a report</text>
+     <i18nText>lodge a report</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{36124a49-a5cd-413f-932d-e606a0ec6052}</id>
+     <foreignId>{15d6801a-d811-4cda-8b53-f2bafa65ff36}</foreignId>
+     <text>call 911</text>
+     <i18nText>call 911</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{832a1592-deb7-463c-9124-6f21ce82c99d}</id>
+     <foreignId>{ecc35ee6-8dde-4e87-91a6-2138608eaf0f}</foreignId>
+     <text>bomb blast</text>
+     <i18nText>bomb blast</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5c9f4eda-2fe4-41bc-95e6-1f61370ea72d}</id>
+     <foreignId>{9101ba9d-472b-4aa8-ac63-f858d8e22e55}</foreignId>
+     <text>fire alarm</text>
+     <i18nText>fire alarm</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ed034736-857d-46e8-9f5a-5beac1c36e6b}</id>
+     <foreignId>{924fd909-2d51-44de-9d79-eb68a9426a89}</foreignId>
+     <text>fire extinguisher</text>
+     <i18nText>fire extinguisher</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b717cce3-60d3-4b16-9fcf-3d1a71236fb6}</id>
+     <foreignId>{9e7625ce-eb8e-4cfb-b1c6-a1cc170dddb4}</foreignId>
+     <text>fire service</text>
+     <i18nText>fire service</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4cb0a068-2047-48e9-ab67-bf68306c491e}</id>
+     <foreignId>{085a4197-eff0-479d-bdd9-b07f8142c7b0}</foreignId>
+     <text>fire exit</text>
+     <i18nText>fire exit</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{41b1a4d7-b682-4c36-9697-62de089c5cd3}</id>
+     <foreignId>{fc48bb2b-9ebc-42ef-a310-15f66c091910}</foreignId>
+     <text>victims of a disaster</text>
+     <i18nText>victims of a disaster</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{81b812ee-a0fd-4c65-a83f-90073d804800}</id>
+     <foreignId>{f1c89b38-d96f-4994-bf24-36f3259bb529}</foreignId>
+     <text>survival strategy</text>
+     <i18nText>survival strategy</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{fed2243b-06d8-49ab-95cb-418e8009279e}</id>
+     <foreignId>{ccc5b7f3-4f17-411e-82cd-2cf4c1145dd1}</foreignId>
+     <text>been mugged</text>
+     <i18nText>been mugged</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{d5609a1b-9fea-4811-b6d9-e2f5695f7707}</id>
+     <foreignId>{6ddb3823-aff3-4c1b-adce-6f6cf7cef798}</foreignId>
+     <text>lost valuables</text>
+     <i18nText>lost valuables</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4e68ce12-e410-4262-b81a-59d662ae54a2}</id>
+     <foreignId>{8b4df30b-5d8d-40e4-8bbf-c822ae12c02b}</foreignId>
+     <text>life risk</text>
+     <i18nText>life risk</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{22098466-9011-4994-b1f1-5c5ab550b427}</id>
+     <foreignId>{505878fe-f3e5-45a6-8a02-04c8cad4e0e4}</foreignId>
+     <text>civil rights</text>
+     <i18nText>civil rights</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0f366f53-1a4e-4179-95fb-3ccba698df64}</id>
+     <foreignId>{03eb3ebc-adde-4543-b7d3-63047d5ba3b7}</foreignId>
+     <text>local emergency number</text>
+     <i18nText>local emergency number</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{76a50a69-3dc8-4505-ac94-1c29f4cb6517}</id>
+     <foreignId>{4b82e142-1cbb-483b-9302-20f913c0cd97}</foreignId>
+     <text>Please help me.</text>
+     <i18nText>Please help me.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{c1e268b3-2ae9-45ed-8088-dde50459a52e}</id>
+     <foreignId>{c5aba185-c137-4c0f-9c00-f244f0c97679}</foreignId>
+     <text>Call the police.</text>
+     <i18nText>Call the police.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{274e53df-0d31-4ddd-b750-3fb63754ffbf}</id>
+     <foreignId>{699d6261-52ff-4e7c-b28d-1066e0be0fe6}</foreignId>
+     <text>Please call the ambulance.</text>
+     <i18nText>Please call the ambulance.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0a140bd9-c2b7-44c5-96c8-41274eb614b3}</id>
+     <foreignId>{08a43f0a-3bfc-4f79-a8b9-2b1724c3bb81}</foreignId>
+     <text>Can I use your mobile phone, please?</text>
+     <i18nText>Can I use your mobile phone, please?</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{86cd9d13-cda8-4a0f-a185-645d00eb62a3}</id>
+     <foreignId>{85dc6216-3dc3-4180-abb2-981c129b14b2}</foreignId>
+     <text>There was a gun shot in the alley.</text>
+     <i18nText>There was a gun shot in the alley.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{72c178ab-ab0e-4410-8b1e-95f5c70c15ac}</id>
+     <foreignId>{42db9c96-bb95-4e58-a073-1e1b14f7200a}</foreignId>
+     <text>Two men were murdered.</text>
+     <i18nText>Two men were murdered.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{cba1b739-dc59-4caa-8a1d-b6b7a56667c0}</id>
+     <foreignId>{6f5294db-b387-4170-9c70-4964898e4ee2}</foreignId>
+     <text>My brother has been missing for two days now.</text>
+     <i18nText>My brother has been missing for two days now.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{30368f99-07f4-40b8-ab4d-49d4bd7ac031}</id>
+     <foreignId>{85035a10-4f7c-45ee-a3f0-c98374b48b86}</foreignId>
+     <text>I want to lodge a complaint against the teacher for child abuse.</text>
+     <i18nText>I want to lodge a complaint against the teacher for child abuse.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{179e996a-0b85-4432-abfc-720deaf8ef39}</id>
+     <foreignId>{785a217d-6724-4362-88f3-f8a58c6a8f04}</foreignId>
+     <text>Where is the emergency exit?</text>
+     <i18nText>Where is the emergency exit?</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5c93ebdd-b7d6-4c29-9e00-f91dd84b08e2}</id>
+     <foreignId>{c0ab297e-ccac-4de9-b176-65a20b89472a}</foreignId>
+     <text>Take deep breaths.</text>
+     <i18nText>Take deep breaths.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{cf6f04f4-c35c-49f5-9f35-23bdd470d682}</id>
+     <foreignId>{9296525e-55a4-463c-954e-d4abd45d1c9c}</foreignId>
+     <text>What is the local emergency number?</text>
+     <i18nText>What is the local emergency number?</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{71081994-839b-40a3-83c7-e2b0d4da1ac4}</id>
+     <foreignId>{121beac8-d843-4eab-bb5a-b75fb93fddd2}</foreignId>
+     <text>Somebody broke into the house.</text>
+     <i18nText>Somebody broke into the house.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{1f468783-8a8f-495c-b3ce-19790b2fb1a5}</id>
+     <foreignId>{1b66ce36-a635-42fa-b80e-38871b1f6530}</foreignId>
+     <text>All the sea shores have been evacuated.</text>
+     <i18nText>All the sea shores have been evacuated.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{35b92e8b-8d4e-4272-a217-16849e9cf170}</id>
+     <foreignId>{840d75b4-b641-4648-ae93-a35bf02c40e2}</foreignId>
+     <text>There has been a theft in my apartment.</text>
+     <i18nText>There has been a theft in my apartment.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ac3b582c-9bd1-48dc-8530-b677ee3e382a}</id>
+     <foreignId>{1d6b5dc5-f179-4938-b15b-b1a0c020aea2}</foreignId>
+     <text>All flights have been cancelled due to the heavy rains.</text>
+     <i18nText>All flights have been cancelled due to the heavy rains.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ae13ff7a-db42-4c54-8caa-f0890094e919}</id>
+     <foreignId>{ab07c72b-ec94-4203-8f00-e1136ffcd879}</foreignId>
+     <text>You are asked to move to the emergency shelter as soon as possible.</text>
+     <i18nText>You are asked to move to the emergency shelter as soon as possible.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{99224f48-3622-4682-9cc0-48e06a3d1c7e}</id>
+     <foreignId>{923d2a40-5c5a-40d1-aaa5-ea531220d37d}</foreignId>
+     <text>There has been a train accident.</text>
+     <i18nText>There has been a train accident.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5f1e373f-b012-427a-afb2-d4add1726584}</id>
+     <foreignId>{93b31566-b586-45c8-adc5-6bfa8c829a9a}</foreignId>
+     <text>Please do not panic.</text>
+     <i18nText>Please do not panic.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{15ceb3a6-15fb-4c1e-a1c4-7470420d8074}</id>
+     <foreignId>{5cfb1a43-b60d-4ba3-9018-bc0d203c9d5d}</foreignId>
+     <text>Please evacuate the building.</text>
+     <i18nText>Please evacuate the building.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ed4eef21-f3e3-44dd-840b-6591ef6fa3c1}</id>
+     <foreignId>{96812e1b-7efa-4ef4-ab4e-b2deed446dec}</foreignId>
+     <text>A lady and her two kids are trapped on the ninth floor.</text>
+     <i18nText>A lady and her two kids are trapped on the ninth floor.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{433036d0-2dbf-42f0-bfe4-a84550ea970b}</id>
+     <foreignId>{c5dc268e-b4ce-4d8b-8424-ccdc67663618}</foreignId>
+     <text>Please hurry up and call the ambulance. My son was hit by a car. He is unconcious and is bleeding profusely.</text>
+     <i18nText>Please hurry up and call the ambulance. My son was hit by a car. He is unconcious and is bleeding profusely.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{17031a84-8b23-40b0-861e-599d2b84be35}</id>
+     <foreignId>{39822cb4-5abf-489d-a468-4af9470c35f9}</foreignId>
+     <text>Never use water on electrical fires, equipment or wires. Unplug equipment or cut power at the control panel if possible. If the fire is small, use baking soda or a multipurpose or dry chemical fire extinguisher. Call the emergency services as soon as possible.</text>
+     <i18nText>Never use water on electrical fires, equipment or wires. Unplug equipment or cut power at the control panel if possible. If the fire is small, use baking soda or a multipurpose or dry chemical fire extinguisher. Call the emergency services as soon as possible.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{73989266-34e7-4df5-b817-a26c1bda940e}</id>
+     <foreignId>{6c5b0710-d976-4562-a747-3b11ea459535}</foreignId>
+     <text>If your clothing catches fire, do not run. Stop where you are, drop to the ground, cover your face with your hands, and roll over and over to smother the flames. If someone else's clothes catch fire, push them to the ground and roll them over and over, or smother the flames with a blanket or carpet.</text>
+     <i18nText>If your clothing catches fire, do not run. Stop where you are, drop to the ground, cover your face with your hands, and roll over and over to smother the flames. If someone else's clothes catch fire, push them to the ground and roll them over and over, or smother the flames with a blanket or carpet.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{61319ff3-efd6-4832-b421-6c4421eec016}</id>
+     <foreignId>{2f8d06a9-9ef7-4bb5-b9f7-85e0ee62ac5a}</foreignId>
+     <text>Incessant and intense rains have hit the hills for over three days triggering flash floods and landslides. This has led to hundreds of deaths and hundreds more going missing. With many bodies still buried under 5-10 feet high mounds of debris in the valley area, the threat of an epidemic due to decaying corpses is looming large.</text>
+     <i18nText>Incessant and intense rains have hit the hills for over three days triggering flash floods and landslides. This has led to hundreds of deaths and hundreds more going missing. With many bodies still buried under 5-10 feet high mounds of debris in the valley area, the threat of an epidemic due to decaying corpses is looming large.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{7ce6f8bd-5974-4278-94fb-f1debf0ac0b3}</id>
+     <foreignId>{01ddec7a-52fe-42fb-8c37-0dc61a2b8090}</foreignId>
+     <text>There were a series of bomb blasts and continuous firing at the town centre two hours ago. Fifty-four people have died including twenty-three women and nine childrean and around a hundred have been injured. The area has been evacuated and cordoned off. The police have started their investigation.</text>
+     <i18nText>There were a series of bomb blasts and continuous firing at the town centre two hours ago. Fifty-four people have died including twenty-three women and nine childrean and around a hundred have been injured. The area has been evacuated and cordoned off. The police have started their investigation.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+   </phrases>
+  </unit>
+  <unit>
+   <id>{a78a8589-3e50-4bc4-af2d-f77c9ac037df}</id>
+   <foreignId>{9656d693-2cbc-4ff5-be52-c3749effd144}</foreignId>
+   <title>Pets</title>
+   <phrases>
+    <phrase>
+     <id>{77926889-3cbe-4dfe-ba2d-63c0b11b7295}</id>
+     <foreignId>{7a3093e2-4668-499b-924f-0c3745c09fe7}</foreignId>
+     <text>dog</text>
+     <i18nText>dog</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{469b1553-c12c-46fd-9e03-373bf59a7766}</id>
+     <foreignId>{86ff747e-01c1-4909-b17c-5c46c77a01dd}</foreignId>
+     <text>puppies</text>
+     <i18nText>puppies</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{3714401d-c968-495e-9572-75be559cabe3}</id>
+     <foreignId>{53151b94-a46a-41fc-95c5-52d7e43c77c0}</foreignId>
+     <text>cat</text>
+     <i18nText>cat</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f481ccba-f0a7-49fc-aba9-4bdb82e2b53e}</id>
+     <foreignId>{0cad0354-c55c-401a-8258-aa013f4b9c82}</foreignId>
+     <text>kitten</text>
+     <i18nText>kitten</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{fd5bcb2d-5eb4-4ece-b234-0782c299afbc}</id>
+     <foreignId>{ea69888e-8df5-41ff-90b9-91e5013dcc17}</foreignId>
+     <text>companion</text>
+     <i18nText>companion</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{160b3adb-fd31-4176-9c5a-7f9d334223bb}</id>
+     <foreignId>{668cf3d0-0f1e-4c58-803a-84b0ff37c591}</foreignId>
+     <text>adopt</text>
+     <i18nText>adopt</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e40a6d42-95c4-4c83-827e-db1cc1e24564}</id>
+     <foreignId>{4f585b0b-37cf-470b-93e1-6390046b170a}</foreignId>
+     <text>rodent</text>
+     <i18nText>rodent</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ee29c45f-648b-4f17-b2cf-31c4e801dc5d}</id>
+     <foreignId>{b0a79606-2b25-4f28-b108-1e10a36deeae}</foreignId>
+     <text>avian</text>
+     <i18nText>avian</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a9f36ad1-4b90-48fe-b5f0-774119e66c93}</id>
+     <foreignId>{cc8d0351-9da6-42bf-905a-0bdae81a11cd}</foreignId>
+     <text>aquarium</text>
+     <i18nText>aquarium</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f2d511f0-4b9a-410a-adcd-27774d197c01}</id>
+     <foreignId>{e8e00a23-409a-4030-be85-d90018d21c61}</foreignId>
+     <text>gerbils</text>
+     <i18nText>gerbils</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{8dc69bd8-a7a8-4d7d-99bb-62c37cc0c980}</id>
+     <foreignId>{903eeb14-e304-4d12-813c-15fdf094577c}</foreignId>
+     <text>hamsters</text>
+     <i18nText>hamsters</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{bb6f4674-bc28-4948-8731-bd4395717de0}</id>
+     <foreignId>{9e9dcfd9-7813-4218-8e69-8ebee12f8e7c}</foreignId>
+     <text>chinchillas</text>
+     <i18nText>chinchillas</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{9b79af5b-ade3-458f-ad96-2d736e434a8b}</id>
+     <foreignId>{f5b7ad46-7538-41cc-8883-ade2eec16d10}</foreignId>
+     <text>canaries</text>
+     <i18nText>canaries</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4434ae49-cb4c-43b5-a096-bfb2fbc405a7}</id>
+     <foreignId>{dc48bd8b-4fb3-46d4-a9a3-01a1f9900fef}</foreignId>
+     <text>parakeets</text>
+     <i18nText>parakeets</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2ff56f32-3f15-43fb-8c13-313b68159909}</id>
+     <foreignId>{26948fe8-620e-4939-a6aa-a5424402b2fb}</foreignId>
+     <text>parrots</text>
+     <i18nText>parrots</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5f92f670-97e3-47f8-adeb-fd071324ff7b}</id>
+     <foreignId>{4e47aef6-6039-4b4f-b5a9-91c02b0974a9}</foreignId>
+     <text>turtles</text>
+     <i18nText>turtles</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{bee5aa63-3f0d-4196-baaa-0cbd0cf5317c}</id>
+     <foreignId>{441de0b2-8b23-4e12-be2a-fa3dc8794892}</foreignId>
+     <text>lizards</text>
+     <i18nText>lizards</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2bd4d524-e079-4f72-9a29-bf48f5ceffff}</id>
+     <foreignId>{79f2a834-46e2-42f2-87e4-29f090f228ae}</foreignId>
+     <text>snakes</text>
+     <i18nText>snakes</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0096346d-9592-4f8f-aba9-90e100af5d47}</id>
+     <foreignId>{b3a54aad-eab9-4d7f-8dcb-02c0c1e38150}</foreignId>
+     <text>fish</text>
+     <i18nText>fish</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{9ed8f19f-35e1-424a-ad31-6c752a5a342e}</id>
+     <foreignId>{f1bfd3b2-83cb-4226-b2ca-f28c637a982a}</foreignId>
+     <text>frogs</text>
+     <i18nText>frogs</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0753327e-4a7d-4e14-9c0a-72d8287180cf}</id>
+     <foreignId>{cf842fb6-ffdd-4dd5-b22f-568ca65be521}</foreignId>
+     <text>arthropod</text>
+     <i18nText>arthropod</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b0ba983a-6312-4313-a320-0d439f740477}</id>
+     <foreignId>{cd535508-6e00-46b7-aa4e-b29a9b10d7fb}</foreignId>
+     <text>tarantula</text>
+     <i18nText>tarantula</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{d5f8421a-e446-4b01-a332-aa4e5472d7e0}</id>
+     <foreignId>{9dbffee5-819f-4083-a15c-f2d8adae421f}</foreignId>
+     <text>equine</text>
+     <i18nText>equine</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{076eaa39-4f0f-4334-8e37-4c8d7e9c33e9}</id>
+     <foreignId>{33232aa8-8358-4c14-8cc3-83ec1f41ad9d}</foreignId>
+     <text>rabbit</text>
+     <i18nText>rabbit</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{65c4d8e2-0641-4e6e-9f7b-d4a9f8e392b5}</id>
+     <foreignId>{ce99d8aa-3e3e-4134-a040-874976b10ff1}</foreignId>
+     <text>millipede</text>
+     <i18nText>millipede</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{123f42c4-da65-49cd-a671-ea98fa9bc5a5}</id>
+     <foreignId>{a248e424-159f-4af3-b3e9-3bfc16ef3731}</foreignId>
+     <text>friend</text>
+     <i18nText>friend</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2add9a0c-dc33-43b5-b7ab-21f66b424e32}</id>
+     <foreignId>{b3ffb883-1a07-4e1c-b429-18196c85f4f6}</foreignId>
+     <text>love</text>
+     <i18nText>love</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{176d0ffb-594e-4bfc-8693-6806c1a0b58b}</id>
+     <foreignId>{3712b08f-e33a-4ff2-83df-a80958c21585}</foreignId>
+     <text>care</text>
+     <i18nText>care</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f1a4393e-7aa7-46f2-8e0a-4b17f97861f4}</id>
+     <foreignId>{6e088abb-9e85-42c3-9478-63a2223dbbb4}</foreignId>
+     <text>protection</text>
+     <i18nText>protection</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{d8321411-fa77-44d4-8e5b-84b203875600}</id>
+     <foreignId>{3c097561-fab5-4b74-898d-bf5a363efb53}</foreignId>
+     <text>shelter</text>
+     <i18nText>shelter</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{cb175c1b-fde3-4902-b180-3295eb36e005}</id>
+     <foreignId>{417f49ff-cb38-4f89-9fe1-cc2833963605}</foreignId>
+     <text>house</text>
+     <i18nText>house</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a5e8665a-3794-4654-8db7-1347260b17e3}</id>
+     <foreignId>{c025082b-e2a0-4dda-af8a-d3600504242e}</foreignId>
+     <text>veterinarian</text>
+     <i18nText>veterinarian</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{9f1483ea-a7e0-4486-b651-696cf4a80e54}</id>
+     <foreignId>{85fff692-40bc-45f0-af04-7eb95ee9b8bd}</foreignId>
+     <text>disease</text>
+     <i18nText>disease</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{de92725f-a6ed-4f55-870c-6e83c2cc768d}</id>
+     <foreignId>{bdc6a92c-593d-49ef-95c0-e849e3d905ab}</foreignId>
+     <text>fur</text>
+     <i18nText>fur</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{937d4936-1bdc-49d2-b206-feb8b063d946}</id>
+     <foreignId>{1f57915f-aa60-4aff-97fb-40fc59012722}</foreignId>
+     <text>tail</text>
+     <i18nText>tail</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{12f26c35-e18e-4794-aeab-ae7646dcf0a1}</id>
+     <foreignId>{0259fedf-9e38-43b6-94c4-0db9f30d6a4c}</foreignId>
+     <text>spaniel</text>
+     <i18nText>spaniel</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{9446879c-de1b-4873-9e36-dce7ec6c2c4b}</id>
+     <foreignId>{fc6dde39-5dde-4138-a4e9-88c041fbab1c}</foreignId>
+     <text>bulldog</text>
+     <i18nText>bulldog</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{986c0e09-46ab-4b77-a5df-de9fb660a8fe}</id>
+     <foreignId>{d346e26b-0bce-4fee-9f41-b6a26e214831}</foreignId>
+     <text>aquatic pet</text>
+     <i18nText>aquatic pet</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e0364e6a-788c-4dd8-9897-365d919eb0e5}</id>
+     <foreignId>{0adec509-3070-4b8d-a0b9-6502df04a462}</foreignId>
+     <text>tropical fish</text>
+     <i18nText>tropical fish</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{aa45085a-07b3-42ce-831e-7e448b774c22}</id>
+     <foreignId>{d5373204-d88a-4c86-93d3-cb8fa9b317ec}</foreignId>
+     <text>hermit crab</text>
+     <i18nText>hermit crab</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{cdea9156-439d-4ef0-8ed6-cd9fcabb45c5}</id>
+     <foreignId>{db5e12c2-0afc-4e0c-8310-689632e8bfd6}</foreignId>
+     <text>stick insect</text>
+     <i18nText>stick insect</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{57e3279d-c0d7-4ec2-b95c-77eb047b5f21}</id>
+     <foreignId>{4ad454e4-809e-4bdb-afa5-e95a311bb2e4}</foreignId>
+     <text>regular health checkups</text>
+     <i18nText>regular health checkups</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{c2266ebd-79bf-4d23-bbaf-bfd8d3bea748}</id>
+     <foreignId>{d1f7c570-1c43-4593-9653-cdb82b9a2700}</foreignId>
+     <text>guinea pig</text>
+     <i18nText>guinea pig</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{88a31361-6a8e-4e68-a09c-1ca2caa1755f}</id>
+     <foreignId>{84779753-ecc7-4fb6-b9fc-2f859f48c34d}</foreignId>
+     <text>fancy rat</text>
+     <i18nText>fancy rat</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4c444a12-8d5c-4d9e-8370-c019bb3130eb}</id>
+     <foreignId>{d70782c3-017c-46ce-b47b-be35b15ddc04}</foreignId>
+     <text>breeds of dogs</text>
+     <i18nText>breeds of dogs</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{3e78735b-c9ae-40df-9919-5b26afcdcea6}</id>
+     <foreignId>{bf4d95bc-e8b4-4ed3-b40a-8b198a5b990a}</foreignId>
+     <text>german shepherd</text>
+     <i18nText>german shepherd</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0d10cf47-c19b-41b2-b1ea-80d3f712a13c}</id>
+     <foreignId>{0573566f-847d-4fa6-b902-4ad7255ed910}</foreignId>
+     <text>black russian terrier</text>
+     <i18nText>black russian terrier</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{203b12a0-7cf2-4754-944a-ea6dff65ad40}</id>
+     <foreignId>{9e7798a3-abf1-43be-a986-8d8cab1b3a66}</foreignId>
+     <text>chow chow</text>
+     <i18nText>chow chow</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{39b11584-5a08-40f3-87f5-62c40cb59f5b}</id>
+     <foreignId>{64172dca-d896-4386-9052-9396086ba053}</foreignId>
+     <text>cute little puppies</text>
+     <i18nText>cute little puppies</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5aee4b89-7629-471e-ada3-826e8d2f06eb}</id>
+     <foreignId>{1f41fb5f-9eed-4fdb-988f-855c1da3dc99}</foreignId>
+     <text>go for a walk</text>
+     <i18nText>go for a walk</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4d9dd4c0-a3fd-4403-991f-7f2d51f6a918}</id>
+     <foreignId>{ded7fc23-1b01-4959-87e2-c09b3ca13936}</foreignId>
+     <text>feed the cats</text>
+     <i18nText>feed the cats</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{8724dacb-a57d-49fd-938e-7ee0cd113bc1}</id>
+     <foreignId>{c7fec4c3-ea65-4b83-842e-da1f60454999}</foreignId>
+     <text>fight loneliness</text>
+     <i18nText>fight loneliness</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e6c352bb-8992-46fa-9ed8-a3e347e6c636}</id>
+     <foreignId>{f4eb5447-f44a-426f-817b-ceb1a4791caa}</foreignId>
+     <text>furry friend</text>
+     <i18nText>furry friend</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a256921c-68c4-4c0d-b88f-e409b2da0626}</id>
+     <foreignId>{07c49776-3c63-488f-a81e-bf60d97e6fab}</foreignId>
+     <text>feel happy</text>
+     <i18nText>feel happy</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{bc7bb63b-7fe5-4d21-b5f2-182d87965fe0}</id>
+     <foreignId>{50ccf5fe-ccb9-46a7-8e34-b537699c2aff}</foreignId>
+     <text>yellow labrador retriever</text>
+     <i18nText>yellow labrador retriever</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{1b0d4ff7-bc12-45de-900a-bb5f5dd1380b}</id>
+     <foreignId>{2b22ff78-53a0-4cc9-994e-b6f8f002edc8}</foreignId>
+     <text>play with</text>
+     <i18nText>play with</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{3172a5a5-b02b-458f-a64f-a4086dac147e}</id>
+     <foreignId>{6d123bc2-b303-47f0-89e7-7f6ea9189833}</foreignId>
+     <text>talk to</text>
+     <i18nText>talk to</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{61fae4e8-cca1-4ddc-82ea-c0d52760a215}</id>
+     <foreignId>{12c47607-c183-4ba6-8c76-881710d22df9}</foreignId>
+     <text>family member</text>
+     <i18nText>family member</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{884fd59f-5b7b-4211-a388-89a2e1275198}</id>
+     <foreignId>{b75a3b38-04b8-456d-8d36-fb47b5864495}</foreignId>
+     <text>Dog is man's best friend.</text>
+     <i18nText>Dog is man's best friend.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5c48c60f-a446-4b79-88cb-710d1ac24f63}</id>
+     <foreignId>{7aee94c4-2835-4aa1-aefb-d5349fad3f9d}</foreignId>
+     <text>I need to take my dog for a walk now.</text>
+     <i18nText>I need to take my dog for a walk now.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{68a1d525-938b-4a82-a27c-6ea9dc17b004}</id>
+     <foreignId>{5daa81cb-bce9-497e-9fff-d396ba6929e1}</foreignId>
+     <text>Are pets allowed inside the supermarket?</text>
+     <i18nText>Are pets allowed inside the supermarket?</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{9ff1e254-54b1-4275-9850-6ee4648a99eb}</id>
+     <foreignId>{1a9660cc-3b37-4a1f-959d-3868ee88bc02}</foreignId>
+     <text>I take my cats to the vet every month.</text>
+     <i18nText>I take my cats to the vet every month.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2bf7d2a9-05be-40f0-9972-46cb346e1c1b}</id>
+     <foreignId>{e4b8b08b-4fc6-4b03-b1b6-201185c59ef2}</foreignId>
+     <text>Where can I get dog food?</text>
+     <i18nText>Where can I get dog food?</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{581ceb04-86d1-4679-a289-68ef6d5beba5}</id>
+     <foreignId>{e493c854-e0ee-419b-8a77-e733c06d245b}</foreignId>
+     <text>My son recently got a pet iguana which he named Jamie.</text>
+     <i18nText>My son recently got a pet iguana which he named Jamie.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{8980753c-ec05-4d01-9b05-45a5d39b3dea}</id>
+     <foreignId>{f3b7e4b2-8dea-47ee-8870-cfbbb7733fd3}</foreignId>
+     <text>My dog won the local pet talent show this week.</text>
+     <i18nText>My dog won the local pet talent show this week.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2644ad87-ef0f-43db-8a86-8b3b897675b9}</id>
+     <foreignId>{768ae8f5-35d9-4130-a663-c691d26d9835}</foreignId>
+     <text>Does that gorgeous golden retriever belong to you?</text>
+     <i18nText>Does that gorgeous golden retriever belong to you?</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{66e84fc3-3e7e-4bc1-8d3e-2c0cb33f30d1}</id>
+     <foreignId>{3a7d156c-af72-4230-b1aa-612e662b20b5}</foreignId>
+     <text>Pugs are one of the most popular pet dogs.</text>
+     <i18nText>Pugs are one of the most popular pet dogs.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b6cd2de9-c5f5-4f5f-988b-475cce0ec331}</id>
+     <foreignId>{6a035e5b-84e7-4ed3-a913-d84ece8b1e32}</foreignId>
+     <text>Its my cat's first birthday today.</text>
+     <i18nText>Its my cat's first birthday today.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2d9b0ea8-586d-41b1-a7cd-9df8e3f26eaa}</id>
+     <foreignId>{9a70d618-bf90-4a85-8100-1f15e7f92193}</foreignId>
+     <text>My dog is five years and eight months old.</text>
+     <i18nText>My dog is five years and eight months old.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{89cedf70-237c-4173-962a-aad610b5fe79}</id>
+     <foreignId>{4514bf50-9547-4465-a746-1bf984f77d0e}</foreignId>
+     <text>My grandmother gifted me these two lovely parakeets on my birthday this year.</text>
+     <i18nText>My grandmother gifted me these two lovely parakeets on my birthday this year.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{592c091e-e9f6-4c9d-8bdd-a14536f422d5}</id>
+     <foreignId>{5aab3f35-390e-415d-bc08-6f10e90740e7}</foreignId>
+     <text>Our neighbour's hamster went missing last night.</text>
+     <i18nText>Our neighbour's hamster went missing last night.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{33f721ef-86a5-40af-b372-87449380b2dd}</id>
+     <foreignId>{6e47e36d-96e0-4297-8a26-ec28b48a26b5}</foreignId>
+     <text>Mrs Wilson had a tough time dealing with her dog's sudden death.</text>
+     <i18nText>Mrs Wilson had a tough time dealing with her dog's sudden death.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ba47be7f-439a-42a7-aec3-2b0bc9b5facc}</id>
+     <foreignId>{44c01401-d2d1-4bcb-9b96-2a87f1f007a7}</foreignId>
+     <text>I always wanted to have pet rabbits.</text>
+     <i18nText>I always wanted to have pet rabbits.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2af0f73e-5d58-4ce7-9df0-cf85d90511db}</id>
+     <foreignId>{2f0ebad7-0e8e-4645-a917-6e9efab78fa3}</foreignId>
+     <text>My mother takes care of the kittens while I'm at work.</text>
+     <i18nText>My mother takes care of the kittens while I'm at work.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{81911534-6bc0-47bb-83f4-830cc795c0ea}</id>
+     <foreignId>{caf316c1-0c78-49fb-b9d9-e0cf25c5350f}</foreignId>
+     <text>After a lot of pestering, my father got me a cat last summer. She is absolutely adorable and her furry coat is as white as snow. So, we named her Snowball.</text>
+     <i18nText>After a lot of pestering, my father got me a cat last summer. She is absolutely adorable and her furry coat is as white as snow. So, we named her Snowball.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{8bc3f059-7f82-4ecb-bb15-fa739bbede48}</id>
+     <foreignId>{283e769b-7b7c-47e4-9798-17c73f066a4a}</foreignId>
+     <text>When I was six years old, I had a little dog named Jimmy. He was a very faithful dog to our family. He used to take care of me and my sister when we were little. My mother always trusted Jimmy because he never used to leave us alone or allow anyone to touch us while she was away.</text>
+     <i18nText>When I was six years old, I had a little dog named Jimmy. He was a very faithful dog to our family. He used to take care of me and my sister when we were little. My mother always trusted Jimmy because he never used to leave us alone or allow anyone to touch us while she was away.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{c7c53d5a-5824-440f-ab8e-76e8e27411e5}</id>
+     <foreignId>{644769f9-1851-4d5e-bf11-e211f2ac1918}</foreignId>
+     <text>Pets have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past. Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.</text>
+     <i18nText>Pets have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past. Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4072c8c3-5bfa-425b-9c22-2a7a988fb184}</id>
+     <foreignId>{9f2a289a-ea4f-4999-8879-6b17c9595599}</foreignId>
+     <text>Snakes are among the most fascinating animals to keep as pets, and with a wide variety of species to choose from, snake lovers may have a tough time keeping just one type. Though ferocious predators, most snakes can become docile and even friendly with enough handling and good care.</text>
+     <i18nText>Snakes are among the most fascinating animals to keep as pets, and with a wide variety of species to choose from, snake lovers may have a tough time keeping just one type. Though ferocious predators, most snakes can become docile and even friendly with enough handling and good care.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>unknown</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b15855ea-211d-40f5-9792-ca4e139b1c0e}</id>
+     <foreignId>{81f52b41-ab44-463d-9934-a7f997ed6381}</foreignId>
+     <text>One of the health risks that is associated with pets is falling injuries. Tripping over pets, especially dogs, causes more than 86,000 falls serious enough to prompt a trip to the emergency room each year in the United States. Among elderly and disabled people, these falls have resulted in life-threatening injuries and broken bones.</text>
+     <i18nText>One of the health risks that is associated with pets is falling injuries. Tripping over pets, especially dogs, causes more than 86,000 falls serious enough to prompt a trip to the emergency room each year in the United States. Among elderly and disabled people, these falls have resulted in life-threatening injuries and broken bones.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
      <editState>unknown</editState>
