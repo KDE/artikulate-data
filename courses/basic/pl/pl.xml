@@ -1228,7 +1228,7 @@
     <phrase>
      <id>{f5107ff2-3cb6-47e5-ae53-49c26147d659}</id>
      <foreignId>{76093973-630d-4a4b-835f-ea072ccfb1b9}</foreignId>
-     <text>Na rondzie skręć w drugi wyjazd. Poźniej cały czas prosto około jednego kilometra. Muzeum będzie po Twojej prawej.</text>
+     <text>Na rondzie skręć w drugi wyjazd. Później cały czas prosto około jednego kilometra. Muzeum będzie po Twojej prawej.</text>
      <i18nText>Take the second exit at the roundabout. Continue straight ahead for about a mile. The museum will be on your right.</i18nText>
      <soundFile>{f5107ff2-3cb6-47e5-ae53-49c26147d659}.ogg</soundFile>
      <type>paragraph</type>
@@ -1268,11 +1268,11 @@
     <phrase>
      <id>{44e95cd8-38c5-440b-86c6-6f50d716eea9}</id>
      <foreignId>{e7864b6c-dd16-4141-8752-6a42124ff5c6}</foreignId>
-     <text>The gallery is open Monday-Friday from 10 am until 5 pm.  Entrance fee is 10$ for adults and 5$ for children under 12 years of age. Photographing is strictly prohibited in the whole building and all cameras must be left in the cloakroom.</text>
+     <text>Galeria jest otwarta od poniedziałku do piątku między dziesiątą a siedemnastą. Wejście dla dorosłych kosztuje dziesięć dolarów, a dla dzieci poniżej dwunastu lat pięć dolarów. Robienie zdjęć jest zabronione i aparaty fotograficzne należy zostawić w szatni.</text>
      <i18nText>The gallery is open Monday-Friday from 10 am until 5 pm.  Entrance fee is 10$ for adults and 5$ for children under 12 years of age. Photographing is strictly prohibited in the whole building and all cameras must be left in the cloakroom.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -1955,41 +1955,41 @@
     <phrase>
      <id>{bfb9e666-8be2-4f3f-ad1c-0373c1228dc6}</id>
      <foreignId>{9fe9aead-cfdd-4106-b6fe-3b9ff70607ca}</foreignId>
-     <text>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</text>
+     <text>Nasza rodzina jest duża. Ja mam dwoje braci i trzy siostry. Mamy także dwadzieścia jeden kuzynów i kuzynek: czternaście od strony taty i siedmioro od strony mamy.</text>
      <i18nText>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{58740cb7-8324-40b5-a002-2b3b69a8d39e}</id>
      <foreignId>{a45ad81d-c749-49e7-a752-25e8b358f093}</foreignId>
-     <text>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</text>
+     <text>Julia i Honorata są bliźniaczkami i wyglądają identycznie. Dziewczynki wychowywały się razem i od małego mama ubierała je tak samo. Na wielu zdjęciach w rodzinnym albumie bliźniaczki są nie do odróżnienia.</text>
      <i18nText>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{11ab6661-8233-4a3d-98d8-01a6707a994b}</id>
      <foreignId>{b4691fce-fcef-4d07-a854-b4378014e66a}</foreignId>
-     <text>My family is a rather small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</text>
+     <text>Moja rodzina nie jest zbyt duża i składa sie z trzech osób: mnie, mamy i taty. Moja mama jest lekarzem, a mój tata jest prawnikiem.</text>
      <i18nText>My family is a rather small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{13a73039-8979-4883-bc88-c0ddfe9eec45}</id>
      <foreignId>{e6ad70f5-ff48-4ccb-a6ba-54ea6d8a3995}</foreignId>
-     <text>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</text>
+     <text>Moi rodzice rozwiedli się rok temu. Po rozwodzie mama poślubiła kanadyjskiego inżyniera i przeprowadziła sie do Toronto. Mój tato został w Waszyngtonie i ja zdecydowałem się zamieszkać z nim.</text>
      <i18nText>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -2652,7 +2652,7 @@
     <phrase>
      <id>{c868d016-1c72-4964-a2de-00b74398635a}</id>
      <foreignId>{93b45a67-97b7-47f3-b331-c01b7c57c153}</foreignId>
-     <text>Mój tato biega codziennie. Ma super kondycje.</text>
+     <text>Mój tato biega codziennie. Ma super kondycję.</text>
      <i18nText>My father goes jogging every day. He is very fit.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -3299,51 +3299,51 @@
     <phrase>
      <id>{0625b0d9-b9ae-415f-b809-e1a641abd714}</id>
      <foreignId>{2a7ce4b0-8af9-429a-80b8-91f8fc341f92}</foreignId>
-     <text>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</text>
+     <text>Grecja graniczy z Albanią, Macedonią i Turcją.</text>
      <i18nText>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2c6a2180-ab06-403f-9968-12a57174d725}</id>
      <foreignId>{3d1444b2-ac16-4756-98ff-c4e5aea14234}</foreignId>
-     <text>Switzerland has four official languages. They speak Italian, French, German and Romansh.</text>
+     <text>W Szwajcari są cztery oficjalne języki. Mówi się tam po włosku, francusku, niemiecku i retoromańsku.</text>
      <i18nText>Switzerland has four official languages. They speak Italian, French, German and Romansh.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{67bc2ffe-4e60-426b-8a87-2e45b93b9abb}</id>
      <foreignId>{58326819-3659-4317-b4ae-3b5ca03122e8}</foreignId>
-     <text>I have double nationality. I am a French citizen and I also have a British passport.</text>
+     <text>Mam podwójne obywatelstwo. Jestem obywatelem Francji i mam też paszport brytyjski.</text>
      <i18nText>I have double nationality. I am a French citizen and I also have a British passport.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{07c7f755-2bbf-4e66-99ac-c10321664969}</id>
      <foreignId>{3d4fb2ea-67ba-431f-9b28-209869c96d91}</foreignId>
-     <text>Egypt is a country in north Africa. Its capital is Cairo and it has a population of over 90 million people.</text>
+     <text>Egipt jest krajem w północnej Afryce. Jego stolicą jest Kair i zamieszkuje go ponad dziewiędziesiąt milionów ludzi.</text>
      <i18nText>Egypt is a country in north Africa. Its capital is Cairo and it has a population of over 90 million people.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{34622374-f4ab-4ace-bdc3-9455b4edfa48}</id>
      <foreignId>{32794fd5-6247-4d13-a3eb-5c42d265d628}</foreignId>
-     <text>I come from Spain and I was born in Barcelona. When I was four years old my family emigrated to USA and we stayed there until now. I can speak both Spanish and English.</text>
+     <text>Pochodzę z Hiszpanii i urodziłem się w Barcelonie. Gdy miałem cztery latka moja rodzina emigrowała do Stanów Zjednoczonych i zostaliśmy już tu na stałe. Mówię po hiszpańsku i angielsku.</text>
      <i18nText>I come from Spain and I was born in Barcelona. When I was four years old my family emigrated to USA and we stayed there until now. I can speak both Spanish and English.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -3996,41 +3996,41 @@
     <phrase>
      <id>{4860e22a-ee8b-473c-a665-6881ae41a6c8}</id>
      <foreignId>{1f5d20d4-7386-492f-99a8-32e8d12c521b}</foreignId>
-     <text>It is usually cold in winter. The temperatures are often below zero.</text>
+     <text>W zimie zazwyczaj są niskie temperatury. Często spadają poniżej zera.</text>
      <i18nText>It is usually cold in winter. The temperatures are often below zero.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a5c16444-0381-473d-aea5-cc090629fee3}</id>
      <foreignId>{be9e6e8e-5446-4ad2-8929-b392f70ed7ce}</foreignId>
-     <text>Tropical rainforests are found close to the equator. These areas are characterized by high humidity and heavy rains.</text>
+     <text>Lasy tropikalne znajdują się obok równika. Te obszary charakteryzują się dużą wilgotnością i mocnymi deszczami.</text>
      <i18nText>Tropical rainforests are found close to the equator. These areas are characterized by high humidity and heavy rains.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e47c4be-39da-433f-b3dc-dc3a70a936a5}</id>
      <foreignId>{d36df743-452d-4edf-b72d-b4b0f34e2012}</foreignId>
-     <text>It is pretty warm. What is the temperature?</text>
+     <text>Jest całkiem ciepło. Ile jest stopni?</text>
      <i18nText>It is pretty warm. What is the temperature?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1aa39cea-917f-4c09-83a5-1112f40b8563}</id>
      <foreignId>{2fd8d252-622b-43fa-9a71-479447165d38}</foreignId>
-     <text>Summers are warm with occasional showers and cool nights. Winter temperatures range between 2°C and 5°C.</text>
+     <text>Lato jest ceipłe z przelotnymi deszczami i chłodzniejszymi nocami. Zimą temperatury wachają się między dwoma a pięcioma stopniami Celcjusza.</text>
      <i18nText>Summers are warm with occasional showers and cool nights. Winter temperatures range between 2°C and 5°C.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -4313,7 +4313,7 @@
     <phrase>
      <id>{cb998a4d-cb65-485b-8231-2ff59362edbc}</id>
      <foreignId>{c7cbf0a6-69ac-41b8-b9fb-c7a6b9cf6ea5}</foreignId>
-     <text>wrześień</text>
+     <text>wrzesień</text>
      <i18nText>September</i18nText>
      <soundFile></soundFile>
      <type>word</type>
@@ -4603,211 +4603,211 @@
     <phrase>
      <id>{af9ecc81-793f-4e16-8b23-7a75ecc51607}</id>
      <foreignId>{c2abd6f8-633b-4d15-ad49-b362c89225ab}</foreignId>
-     <text>It is first of July 2012.</text>
+     <text>Jest pierwszy lipca dwa tysiące dwunastego roku.</text>
      <i18nText>It is first of July 2012.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e41b1b3a-8a51-4ae4-8421-ad93e3a179fe}</id>
      <foreignId>{4eca4f60-dccd-4f39-876b-68ae2610be5b}</foreignId>
-     <text>We are meeting on Monday.</text>
+     <text>Spotykamy się w poniedziałek.</text>
      <i18nText>We are meeting on Monday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{582a8945-7f57-45e2-b31b-119cdcfea07d}</id>
      <foreignId>{baafc251-1b2c-43c6-82ea-fce70e9a03a9}</foreignId>
-     <text>My birthday is on the 22nd of November.</text>
+     <text>Moje urodziny są dwudziestego drugiego listopada.</text>
      <i18nText>My birthday is on the 22nd of November.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f7ee2bc6-c33a-4a05-adb6-f3f901f6df0f}</id>
      <foreignId>{beea2ec5-ae82-4249-816d-fbb81fc0277a}</foreignId>
-     <text>It is 12 o'clock.</text>
+     <text>Jest dwunasta w południe.</text>
      <i18nText>It is 12 o'clock.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bda4ac22-3785-4848-a08d-85a85a929f78}</id>
      <foreignId>{119ebe92-16e8-4c35-85c4-7a704fd3ce20}</foreignId>
-     <text>He was born in 1988.</text>
+     <text>On urodził się w tysiąc dziewięćset osiemdziesiątym ósmym roku.</text>
      <i18nText>He was born in 1988.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7bf194ad-9059-4756-b4fb-7670d1ba9985}</id>
      <foreignId>{237ce4bc-264c-4950-bb5c-01626bee84eb}</foreignId>
-     <text>What time is it?</text>
+     <text>Która jest godzina?</text>
      <i18nText>What time is it?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c4e6c7e-34b2-4b34-b1dd-d06694093e85}</id>
      <foreignId>{be0a5a95-f9ec-41e2-b76f-b796cedb2458}</foreignId>
-     <text>I work through all week except Saturdays and Sundays.</text>
+     <text>Pracuję przez cały tydzień oprócz soboty i niedzieli.</text>
      <i18nText>I work through all week except Saturdays and Sundays.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{90e4d187-e579-4c8c-86e7-e6f04ca14ac5}</id>
      <foreignId>{a4a1a498-a12f-41e6-96fa-da5026bf64b0}</foreignId>
-     <text>1st of October is Chinese National Day.</text>
+     <text>Pierwszy października to Święto Narodowe w Chinach.</text>
      <i18nText>1st of October is Chinese National Day.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{21264761-2f9a-4344-941f-58cba3bd328d}</id>
      <foreignId>{e53a316a-4758-46d5-aeca-9e72506ce7af}</foreignId>
-     <text>When is your birthday?</text>
+     <text>Kiedy masz urodziny?</text>
      <i18nText>When is your birthday?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{341c1229-4b75-4f50-95ef-9fb9c37489f3}</id>
      <foreignId>{13f445de-ba11-4bd0-bd8c-e1f23e5d930c}</foreignId>
-     <text>A millennium is a period of one thousand years.</text>
+     <text>Milenium to tysiąc lat.</text>
      <i18nText>A millennium is a period of one thousand years.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e0bfb5c0-df28-4320-8ca0-b8d30e5a9a71}</id>
      <foreignId>{ee5e1777-62a8-4854-8239-9150e5633039}</foreignId>
-     <text>My training period is from April 15 to May 11.</text>
+     <text>Mój trening odbędzie się między piętnastym kwietnia a jedenastym maja.</text>
      <i18nText>My training period is from April 15 to May 11.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{90287e86-388a-490d-9089-f4712d28ffd7}</id>
      <foreignId>{f7673017-5562-4d37-b2b3-1490971353c7}</foreignId>
-     <text>Valentine's Day is 14th of February.</text>
+     <text>Walentynki są czternsatego lutego.</text>
      <i18nText>Valentine's Day is 14th of February.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0b742e26-732e-43d2-a300-c4dbe36d83b0}</id>
      <foreignId>{9683bd47-1071-4337-82b9-cbead8b662b6}</foreignId>
-     <text>Most people in France go on holiday in July.</text>
+     <text>Większość ludzi we Francji jeździ na wakacje w lipcu.</text>
      <i18nText>Most people in France go on holiday in July.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{39f30e55-4d30-4330-a90b-cd20890e7276}</id>
      <foreignId>{d0053de5-1270-46cb-83b2-656a97e7b3f3}</foreignId>
-     <text>I am going to a party next Friday.</text>
+     <text>W piątek idę na imprezę.</text>
      <i18nText>I am going to a party next Friday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f0a12450-8b01-4385-8a9b-a94a8dbff0cf}</id>
      <foreignId>{db36973e-59fc-4ad9-ac82-7066a9c7269f}</foreignId>
-     <text>When does the concert begin?</text>
+     <text>O której zaczyna się koncert?</text>
      <i18nText>When does the concert begin?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ab537e6d-ddbd-424b-9d0e-813fb936943e}</id>
      <foreignId>{fa1dd8f7-08d0-4883-87f2-d0ce44cc676f}</foreignId>
-     <text>We land at 5.30 pm local time.</text>
+     <text>Lądujemy o sidemnastej trzydzieści czasu lokalnego.</text>
      <i18nText>We land at 5.30 pm local time.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{13e32c7a-0d1b-4be3-85fc-7251c48612eb}</id>
      <foreignId>{229e2379-9afe-4b1c-8174-4c51d79891eb}</foreignId>
-     <text>Easter is a movable feast. Last year Easter Sunday was in first week of April.</text>
+     <text>Wielkanoc jest ruchomym świętem. Rok temu Niedziela Wielkanocna była w pierwszym tygodniu kwietnia.</text>
      <i18nText>Easter is a movable feast. Last year Easter Sunday was in first week of April.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bbdb6f0e-06c5-40fa-9f25-6cd076a88952}</id>
      <foreignId>{f94d3270-cf6c-486e-9ec1-c0f8fc757151}</foreignId>
-     <text>4th of July is an important date in American history. On this day in 1776 America declared independence from Great Britain. After this it became a national holiday.</text>
+     <text>Czwarty lipca to ważna data w amerykańskiej historii. Tego dnia w tysiąc siedemset siedemdziesiątym szóstym roku Ameryka ogłosiła niepodległośc od Królestwa Brytyjskiego. Po tym wydarzeniu czwarty lipca stał się świętem narodowym.</text>
      <i18nText>4th of July is an important date in American history. On this day in 1776 America declared independence from Great Britain. After this it became a national holiday.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3c57b0b1-a9cc-4a7e-beb2-711cc6b76696}</id>
      <foreignId>{768f6a4a-ef4d-4e7b-9ad9-adef38a3fcca}</foreignId>
-     <text>Christopher Columbus was born on 31 October 1451. He become famous for discovering America. He died in 1506 at the age of 54.</text>
+     <text>Krzysztof Kolumb urodził się trzydziestego pierwszego października tysiąc czterysta pięćdziesiątego pierwszego roku. Stał sie sławny poprzez odkrycie Ameryki. Zmarł w tysiąc pięćset szóstym rok w wieku pięćdziesięciu czterech lat.</text>
      <i18nText>Christopher Columbus was born on 31 October 1451. He become famous for discovering America. He died in 1506 at the age of 54.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0b0308cc-d75f-4b00-9c09-4bc73a7b0739}</id>
      <foreignId>{2a75e701-f615-4af3-9217-795afc8d0193}</foreignId>
-     <text>The meeting is going to be at 1 pm. It is going to last for 1 hour and 30 minutes.</text>
+     <text>Spotkanie odbędzie się o pierwszej po południu. Powinnio zająć około półtorej godziny.</text>
      <i18nText>The meeting is going to be at 1 pm. It is going to last for 1 hour and 30 minutes.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fb802a4d-9fec-4686-8cd5-dcbcbc5c7b22}</id>
      <foreignId>{a85b5b1e-5722-4c4d-97f5-ba203356f3e0}</foreignId>
-     <text>We are going to depart at 6 o'clock. Please arrive at least 15 minutes earlier.</text>
+     <text>Odjeżdżamy o szóstej. Proszę przybyć na miejsce przynajmniej piętnaście minut wcześniej.</text>
      <i18nText>We are going to depart at 6 o'clock. Please arrive at least 15 minutes earlier.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
