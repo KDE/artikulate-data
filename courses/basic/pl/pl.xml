@@ -6841,681 +6841,681 @@
     <phrase>
      <id>{080ce9cc-3742-4cbe-a986-a7107eb648ef}</id>
      <foreignId>{887e994d-71c8-4599-b549-ff43d49b9312}</foreignId>
-     <text>food</text>
+     <text>jedzenie</text>
      <i18nText>food</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89e66876-5b06-4f3f-9989-44f13b37f8f4}</id>
      <foreignId>{553b9e3d-007f-40a3-b4ba-39a8cbf6a444}</foreignId>
-     <text>tomato</text>
+     <text>pomidor</text>
      <i18nText>tomato</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{92b3f637-956d-4dd4-968d-f8480fb9fe51}</id>
      <foreignId>{d544dfa7-6d3a-4d8a-ac5a-ea9191b2ca94}</foreignId>
-     <text>cucumber</text>
+     <text>ogórek</text>
      <i18nText>cucumber</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{921acbed-1574-44dd-a5bf-907546a627e9}</id>
      <foreignId>{480f7b84-a793-4b39-b09e-63b9cea492fe}</foreignId>
-     <text>potato</text>
+     <text>ziemniak</text>
      <i18nText>potato</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3ae5ebb2-8e9d-44bc-9cc3-3aa99496a50d}</id>
      <foreignId>{11050d64-d888-481f-ac2d-49b8ec4e521c}</foreignId>
-     <text>onion</text>
+     <text>cebula</text>
      <i18nText>onion</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{27b61b66-ffe3-454b-a94e-79f21cd6de0e}</id>
      <foreignId>{51ad2943-430b-4bf8-8bb4-3b7670180b00}</foreignId>
-     <text>garlic</text>
+     <text>czosnek</text>
      <i18nText>garlic</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b6a189d1-0a67-4e37-8ffc-cbf29a41f588}</id>
      <foreignId>{d643ba3d-f0cf-4aaf-bb7a-d123620f797f}</foreignId>
-     <text>lettuce</text>
+     <text>sałata</text>
      <i18nText>lettuce</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ac8c522b-7994-4a0c-8aa3-707653e06110}</id>
      <foreignId>{209a0741-8c93-4cc1-b408-77ea0b89a654}</foreignId>
-     <text>salt</text>
+     <text>sól</text>
      <i18nText>salt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c8315bd7-ffae-4d32-b8d7-d0ed993ee2f7}</id>
      <foreignId>{2e55b9d9-bc84-46c8-b457-498d6087e806}</foreignId>
-     <text>pepper</text>
+     <text>pieprz</text>
      <i18nText>pepper</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{47cf668c-5610-43a6-8234-aeb10272ad01}</id>
      <foreignId>{97a89f5d-40ab-4935-9e67-fcda1583f010}</foreignId>
-     <text>flour</text>
+     <text>mąka</text>
      <i18nText>flour</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{724861c1-7213-408d-a2e9-7b2d8a90ca16}</id>
      <foreignId>{e9620e31-f1df-444d-9c07-da02a78f5906}</foreignId>
-     <text>egg</text>
+     <text>jajko</text>
      <i18nText>egg</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5885c3c8-5e1f-4533-a174-4dd38f5e5e65}</id>
      <foreignId>{e7b81d85-ca39-4683-b88e-6791b42c892a}</foreignId>
-     <text>meat</text>
+     <text>mięso</text>
      <i18nText>meat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2db89714-1af6-425a-99ff-4b08f7fa4a26}</id>
      <foreignId>{cb49e0cc-7e6c-4322-8f8b-011ef6f71c25}</foreignId>
-     <text>cheese</text>
+     <text>ser</text>
      <i18nText>cheese</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6889ed6a-8b9b-4bf2-aa79-e3c8ca7e5e0c}</id>
      <foreignId>{b115e05f-e2d0-43f2-9d26-83f05a00b140}</foreignId>
-     <text>spices</text>
+     <text>przyprawy</text>
      <i18nText>spices</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{682ce477-ef4c-4613-b17d-f3f15569d092}</id>
      <foreignId>{29d3280b-0d1c-4aa4-8e63-8d0682ffd286}</foreignId>
-     <text>bread</text>
+     <text>chleb</text>
      <i18nText>bread</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{84a9ea09-fe09-4bd6-a0cf-6dc7b700eb8b}</id>
      <foreignId>{592588eb-1127-45ef-9ba1-2fd11ebb6940}</foreignId>
-     <text>yoghurt</text>
+     <text>jogurt</text>
      <i18nText>yoghurt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e7de13a9-066d-4977-b12c-bd322b90ae15}</id>
      <foreignId>{b79b6dbd-e5b2-4aa8-bfae-41f98babcbb3}</foreignId>
-     <text>cake</text>
+     <text>ciasto</text>
      <i18nText>cake</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{146a5b2f-f90e-4d22-a5b9-67d9ae1d1983}</id>
      <foreignId>{90d703a7-19ca-4ad7-bde3-fa06935f4b9d}</foreignId>
-     <text>ketchup</text>
+     <text>keczup</text>
      <i18nText>ketchup</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fa715dac-be12-4781-82e5-9e5472d96e39}</id>
      <foreignId>{ee4e784a-7470-4fff-99a2-480b6944eecb}</foreignId>
-     <text>mayonnaise</text>
+     <text>majonez</text>
      <i18nText>mayonnaise</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{366ba33b-71b2-476b-a896-a102bb333387}</id>
      <foreignId>{6da8f62c-d6eb-48ae-919a-c9da2ff4c77d}</foreignId>
-     <text>chocolate</text>
+     <text>czekolada</text>
      <i18nText>chocolate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{70a4e6ba-68f9-4055-ade6-599d68f1311e}</id>
      <foreignId>{964d7c8d-e889-482c-a5e2-b3f16a19c87e}</foreignId>
-     <text>fish</text>
+     <text>ryba</text>
      <i18nText>fish</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c43002f7-7b38-4728-8fb1-cfdf598c9a97}</id>
      <foreignId>{d4c6b36b-3e24-4d95-978a-cb76890559bd}</foreignId>
-     <text>ice-cream</text>
+     <text>lody</text>
      <i18nText>ice-cream</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e64fe551-63e6-462a-84f0-0af444a079c0}</id>
      <foreignId>{44e2cbae-f167-43f7-97ed-8170fd37eba3}</foreignId>
-     <text>one kilogram of edam cheese</text>
+     <text>kilogram sera edam</text>
      <i18nText>one kilogram of edam cheese</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b3429616-b816-46e2-8034-ddbc947af3c9}</id>
      <foreignId>{73e581be-1866-4bb2-b3d8-a63bde5958cc}</foreignId>
-     <text>125 grams of butter</text>
+     <text>sto dwadzieścia pięć gramów masła</text>
      <i18nText>125 grams of butter</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4bc1b14e-ec79-48f6-9a69-e8950236051e}</id>
      <foreignId>{132f567a-0449-4b4b-96b2-32856d468e40}</foreignId>
-     <text>slice of pizza</text>
+     <text>kawałek pizzy</text>
      <i18nText>slice of pizza</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7826f50d-c0a7-4322-b2ed-9cf774315c99}</id>
      <foreignId>{eaf8c3f7-83c4-453b-b318-3ee053f03e59}</foreignId>
-     <text>frozen food section</text>
+     <text>dział mrożonek</text>
      <i18nText>frozen food section</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4824350f-9264-4160-b826-ec7c41788a54}</id>
      <foreignId>{44898c95-748b-47a4-af81-016a7f8e8aa6}</foreignId>
-     <text>loaf of bread</text>
+     <text>bochenek chleba</text>
      <i18nText>loaf of bread</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fbb02617-519e-4255-9e11-ad49c3487821}</id>
      <foreignId>{8ab772c6-74c6-4ac8-8602-47efb8fd9618}</foreignId>
-     <text>two pounds of olives</text>
+     <text>dwa funty oliwek</text>
      <i18nText>two pounds of olives</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{07c2b324-14de-4d4b-b85d-3575e236498f}</id>
      <foreignId>{8ab289d5-00f7-4968-81d9-e003a08820fe}</foreignId>
-     <text>one litre of oil</text>
+     <text>litr oleju</text>
      <i18nText>one litre of oil</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{20c8231a-cd42-460e-9ae4-ced79bc59768}</id>
      <foreignId>{40f65c4e-34d5-4292-8c8a-3ce86e43cf32}</foreignId>
-     <text>grocery shopping</text>
+     <text>zakupy spożywcze</text>
      <i18nText>grocery shopping</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0f143fd1-43e9-48c0-9563-03944560a9e1}</id>
      <foreignId>{5127ea6e-1305-4dfb-a7c2-3181b0785e85}</foreignId>
-     <text>household items</text>
+     <text>produkty gospodarstwa domowego</text>
      <i18nText>household items</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5a257d4a-957f-4c52-b67a-ba62632cb219}</id>
      <foreignId>{fcc31a15-d533-435a-b0d6-8610ec683d5d}</foreignId>
-     <text>shopping cart</text>
+     <text>koszyk na zakupy</text>
      <i18nText>shopping cart</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4bfb7422-13a3-4ed9-87fe-1018bf328394}</id>
      <foreignId>{ab6c2ed3-eb9a-44b0-9abd-09742b85caf7}</foreignId>
-     <text>health and beauty section</text>
+     <text>produkty drogeryjne</text>
      <i18nText>health and beauty section</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{69a26e71-df17-4182-aa25-e902eeebe9d3}</id>
      <foreignId>{ef164c2e-590b-481b-9c83-0e458b178638}</foreignId>
-     <text>bag the items</text>
+     <text>pakować produkty</text>
      <i18nText>bag the items</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f5377e85-9b05-4600-9480-61829efa34be}</id>
      <foreignId>{0c826e85-5f34-4295-8e06-32d7e9da3bb2}</foreignId>
-     <text>baked goods</text>
+     <text>wypieki</text>
      <i18nText>baked goods</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1e09000e-7b3a-41b9-8956-9e6115d541e4}</id>
      <foreignId>{0e81efab-b17d-41ae-976e-6c63d68e791f}</foreignId>
-     <text>frozen vegetables</text>
+     <text>mrożone warzywa</text>
      <i18nText>frozen vegetables</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dbf5d505-4874-4b39-805a-1e5d9727e504}</id>
      <foreignId>{add1ed91-5361-445e-9ff8-eb3db22038fa}</foreignId>
-     <text>scan an item</text>
+     <text>skanować produkt</text>
      <i18nText>scan an item</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9218553b-1f15-4eb6-9112-70db818332db}</id>
      <foreignId>{0b35357e-4bf8-41a8-9bca-721f41f1297b}</foreignId>
-     <text>soft drink</text>
+     <text>napoje bezalkoholowe</text>
      <i18nText>soft drink</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2038c14a-e198-4681-be4b-852c26dd2e9f}</id>
      <foreignId>{5bc90140-6312-415c-bf74-e637e1e969e1}</foreignId>
-     <text>dried fruits</text>
+     <text>suszone owoce</text>
      <i18nText>dried fruits</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f2cba817-28fc-487e-8d2f-c3e54224a3b5}</id>
      <foreignId>{95d23c1a-b9a6-4e9f-b0a1-3332230de10f}</foreignId>
-     <text>spring onions</text>
+     <text>szczypiorek</text>
      <i18nText>spring onions</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{87b1588c-1725-495e-a5d3-a99cf0601d29}</id>
      <foreignId>{01833a12-cc43-4ce8-ada0-629fcd3a91cb}</foreignId>
-     <text>alcoholic drinks</text>
+     <text>napoje alkoholowe</text>
      <i18nText>alcoholic drinks</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{70a143cf-94a7-4227-9fd9-1f696257190f}</id>
      <foreignId>{8df50f48-a303-4d3b-9f6f-971c2d63a069}</foreignId>
-     <text>salad dressing</text>
+     <text>sos do sałatek</text>
      <i18nText>salad dressing</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e80334f5-b415-45c1-acd1-1391db8b5f7d}</id>
      <foreignId>{7598bb90-4394-4975-a15d-d4d9cc115aad}</foreignId>
-     <text>jar of jam</text>
+     <text>słoik dżemu</text>
      <i18nText>jar of jam</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{762d209a-a1cd-429f-844a-a09773affef9}</id>
      <foreignId>{d70bf326-ad57-4a16-a8aa-e343bb76204b}</foreignId>
-     <text>return policy</text>
+     <text>polityka zwrotów</text>
      <i18nText>return policy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ecefdc44-14e0-4e9a-9597-84305cc40c00}</id>
      <foreignId>{da62182e-9696-4852-a6f1-4686a6a0812d}</foreignId>
-     <text>Are you being served?</text>
+     <text>Czy ktoś już Pana obsługuje?</text>
      <i18nText>Are you being served?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{44ff927d-c4bc-4112-8aec-953160ed2e1f}</id>
      <foreignId>{3df95096-6abe-4561-af6b-9c3e4c9e15bd}</foreignId>
-     <text>We do not sell alcohol after 10 pm.</text>
+     <text>Nie sprzedajemy alkoholu po dwudziestej drugiej.</text>
      <i18nText>We do not sell alcohol after 10 pm.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ea6d9c80-440b-47fa-910f-12dc3ae8d226}</id>
      <foreignId>{286782c9-305f-4aaf-8d17-a40ea2e3250d}</foreignId>
-     <text>Is this on sale?</text>
+     <text>Czy to jest na promocji?</text>
      <i18nText>Is this on sale?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cdb51386-b5fe-4abe-8197-0f68105fddd0}</id>
      <foreignId>{8b8f5c97-30ff-4462-9edc-993591ff04ae}</foreignId>
-     <text>You can go to express checkout if you have less than five items.</text>
+     <text>Możesz iść do kasy ekspresowej jeśli masz mniej niż pięc produktów.</text>
      <i18nText>You can go to express checkout if you have less than five items.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a6cfcb57-67ea-4087-ab28-6ec23bde2abe}</id>
      <foreignId>{f040aa1d-95df-4777-b0fe-2fc5af92c83e}</foreignId>
-     <text>Do you have a loyalty card?</text>
+     <text>Ma Pan kartę lojalnościową?</text>
      <i18nText>Do you have a loyalty card?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{099d85a9-cbaf-4b71-922f-af64c677d484}</id>
      <foreignId>{b125245b-8ee2-4c23-bad7-6e609e28a92a}</foreignId>
-     <text>It needs to be used by 13th of August 2013.</text>
+     <text>To musi być spożyte przed trzynastym sierpnia dwa tysiące trzynastego roku.</text>
      <i18nText>It needs to be used by 13th of August 2013.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4886c0c5-cf98-4f9b-ad1b-32b58bbd4aeb}</id>
      <foreignId>{0ecde442-84d8-478a-a9bd-efc85f258e84}</foreignId>
-     <text>That is $32.47.</text>
+     <text>Trzydzieści dwa dolary i czterdzieści siedem centów, proszę.</text>
      <i18nText>That is $32.47.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c831da3c-9ba3-4535-b8bd-5c3affab3bed}</id>
      <foreignId>{347d5b1b-12be-4cfc-8d78-ef11431c2435}</foreignId>
-     <text>How much is it?</text>
+     <text>Ile to kosztuje?</text>
      <i18nText>How much is it?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c0d50ec8-a069-4c87-a8f4-93271a64a618}</id>
      <foreignId>{094c93df-4092-45ea-8b81-4f6bcb911b11}</foreignId>
-     <text>Could I have a carrier bag, please?</text>
+     <text>Czy mogę prosić reklamówkę?</text>
      <i18nText>Could I have a carrier bag, please?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3f1a9f39-c564-4586-ac70-22224819bffc}</id>
      <foreignId>{121162fc-4d4c-440d-b93e-81a402b909c7}</foreignId>
-     <text>The opening hours are 8am-10pm.</text>
+     <text>Godziny otwarcia są od ósmej rano do dziesiątej wieczorem.</text>
      <i18nText>The opening hours are 8am-10pm.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{baeac258-74b2-49d7-8014-4ca6c12c5b0b}</id>
      <foreignId>{965e6778-6192-4679-8774-fbf171de4fee}</foreignId>
-     <text>When you done with the shopping, go to the cashier.</text>
+     <text>Jak skończył Pan zakupy proszę iść do kasy.</text>
      <i18nText>When you done with the shopping, go to the cashier.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7b339e00-f3e8-4431-b664-51a91f7a880d}</id>
      <foreignId>{3a650473-c01b-4b17-9b55-7948c9a39e81}</foreignId>
-     <text>Would you like to pay with cash or credit card?</text>
+     <text>Płaci Pani kartą czy gotówką?</text>
      <i18nText>Would you like to pay with cash or credit card?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{72557f7d-aed6-448c-a8e7-46870f776a5e}</id>
      <foreignId>{697f9e86-ce9e-4c0c-9814-e482104e3ae0}</foreignId>
-     <text>Here is your change and your receipt.</text>
+     <text>Ma Pan tu resztę i paragon.</text>
      <i18nText>Here is your change and your receipt.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{006a30e7-fe18-4aef-941d-8ca7d71c868e}</id>
      <foreignId>{c1e3aaa6-b342-49b0-8f20-aa942ac491f1}</foreignId>
-     <text>Can I have a bottle of whisky?</text>
+     <text>Czy mogę prosić butelkę whisky?</text>
      <i18nText>Can I have a bottle of whisky?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ad06faaa-f894-4228-8c5e-32fcfa114ba0}</id>
      <foreignId>{08c9959b-5863-4bc4-a07e-b588b2ebcd1b}</foreignId>
-     <text>Pasta is in aisle 6.</text>
+     <text>Makarony są w szóstej alejce.</text>
      <i18nText>Pasta is in aisle 6.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0d65f88e-7d78-424a-a1bf-1b674f3ddf7b}</id>
      <foreignId>{53230591-5879-47f2-9bb3-86d911835d0d}</foreignId>
-     <text>I would like 20 slices of ham, please.</text>
+     <text>Mógłbym prosić dwadzieścia plasterków szynki?</text>
      <i18nText>I would like 20 slices of ham, please.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1230bb0f-7c01-4f77-bbe8-8d4b2a93987a}</id>
      <foreignId>{85adbe97-ba03-4d43-8087-686fc25a2621}</foreignId>
-     <text>Today, more and more companies offer food delivery.</text>
+     <text>W dzisiejszych czasach coraz więcej sklepów oferuje dowóz do domu.</text>
      <i18nText>Today, more and more companies offer food delivery.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5c78297f-a9e7-48f3-adf6-59fd745c9cf5}</id>
      <foreignId>{53fb1972-cc86-49b6-ba46-005483e23cbe}</foreignId>
-     <text>I usually buy organic products.</text>
+     <text>Zazwyczaj kupuję produkty organiczne.</text>
      <i18nText>I usually buy organic products.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{df9b4fa5-bc66-42e9-b552-68fbaec1ef72}</id>
      <foreignId>{48dcc587-2051-465c-a4a5-b2de4ba4fc7b}</foreignId>
-     <text>You should ask one of the shop assistants.</text>
+     <text>Powinien Pan zapytać sprzedawcy.</text>
      <i18nText>You should ask one of the shop assistants.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{58ccc427-752a-4c7e-8cbe-be88f9efdc60}</id>
      <foreignId>{e44dd705-56fd-41ba-ac80-c4e684b89ef1}</foreignId>
-     <text>Please, enter your PIN number.</text>
+     <text>Proszę wpisać numer PIN.</text>
      <i18nText>Please, enter your PIN number.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1c92896b-4087-4763-a6e9-1bb819e78318}</id>
      <foreignId>{ac0fbeca-b1c2-406a-9279-811a5156987e}</foreignId>
-     <text>Supermarkets are quite convenient. They offer a much larger variety of products than traditional grocery stores.</text>
+     <text>Zakupy w supermarkecie są całkiem wygodne. Oferują tam dużo więcej produktów niż w lokalnych sklepach.</text>
      <i18nText>Supermarkets are quite convenient. They offer a much larger variety of products than traditional grocery stores.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9d36966f-8a4f-44d5-995e-b5017ecc3ba9}</id>
      <foreignId>{e9153c8b-0e73-45ea-a14a-da85aadf7d8d}</foreignId>
-     <text>Cheeses are in two places. The pre-packaged cheese is in the cheese aisle just next to us. You can also get cheese from the counter at the back of the supermarket.</text>
+     <text>Sery są w dwóch miejscach. Paczkowane sery są w alejce z serami zaraz obok nas. Może też Pan isć do lady ze świeżymi serami na końcu supermarketu.</text>
      <i18nText>Cheeses are in two places. The pre-packaged cheese is in the cheese aisle just next to us. You can also get cheese from the counter at the back of the supermarket.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{463b2fa0-977c-4484-950f-d63aea2f6f0e}</id>
      <foreignId>{0ba380ae-d5ff-4d86-bfa6-e17ad67990df}</foreignId>
-     <text>You have 14 days to return the item. We can replace it or exchange for something else. You can also have a full refund.</text>
+     <text>Ma Pan czternaście dni na zwrócenie produktu. Możemy go wymienić na nowy albo na inny produkt. Może też Pan uzyskać zwrot pieniędzy.</text>
      <i18nText>You have 14 days to return the item. We can replace it or exchange for something else. You can also have a full refund.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4b475f24-7714-4b29-bbf8-d4227138c30d}</id>
      <foreignId>{1a4ea148-616a-4c50-b05f-66a72419075e}</foreignId>
-     <text>Good afternoon! There is an offer on the biscuits today. Come and try them for free.</text>
+     <text>Dzień Dobry! Dzisiaj mamy promocje ciasteczek. Proszę podejść i spróbować.</text>
      <i18nText>Good afternoon! There is an offer on the biscuits today. Come and try them for free.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
