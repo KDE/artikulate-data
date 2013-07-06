@@ -5501,77 +5501,77 @@
      <i18nText>film</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60f574ee-fda4-4214-9001-b2f1996885f3}</id>
      <foreignId>{f24ce65d-c3f0-407e-a387-cfe014478978}</foreignId>
-     <text>crime</text>
+     <text>kryminał</text>
      <i18nText>crime</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{72b870c7-e12b-4daf-989d-d85bf733bfad}</id>
      <foreignId>{8aba1ba2-46fa-48f5-8230-3936d511238a}</foreignId>
-     <text>thriller</text>
+     <text>dreszczowiec</text>
      <i18nText>thriller</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fd7453f6-41f1-43c5-ae77-98f237031dce}</id>
      <foreignId>{1af1e8a5-f8a4-478d-b8f9-4d0cb7f56b42}</foreignId>
-     <text>drama</text>
+     <text>dramat</text>
      <i18nText>drama</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0e1556e1-bf4d-429b-a05f-1fcd9d52359b}</id>
      <foreignId>{349feb8f-4c0e-4365-aef1-1be4035e5eac}</foreignId>
-     <text>comedy</text>
+     <text>komedia</text>
      <i18nText>comedy</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8ea8110a-fc33-4015-ba29-5a50db85591a}</id>
      <foreignId>{8975628f-e49d-427f-b58a-087e8153abf4}</foreignId>
-     <text>theatre</text>
+     <text>teatr</text>
      <i18nText>theatre</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{aac0776f-eb84-48d1-b853-f66097d040c8}</id>
      <foreignId>{f30e3ceb-c032-4549-b9e6-e766a4924437}</foreignId>
-     <text>music</text>
+     <text>muzyka</text>
      <i18nText>music</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a2dd2cfb-e206-4f18-bb81-941d37ad4f61}</id>
      <foreignId>{0573361a-ab9a-47f9-9b39-eca1b116848d}</foreignId>
-     <text>rock</text>
+     <text>rok</text>
      <i18nText>rock</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5581,137 +5581,137 @@
      <i18nText>pop</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f63b7e4c-afd6-4f80-a2d4-1236b75b9c3a}</id>
      <foreignId>{f443e584-337c-437e-9a76-75e961c8ffae}</foreignId>
-     <text>book</text>
+     <text>książka</text>
      <i18nText>book</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8a4872fe-53f5-47f3-8ebb-c1abc0294858}</id>
      <foreignId>{311b06b6-8102-4da6-bfa2-549aee014468}</foreignId>
-     <text>novel</text>
+     <text>powieść</text>
      <i18nText>novel</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{73d8ba98-66f1-490a-87a6-defdcc421a45}</id>
      <foreignId>{9e252a1b-c527-48d6-a95a-1bc9ce675eed}</foreignId>
-     <text>author</text>
+     <text>autor</text>
      <i18nText>author</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cf4d3041-01c8-480e-868e-a9e1589e791e}</id>
      <foreignId>{bfacf17d-8122-45cb-aa27-d4bacd75b132}</foreignId>
-     <text>director</text>
+     <text>reżyser</text>
      <i18nText>director</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e03b0f3-150d-4e8d-9461-b541cb5a409d}</id>
      <foreignId>{ac2b92c7-dd22-4931-b24b-3534ac978336}</foreignId>
-     <text>writer</text>
+     <text>pisarz</text>
      <i18nText>writer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4d61b34e-a76c-4acb-9d03-6b81ff6bfcab}</id>
      <foreignId>{e170dc17-d24c-43de-b202-8258917ada18}</foreignId>
-     <text>read</text>
+     <text>czytać</text>
      <i18nText>read</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1d088cda-93ee-469e-96cd-ddf95c7c594e}</id>
      <foreignId>{b621e2d9-5ca3-4400-a9d9-60018bf61426}</foreignId>
-     <text>ballet</text>
+     <text>balet</text>
      <i18nText>ballet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{11e15ec6-98ec-4168-8613-6b4719144fd5}</id>
      <foreignId>{dbf84dc0-92b0-45c2-a20e-1b014bdb3252}</foreignId>
-     <text>actor</text>
+     <text>aktor</text>
      <i18nText>actor</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1146e1e2-98a1-4aa4-9e60-5a6a8f619d11}</id>
      <foreignId>{8d01ffe9-630c-4ac8-ac56-fada9f5e3202}</foreignId>
-     <text>nightclub</text>
+     <text>klub nocny</text>
      <i18nText>nightclub</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6759a551-56aa-4e0e-bf5f-472cdbc99a27}</id>
      <foreignId>{2f613a60-5036-4304-a64e-4e61933f3ccc}</foreignId>
-     <text>circus</text>
+     <text>cyrk</text>
      <i18nText>circus</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cba3a1d3-3e67-40e6-8ddc-14e9226dee23}</id>
      <foreignId>{d00bcf38-abf0-4cca-9cdc-44e027aaf043}</foreignId>
-     <text>singer</text>
+     <text>piosenkarz</text>
      <i18nText>singer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5171e8ca-ed09-425f-b9d8-cd4f515fdb26}</id>
      <foreignId>{9c9aa673-2851-4840-9ae1-13b01bb02628}</foreignId>
-     <text>composer</text>
+     <text>kompozytor</text>
      <i18nText>composer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9212f5b8-9dfc-44aa-a275-9f69fd7053bc}</id>
      <foreignId>{b653b385-22b2-4d15-9f25-c95fa24bb287}</foreignId>
-     <text>cartoon</text>
+     <text>bajka</text>
      <i18nText>cartoon</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5721,437 +5721,437 @@
      <i18nText>heavy metal</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4b9c3d78-0c71-43ff-a7b4-7d9081374360}</id>
      <foreignId>{237cf071-13b8-4521-abd1-3ab12e298c15}</foreignId>
-     <text>listen to music</text>
+     <text>słuchać muzyki</text>
      <i18nText>listen to music</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c75d1517-fcfc-403e-a676-a60202a0bd9e}</id>
      <foreignId>{713e0a62-c5df-4858-89d5-8d3d4cc7e09f}</foreignId>
-     <text>go to the cinema</text>
+     <text>chodzić do kina</text>
      <i18nText>go to the cinema</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{87f4b973-d900-43b2-8a8c-c1c3e544ed72}</id>
      <foreignId>{bfd46f10-08e0-433b-803d-5ea917a28302}</foreignId>
-     <text>movie night</text>
+     <text>noc filmowa</text>
      <i18nText>movie night</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7088d340-a36f-4e72-949e-ddbecaeaad83}</id>
      <foreignId>{8e8b1fed-8aee-4fe9-85ad-60bfab1ab2a0}</foreignId>
-     <text>go clubbing</text>
+     <text>chodzić do klubów</text>
      <i18nText>go clubbing</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e0d9a45a-280f-4b1a-aea8-79d84ad4836c}</id>
      <foreignId>{ad71538f-7e64-471e-bdb2-3a393504d176}</foreignId>
-     <text>meet friends</text>
+     <text>spotykać znajomych</text>
      <i18nText>meet friends</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9d27dead-56ea-487a-bbec-b944d189d5dc}</id>
      <foreignId>{51cf771c-1691-49d7-a135-f096e2284d7f}</foreignId>
-     <text>have drinks</text>
+     <text>iść na drinka</text>
      <i18nText>have drinks</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{87a5b877-90c2-428c-a6fe-7a7f1e484213}</id>
      <foreignId>{d02099ab-6a17-4811-b5e4-4dc045c0400b}</foreignId>
-     <text>chill out</text>
+     <text>relaksować się</text>
      <i18nText>chill out</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{29801849-9abf-4ac4-81f6-ce415112d5e2}</id>
      <foreignId>{d86ef931-ff7a-420f-8a20-d7efc768784f}</foreignId>
-     <text>play video games</text>
+     <text>grać w gry komputerowe</text>
      <i18nText>play video games</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0ddc1c8a-768d-4a8b-802d-ff32a414fcb1}</id>
      <foreignId>{4cdf6ccd-185f-4e9f-a2b6-36e101bad70c}</foreignId>
-     <text>stay at home</text>
+     <text>zostawać w domu</text>
      <i18nText>stay at home</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4a075470-f68b-4446-8d9c-e2ce082b799e}</id>
      <foreignId>{928a6958-184b-429c-9f57-7407753534cb}</foreignId>
-     <text>film star</text>
+     <text>gwiazda filmowa</text>
      <i18nText>film star</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7db960de-9ac9-4850-9b3a-d5b3f68639f4}</id>
      <foreignId>{44a09652-3923-4a2d-8c66-0abca8e93eea}</foreignId>
-     <text>play a role</text>
+     <text>grać rolę</text>
      <i18nText>play a role</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{229a1062-3cad-415f-9af9-2e4afae18d53}</id>
      <foreignId>{e6407930-3461-43dd-a4dc-ce235d036617}</foreignId>
-     <text>science fiction movie</text>
+     <text>film science fiction</text>
      <i18nText>science fiction movie</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{04affed7-68f2-4148-ac0e-094f8e9b5802}</id>
      <foreignId>{4118423f-38d5-4300-9f4c-cf23e420d7e7}</foreignId>
-     <text>attraction park</text>
+     <text>park rozrywki</text>
      <i18nText>attraction park</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c3b2cdf-5689-4dfc-a63c-a32ea7e44e2e}</id>
      <foreignId>{f7f6bb7c-2fa1-4ca2-9697-d818679e08f5}</foreignId>
-     <text>play the guitar</text>
+     <text>grać na gitarze</text>
      <i18nText>play the guitar</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f924a9f4-f2a6-46b9-9abe-927263948f1d}</id>
      <foreignId>{94319c5d-798e-42eb-987a-88dd1cd92142}</foreignId>
-     <text>animated movie</text>
+     <text>film animowany</text>
      <i18nText>animated movie</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a712676a-5354-4b2b-b727-3c953063d029}</id>
      <foreignId>{8838e047-6749-443c-8e3b-ebc07b5d364f}</foreignId>
-     <text>action movie</text>
+     <text>film akcji</text>
      <i18nText>action movie</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{71f3b5b9-c8dd-452f-a69d-bad50adc4dc7}</id>
      <foreignId>{d133dd10-4448-4853-81fd-57b3b088404a}</foreignId>
-     <text>star in a film</text>
+     <text>być gwiazdą w filmie</text>
      <i18nText>star in a film</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fa69085c-b497-413c-abae-5187b872ae3b}</id>
      <foreignId>{fea2b2d2-d084-4446-8dfe-68739f775218}</foreignId>
-     <text>We are going to the cinema tomorrow.</text>
+     <text>Jutro idziemy do kina.</text>
      <i18nText>We are going to the cinema tomorrow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1a0136ce-91b3-47f2-8b57-b3d66105c94c}</id>
      <foreignId>{79416454-e9c9-445d-ae0a-858cf7938bad}</foreignId>
-     <text>Have you seen the latest Harry Potter movie?</text>
+     <text>Widziałeś ostatniego Harrego Pottera?</text>
      <i18nText>Have you seen the latest Harry Potter movie?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5227de84-7f2d-4025-b5e7-48344e9ecd9d}</id>
      <foreignId>{b226b063-4388-44db-bffa-2044c19a31e4}</foreignId>
-     <text>I like classical music.</text>
+     <text>Lubię muzykę klasyczną.</text>
      <i18nText>I like classical music.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{76a3d7f0-21af-4231-a2ac-d0925d7ebfe2}</id>
      <foreignId>{3ca17d48-65eb-41ad-9dde-61151cd7befe}</foreignId>
-     <text>Argo is a 2012 historical drama thriller film directed by Ben Affleck.</text>
+     <text>Argo to historyczny dramat i thriller z dwutysięcznego dwunastego roku wyreżyserowany przez Bena Afflecka.</text>
      <i18nText>Argo is a 2012 historical drama thriller film directed by Ben Affleck.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c2d5d0f-c2c5-479d-9753-645dccee3e01}</id>
      <foreignId>{b9234c78-3726-40ed-98ed-05ea93c9fe75}</foreignId>
-     <text>This movie is based on the novel.</text>
+     <text>Ten film jest oparty na powieści.</text>
      <i18nText>This movie is based on the novel.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6257c57d-afbb-4eac-bb71-26531f093487}</id>
      <foreignId>{1aada1d4-f8d4-47ae-9301-0aea890d36b9}</foreignId>
-     <text>Steven Spielberg is a famous director.</text>
+     <text>Steven Spielberg to znany reżyser.</text>
      <i18nText>Steven Spielberg is a famous director.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a92eee41-2267-4023-972c-a9f11793e304}</id>
      <foreignId>{063e8b2f-5be3-4b5f-9d89-da387f4275a2}</foreignId>
-     <text>Let's go out tonight.</text>
+     <text>Chodźmy na miasto wieczorem.</text>
      <i18nText>Let's go out tonight.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0cd47e1c-8cd9-4cdd-abc2-4042c26a1e93}</id>
      <foreignId>{1b5bd79a-c9d0-4833-8949-cd012418ba73}</foreignId>
-     <text>I read three or four books every month.</text>
+     <text>Czytam trzy lub cztery książki każdego miesiąca.</text>
      <i18nText>I read three or four books every month.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a0533234-ad40-487b-982a-148f1c78eba1}</id>
      <foreignId>{46ccb2ef-0d02-499b-b795-0a1c10afe2ac}</foreignId>
-     <text>Shakira is a Colombian pop singer.</text>
+     <text>Shakira to kolumbijska piosenkarka.</text>
      <i18nText>Shakira is a Colombian pop singer.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6399c3cc-3244-4e44-896b-cbc3b242998b}</id>
      <foreignId>{e5e66768-a64c-44ce-8ca3-65f58932b6ae}</foreignId>
-     <text>We have seen a magician show last week.</text>
+     <text>Tydzień temu widzieliśmy magika.</text>
      <i18nText>We have seen a magician show last week.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{68bf3e0a-19ec-45a5-88e2-fdde7f787504}</id>
      <foreignId>{47301ecc-12b0-4b6e-b4d0-0b728a7fe81b}</foreignId>
-     <text>Nowadays most towns have multiplex cinemas.</text>
+     <text>W naszych czasach każde miasteczko ma duże kino.</text>
      <i18nText>Nowadays most towns have multiplex cinemas.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{034b5a1c-403d-4abc-ae87-d41cebb499f2}</id>
      <foreignId>{868d446a-b896-4ba4-952c-7be65f996e67}</foreignId>
-     <text>In theatres you can see plays, musicals or pantomimes.</text>
+     <text>W teatrze ogląda się przedstawienia, musicale i pantonimy.</text>
      <i18nText>In theatres you can see plays, musicals or pantomimes.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1956adbb-0d86-4898-afa6-e8e33aeefba6}</id>
      <foreignId>{4e7dbcaa-2b19-4721-b169-a9ccbd005257}</foreignId>
-     <text>Many people go to their local pub where they can play darts or pool.</text>
+     <text>Wiele ludzi chodzi do miejscowego pubu grać w rzutki lub bilard.</text>
      <i18nText>Many people go to their local pub where they can play darts or pool.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e81f7298-7a62-496a-9249-2031560683ae}</id>
      <foreignId>{c5fd918a-e8b6-414c-9436-e63a3788f77f}</foreignId>
-     <text>Jennifer Aniston is a Hollywood actress.</text>
+     <text>Jennifer Aniston to aktorka z Hollywood.</text>
      <i18nText>Jennifer Aniston is a Hollywood actress.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{48175ed2-8a25-4c4e-b95b-9e60f9219cca}</id>
      <foreignId>{5f03c6eb-e1de-476a-8feb-aeb8a417ca77}</foreignId>
-     <text>At the weekend, younger people often go to a local disco.</text>
+     <text>W weekendy młodzież zazwyczaj chodzi do miejescowej dyskoteki.</text>
      <i18nText>At the weekend, younger people often go to a local disco.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5f818080-abc5-4f7f-87a9-419779fc5c11}</id>
      <foreignId>{99c8356a-65aa-4155-b14b-87b9c4bd9b17}</foreignId>
-     <text>There will be a concert of folk music at the town square.</text>
+     <text>W rynku będzie koncert muzyki ludowej.</text>
      <i18nText>There will be a concert of folk music at the town square.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{723bc935-a1c1-469e-b38e-01e63cf4b2e1}</id>
      <foreignId>{062656a3-e80d-47f4-8591-ad24650aad1e}</foreignId>
-     <text>Do you like going to the theatre?</text>
+     <text>Lubisz chodzić do teatru?</text>
      <i18nText>Do you like going to the theatre?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2dcc959d-f720-48b6-baa3-bd92048a8397}</id>
      <foreignId>{26f54c0f-0d3e-4ffc-944c-f11125676812}</foreignId>
-     <text>This play got very good reviews.</text>
+     <text>To przedstawienie dostało bardzo dobre oceny.</text>
      <i18nText>This play got very good reviews.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b9f87078-92cc-46c0-82de-0fa5d58d9ee9}</id>
      <foreignId>{6b9226a1-7b40-41c2-a8e7-57c00f1e9ee7}</foreignId>
-     <text>What row do you like to sit in?</text>
+     <text>W którym rzędzie chcesz siedzieć?</text>
      <i18nText>What row do you like to sit in?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c5866936-4874-4bca-89e3-ced2df42461d}</id>
      <foreignId>{8963c3a1-ed0c-4808-9dc5-dd40903918da}</foreignId>
-     <text>I will ll try to find good seats for tonight show.</text>
+     <text>Spróbuję znaleźć dobre siedzenia na dzisiejsze prezdstawienie.</text>
      <i18nText>I will ll try to find good seats for tonight show.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c553c20b-4a56-48a4-ac56-473e869bc13f}</id>
      <foreignId>{fb82b0b1-49de-4b40-82d4-3566d18a6b2c}</foreignId>
-     <text>The circus brings the best magicians and clowns.</text>
+     <text>Ten cyrk ma najlepszych magików i klaunów.</text>
      <i18nText>The circus brings the best magicians and clowns.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5c383cbf-5df8-4e95-859e-3e752e9a2aa8}</id>
      <foreignId>{d843e00f-f846-41a8-8030-cbc4848195d7}</foreignId>
-     <text>They specialize in making fun of the audience.</text>
+     <text>Specjalizują się w rozbawianiu publiczności.</text>
      <i18nText>They specialize in making fun of the audience.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b44349d1-953d-4eaa-bc22-5f9ed059a36e}</id>
      <foreignId>{d2795df4-4fe5-4bf4-a265-be2ca10a98d6}</foreignId>
-     <text>I'm exhausted. I'm going to stay at home and watch a movie.</text>
+     <text>Jestem wykończony. Zostanę w domu i obejrzę film.</text>
      <i18nText>I'm exhausted. I'm going to stay at home and watch a movie.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{356424c9-4dce-4b01-a138-73c2ea502ed5}</id>
      <foreignId>{b784d7ef-b18d-4568-9f71-4cd44fb2e741}</foreignId>
-     <text>This book is about police investigator. I really recommend it if you like crime stories.</text>
+     <text>Ta książka jest o policyjnym detektywie. Naprawdę polecam przeczytać jeśli lubisz krymiały.</text>
      <i18nText>This book is about police investigator. I really recommend it if you like crime stories.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5b4c6b10-6eff-4812-a55c-0391ab568e16}</id>
      <foreignId>{31a71925-8837-4df9-be1c-7d7de8e244e5}</foreignId>
-     <text>Each year Rio de Janeiro hosts the biggest carnival in the world. The tradition dates back to 1823.</text>
+     <text>Każdego roku w Rio de Janeiro odbywa się największy karnawał na świecie. Tradycja ta sięga tysiąć osiemset dwudziestego trzeciego roku.</text>
      <i18nText>Each year Rio de Janeiro hosts the biggest carnival in the world. The tradition dates back to 1823.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ee0c7c54-c4a8-40c6-bb52-f86bc1cae2ac}</id>
      <foreignId>{a6e9b7e2-aa81-4607-a234-e105cfcd9ffd}</foreignId>
-     <text>This movie has won three Oscars last year. It is an absolute must see.</text>
+     <text>Ten film wygrał rok temu trzy Oskary. Naprwadę musisz go zobaczyć.</text>
      <i18nText>This movie has won three Oscars last year. It is an absolute must see.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
