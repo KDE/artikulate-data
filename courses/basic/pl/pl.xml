@@ -4820,121 +4820,121 @@
     <phrase>
      <id>{c9133182-ef93-42b3-abde-e03d37772047}</id>
      <foreignId>{00cd82f1-c7dc-4261-b4a0-f3bb958265fe}</foreignId>
-     <text>shirt</text>
+     <text>koszula</text>
      <i18nText>shirt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{615ab40a-ac6b-4eee-87e6-cd3055c7be27}</id>
      <foreignId>{8a859aa3-ee9a-4a78-922d-d196ce16ceb8}</foreignId>
-     <text>trousers</text>
+     <text>spodnie</text>
      <i18nText>trousers</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9a2cbc7d-ceed-41e9-81aa-a64b2e2ece35}</id>
      <foreignId>{30428966-1334-4fea-bcdb-4a592956698d}</foreignId>
-     <text>jeans</text>
+     <text>dżinsy</text>
      <i18nText>jeans</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{28161308-4650-4a52-ae20-9fb492d8d182}</id>
      <foreignId>{1449fc28-ada2-4c76-bbd1-4ee82d512d3d}</foreignId>
-     <text>jumper</text>
+     <text>sweter</text>
      <i18nText>jumper</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cb2a0c9f-9001-4226-853f-8b93e331c2cb}</id>
      <foreignId>{773efcc7-b491-4a3c-9161-e4200dc810f7}</foreignId>
-     <text>gloves</text>
+     <text>rękawiczki</text>
      <i18nText>gloves</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{65d2413b-0a88-4ad2-b2c3-799b9f9f2caa}</id>
      <foreignId>{4ca286f1-d190-4dc2-b366-5c2d6f7b9510}</foreignId>
-     <text>hat</text>
+     <text>kapeleusz</text>
      <i18nText>hat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{06c72c5b-1faa-4d84-b73c-635926303465}</id>
      <foreignId>{07d33486-9ce3-4032-92e1-094a69385e05}</foreignId>
-     <text>T-shirt</text>
+     <text>koszulka</text>
      <i18nText>T-shirt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{100075a4-6c16-4265-9c35-8a3145aa170b}</id>
      <foreignId>{774a7142-26b3-4efc-88ac-fb0a3042a8f6}</foreignId>
-     <text>blouse</text>
+     <text>bluzka</text>
      <i18nText>blouse</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c95d937-d99a-4752-b027-63dec3fc07e5}</id>
      <foreignId>{31b05cfe-4819-4ffc-93d8-823dbec24c6b}</foreignId>
-     <text>shorts</text>
+     <text>krótkie spodenki</text>
      <i18nText>shorts</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f6cc3e84-dab8-418c-a863-ab203bf2d99b}</id>
      <foreignId>{709c090e-df1e-4d6e-ba64-4fa1bfd336b8}</foreignId>
-     <text>shoes</text>
+     <text>buty</text>
      <i18nText>shoes</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fa1e1523-90f4-4958-8b50-3de0b80fbd20}</id>
      <foreignId>{216ad380-0e3b-4efb-8c27-ae861c194954}</foreignId>
-     <text>trainers</text>
+     <text>adidasy</text>
      <i18nText>trainers</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{28eca2a8-d943-42b4-a873-f11b98648758}</id>
      <foreignId>{178cf5da-3eb5-4189-a371-eb3c864d3ec6}</foreignId>
-     <text>sandals</text>
+     <text>sandały</text>
      <i18nText>sandals</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4944,547 +4944,547 @@
      <i18nText>bikini</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3e75d53c-8620-431a-b362-5f579bfb6631}</id>
      <foreignId>{3b84ba49-354b-4d8b-8eb7-e2b69f210f8f}</foreignId>
-     <text>underwear</text>
+     <text>bielizna</text>
      <i18nText>underwear</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ee9f9559-cbdc-45d5-af04-7b5102c7bf24}</id>
      <foreignId>{84717073-8207-4c10-a226-fc31f4842093}</foreignId>
-     <text>skirt</text>
+     <text>spódniczka</text>
      <i18nText>skirt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{26744166-fe0d-416b-8b53-882fedbc377a}</id>
      <foreignId>{f5879b35-4eca-41f6-9851-4eac71ef22fc}</foreignId>
-     <text>suit</text>
+     <text>garnitur</text>
      <i18nText>suit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eb89d299-c72f-451f-bced-bf293f214881}</id>
      <foreignId>{42a4e86b-0c69-44e3-823e-74cae0dd1f0f}</foreignId>
-     <text>jacket</text>
+     <text>kurtka</text>
      <i18nText>jacket</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{14d89508-a849-4b8e-8fd3-e771db9581df}</id>
      <foreignId>{e85bc489-bef0-4cdc-aeab-579d2a4966a5}</foreignId>
-     <text>pyjama</text>
+     <text>piżama</text>
      <i18nText>pyjama</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8261fa2b-f59f-47c5-bdbd-ac39d731489d}</id>
      <foreignId>{8242df90-5393-4296-a128-288fd9123193}</foreignId>
-     <text>yellow</text>
+     <text>żółty</text>
      <i18nText>yellow</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{97cb9571-8f0e-467c-addb-949860862e30}</id>
      <foreignId>{9de01466-8334-4c27-a33b-ecf235904b14}</foreignId>
-     <text>red</text>
+     <text>czerwony</text>
      <i18nText>red</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{21430257-71f8-4821-991f-9cde27819972}</id>
      <foreignId>{0f9db6cf-ac9e-495f-8c86-1d3617503c1d}</foreignId>
-     <text>green</text>
+     <text>zielony</text>
      <i18nText>green</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0f606d0f-eec1-4754-8876-2008af3a035f}</id>
      <foreignId>{569bde6d-5166-414c-ae4f-338eae72232b}</foreignId>
-     <text>blue</text>
+     <text>niebieski</text>
      <i18nText>blue</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4245bef5-edfb-47be-ac7e-3cecc696121b}</id>
      <foreignId>{ec172453-46fe-4e88-90f5-67aaa961aba8}</foreignId>
-     <text>white</text>
+     <text>biały</text>
      <i18nText>white</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a8df5fd1-3fde-4f7e-b2b9-0be75ab9aa74}</id>
      <foreignId>{3f39c716-d0d8-4e8e-b79f-34f4b227398f}</foreignId>
-     <text>black</text>
+     <text>czarny</text>
      <i18nText>black</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{415ae8fe-72ac-422f-99a4-a79b6bb2b6b2}</id>
      <foreignId>{3a24f03a-6e12-4164-bf49-4768c771bfe2}</foreignId>
-     <text>stripes</text>
+     <text>paski</text>
      <i18nText>stripes</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d3595ace-2b21-4d5e-9c19-0b9cbd9905ab}</id>
      <foreignId>{8615220b-d325-49d2-a101-c2a1757649e9}</foreignId>
-     <text>small</text>
+     <text>mały</text>
      <i18nText>small</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9d5099e2-a836-47df-9276-95184a764339}</id>
      <foreignId>{1d0c9113-f6ec-415d-a68b-28a1564b9a69}</foreignId>
-     <text>big</text>
+     <text>duży</text>
      <i18nText>big</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{755bbb8a-3dd3-42d1-a877-9da12bf85d2f}</id>
      <foreignId>{9f22770a-ee8d-4973-a21b-368ffb4288a3}</foreignId>
-     <text>loose</text>
+     <text>luźny</text>
      <i18nText>loose</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6863b684-2cef-446b-a59c-5e5ac7e6109b}</id>
      <foreignId>{e8221ab1-9e13-4c73-8ef4-cd7576358836}</foreignId>
-     <text>short</text>
+     <text>krótki</text>
      <i18nText>short</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ab127665-5b9a-4c24-a9a1-31201faabd13}</id>
      <foreignId>{5e38b7b2-b7e2-41fa-9dc9-b76f1e928064}</foreignId>
-     <text>long</text>
+     <text>długi</text>
      <i18nText>long</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6b92050d-20fa-4acc-834d-fdcf12431a4f}</id>
      <foreignId>{6170f45a-4d87-4958-9fb7-81757d95f8f4}</foreignId>
-     <text>pink gloves</text>
+     <text>różowe rękawiczki</text>
      <i18nText>pink gloves</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f6694b8e-698c-47ff-a93e-4719c110592f}</id>
      <foreignId>{790b43bb-f63a-4da2-9037-0c1b7380f697}</foreignId>
-     <text>large vest</text>
+     <text>duża kamizelka</text>
      <i18nText>large vest</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{56ea95c3-ed38-43c1-8957-e7a02cc2139c}</id>
      <foreignId>{5be9dad4-ee22-4a46-afb3-b44ad0f9f8ba}</foreignId>
-     <text>wear glasses</text>
+     <text>nosić okulary</text>
      <i18nText>wear glasses</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2768a1a5-5cb3-4904-a64f-44e014da5dca}</id>
      <foreignId>{e98908f0-2728-4a79-a831-5d4227bde3df}</foreignId>
-     <text>expensive watch</text>
+     <text>drogi zegarek</text>
      <i18nText>expensive watch</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{37899011-025d-482a-a649-ba4f095a5c2d}</id>
      <foreignId>{18d390df-61af-4ab9-99ba-fe6ffaad26d0}</foreignId>
-     <text>too narrow</text>
+     <text>zbyt wąski</text>
      <i18nText>too narrow</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b12a3d17-a768-4418-9004-b87a0f9a3c05}</id>
      <foreignId>{f9158622-3f4d-4354-b763-f2d73a567887}</foreignId>
-     <text>get dressed</text>
+     <text>ubierać się</text>
      <i18nText>get dressed</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0526afbf-0709-4436-9173-0e1354a9bb3c}</id>
      <foreignId>{36564d95-dc09-4328-8741-e91c3e2f4adc}</foreignId>
-     <text>changing room</text>
+     <text>przebieralnia</text>
      <i18nText>changing room</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d0904c4e-80ea-457f-aac2-6dd5507e15cd}</id>
      <foreignId>{bf855118-fa8b-4092-afe2-89e22a44b541}</foreignId>
-     <text>size 12</text>
+     <text>rozmiar dwunasty</text>
      <i18nText>size 12</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cda04aad-1241-450b-a071-b56dd1b5982d}</id>
      <foreignId>{bc84522b-244f-4793-876e-f38252888cad}</foreignId>
-     <text>beautiful earrings</text>
+     <text>piękne kolczyki</text>
      <i18nText>beautiful earrings</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{535fb453-f06d-46ce-a9bf-6ffd185c41f3}</id>
      <foreignId>{4c39f52b-ac56-4b3f-af44-3389e03df71a}</foreignId>
-     <text>summer sale</text>
+     <text>letnia wyprzedaż</text>
      <i18nText>summer sale</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b5174da0-94e4-4bad-b3b1-bfd0cc96fb42}</id>
      <foreignId>{60bad8c7-0925-4ceb-be3a-f08a443c4fd7}</foreignId>
-     <text>pair of sleepers</text>
+     <text>para kapci</text>
      <i18nText>pair of sleepers</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9233265e-f0a8-407f-ae2e-7aec11e3f988}</id>
      <foreignId>{a1d6d97c-6b3e-48c4-8b9e-4d86a2278aed}</foreignId>
-     <text>fit someone</text>
+     <text>pasować komuś</text>
      <i18nText>fit someone</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{21d560cf-b7c8-41e2-81db-cbb8b6a6582e}</id>
      <foreignId>{7068dcdd-2097-469c-83ad-9a66def8c3d9}</foreignId>
-     <text>go clothes shopping</text>
+     <text>iść na zakupy</text>
      <i18nText>go clothes shopping</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{68fa9c1b-38a9-45d7-98e9-16dfafbec1e1}</id>
      <foreignId>{efc2883c-0545-4a56-ae4f-25b6e9fa06ae}</foreignId>
-     <text>take off</text>
+     <text>ściągać</text>
      <i18nText>take off</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f0e89bbf-ebe0-45f8-89b8-ecd0baa21d74}</id>
      <foreignId>{7e968523-df55-4e2c-b87a-dd56470fcf7a}</foreignId>
-     <text>famous brand</text>
+     <text>znana marka</text>
      <i18nText>famous brand</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f02866ce-d72d-4171-90f7-db389a7a60bc}</id>
      <foreignId>{bba9aac8-7d46-49f3-a894-c3979f2b31da}</foreignId>
-     <text>second-hand clothes</text>
+     <text>ubrania z drugiej ręki</text>
      <i18nText>second-hand clothes</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{76dba14f-f277-4a69-a150-ce61f5b58820}</id>
      <foreignId>{4d95f00e-19ab-443d-bfa2-0b0ddfa1a9b8}</foreignId>
-     <text>This red dress suits you well.</text>
+     <text>Ta sukienka pasuje Ci.</text>
      <i18nText>This red dress suits you well.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{65790183-0b7c-4905-a09a-cafcbf742004}</id>
      <foreignId>{754e4fa4-6d95-42eb-8beb-2cfac5208171}</foreignId>
-     <text>It is just a bit too tight.</text>
+     <text>Jest trochę za ciasna.</text>
      <i18nText>It is just a bit too tight.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c0c25e90-77fc-4bb9-a215-452e0a51ecc1}</id>
      <foreignId>{882def05-077a-4ee6-9267-91084e4abbe5}</foreignId>
-     <text>What are you going to wear tonight?</text>
+     <text>Co ubierasz wieczorem?</text>
      <i18nText>What are you going to wear tonight?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8832eb17-c84f-4cfb-a752-d80e6c81078b}</id>
      <foreignId>{43e67e18-3e78-4162-a598-a4e0b8c85b21}</foreignId>
-     <text>Why don't you try it on?</text>
+     <text>Czemu nie założysz spróbować?</text>
      <i18nText>Why don't you try it on?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d5995b90-52f2-4f0d-97ce-d2e551fd678c}</id>
      <foreignId>{4bc955a9-6952-436f-8848-3600ebfcf256}</foreignId>
-     <text>You cannot wear trainers with a suit.</text>
+     <text>Nie możesz założyć adidasów do garnituru.</text>
      <i18nText>You cannot wear trainers with a suit.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bc79fe01-a9cc-4393-8723-3180d417fa61}</id>
      <foreignId>{57106c8a-065d-4c82-8d1b-356965b734c0}</foreignId>
-     <text>I like it but I think I need a slightly smaller size.</text>
+     <text>Podoba mi się ale chyba potrzbuję trochę mniejszy rozmiar.</text>
      <i18nText>I like it but I think I need a slightly smaller size.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{569dc658-ccab-4044-96e0-d6d204a8d30b}</id>
      <foreignId>{0a2052e3-0143-461e-9011-10a5af2ff2f3}</foreignId>
-     <text>It does not fit.</text>
+     <text>Nie pasuje.</text>
      <i18nText>It does not fit.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0395d048-c977-45df-99fe-9ff4a768efe2}</id>
      <foreignId>{a4551120-2870-44da-9124-3a2967dc31af}</foreignId>
-     <text>Where do you have changing rooms?</text>
+     <text>Gdzie są przebieralnie?</text>
      <i18nText>Where do you have changing rooms?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{abc98126-893b-492f-844d-5894dfafb591}</id>
      <foreignId>{e45f0d16-e888-4c0f-8679-a723e88ec31e}</foreignId>
-     <text>I need to buy a new winter jacket.</text>
+     <text>Potrzebuję kupić nową kurtkę zimową.</text>
      <i18nText>I need to buy a new winter jacket.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4fc57930-0dd1-4a98-bedf-b4ab30c6b691}</id>
      <foreignId>{cc1d85c9-fa38-48f0-aa78-20583be9f404}</foreignId>
-     <text>Please, take off your shoes.</text>
+     <text>Proszę zdjąć buty.</text>
      <i18nText>Please, take off your shoes.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6cd7c0d7-cfde-4598-8959-0496aff8b462}</id>
      <foreignId>{28e6e787-ae9d-41d9-b52c-bbf64154e952}</foreignId>
-     <text>Did you wash my white summer dress?</text>
+     <text>Wyprałaś moją białą sukienkę letnią?</text>
      <i18nText>Did you wash my white summer dress?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5ac905d3-47b7-4920-baf9-9a5174e47e9f}</id>
      <foreignId>{bf9c214b-197f-4ab1-bcd8-7ff0fae7e4de}</foreignId>
-     <text>You need to wear long sleeve shirt.</text>
+     <text>Musisz mieć koszulę z długim rękawem.</text>
      <i18nText>You need to wear long sleeve shirt.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e1245c23-7c8f-41b3-bcc8-638dcb18f625}</id>
      <foreignId>{af8bc51f-c740-49dc-94fa-d2fb78c8485a}</foreignId>
-     <text>He is wearing a red T-shirt and black trousers today.</text>
+     <text>Dzisiaj on ma na sobie koszulkę i czarne spodnie.</text>
      <i18nText>He is wearing a red T-shirt and black trousers today.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a01b811d-2cac-48c8-beb8-46b45721df26}</id>
      <foreignId>{8888ce66-0fae-416a-b016-aa83f842f3f6}</foreignId>
-     <text>He bought her a gold ring.</text>
+     <text>Kupił jej złoty pierścionek.</text>
      <i18nText>He bought her a gold ring.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6e4cd735-fbc6-4cdc-a927-9ce45fea437f}</id>
      <foreignId>{e56c8862-4e3c-49ae-9423-57a1a521ea86}</foreignId>
-     <text>She looks very elegant.</text>
+     <text>Ona wygląda bardzo elegancko.</text>
      <i18nText>She looks very elegant.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2162b416-ad60-490b-b040-f7bb4da170cf}</id>
      <foreignId>{a81f4f15-1b82-497a-94a1-fdbeac90dc3f}</foreignId>
-     <text>This mini skirt is a bit too short.</text>
+     <text>Ta mini spódniczka jest zbyt krótka.</text>
      <i18nText>This mini skirt is a bit too short.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{58e17675-567f-4849-8043-5648aa75dfe1}</id>
      <foreignId>{a4f0fee7-038e-46b9-8c83-8c8757390c11}</foreignId>
-     <text>Take a hat and sunglasses. It is very sunny.</text>
+     <text>Weź czapkę i okulary przeciwsłoneczne. Słońce mocno świeci.</text>
      <i18nText>Take a hat and sunglasses. It is very sunny.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{62d654fc-8621-4d95-bcf2-dd6aaf371da0}</id>
      <foreignId>{f7404f91-ce9b-4a0f-8fcb-bb0ff8538eb1}</foreignId>
-     <text>She prefers casual clothes. She usually wears blue jeans and a sweater to class.</text>
+     <text>Ona woli ubrania nieformalne. Zazwyczaj nosi niebieskie dżinsy i sweter na lekcje.</text>
      <i18nText>She prefers casual clothes. She usually wears blue jeans and a sweater to class.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9d989256-e602-41f8-ac04-5bd2960f98c5}</id>
      <foreignId>{270db466-be79-4c4b-b615-4c7be3139c83}</foreignId>
-     <text>Did you see Jim's new coat? It is very fashionable.</text>
+     <text>Widziałeś nowy płaszcz Jacka? Jest super modny.</text>
      <i18nText>Did you see Jim's new coat? It is very fashionable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e293951b-0be2-4dfb-9655-1e201300238b}</id>
      <foreignId>{28993b79-dfd1-496c-bf6b-28d23b4b73aa}</foreignId>
-     <text>She is so stylish! She must read all the fashion magazines.</text>
+     <text>Ale ona ma styl! Musi czytać wszystkie gazety o modzie.</text>
      <i18nText>She is so stylish! She must read all the fashion magazines.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1a089d5e-9893-43e7-823f-4d69f89e9e82}</id>
      <foreignId>{3fabd9f5-b36b-4113-957c-ac2b3dd50a15}</foreignId>
-     <text>I hate wearing high-heel shoes. They are always so uncomfortable.</text>
+     <text>Nie nawidzę nosić butów na wysokim obcasie. Zawsze są takie niewygodne.</text>
      <i18nText>I hate wearing high-heel shoes. They are always so uncomfortable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
