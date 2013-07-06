@@ -6164,671 +6164,671 @@
     <phrase>
      <id>{98f28f64-7000-49c7-8d46-f100f3cf4957}</id>
      <foreignId>{978ea2b2-bba3-4d3a-a075-b9b653573170}</foreignId>
-     <text>head</text>
+     <text>głowa</text>
      <i18nText>head</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9ad5fe92-ec73-4095-8ee5-f593dc9b4da5}</id>
      <foreignId>{9c6053f1-44ce-4121-9b9b-e5d96902f35f}</foreignId>
-     <text>eye</text>
+     <text>oko</text>
      <i18nText>eye</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{545fdeb2-1fa0-4a04-b932-543e168380d7}</id>
      <foreignId>{c276be5f-d8b3-4a62-a260-e1ae864a8864}</foreignId>
-     <text>mouth</text>
+     <text>buzia</text>
      <i18nText>mouth</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{95acaaa5-4d8c-4c34-b29f-ec53027df261}</id>
      <foreignId>{50937b19-99a7-465f-ae46-01f32e3a9fa4}</foreignId>
-     <text>nose</text>
+     <text>nos</text>
      <i18nText>nose</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6ecadf6e-3adc-4c41-bdf3-3923871ac10b}</id>
      <foreignId>{6c71d1cd-df66-4d12-9107-3f7a8655407b}</foreignId>
-     <text>ear</text>
+     <text>ucho</text>
      <i18nText>ear</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c6a2c8b8-bc7e-4ed8-9aae-86d1ecef02c1}</id>
      <foreignId>{3341f1a2-0248-4786-af3c-43151c5e2995}</foreignId>
-     <text>chin</text>
+     <text>podbródek</text>
      <i18nText>chin</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6ddff8d9-2f1f-4ee5-8ea9-3fb548ae03bf}</id>
      <foreignId>{a17a067d-57c7-4f7b-b777-7a52ec2a28a3}</foreignId>
-     <text>neck</text>
+     <text>szyja</text>
      <i18nText>neck</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{da38da6b-863c-4bb0-baff-d1e2bee7a47d}</id>
      <foreignId>{936cc123-0231-4973-8221-1ce02a00131b}</foreignId>
-     <text>arm</text>
+     <text>ramię</text>
      <i18nText>arm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{72483de8-ae13-448c-b1bf-b9d95ba950f2}</id>
      <foreignId>{228bb20f-2d77-4350-bbb6-4456c9345306}</foreignId>
-     <text>hand</text>
+     <text>ręka</text>
      <i18nText>hand</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{39e202eb-d222-4a86-9c4b-e6b5ece8f8cd}</id>
      <foreignId>{b333684c-90fc-4915-a44c-a2d48e54a28a}</foreignId>
-     <text>finger</text>
+     <text>palec</text>
      <i18nText>finger</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{393f74f0-2fbf-4ea3-b01a-1df2d92fc237}</id>
      <foreignId>{421bfeb0-4b74-4fc7-a956-b61ef0bd54e6}</foreignId>
-     <text>stomach</text>
+     <text>brzuch</text>
      <i18nText>stomach</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b2f79e1e-b80d-436e-9553-2082620b8792}</id>
      <foreignId>{5e570f2a-f0d5-4103-ba9b-0346b8d8f4b2}</foreignId>
-     <text>thigh</text>
+     <text>udo</text>
      <i18nText>thigh</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{aed7c424-5f26-4063-bb7e-a0cb11f50a4e}</id>
      <foreignId>{4fb53603-4ffb-4716-8a71-8aeda31258a5}</foreignId>
-     <text>chest</text>
+     <text>klatka piersiowa</text>
      <i18nText>chest</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1babaa8f-3bf7-4cb4-92eb-83b7e93f79fa}</id>
      <foreignId>{8683e6c5-b482-4a6b-b533-c7862c0b6b2f}</foreignId>
-     <text>shoulder</text>
+     <text>bark</text>
      <i18nText>shoulder</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c83fd1bc-61d4-4e20-99ef-029ae6c95d0d}</id>
      <foreignId>{a29e6480-b689-43ac-b9bd-1589478476bc}</foreignId>
-     <text>leg</text>
+     <text>noga</text>
      <i18nText>leg</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c15f9073-21ac-4de9-a481-101c83863c7d}</id>
      <foreignId>{b307f466-e262-45a6-9b6b-a7bdd79fa5d7}</foreignId>
-     <text>knee</text>
+     <text>kolano</text>
      <i18nText>knee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a7475536-65a5-403c-ab20-ef25cb31c63e}</id>
      <foreignId>{f9c0d813-e3cd-48c3-938a-8e6b6299353c}</foreignId>
-     <text>ankle</text>
+     <text>kostka</text>
      <i18nText>ankle</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{41021962-06be-473e-bb48-6db55dccacfa}</id>
      <foreignId>{83389629-c64a-4be6-950f-da89ba7d543a}</foreignId>
-     <text>foot</text>
+     <text>stopa</text>
      <i18nText>foot</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ae182359-b907-4849-a3fc-c6c55de9eebf}</id>
      <foreignId>{6f9b3358-e758-4878-b308-2d60723d8e4e}</foreignId>
-     <text>toe</text>
+     <text>palec u nogi</text>
      <i18nText>toe</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{684d00c9-6a38-4ceb-a62e-c5e25bf25a4f}</id>
      <foreignId>{369ec525-984b-44b2-bad9-f7a32d8c5399}</foreignId>
-     <text>palm</text>
+     <text>dłoń</text>
      <i18nText>palm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{453027f1-e1ce-4518-8df4-87c25cc89f41}</id>
      <foreignId>{73c9762b-4ded-4c16-96b0-4348a212157b}</foreignId>
-     <text>elbow</text>
+     <text>łokieć</text>
      <i18nText>elbow</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{92e53c01-3ce7-4f62-bd71-bfd0ae469b8a}</id>
      <foreignId>{f28131a9-a47d-478e-83a4-fc81ab22f5f1}</foreignId>
-     <text>have a fever</text>
+     <text>mieć gorączkę</text>
      <i18nText>have a fever</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a18cd9e0-5bdf-4611-91bc-7bcea626b9be}</id>
      <foreignId>{13fe6af4-66a2-4f2a-a33a-fd240d14c7b4}</foreignId>
-     <text>cut a finger</text>
+     <text>przeciąć palec</text>
      <i18nText>cut a finger</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d7b22c0b-ff79-41d8-8d10-b53b9129091b}</id>
      <foreignId>{f1deaf55-7158-4dc5-87e0-2796476c107a}</foreignId>
-     <text>get a cold</text>
+     <text>przeziębić się</text>
      <i18nText>get a cold</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{28184784-d6fe-4521-ac0d-e004659f799b}</id>
      <foreignId>{480eaaa7-8592-4a83-9579-4277bf21e196}</foreignId>
-     <text>break an arm</text>
+     <text>złamać rękę</text>
      <i18nText>break an arm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9530db93-1aaa-4494-8317-233f57aa3e10}</id>
      <foreignId>{7567aeea-cbb1-4d94-bd59-f799cd55ed99}</foreignId>
-     <text>be in pain</text>
+     <text>cierpieć z bólu</text>
      <i18nText>be in pain</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{411bec36-8fa5-4a3f-b03a-a531647de1a6}</id>
      <foreignId>{5a0b73b0-d6ad-4019-bda5-0aa48c7ec8c7}</foreignId>
-     <text>get an injection</text>
+     <text>wziąć zastrzyk</text>
      <i18nText>get an injection</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{20b42ea7-b42b-4405-aad4-142412084b8f}</id>
      <foreignId>{4b1ad981-4ee7-4fd7-a50a-052a78d2358c}</foreignId>
-     <text>blood pressure</text>
+     <text>ciśnienie krwi</text>
      <i18nText>blood pressure</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4ff46a93-b31b-4cb5-a387-20e5c3f8dbb0}</id>
      <foreignId>{d5dc99e7-a458-4698-b947-bbee0b13a5bd}</foreignId>
-     <text>have a soar knee</text>
+     <text>mieć bolące kolano</text>
      <i18nText>have a soar knee</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2c5608c8-0a72-496b-a504-793cbc86a914}</id>
      <foreignId>{9fbe9bea-6dae-4a0c-b8a5-994c3c318782}</foreignId>
-     <text>be sick</text>
+     <text>być chorym</text>
      <i18nText>be sick</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3334e9a7-6d82-44e9-b19e-5437129ce90d}</id>
      <foreignId>{25f392c9-fa60-41ca-8e59-cfb72d759b30}</foreignId>
-     <text>have a stomachache</text>
+     <text>mieć ból brzucha</text>
      <i18nText>have a stomachache</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{93fe4d64-2da5-4748-a0ed-8606fc3662a1}</id>
      <foreignId>{641a29aa-c450-4267-bd38-4ef7a070f16e}</foreignId>
-     <text>x-ray scan</text>
+     <text>prześwietlenie</text>
      <i18nText>x-ray scan</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8030bbe0-24d7-4168-b3d2-b376b408859c}</id>
      <foreignId>{74c66cf2-4b6c-41b8-b9e6-f87d21ed3c0d}</foreignId>
-     <text>cut down on drinking</text>
+     <text>zmniejszyć spożycie alkoholu</text>
      <i18nText>cut down on drinking</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9c69163b-2c71-4818-b484-a9c207379bcf}</id>
      <foreignId>{d3389bb8-8825-4daf-bc36-258be516476d}</foreignId>
-     <text>take pills</text>
+     <text>brać tabletki</text>
      <i18nText>take pills</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ba9803d6-b069-49a6-8f77-8f6e8373ccce}</id>
      <foreignId>{33d6ed14-32c4-4b90-ba03-98e580847cf0}</foreignId>
-     <text>have a black eye</text>
+     <text>mieć podbite oko</text>
      <i18nText>have a black eye</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{26627ca9-cc23-407d-9df3-53ff00eab255}</id>
      <foreignId>{e5de73c1-78b5-4079-9f64-f1c451d0c288}</foreignId>
-     <text>sick note</text>
+     <text>zwolnienie lekarskie</text>
      <i18nText>sick note</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bd49c31f-99f2-45a0-ad48-0f0d0fc47f89}</id>
      <foreignId>{c15b2d06-1a3f-4137-9993-25334d2b79e2}</foreignId>
-     <text>be congested</text>
+     <text>mieć zatwardzenie</text>
      <i18nText>be congested</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e993fa17-3599-4e30-b926-371290252768}</id>
      <foreignId>{28dbc507-6f11-46fb-b891-9b8ab2e26c0d}</foreignId>
-     <text>pull a muscle</text>
+     <text>naciągnąć mięsień</text>
      <i18nText>pull a muscle</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2be24e7f-4741-4cf6-9461-113f6194e2bc}</id>
      <foreignId>{04dd9571-8b9d-48d8-8eaf-47330b972473}</foreignId>
-     <text>have diarrhoea</text>
+     <text>mieć rozwolnienie</text>
      <i18nText>have diarrhoea</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1098009d-1216-440f-ba56-6b71c4b16672}</id>
      <foreignId>{5b97090f-f005-48cb-8fb0-dc893085a60b}</foreignId>
-     <text>have little energy</text>
+     <text>nie mieć energii</text>
      <i18nText>have little energy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{65522256-d5e7-4229-8261-4bd22f8f15eb}</id>
      <foreignId>{34df363f-3c78-4b3b-be35-738b0f96d48c}</foreignId>
-     <text>insulin injection</text>
+     <text>zastrzyk insuliny</text>
      <i18nText>insulin injection</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fff31298-aeca-4906-af89-bfbb126a3931}</id>
      <foreignId>{646c91b5-94ef-4c29-a592-c621ba18f5d0}</foreignId>
-     <text>I have a appointment with a nurse tomorrow.</text>
+     <text>Jutro mam spotkanie z pielęgniarką.</text>
      <i18nText>I have a appointment with a nurse tomorrow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bf7f1ef9-082a-4e6c-94f1-f6a22dc27b78}</id>
      <foreignId>{c35f8724-1f65-4ced-9741-9cdb75a4999b}</foreignId>
-     <text>Do you have medical insurance?</text>
+     <text>Czy masz ubezpieczenie medyczne?</text>
      <i18nText>Do you have medical insurance?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{40fa9d20-396f-4937-862f-0fa9697438a7}</id>
      <foreignId>{c23f86d9-d69e-499c-a7a6-0bf2a71d0687}</foreignId>
-     <text>What are your symptoms?</text>
+     <text>Jakie ma Pan symptomy?</text>
      <i18nText>What are your symptoms?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{48cf162a-0ab2-42f0-a631-a5fc0c1380b6}</id>
      <foreignId>{33c96725-15cd-4fb7-beb8-9b15334efeff}</foreignId>
-     <text>I have got a pain in my back.</text>
+     <text>Bolą mnie plecy.</text>
      <i18nText>I have got a pain in my back.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dc5c63cc-6ce7-423a-81d8-15a97bfaecf3}</id>
      <foreignId>{acc3b824-3234-460d-98bd-d4713a292373}</foreignId>
-     <text>It is prescription for the chemist.</text>
+     <text>To recepta do apteki.</text>
      <i18nText>It is prescription for the chemist.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8bc226e8-09c8-436e-b073-ceba95e84201}</id>
      <foreignId>{6c22be49-47a7-4d6b-a0e1-cef8be5bec90}</foreignId>
-     <text>I am having difficulty with breathing.</text>
+     <text>Mam trudności z oddychaniem.</text>
      <i18nText>I am having difficulty with breathing.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7e2bee75-3f34-4a6e-9e82-85fb482cce7e}</id>
      <foreignId>{128eb6bc-f971-4cb0-bfe0-d4e6872189d5}</foreignId>
-     <text>Do you have any allergies?</text>
+     <text>Ma Pani jakieś alergie?</text>
      <i18nText>Do you have any allergies?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d4b86187-c7eb-4a17-9bda-7594bd8b8730}</id>
      <foreignId>{5a1a34fa-f19e-4b82-ba55-32b99038c292}</foreignId>
-     <text>You need to loose some weight.</text>
+     <text>Musi Pan trochę schudnąć.</text>
      <i18nText>You need to loose some weight.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2f496497-adef-43f5-b201-295cfbcdddab}</id>
      <foreignId>{7e30c1e7-c7b6-4321-b5c5-24ec5d71d0bb}</foreignId>
-     <text>Take three of these pills a day.</text>
+     <text>Proszę brać trzy tabletki dziennie.</text>
      <i18nText>Take three of these pills a day.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{125762d2-07c4-403b-85e0-d6cbc09256c2}</id>
      <foreignId>{69dbc8cf-1dd6-4835-a3c7-3099c6929b65}</foreignId>
-     <text>A nurse needs to take your blood sample.</text>
+     <text>Pielęgniarka pobierze próbkę krwi.</text>
      <i18nText>A nurse needs to take your blood sample.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{46bec0c4-b67d-4c05-936a-c594654f61f2}</id>
      <foreignId>{49e587dd-a8c2-4155-ba30-a63cd85c6391}</foreignId>
-     <text>Are you on any sort of medication?</text>
+     <text>Czy bierze Pan jakieś leki?</text>
      <i18nText>Are you on any sort of medication?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{21ff7b7e-1c0b-4e30-8adc-a4f96da50e58}</id>
      <foreignId>{3e297d69-18d3-47ee-a676-75608f5e5f0e}</foreignId>
-     <text>I am going to prescribe you some strong antibiotics.</text>
+     <text>Przepiszę Pani mocne antybiotyki.</text>
      <i18nText>I am going to prescribe you some strong antibiotics.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c61768e7-a72a-4611-8087-c890ec62d599}</id>
      <foreignId>{88ea6e83-482f-4861-99d1-e22606668568}</foreignId>
-     <text>My temperature is a little bit high.</text>
+     <text>Mam podwyższoną temperaturę.</text>
      <i18nText>My temperature is a little bit high.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{937d3791-d479-455a-9ce0-81f92ab2c02c}</id>
      <foreignId>{11871be1-c4ba-4d6d-9302-d693b89c86ee}</foreignId>
-     <text>Does it hurt when I press here?</text>
+     <text>Boli jak tu naciskam?</text>
      <i18nText>Does it hurt when I press here?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{de8c817c-c554-4de8-bae4-22da06403018}</id>
      <foreignId>{c5987882-f550-43cd-8487-d58f0c1c3e97}</foreignId>
-     <text>Open your moth, please.</text>
+     <text>Proszę otworzyć buzię.</text>
      <i18nText>Open your mouth, please.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ab6012f0-2faf-47d2-b0e6-08b994b96bd6}</id>
      <foreignId>{d5f91e4c-ef33-43c8-bda4-e614ef7810c1}</foreignId>
-     <text>Do you have any doctors who speak English?</text>
+     <text>Czy są lekarze którzy mowią po angielsku?</text>
      <i18nText>Do you have any doctors who speak English?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{37a3ed16-507c-4d45-a33c-d121ae016ed9}</id>
      <foreignId>{fd391f4e-9c52-4c2a-9284-a5fe42b4527c}</foreignId>
-     <text>I am diabetic.</text>
+     <text>Jestem cukrzykiem.</text>
      <i18nText>I am diabetic.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d8bd77b4-47cf-4968-9b97-643e673d1b73}</id>
      <foreignId>{1d85facc-2ddf-41e9-b6c6-668834000f1f}</foreignId>
-     <text>We are going to put a plaster on you knee.</text>
+     <text>Przykleimy plaster na kolanie.</text>
      <i18nText>We are going to put a plaster on you knee.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{36c5df35-7108-47eb-b4b9-0a5f6a669d16}</id>
      <foreignId>{0059416d-8c54-45dc-b507-47130a0331f7}</foreignId>
-     <text>You should give up smoking.</text>
+     <text>Musi Pani rzucić palenie.</text>
      <i18nText>You should give up smoking.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{937dd30a-c6be-4ded-b1a6-1e89fd84df8a}</id>
      <foreignId>{ebf60531-1caf-4e00-8b2f-a07eff8e868e}</foreignId>
-     <text>There is a possibility you might be pregnant.</text>
+     <text>Możliwe, że jest Pani w ciąży.</text>
      <i18nText>There is a possibility you might be pregnant.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{253d6287-0c79-4b28-a053-29107a994f4f}</id>
      <foreignId>{a80f87ab-be88-4a07-9bc8-84d2209f3139}</foreignId>
-     <text>I do not fell very well. I think I need to see a doctor.</text>
+     <text>Źle się czuję. Chyba muszę iśc do lekarza.</text>
      <i18nText>I do not fell very well. I think I need to see a doctor.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{85a5453f-9641-4b13-8545-a9242b045139}</id>
      <foreignId>{be62ccf5-b7e8-4758-90bd-8976d5a2f9c3}</foreignId>
-     <text>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</text>
+     <text>Czuję się jakbym miał depresję i mam trudności ze spaniem. Mogłaby Pani umówić mnie ze specjalistą w najbliższym czasie?</text>
      <i18nText>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9a00c257-b01a-4620-a036-92133aa8fa47}</id>
      <foreignId>{adb8fa13-592c-4637-80c1-1051254655f9}</foreignId>
-     <text>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</text>
+     <text>Czy ten lek ma jakieś skutki uboczne? Zapomniałem wspomnieć, że jestem uczulony na penicylinę.</text>
      <i18nText>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eaff9e09-d1df-4c8c-9afd-ed6d69fe4d2f}</id>
      <foreignId>{a7f8f39f-40db-4d65-af85-71d8365846d8}</foreignId>
-     <text>There are several patients in the lobby waiting for medical exams. Hopefully the doctor will be able to see you in about an hour.</text>
+     <text>W poczekalni jest kilkoro pacjentów czekających na wizytę. Miejmy nadzieję, że lekarz przyjmie Pana w ciągu godziny.</text>
      <i18nText>There are several patients in the lobby waiting for medical exams. Hopefully the doctor will be able to see you in about an hour.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{61ae0916-9b27-4c99-96a3-7096c89095e7}</id>
      <foreignId>{eae50b0c-2924-47e1-a9e1-8e4d3653c0b3}</foreignId>
-     <text>After asking a few questions, the doctor's diagnosis was that I had a bacterial infection. She wrote me out a prescription.</text>
+     <text>Po kilku pytaniach pani doktor zdecydowała, że mam bakteryjną infekcję. Wypisała mi receptę.</text>
      <i18nText>After asking a few questions, the doctor's diagnosis was that I had a bacterial infection. She wrote me out a prescription.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6bc55556-a2b3-491d-9435-1e5087e74aef}</id>
      <foreignId>{dd4539d6-e3fd-4ba3-baf3-1847f213084b}</foreignId>
-     <text>My grandmother suggested that I need to eat chicken soup. I will try this tomorrow and if it does not help I will see a specialist.</text>
+     <text>Moja babcia powiedziała, żebym jadł rosół. Spróbuje jutro i jeśli nie pomoże pójdę do lekarza.</text>
      <i18nText>My grandmother suggested that I need to eat chicken soup. I will try this tomorrow and if it does not help I will see a specialist.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
