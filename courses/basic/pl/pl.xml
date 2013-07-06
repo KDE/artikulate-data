@@ -10121,91 +10121,91 @@
     <phrase>
      <id>{fe61cd40-9607-4db9-a29a-e172fed3be26}</id>
      <foreignId>{4dd57b53-de84-4c61-ab7c-d1ce63764456}</foreignId>
-     <text>occupation</text>
+     <text>zawód</text>
      <i18nText>occupation</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fd0bec86-77a1-45e6-b8c3-5ec3f8c1c330}</id>
      <foreignId>{3a01aaba-f5df-4c31-8b55-ba240597775e}</foreignId>
-     <text>hired</text>
+     <text>zatrudniony</text>
      <i18nText>hired</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f9d4f734-f3b3-4bde-8d53-7f04f9da2bdd}</id>
      <foreignId>{fdf5007f-e1c1-4479-8b5e-40daf5a37c17}</foreignId>
-     <text>vacancy</text>
+     <text>wolna posada</text>
      <i18nText>vacancy</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{57304702-a210-4b0b-bc8d-4ce3f4a1cf33}</id>
      <foreignId>{9cbf1b59-57fb-4e7e-8a2d-8cefa0041028}</foreignId>
-     <text>post</text>
+     <text>pozycja</text>
      <i18nText>post</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{62ee6ab6-6512-4a10-a6e0-a76b40e6e3fd}</id>
      <foreignId>{154d138e-74e7-48a9-a19a-eb9c9b988286}</foreignId>
-     <text>company</text>
+     <text>spółka</text>
      <i18nText>company</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{59e436f8-cca3-4166-b024-0abea711380d}</id>
      <foreignId>{ca478dc5-a4b3-4461-8164-fe8301e69933}</foreignId>
-     <text>firm</text>
+     <text>firma</text>
      <i18nText>firm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{134090ee-c1b1-44d7-8d94-036ff249a310}</id>
      <foreignId>{d4780920-00cb-414a-9540-1e9e89201c46}</foreignId>
-     <text>organization</text>
+     <text>organizacja</text>
      <i18nText>organization</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{691e2336-9ba7-4a8b-902f-691339fa520f}</id>
      <foreignId>{0a3ee35d-47c1-424e-91be-b56dfbece1dc}</foreignId>
-     <text>qualifications</text>
+     <text>kwalifikacje</text>
      <i18nText>qualifications</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{835e5e58-1f64-4f86-acc1-a7d0432aa42a}</id>
      <foreignId>{1eb1dd3f-9159-4297-b700-4c160ddda350}</foreignId>
-     <text>degree</text>
+     <text>dyplom</text>
      <i18nText>degree</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -10215,247 +10215,247 @@
      <i18nText>resume</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{45bdaf3e-bc96-4477-b349-d33f85393349}</id>
      <foreignId>{6546a26a-ab1f-4283-afa7-d60b1444f025}</foreignId>
-     <text>recommendation</text>
+     <text>rekomendacja</text>
      <i18nText>recommendation</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{938e7147-980e-47f6-a5f8-af9a6e1b625e}</id>
      <foreignId>{ef55d4b5-2b49-4a92-9bb7-e712fac89407}</foreignId>
-     <text>staff</text>
+     <text>personel</text>
      <i18nText>staff</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7869386d-eefb-4a1c-9fbf-d50f761305c7}</id>
      <foreignId>{d27f3a66-e999-4546-a2df-cb2689afe7cb}</foreignId>
-     <text>employee</text>
+     <text>pracownik</text>
      <i18nText>employee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6429c221-d63b-4f38-9f69-c1f3d4c48fc7}</id>
      <foreignId>{3df0206d-a975-44fe-ba8f-3274347c98e3}</foreignId>
-     <text>employer</text>
+     <text>pracodawca</text>
      <i18nText>employer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{05b0ed41-f9a6-4dec-a45c-171208f9f108}</id>
      <foreignId>{d504ee07-0841-4470-abf9-b21e01ea67d3}</foreignId>
-     <text>subordinate</text>
+     <text>podporządkować</text>
      <i18nText>subordinate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4adaa7c7-ed6a-40a3-95d9-4a1465a4d50d}</id>
      <foreignId>{4d857fe6-8c38-4ab1-87aa-fa10998c81d6}</foreignId>
-     <text>colleague</text>
+     <text>kolega</text>
      <i18nText>colleague</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{180ebb4c-7cd1-48cc-92e2-3380757b3dc9}</id>
      <foreignId>{d3cd780f-e235-4292-b4b4-4f353d84e0ab}</foreignId>
-     <text>recruitment</text>
+     <text>rekrutacja</text>
      <i18nText>recruitment</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f492612d-fb77-4c3f-a282-51616900533a}</id>
      <foreignId>{45835a28-3c20-427c-81b6-2051c85cbff6}</foreignId>
-     <text>sir</text>
+     <text>Pan</text>
      <i18nText>sir</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b852311c-a8f3-4704-aa69-d84bd708d726}</id>
      <foreignId>{12a92cb6-1656-4582-90a6-c47da5ee241e}</foreignId>
-     <text>madam</text>
+     <text>Pani</text>
      <i18nText>madam</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a0d32c0e-f7b0-4b25-91c3-ced189eb04cb}</id>
      <foreignId>{5a0ffca0-f3b8-4532-920f-afe9fd5df88f}</foreignId>
-     <text>proficiency</text>
+     <text>biegłość</text>
      <i18nText>proficiency</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7ebfd05b-e76b-44d3-87c8-33e9a882f437}</id>
      <foreignId>{acbaa712-0b6b-4a2c-a228-478aca41de7e}</foreignId>
-     <text>offer</text>
+     <text>oferta</text>
      <i18nText>offer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4b030b84-629d-4abb-9839-1692f9b33acc}</id>
      <foreignId>{718dd854-1894-43bc-ba04-d9d8cb4ff962}</foreignId>
-     <text>apply</text>
+     <text>aplikować</text>
      <i18nText>apply</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b8e883fa-ec28-47ef-8fb6-3fd1f81bca5e}</id>
      <foreignId>{6c4f9ae6-eb10-4ead-887a-5cf0deae7a89}</foreignId>
-     <text>career</text>
+     <text>kariera</text>
      <i18nText>career</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{55600a4c-b11c-4b77-acf0-cf3db13978c8}</id>
      <foreignId>{5aa41839-96f7-415e-956f-75e66a9d9a66}</foreignId>
-     <text>experience</text>
+     <text>doświadczenie</text>
      <i18nText>experience</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0f33faab-15bc-42a9-87c9-95b961773264}</id>
      <foreignId>{69ea1743-47bb-45b7-8024-9a8f46d8ae88}</foreignId>
-     <text>office</text>
+     <text>biuro</text>
      <i18nText>office</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0228a906-410d-4621-9707-e39fe182e9b8}</id>
      <foreignId>{3f1fd3bd-3964-41a3-8d55-fcb0cf06fe8a}</foreignId>
-     <text>designation</text>
+     <text>nominacja</text>
      <i18nText>designation</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9c812e2a-a186-4461-8472-8b1fad26eb13}</id>
      <foreignId>{6d2c4fbb-d75a-439e-9958-f85cb06edf0f}</foreignId>
-     <text>scholarship</text>
+     <text>stypendium</text>
      <i18nText>scholarship</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{49efbaae-1a8b-4f5b-9145-a2345c098156}</id>
      <foreignId>{198bf0fb-5447-4efc-846b-430888b88097}</foreignId>
-     <text>fellowship</text>
+     <text>stypedium wspólnoty</text>
      <i18nText>fellowship</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c80d9227-42c5-404d-8ba8-e730ce8ed58e}</id>
      <foreignId>{f78c8626-9256-44bc-b5c0-c123ac913367}</foreignId>
-     <text>diploma</text>
+     <text>dyplom</text>
      <i18nText>diploma</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{788ee93f-ee11-48b6-b2e4-09cb032296e8}</id>
      <foreignId>{eb2a9ceb-9350-4a55-b80b-8c36bfd78896}</foreignId>
-     <text>freelancer</text>
+     <text>pracownik nieetatowy</text>
      <i18nText>freelancer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{32fe13f1-8d64-4a9a-aeaa-63418ca28b1a}</id>
      <foreignId>{b1b62402-98f7-4670-ae6b-90efe1611b1a}</foreignId>
-     <text>polytechnic</text>
+     <text>politechnika</text>
      <i18nText>polytechnic</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8df2cb3c-aff9-4b58-bcee-cf54c02bfe8d}</id>
      <foreignId>{8bbe7619-fdbd-4627-90b0-d2865cb37db6}</foreignId>
-     <text>payscale</text>
+     <text>przedział płacowy</text>
      <i18nText>payscale</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a17c755d-86b1-4073-a5b9-fadf86fd2920}</id>
      <foreignId>{69eddae5-38ab-4481-9615-b6f9fd93a27e}</foreignId>
-     <text>cumulative</text>
+     <text>kumulacyjnie</text>
      <i18nText>cumulative</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{276c812e-7094-4228-a939-4224a6d1cffb}</id>
      <foreignId>{6a8df988-a74e-4a2a-933c-b8a9abadfe17}</foreignId>
-     <text>remuneration</text>
+     <text>wynagrodzenie</text>
      <i18nText>remuneration</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -10465,67 +10465,67 @@
      <i18nText>bonus</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a466cdcf-e53b-45ee-8f19-cf70f0c3300f}</id>
      <foreignId>{310d66d9-e005-4886-b755-bc082cd88024}</foreignId>
-     <text>university</text>
+     <text>uniwersytet</text>
      <i18nText>university</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cc6f6976-249e-4456-a155-a493bad8d551}</id>
      <foreignId>{f4cbfb25-d4f9-41d9-86c6-14096cdec2c3}</foreignId>
-     <text>graduation</text>
+     <text>ukończenie wyższych studiów</text>
      <i18nText>graduation</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0b47fd09-9f99-40b9-becf-c912f7bf34b5}</id>
      <foreignId>{d13a3b0e-3694-45df-848f-2052717e37fa}</foreignId>
-     <text>doctorate</text>
+     <text>doktorat</text>
      <i18nText>doctorate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{29830129-45c7-4fdb-a483-5d8db6615998}</id>
      <foreignId>{04f32774-b116-42e6-871a-7d6eeaf76d22}</foreignId>
-     <text>school</text>
+     <text>szkoła</text>
      <i18nText>school</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2268f037-a045-4443-b117-a4f14d195cb8}</id>
      <foreignId>{740c2247-b47e-4276-a269-64fed2b812fc}</foreignId>
-     <text>college</text>
+     <text>szkoła średnia</text>
      <i18nText>college</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{365fc056-da17-47e7-971c-bf538d783050}</id>
      <foreignId>{f26f6bb1-52bd-4e01-ad35-bbbd513d5fc6}</foreignId>
-     <text>eligibility criteria</text>
+     <text>kryteria kwalifikacji</text>
      <i18nText>eligibility criteria</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -10535,507 +10535,507 @@
      <i18nText>curriculum vitae</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4f29afa5-e490-43e1-bb45-15ca593c2863}</id>
      <foreignId>{a180f87f-48a6-4bf2-a6ac-0a1f8ba3f627}</foreignId>
-     <text>job experience</text>
+     <text>doświadzczenie zawodowe</text>
      <i18nText>job experience</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77567ee3-abee-4821-aa2e-3c77a03cdc8e}</id>
      <foreignId>{dc4cbab4-9c2a-4f9d-b458-6b1baf89fa85}</foreignId>
-     <text>offer letter</text>
+     <text>list z ofertą pracy</text>
      <i18nText>offer letter</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bc5ccc70-8844-44d6-b263-d89990dc82dc}</id>
      <foreignId>{8e4fefdd-c259-4075-a70c-e54385813c24}</foreignId>
-     <text>post graduate course</text>
+     <text>studia podyplomowe</text>
      <i18nText>post graduate course</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ee3f9a76-dbd3-4391-abf6-c4a97196a97a}</id>
      <foreignId>{148cf39a-90be-44c0-a686-a6abe4fa6cef}</foreignId>
-     <text>post doctoral fellowship</text>
+     <text>doktorskie stypendium naukowe</text>
      <i18nText>post doctoral fellowship</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b401a0ff-a1d1-42b7-ba2f-d7781a8bea44}</id>
      <foreignId>{a54b552e-3e5e-4478-ad30-10a9351cb90f}</foreignId>
-     <text>career counsellor</text>
+     <text>doradca zawodowy</text>
      <i18nText>career counsellor</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ea3c46c1-eee5-40bd-9d30-4a3275373de4}</id>
      <foreignId>{80cb395f-7925-47b6-8a6c-688601d64cab}</foreignId>
-     <text>financial advisor</text>
+     <text>doradca finansowy</text>
      <i18nText>financial advisor</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d78634da-74b5-45e5-94ec-e30b8cfd525a}</id>
      <foreignId>{1e18f411-94fd-4b3a-941a-d4a9cf82489e}</foreignId>
-     <text>summer internship</text>
+     <text>praktyki letnie</text>
      <i18nText>summer internship</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{74426645-7338-460f-a324-09fa0103b208}</id>
      <foreignId>{2825d4a3-61d2-4f03-a25e-5d5599a3bf68}</foreignId>
-     <text>human resource development</text>
+     <text>rozwój zasobów ludzkich</text>
      <i18nText>human resource development</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{31e57c3f-212c-40c5-9870-ffcdf37aec70}</id>
      <foreignId>{456360b6-f251-4bf6-9862-b1d592fa44ab}</foreignId>
-     <text>board of directors</text>
+     <text>rada dyrektorów</text>
      <i18nText>board of directors</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b32326e9-8145-4bb8-84cc-d36e2b790f04}</id>
      <foreignId>{0f962908-ce45-4bcf-9c57-56278779423d}</foreignId>
-     <text>managing director</text>
+     <text>kierownik zarządzający</text>
      <i18nText>managing director</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f030508e-8e73-4e10-b53b-5150e66f87db}</id>
      <foreignId>{ce1b01b4-f311-4709-a361-2f2e1accb0c4}</foreignId>
-     <text>executive director</text>
+     <text>dyrektor wykonawczy</text>
      <i18nText>executive director</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4ed97374-eb28-4d77-b35c-eeb337b767dd}</id>
      <foreignId>{b6c4e282-0a89-4cc8-b1f1-c0ee810f34f5}</foreignId>
-     <text>deputy registrar</text>
+     <text>zastępca sekretarza</text>
      <i18nText>deputy registrar</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6510b3a0-83f3-4a13-98b3-f142fdd02233}</id>
      <foreignId>{0e2b827d-2eee-47fb-b071-375fa1ca7ef4}</foreignId>
-     <text>project manager</text>
+     <text>kierownik projektu</text>
      <i18nText>project manager</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f93282f0-574d-4977-8e6f-6297feb8697d}</id>
      <foreignId>{d5079fa2-9774-4761-a069-299cf70f90a9}</foreignId>
-     <text>research assisstant</text>
+     <text>asystent</text>
      <i18nText>research assisstant</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{118b4098-a6e2-459a-a1cb-01680334b522}</id>
      <foreignId>{6de6e374-21fd-4e30-bc87-f3e974623ffc}</foreignId>
-     <text>associate software engineer</text>
+     <text>informatyk komputerowy</text>
      <i18nText>associate software engineer</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{422711f0-5081-4823-b8e9-3f192b69b87f}</id>
      <foreignId>{689682cc-86ee-4cc9-8624-49464ad2cc92}</foreignId>
-     <text>chartered accountant</text>
+     <text>dyplomowany księgowy</text>
      <i18nText>chartered accountant</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e803ec05-8202-4e87-ae46-3dda603e6640}</id>
      <foreignId>{307d2010-38fd-4097-a25a-94d6191b8a88}</foreignId>
-     <text>law firm</text>
+     <text>firma prawnicza</text>
      <i18nText>law firm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e46d4240-f6b6-4750-9452-e50f43b1f45f}</id>
      <foreignId>{c6bd171e-743a-47c9-a8ba-ca0247d7f9d7}</foreignId>
-     <text>audit firm</text>
+     <text>firma audytowa</text>
      <i18nText>audit firm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2f24228b-2a0f-4f5a-97c0-efb2d7ba9b41}</id>
      <foreignId>{d93a8780-87a1-4a0b-8364-0257322b4a77}</foreignId>
-     <text>intelligence quotient</text>
+     <text>iloraz inteligencji</text>
      <i18nText>intelligence quotient</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8a352675-9601-486d-add9-2173c5d904e6}</id>
      <foreignId>{cd580506-4797-4624-af78-30f9c033c889}</foreignId>
-     <text>programming skills</text>
+     <text>umiejętności programowania</text>
      <i18nText>programming skills</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6667039e-459b-4679-9e46-4a820b003998}</id>
      <foreignId>{16a80207-8ba9-4e26-9bbc-580668c494da}</foreignId>
-     <text>extra curricular activities</text>
+     <text>zajęcia dodatkowe</text>
      <i18nText>extra curricular activities</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{56505c67-2efd-4e5d-8a69-da930ee2c637}</id>
      <foreignId>{9580b87a-f210-4f85-99e8-d1b7f26b6fe7}</foreignId>
-     <text>probation period</text>
+     <text>okres próbny</text>
      <i18nText>probation period</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c1068c1a-fcfe-401c-b45b-6c95254c0823}</id>
      <foreignId>{0cb64209-18f3-4fbb-bac9-2aae4af66e4b}</foreignId>
-     <text>fashion designer</text>
+     <text>projektant mody</text>
      <i18nText>fashion designer</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a01ce950-7df1-491d-a980-aff431178bb6}</id>
      <foreignId>{7c879ba6-55cc-44d2-990f-bf1dce39fb91}</foreignId>
-     <text>master of business administration</text>
+     <text>magister biznesu i administracji</text>
      <i18nText>master of business administration</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{644f1c94-c492-4b13-90cb-6f5895d97b3f}</id>
      <foreignId>{2efc2ed6-3c12-45e5-8a00-04514bcb1906}</foreignId>
-     <text>bachelor of technology</text>
+     <text>licencjat z technologii</text>
      <i18nText>bachelor of technology</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{df88d4c1-414a-4fc0-98a4-926157301c11}</id>
      <foreignId>{6c564aa7-5027-4d25-88e7-c3b3c06114db}</foreignId>
-     <text>I really appreciate the opportunity to interview for this position.</text>
+     <text>Naprawdę doceniam możliwość rozmowy o tą pozycję.</text>
      <i18nText>I really appreciate the opportunity to interview for this position.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0d6ce123-f795-496c-9b5a-98ce7a7d1db7}</id>
      <foreignId>{f2436862-850f-4fa7-92f2-abf508c99851}</foreignId>
-     <text>Hi, my name is Michelle Scott.</text>
+     <text>Dzień Dobry. Nazywam się Michał Nowak.</text>
      <i18nText>Hi, my name is Michelle Scott.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2bcd122e-bd99-4664-a76c-74fe98dc2d77}</id>
      <foreignId>{736a7353-c44a-4f8b-a5ea-b03163434bbd}</foreignId>
-     <text>I am very familiar with what your company does.</text>
+     <text>Znam sie dobrze na tym co wykonuje Państwa firma.</text>
      <i18nText>I am very familiar with what your company does.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6f5be7c3-e154-454d-9a09-5e17ed30cc8c}</id>
      <foreignId>{dadb38e0-ed2a-4b96-8ebc-3f9b42ee125d}</foreignId>
-     <text>I am highly motivated.</text>
+     <text>Jestem bardzo zmotywowany.</text>
      <i18nText>I am highly motivated.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{442fe64f-28dd-4aef-892b-3f08febad8dc}</id>
      <foreignId>{34d50b3c-4d0f-41c6-a341-70a52313c066}</foreignId>
-     <text>I am seeking to become an expert in my field.</text>
+     <text>Chciałbym stać się ekspertem w mojej dziedzinie.</text>
      <i18nText>I am seeking to become an expert in my field.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2a3bf020-4b00-43a3-b830-c803b76a1e2c}</id>
      <foreignId>{3708ad0a-195a-4546-8fbe-2d6b51ee86ab}</foreignId>
-     <text>I am energetic and have a positive attitude.</text>
+     <text>Jestem energiczny i mam pozytywne podejście.</text>
      <i18nText>I am energetic and have a positive attitude.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{245e29b0-b70f-428c-8d45-e5e3aa5399f6}</id>
      <foreignId>{ee382601-1d3c-4df2-bc25-29ba3be802cc}</foreignId>
-     <text>I have a great deal of experience.</text>
+     <text>Mam duże doświadzczenie.</text>
      <i18nText>I have a great deal of experience.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{851198f8-8775-41cf-b258-5f7b170c558d}</id>
      <foreignId>{294493c4-72af-4c85-ab9d-31b70cf26f9f}</foreignId>
-     <text>I am a team player.</text>
+     <text>Umiem pracować w grupie.</text>
      <i18nText>I am a team player.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b5606f78-d7ae-49a5-ae0c-05c47a6fbd1c}</id>
      <foreignId>{a8db142a-d193-4570-b777-d591be9769f1}</foreignId>
-     <text>I am flexible.</text>
+     <text>Jestem elastyczny.</text>
      <i18nText>I am flexible.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a878668e-b26c-4203-b294-83bdf96c8119}</id>
      <foreignId>{4dc15e53-1365-479e-8896-6bc24cbc59f3}</foreignId>
-     <text>I need job security.</text>
+     <text>Potrzebuję bezpieczeństwa zawodowego.</text>
      <i18nText>I need job security.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f1e156fd-8438-4cf8-9bca-3fcb8cfac380}</id>
      <foreignId>{2a45d5f8-d63a-4004-a52d-c5d56cff35ec}</foreignId>
-     <text>I am open to relocating.</text>
+     <text>Mogę się przenieść do innego miejsca.</text>
      <i18nText>I am open to relocating.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{00c721d9-4ed0-493d-9932-ac1b8aa48bef}</id>
      <foreignId>{461d9cdc-53cd-4b11-8807-b28426453b24}</foreignId>
-     <text>I need to stay in the area because of family.</text>
+     <text>Muszę pozostać w regionie z powodu rodziny.</text>
      <i18nText>I need to stay in the area because of family.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{23edc355-f253-41c7-856f-a2dccc81c416}</id>
      <foreignId>{2a2dcbd8-e045-4270-834b-8545cb7091be}</foreignId>
-     <text>I want to grow in my job and move ahead.</text>
+     <text>Chciałbym polepszać się w mojej pracy i awansować.</text>
      <i18nText>I want to grow in my job and move ahead.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{15f072ff-fabf-4fa0-a83d-0992bc38eb1a}</id>
      <foreignId>{7197bbff-5ff1-445a-9455-d6883619f158}</foreignId>
-     <text>I like to work alone on some things and then bring those things to the group.</text>
+     <text>Lubię pracować sam i poźniej przynośić wyniki do reszty zespołu.</text>
      <i18nText>I like to work alone on some things and then bring those things to the group.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fb3c2ef3-a47e-4939-a5a3-bf9f227e0287}</id>
      <foreignId>{e5b20ed8-f7c3-4f04-a59f-7ab0960025d2}</foreignId>
-     <text>I pride myself on my customer service skills and my ability to resolve what could be difficult situations.</text>
+     <text>Jestem dumny z moich umiejętności obsługi klienta i łatwości rozwiązywania trudnych sytacji.</text>
      <i18nText>I pride myself on my customer service skills and my ability to resolve what could be difficult situations.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{596b65ac-da62-4bbf-b816-07b957b63dc7}</id>
      <foreignId>{1361120a-9abd-4395-92fd-7ec3cddd2b7d}</foreignId>
-     <text>I have exceeded my sales goals every quarter and I've earned a bonus each year since I started with my current employer.</text>
+     <text>Przekroczyłem swoje cele sprzedaży każdego kwartału i dostaje bonus każdego roku odkąd pracuje dla tego pracodawcy.</text>
      <i18nText>I have exceeded my sales goals every quarter and I've earned a bonus each year since I started with my current employer.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f404e61d-acf0-4a7c-bc3e-bb6fddf54cc1}</id>
      <foreignId>{f54e3fc7-fef6-4052-81f0-21243e8dc5f7}</foreignId>
-     <text>I've learned to make my perfectionism work to my advantage at work.</text>
+     <text>Nauczyłem się jak wykorzystywac mój perfekcjonizm w pracy na moją korzyść.</text>
      <i18nText>I've learned to make my perfectionism work to my advantage at work.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7563433-4f20-4f0f-a3a0-45cbf322174a}</id>
      <foreignId>{6342f8c5-e6bc-44dd-9dc7-a679f0d5a42e}</foreignId>
-     <text>Being organized wasn't my strongest point, but I implemented a time management system that really helped my organization skills.</text>
+     <text>Organizacja nigdy nie była moja najlepszą stroną, ale znalazłem sposób który w dużym stopniu pomógł mi stać się bardziej zorganizowanym.</text>
      <i18nText>Being organized wasn't my strongest point, but I implemented a time management system that really helped my organization skills.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{643f9942-e828-4b26-b29c-4f7db109ad68}</id>
      <foreignId>{c307cb09-4f75-4e37-a736-d6de1289c8a9}</foreignId>
-     <text>I was the university topper in 2006.</text>
+     <text>Byłem wsród najlepszych na uniwersytecie w dwu tysięcznym szóstym roku.</text>
      <i18nText>I was the university topper in 2006.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{01a7bd89-dc13-4fa0-a80c-19c228936600}</id>
      <foreignId>{fb2ddff2-0f5a-4391-9ac8-fb55ba32c89a}</foreignId>
-     <text>I'm the kind of person who stays calm under pressure, and handles stress fairly easily.</text>
+     <text>Jestem osobą, która jest spokojna pod presją i łatwo panuję nad stresem.</text>
      <i18nText>I'm the kind of person who stays calm under pressure, and handles stress fairly easily.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2f340cab-a01c-488f-b65c-d365e1375b44}</id>
      <foreignId>{95f62584-95d4-4131-88cc-7ca7392c86a9}</foreignId>
-     <text>My time management skills are excellent and I'm organized, efficient, and take pride in excelling at my work. When I'm working on a project, I don't want just to meet deadlines. Rather, I prefer to complete the project well ahead of schedule.</text>
+     <text>Mam świetne umiejętności organizacyjne, jestem wydajny i dumny z tego, że wykonuję moją pracę bardzo dobrze. Kiedy pracuję nad jakimś projektem nie tylko staram sie wyrobić na czas. Zawsze probuję skończyć pracę wcześniej.</text>
      <i18nText>My time management skills are excellent and I'm organized, efficient, and take pride in excelling at my work. When I'm working on a project, I don't want just to meet deadlines. Rather, I prefer to complete the project well ahead of schedule.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{906d2547-d5f3-41ea-92e8-73403242a218}</id>
      <foreignId>{56cb3897-be0a-4c7b-8cda-def7ccdbc09e}</foreignId>
-     <text>I like to make sure that my work is perfect, so I tend to perhaps spend a little too much time checking it. However, I've come to a good balance by setting up a system to ensure everything is done correctly the first time.</text>
+     <text>Lubię wykonywać moją pracę perfekcyjnie, dlatego czasami tracę dużo czasu na sprawdzaniu. Jednakże wydaje mi się, żę jest to kompromis ponieważ wszytko jest zrobione proprwanie za pierwszym razem.</text>
      <i18nText>I like to make sure that my work is perfect, so I tend to perhaps spend a little too much time checking it. However, I've come to a good balance by setting up a system to ensure everything is done correctly the first time.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9298af44-6bf9-44df-a906-f36acdcbcf7f}</id>
      <foreignId>{45d03f99-421b-473c-9d56-cf99a830119a}</foreignId>
-     <text>Sometimes, I spend more time than necessary on a task, or take on tasks personally that could easily be delegated to someone else. Although I've never missed a deadline, it is still an effort for me to know when to move on to the next task, and to be confident when assigning others work.</text>
+     <text>Czasami poświęcam zadaniowi więcej czasu niż jest to potrzebne albo robię rzeczy, które mógłbym oddać komuś innemu. Pomimo tego, że zawsze konczę pracę na czas, ciągle jest mi trudno zmieniać zadania lub delegować do nich innych.</text>
      <i18nText>Sometimes, I spend more time than necessary on a task, or take on tasks personally that could easily be delegated to someone else. Although I've never missed a deadline, it is still an effort for me to know when to move on to the next task, and to be confident when assigning others work.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ded24558-c071-4783-a6bd-3112281f61fd}</id>
      <foreignId>{11dad32a-2b5c-4054-90af-2bbf45319c41}</foreignId>
-     <text>I evaluate success in different ways. At work, it is meeting the goals set by my supervisors and my fellow workers. It is my understanding, from talking to other employees, that the GGR company is recognized for not only rewarding success, but giving employees opportunity to grow as well. After work, I enjoy playing softball, so success on the field is catching the winning pop-up.</text>
+     <text>Oceniam sukces w różny sposób. W pracy poprzez osiąganie celów wyznczanych przez przełożonych i innych pracowników. Po rozmowie z innymi zatrudnionymu mam wrażenie, że GGR nie tylko osiągnęło sukces, ale także dało możliwość rozwoju swoim parcownikom. Po pracy lubię grać w softball, gdzie sukcesem jest złapanie piłki.</text>
      <i18nText>I evaluate success in different ways. At work, it is meeting the goals set by my supervisors and my fellow workers. It is my understanding, from talking to other employees, that the GGR company is recognized for not only rewarding success, but giving employees opportunity to grow as well. After work, I enjoy playing softball, so success on the field is catching the winning pop-up.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2583a624-20d8-4810-a5e0-c4b6961d0cc6}</id>
      <foreignId>{360a7171-7908-4d55-ae11-b017909634cf}</foreignId>
-     <text>Stress is very important to me. With stress, I do the best possible job. The appropriate way to deal with stress is to make sure I have the correct balance between good stress and bad stress. I need good stress to stay motivated and productive.</text>
+     <text>Stres jest dla mnie bardzo istotny. Pod wpływem stresu mogę dać z siebie sto procent. Stres jest łatwo opanować gdy się znajdzie kompromis między poztywnym i negatywnym stresem. Potrzebuję poztywnego stresu aby być zmotywowanym i prduktywnym.</text>
      <i18nText>Stress is very important to me. With stress, I do the best possible job. The appropriate way to deal with stress is to make sure I have the correct balance between good stress and bad stress. I need good stress to stay motivated and productive.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
