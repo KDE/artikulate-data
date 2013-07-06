@@ -8377,31 +8377,31 @@
     <phrase>
      <id>{7f21d132-505c-4930-a5b9-92c2e591c166}</id>
      <foreignId>{a5e681b7-dc07-48b5-8662-2416d4fac4b6}</foreignId>
-     <text>money</text>
+     <text>pieniądze</text>
      <i18nText>money</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4204b052-ca98-4656-acda-6f345edb1369}</id>
      <foreignId>{79a199f5-878c-4ae4-b548-566862785616}</foreignId>
-     <text>cash</text>
+     <text>gotówka</text>
      <i18nText>cash</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{116af00d-66de-4b01-9f0c-dc059ec97365}</id>
      <foreignId>{251e6077-72fa-4fd2-a93d-281ddf696bf0}</foreignId>
-     <text>cheque</text>
+     <text>czek</text>
      <i18nText>cheque</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8411,327 +8411,327 @@
      <i18nText>bank</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bb50b702-a5d3-4daf-8302-9f67aaad8742}</id>
      <foreignId>{f63b1515-e14d-4634-95ce-f273c1eff345}</foreignId>
-     <text>account</text>
+     <text>konto</text>
      <i18nText>account</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f8a6be8f-57d1-4c5e-a4bc-09798c95084b}</id>
      <foreignId>{7ede60ae-baa2-4b16-98c2-f467df526ab7}</foreignId>
-     <text>deposit</text>
+     <text>depozyt</text>
      <i18nText>deposit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{43c403ce-b2b5-4aea-8edc-193d4da0c251}</id>
      <foreignId>{415b158e-5812-48e8-b8b4-716da9c9a4a1}</foreignId>
-     <text>withdraw</text>
+     <text>wyciągać</text>
      <i18nText>withdraw</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{476e0ab3-7afc-4488-bcf1-7b51f4d27537}</id>
      <foreignId>{90e4fe27-4dbd-4aff-89a3-ad12b31eb6b9}</foreignId>
-     <text>debit</text>
+     <text>debet</text>
      <i18nText>debit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6fc42325-24a1-403d-bceb-92062eb3ab45}</id>
      <foreignId>{e6fbc4e8-9e87-463d-817a-a511dba7d403}</foreignId>
-     <text>credit</text>
+     <text>kredyt</text>
      <i18nText>credit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5381efe7-a361-44ac-96fc-665986d1d3bd}</id>
      <foreignId>{874b259b-0be9-4180-9a98-81681b5387f8}</foreignId>
-     <text>savings</text>
+     <text>oszczędności</text>
      <i18nText>savings</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9f828897-bc15-47de-98e7-eea649431d36}</id>
      <foreignId>{ecb7391a-bc46-4f19-9619-98baf561a3e9}</foreignId>
-     <text>current</text>
+     <text>obecny</text>
      <i18nText>current</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{efd2e9c6-f064-4a38-b81d-adb65ccb8878}</id>
      <foreignId>{b3a26b4f-7219-4999-9891-56b992431af6}</foreignId>
-     <text>recurring</text>
+     <text>powracający</text>
      <i18nText>recurring</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{868d0865-7cf5-4aa7-a36d-0454aa573ba8}</id>
      <foreignId>{c4c20156-4482-4cea-943b-2aaeab5e7efe}</foreignId>
-     <text>interest</text>
+     <text>odestki</text>
      <i18nText>interest</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cd062279-0d99-4e57-96d1-1982af9a0bfe}</id>
      <foreignId>{bba23296-7c9f-4064-902e-579c66ea7a19}</foreignId>
-     <text>percentage</text>
+     <text>procent</text>
      <i18nText>percentage</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0d60db8c-ef97-4c95-aa9a-b95205f0400e}</id>
      <foreignId>{2fa731b5-f8ff-4161-b42e-db1d5665070b}</foreignId>
-     <text>loan</text>
+     <text>pożyczka</text>
      <i18nText>loan</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a254ccf4-05d7-4c07-a720-cdac531d63bc}</id>
      <foreignId>{2b0bea63-f249-4d3d-8073-69cbd0728b04}</foreignId>
-     <text>amount</text>
+     <text>ilość</text>
      <i18nText>amount</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{76003cc6-5b57-4d4c-95c2-e4b6a8f9a652}</id>
      <foreignId>{73f7d9ad-d55f-4a32-8e2d-b8c84c111953}</foreignId>
-     <text>transfer</text>
+     <text>przelew</text>
      <i18nText>transfer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{132ebbf2-bf7e-4495-9d4c-47c3434175fb}</id>
      <foreignId>{230a55ae-412c-441d-b34f-ccca0061c325}</foreignId>
-     <text>secure</text>
+     <text>bezpieczny</text>
      <i18nText>secure</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{313859ba-1387-49ee-9ded-49fb6e442b1e}</id>
      <foreignId>{2b0a0c99-d54c-4aba-a67c-f3a9c429a246}</foreignId>
-     <text>manager</text>
+     <text>kierownik</text>
      <i18nText>manager</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{87527c32-c56d-4c71-aebd-eb602ae24c9c}</id>
      <foreignId>{76dac0af-f540-44bd-963e-7e315db564f5}</foreignId>
-     <text>cashier</text>
+     <text>kasjer</text>
      <i18nText>cashier</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8b730e6a-0061-439d-86af-c32f4e561c28}</id>
      <foreignId>{b9228a20-08a9-4053-beb3-153025e3c24d}</foreignId>
-     <text>deduction</text>
+     <text>odliczenie</text>
      <i18nText>deduction</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{200475cb-b0fc-473e-8df0-31477a5d0186}</id>
      <foreignId>{3d3cffde-84bd-4e97-bf3b-0cc7b611860f}</foreignId>
-     <text>transaction</text>
+     <text>tranzakcja</text>
      <i18nText>transaction</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e258be7-0bc5-46c1-bbc0-75e155912e0c}</id>
      <foreignId>{8981f543-e007-4690-83cd-99e035d217f7}</foreignId>
-     <text>term</text>
+     <text>określenie</text>
      <i18nText>term</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c0688d81-6831-46b7-a091-bb74cc9d2424}</id>
      <foreignId>{c72756ea-8bea-4734-8d40-8e35c969e4ca}</foreignId>
-     <text>scheme</text>
+     <text>schemat</text>
      <i18nText>scheme</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1d9af332-b863-4af6-86a9-85e943360b48}</id>
      <foreignId>{8a60a601-606a-48cb-8c2f-0114aeeba0f9}</foreignId>
-     <text>annum</text>
+     <text>rocznie</text>
      <i18nText>annum</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{70f64cf8-2d7a-4684-a04f-982745804715}</id>
      <foreignId>{0ddc147b-ae79-42f9-8c6d-ea4d0da9cb3b}</foreignId>
-     <text>mortgage</text>
+     <text>hipoteka</text>
      <i18nText>mortgage</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ca0a5c23-ec0b-475a-9b48-891e3a1d430a}</id>
      <foreignId>{882bb7bf-1890-495c-ab60-e183e293b4dd}</foreignId>
-     <text>form</text>
+     <text>formularz</text>
      <i18nText>form</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d3edc810-6847-479d-afa7-df9538dddff9}</id>
      <foreignId>{ccece622-a24e-4bce-9bac-31534ce75823}</foreignId>
-     <text>charge</text>
+     <text>opłata</text>
      <i18nText>charge</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1f7c7a30-0acb-491a-a965-f81bbbe1b024}</id>
      <foreignId>{4908658d-65af-4077-bdf5-1bc69b9b8604}</foreignId>
-     <text>capital</text>
+     <text>kapitał</text>
      <i18nText>capital</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a433fadf-8997-492e-a025-cf2e2e3cbe63}</id>
      <foreignId>{96550de0-612c-4087-a2bd-b48f7c4cfdce}</foreignId>
-     <text>corporate</text>
+     <text>zbiorowy</text>
      <i18nText>corporate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{daa4bf04-6e68-4c7e-b948-b099be472682}</id>
      <foreignId>{0da09af5-e4bd-4723-b913-d0e39eee124b}</foreignId>
-     <text>business</text>
+     <text>biznes</text>
      <i18nText>business</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{00ebff20-8c34-43d8-96aa-d7f58069109b}</id>
      <foreignId>{4a6e8dd4-5917-4dee-af85-73af41e315d8}</foreignId>
-     <text>finance</text>
+     <text>finanse</text>
      <i18nText>finance</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6899d5b8-a43b-468c-a29b-cb335cdb9153}</id>
      <foreignId>{661057a4-a95c-4545-953b-a7b43aa1d6dd}</foreignId>
-     <text>locker</text>
+     <text>szafka</text>
      <i18nText>locker</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7fc0c14-3ea0-49de-bd3f-cea966e13a17}</id>
      <foreignId>{c3d8cf0a-6e4e-4a3e-8819-76743a7d1b0c}</foreignId>
-     <text>currency</text>
+     <text>waluta</text>
      <i18nText>currency</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{92da8a1b-0c2c-4c3c-9b1f-fbbaa367eb7b}</id>
      <foreignId>{e621db05-f183-4d1d-ac34-a751e2403c1a}</foreignId>
-     <text>rupee</text>
+     <text>rupia</text>
      <i18nText>rupee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6b8a6e8d-387c-45c8-95f3-1ddf0705cd92}</id>
      <foreignId>{c5362768-b5b2-4973-af7c-f1565747a1ff}</foreignId>
-     <text>dollar</text>
+     <text>dolar</text>
      <i18nText>dollar</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8741,477 +8741,477 @@
      <i18nText>euro</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e35ed860-f529-41c4-9087-c44599b89ed8}</id>
      <foreignId>{70050825-3a8f-46a2-ada0-321bbc690eb1}</foreignId>
-     <text>pound</text>
+     <text>funt</text>
      <i18nText>pound</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f5284bc2-6be6-45f7-bd46-9be9418c7e2b}</id>
      <foreignId>{9c51053b-3a74-4cf7-8244-053b048be61c}</foreignId>
-     <text>demand draft</text>
+     <text>szacowany popyt</text>
      <i18nText>demand draft</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a315fe54-1eeb-4a28-a9a5-9b9824a98ace}</id>
      <foreignId>{6807a68c-3ba0-49f7-a6cf-9253f99cee26}</foreignId>
-     <text>pay slip</text>
+     <text>potwierdzenie wypłaty</text>
      <i18nText>pay slip</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9c0c4124-4137-43a1-8c35-b352effe02cd}</id>
      <foreignId>{0ae32780-ed28-45b4-894f-17602b646444}</foreignId>
-     <text>income tax</text>
+     <text>podatek od przychodu</text>
      <i18nText>income tax</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{281916ff-5412-4885-a246-b3ee5020ba66}</id>
      <foreignId>{3c366ac6-2df3-4878-b1a4-ee47bdf90b32}</foreignId>
-     <text>fund transfer</text>
+     <text>przelać fundusze</text>
      <i18nText>fund transfer</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d3bce824-dbda-439f-a031-2026f08b54a8}</id>
      <foreignId>{5322849b-4cfa-428c-92bd-23aedc6ff3d1}</foreignId>
-     <text>bank statement</text>
+     <text>wyciąg bankowy</text>
      <i18nText>bank statement</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bffb555e-1cea-4349-b354-dbb13b9a1941}</id>
      <foreignId>{9f098f51-d2f8-4d80-ac14-107403feb67c}</foreignId>
-     <text>real time gross settlement</text>
+     <text>rozliczenie brutto</text>
      <i18nText>real time gross settlement</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e9c292b5-90c2-4c0f-962e-e5cc9045a534}</id>
      <foreignId>{da202901-4e27-4bb2-899d-1dc3e218c3d8}</foreignId>
-     <text>monthly income certificate</text>
+     <text>potwierdzenie miesięcznego przychodu</text>
      <i18nText>monthly income certificate</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{65663030-27f3-4d6d-b60f-d0b8ee9b21cd}</id>
      <foreignId>{11dfa23b-0662-480e-9eb0-0659cffa7d06}</foreignId>
-     <text>housing loan</text>
+     <text>pożyczka na dom</text>
      <i18nText>housing loan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{930cdc7a-6030-48c4-a360-f7212f36af04}</id>
      <foreignId>{7f052629-2b5e-448c-b139-d2024f2f91fa}</foreignId>
-     <text>personal loan</text>
+     <text>pożyczka osobista</text>
      <i18nText>personal loan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6f529598-b9ea-460b-8717-9eb431a30bf1}</id>
      <foreignId>{d41df197-45c5-4370-8c07-74ee905510e0}</foreignId>
-     <text>cash credit loan</text>
+     <text>pożyczka gotówkowa</text>
      <i18nText>cash credit loan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{114735ae-3197-4cc1-88d3-fc30ea81f204}</id>
      <foreignId>{724d5b9b-fe0e-4c9f-ad88-7dba798780de}</foreignId>
-     <text>banker's cheque</text>
+     <text>czek bankowy</text>
      <i18nText>banker's cheque</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b8dcbfce-41ec-4773-8efe-6065546dd185}</id>
      <foreignId>{d95f1ffe-3cf2-4f91-a7fb-a86014e8525f}</foreignId>
-     <text>bank draft</text>
+     <text>wykres bankowy</text>
      <i18nText>bank draft</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9de015e0-b4f9-40de-8f7b-18bac61d922f}</id>
      <foreignId>{60a476a6-b7cf-40cf-bfba-d22da61bd185}</foreignId>
-     <text>gift cheque</text>
+     <text>prezent w formie czeku</text>
      <i18nText>gift cheque</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60f1c9f2-9a62-431f-b9df-5112f0886d80}</id>
      <foreignId>{b1ad6bbd-51e8-4bd3-8286-31b9683684af}</foreignId>
-     <text>collateral security</text>
+     <text>dodatkowe zabezpieczenie</text>
      <i18nText>collateral security</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7ac5db1f-c34e-4308-b304-e23a16e5315d}</id>
      <foreignId>{b63835ec-9739-44cf-a380-1ec0c066d900}</foreignId>
-     <text>internet banking</text>
+     <text>bankowość internetowa</text>
      <i18nText>internet banking</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6e4a1725-133e-493a-92c0-73ca489025b8}</id>
      <foreignId>{63911e62-ddf9-4aa4-a8d3-24db384c0826}</foreignId>
-     <text>ATM counter</text>
+     <text>bankomat</text>
      <i18nText>ATM counter</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{939a7248-72ef-4afe-89b6-8110a69fbaef}</id>
      <foreignId>{fda10976-fbe7-418a-be1d-595e5bd6814c}</foreignId>
-     <text>Master card</text>
+     <text>karta Mastercard</text>
      <i18nText>Master card</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5c9f4ad0-d263-4d69-a814-0beedc263074}</id>
      <foreignId>{2323a03a-0aae-4fcb-932a-9454e421926a}</foreignId>
-     <text>VISA debit card</text>
+     <text>karta debetowa VISA</text>
      <i18nText>VISA debit card</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b8e39ae7-5ea1-4148-a556-b94ea829d8d7}</id>
      <foreignId>{1b0c0858-b895-4d38-b0c6-96f10cd4ef8a}</foreignId>
-     <text>account payee</text>
+     <text>rachunek odbiorcy</text>
      <i18nText>account payee</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b15ad2ae-b9a5-4b04-be70-b2311341e6a9}</id>
      <foreignId>{4dc5fb82-363e-4d30-8f83-f096da50a02b}</foreignId>
-     <text>fixed deposit</text>
+     <text>ustalony depozyt</text>
      <i18nText>fixed deposit</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{271f2a75-cc7a-471b-9759-11d29bcff5ca}</id>
      <foreignId>{d171e2bc-bbb8-44c9-8529-3eb03a5c01cc}</foreignId>
-     <text>clearing house</text>
+     <text>izba rachunkowa</text>
      <i18nText>clearing house</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6816794c-10d5-4485-bf16-8c5eb813dd27}</id>
      <foreignId>{2025236d-f4c1-41ad-acf3-4157f928036c}</foreignId>
-     <text>I want to open an account.</text>
+     <text>Chciałbym otworzyć konto.</text>
      <i18nText>I want to open an account.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c8942711-0398-4d4c-af8d-a49186e92aca}</id>
      <foreignId>{451473d0-40d4-43f1-a3e5-424d70163eb3}</foreignId>
-     <text>Can you please help me with opening a savings account?</text>
+     <text>Mogłaby mi Pani pomódz z otwarciem konta oszczędnościowego?</text>
      <i18nText>Can you please help me with opening a savings account?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{65a161da-6b56-4e5e-9e1d-a331193a08df}</id>
      <foreignId>{8ad29dfc-dc40-45dc-8d3f-efd4cf3fabba}</foreignId>
-     <text>I would like to update my passbook.</text>
+     <text>Chciałabym uaktualnić moją książeczkę bankową.</text>
      <i18nText>I would like to update my passbook.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7c966f8c-5eec-4f99-8356-212f4386e1f4}</id>
      <foreignId>{a48db0eb-bd6c-40c6-a1b4-72d9d913d4cc}</foreignId>
-     <text>I would like to open a joint account with my wife.</text>
+     <text>Chciałbym otworzyć wspólne konto wraz z moją żoną.</text>
      <i18nText>I would like to open a joint account with my wife.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{66ca45b1-b704-437f-8d8e-e1ff0b5eb30e}</id>
      <foreignId>{eb836c24-3b03-4649-a7bf-e60f8ee40c4f}</foreignId>
-     <text>Please sign here.</text>
+     <text>Proszę tutaj podpisać.</text>
      <i18nText>Please sign here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{365e0348-aa78-4018-af0b-22de25c188e0}</id>
      <foreignId>{eea76c1b-3733-4142-92de-4f32f5fc8177}</foreignId>
-     <text>How many specimen signatures do you need?</text>
+     <text>Ile podpisów potrzeba?</text>
      <i18nText>How many specimen signatures do you need?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b3d13b7d-fe3c-4171-adff-241b60586ad1}</id>
      <foreignId>{95c3f7ad-07ba-48c6-bacf-ca14061551e6}</foreignId>
-     <text>How much do I have to deposit to open a current account?</text>
+     <text>Jaką kwotą muszę zasilić konto przy otwarciu?</text>
      <i18nText>How much do I have to deposit to open a current account?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{13db8bed-e638-41b2-8488-42f1234dea82}</id>
      <foreignId>{cd4d149b-866e-4bd8-b7d0-76a06cef66a1}</foreignId>
-     <text>I want a cheque book.</text>
+     <text>Chciałbym otzrymać książeczkę czekową.</text>
      <i18nText>I want a cheque book.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b6437dbd-9653-4e07-857c-118033b50239}</id>
      <foreignId>{ecb4ce53-45da-4c8b-a076-d2867b3fe62f}</foreignId>
-     <text>I want to encash this cheque.</text>
+     <text>Chciałabym zrealizować ten czek.</text>
      <i18nText>I want to encash this cheque.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bf2d4603-622b-4471-aa1b-e80606398824}</id>
      <foreignId>{cc8de27a-e399-4377-867c-5de052abc222}</foreignId>
-     <text>Are you a customer of this bank?</text>
+     <text>Jesteś kilentem tego banku?</text>
      <i18nText>Are you a customer of this bank?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{85e6b543-08d0-4ca1-8973-f57e3a13bab3}</id>
      <foreignId>{513aaba4-e4ce-4d99-80d0-16ac24869b4b}</foreignId>
-     <text>Would you like to deposit the cheque for clearance?</text>
+     <text>Chciałby Pan zdeponować czek?</text>
      <i18nText>Would you like to deposit the cheque for clearance?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ad9f5284-44ce-4d3e-9f4e-62036089fab2}</id>
      <foreignId>{3c4e430f-cf97-4416-89c5-ca9f23777882}</foreignId>
-     <text>I need the money urgently.</text>
+     <text>Potrzebuję pieniędzy teraz.</text>
      <i18nText>I need the money urgently.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b98c0a98-cad4-41fe-85c3-4cf4134ac217}</id>
      <foreignId>{cde12205-3f37-4859-ba2a-0f8b5b317332}</foreignId>
-     <text>Will they give me the money today?</text>
+     <text>Czy dostanę pieniądze dzisiaj?</text>
      <i18nText>Will they give me the money today?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ab7fc5dd-e188-432a-8138-dcdd108b75b2}</id>
      <foreignId>{6dd45b9b-6e71-47a3-a9b9-7618973cf786}</foreignId>
-     <text>It will take about two days, since it is a local cheque.</text>
+     <text>Zajmie to około dwóch dni jako że jest to czek lokalny.</text>
      <i18nText>It will take about two days, since it is a local cheque.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8e913e38-2f70-4ccb-921a-dcf78f953d87}</id>
      <foreignId>{3877cfda-28ed-4ecf-91c8-ac3c01624cd6}</foreignId>
-     <text>Which way is counter number 7?</text>
+     <text>Ktorędy do stanowiska numer siedem?</text>
      <i18nText>Which way is counter number 7?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b5f45aaf-dba3-45d7-9567-12a429279832}</id>
      <foreignId>{58937831-5c5f-4653-88e9-9885cfde49b7}</foreignId>
-     <text>I would like to meet the bank manager immediately.</text>
+     <text>Chciałbym zobaczyć się z kierownikiem natychmiast.</text>
      <i18nText>I would like to meet the bank manager immediately.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c74a9102-d766-4764-b030-0caa18ceb584}</id>
      <foreignId>{eb9d7064-ed30-4c0b-998d-aed4b77c24f2}</foreignId>
-     <text>Please sign on the back of the cheque.</text>
+     <text>Proszę podpisać z tyłu czeku.</text>
      <i18nText>Please sign on the back of the cheque.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{90df06d4-7a3b-40c9-b0eb-947fe88a4775}</id>
      <foreignId>{350c36d8-5647-4d78-9eaf-6854e61351f2}</foreignId>
-     <text>I need thousand rupees notes only.</text>
+     <text>Potrzebuję tysiąc rupii tylko w banknotach.</text>
      <i18nText>I need thousand rupees notes only.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5b476e6c-d844-4538-9571-8284c9d6dd6e}</id>
      <foreignId>{591bb58d-04f3-420d-a83d-62f2ad2dfb6f}</foreignId>
-     <text>I want to deposit $300.</text>
+     <text>Chciałabym wpłacić trzysta dolarów.</text>
      <i18nText>I want to deposit $300.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7ed74dd5-ec99-4644-8b4d-656a89237904}</id>
      <foreignId>{4fa49978-d3d9-4ba1-8350-bfbfa22d2ab5}</foreignId>
-     <text>Please fill out this application.</text>
+     <text>Proszę wypełnić tą aplikację.</text>
      <i18nText>Please fill out this application.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5a7c5fbd-34c5-4f56-bb63-5e6cfee454a2}</id>
      <foreignId>{c5edb42d-d187-4f3d-b1f5-a5255a8f825b}</foreignId>
-     <text>It is advisable that you open both a checking account as well as a savings account. To open these accounts, you will need to make a deposit of at least $50.</text>
+     <text>Pownieneś otowrzyć rachunek bierzący i rachunek oszczędnościowy. Żeby otworzyć obydwa rachunki musisz zdeponować przynajmniej pięćdziesiąt dolarów.</text>
      <i18nText>It is advisable that you open both a checking account as well as a savings account. To open these accounts, you will need to make a deposit of at least $50.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60f69a68-6d7a-4f87-8b7c-82a37a03cae1}</id>
      <foreignId>{89851a94-8aa6-4f18-8579-df00c7baab7f}</foreignId>
-     <text>If you would like to order cheques, you can do that right away. All you need to do is fill out this application. Give it about five to seven business days, and you should receive them in the mail.</text>
+     <text>Jeśli chcesz zamówić czeki możesz zrobić to od razu. Muszisz tylko wypełnić aplikację. Czeki powinieneś dostać w ciągu pięciu lub siedmiu dni pocztą.</text>
      <i18nText>If you would like to order cheques, you can do that right away. All you need to do is fill out this application. Give it about five to seven business days, and you should receive them in the mail.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1c0cf253-51c0-4476-a0ad-4306755d7306}</id>
      <foreignId>{e8349074-1a2b-4d49-913b-bd30a5013809}</foreignId>
-     <text>Hi, I need some help. I wrote a cheque of $100 which bounced. I am quite sure that there is sufficient money in my account. My account number is 30773933648. Can you please look into it?</text>
+     <text>Dźień dobry, czy mogłaby mi Pani pomódz? Wypisałem czek na sto dolarów, ktory do mnie wrócił. Jestem przekonany, że mam wystarczająco środków na koncie. Mój numer konta to: 30773933648. Czy mogłaby Pani to sprawdzić?</text>
      <i18nText>Hi, I need some help. I wrote a cheque of $100 which bounced. I am quite sure that there is sufficient money in my account. My account number is 30773933648. Can you please look into it?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b701889c-db36-45f8-a600-525df94c89bc}</id>
      <foreignId>{bb305347-44a3-4759-a8fc-13a19bc2e79c}</foreignId>
-     <text>I need to file a complaint. Yesterday while I was making an online payment using my VISA debit card, I lost my internet connection right at the end of the transaction. As a result, my transaction failed but strangely enough, the exact amount of money got debited from my account.</text>
+     <text>Muszę złożyć skargę. Wczoraj gdy płaciłem w internecie moją kartą debetową Visa straciłem połączenie pod koniec tranzakcji. Tranzakcja z tego powodu była nieudana jdenak pieniądze zostały pobrane z mojego konta.</text>
      <i18nText>I need to file a complaint. Yesterday while I was making an online payment using my VISA debit card, I lost my internet connection right at the end of the transaction. As a result, my transaction failed but strangely enough, the exact amount of money got debited from my account.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ef3c2cfa-d28c-442d-9a02-be603b7722cb}</id>
      <foreignId>{a1172857-8c30-4276-a0ab-8dbe187e8af7}</foreignId>
-     <text>Hello. I’d like, some information on the telephone banking services offered by you. Can you tell me how the telephone banking services work? My account number is 855678900089548 at the MG Road Branch.</text>
+     <text>Dzień Dobry. Chciałabym zasięgnąć informacji na temat bankowości telefonicznej, którą Państwo oferują. Mogłaby Pani mi wyjaśnić jak ta bankowość telefoniczn dziala? Mój numer konta to 855678900089548 w MG Road Branch.</text>
      <i18nText>Hello. I’d like, some information on the telephone banking services offered by you. Can you tell me how the telephone banking services work? My account number is 855678900089548 at the MG Road Branch.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
