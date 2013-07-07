@@ -2135,712 +2135,1392 @@
     <phrase>
      <id>{124932cf-421b-41f8-9eca-dcf0f4dd3995}</id>
      <foreignId>{a45209f9-2797-4b21-9e5f-cd2f65417515}</foreignId>
-     <text>mother</text>
+     <text>মা</text>
      <i18nText>mother</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0f7aa5ec-48e6-4a14-b36c-575863e1efdd}</id>
      <foreignId>{f13aa413-12db-4ac4-970f-a049a02b7e30}</foreignId>
-     <text>father</text>
+     <text>বাবা</text>
      <i18nText>father</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{75f21787-4a21-4275-ac07-a6d87e21487a}</id>
      <foreignId>{7cef4738-6d85-4685-a781-46a5a52d1af7}</foreignId>
-     <text>uncle</text>
+     <text>কাকা</text>
      <i18nText>uncle</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f59c0848-3d26-4213-99c3-b190729eddde}</id>
      <foreignId>{bcfd006d-c3e8-49ef-bc08-0768c18c9cbe}</foreignId>
-     <text>aunt</text>
+     <text>মাসি</text>
      <i18nText>aunt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9518b11d-9dde-4048-9d35-e2b247eb454d}</id>
      <foreignId>{b81fd88c-bc00-4aea-a9cc-9489e566a00a}</foreignId>
-     <text>brother</text>
+     <text>ভাই</text>
      <i18nText>brother</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ea3d2aa2-80f4-4d44-938d-17f37068e29a}</id>
      <foreignId>{ca56ec04-0662-425d-ae9d-4f282a342fb5}</foreignId>
-     <text>sister</text>
+     <text>বোন</text>
      <i18nText>sister</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{40f04df6-49a5-4839-b740-41d482ff8cb7}</id>
      <foreignId>{65f2a6bd-5be6-4169-afb5-3581f8e06078}</foreignId>
-     <text>grandmother</text>
+     <text>দিদা</text>
      <i18nText>grandmother</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{04f76708-95c1-4a0b-a877-2d038ac9bce4}</id>
      <foreignId>{108a4ddf-8c9b-4632-9188-0a7cfda508a1}</foreignId>
-     <text>grandfather</text>
+     <text>দাদু</text>
      <i18nText>grandfather</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f44cd1d3-df24-4a69-babc-793352e3c524}</id>
      <foreignId>{5c475011-d85f-47fa-9dd5-d83b230145f9}</foreignId>
-     <text>daughter</text>
+     <text>মেয়ে</text>
      <i18nText>daughter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{aeec5c0b-075e-4306-b82c-9c54d6d0565a}</id>
      <foreignId>{c5ac8139-5acc-4c5e-b458-7cccdffa7105}</foreignId>
-     <text>son</text>
+     <text>ছেলে</text>
      <i18nText>son</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fe927641-53d8-4b1a-84ca-ad03c360f5df}</id>
      <foreignId>{4a17e0b5-117f-4123-aa09-699debeb26d5}</foreignId>
-     <text>siblings</text>
+     <text>সহোদর</text>
      <i18nText>siblings</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e2826766-fc1f-413a-b663-dc47bd5c18f5}</id>
      <foreignId>{3da7d5bb-73a4-4a15-92e7-b28f08fec585}</foreignId>
-     <text>grandson</text>
+     <text>নাতি</text>
      <i18nText>grandson</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f6bb1c26-e3b9-4e88-8546-f01210e3239b}</id>
      <foreignId>{ff3ca9c7-09fc-42f8-bd91-807ef443acea}</foreignId>
-     <text>granddaughter</text>
+     <text>নাতনী</text>
      <i18nText>granddaughter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{df27896e-9ea5-4104-a6e0-92350df8f921}</id>
      <foreignId>{56ff75ed-c079-467a-b702-d83e2aa940ec}</foreignId>
-     <text>wife</text>
+     <text>স্ত্রী</text>
      <i18nText>wife</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d6750876-a59f-4814-af57-27d17f14a053}</id>
      <foreignId>{e9d6f3c9-2adc-44da-b376-c47033d941dc}</foreignId>
-     <text>husband</text>
+     <text>স্বামী</text>
      <i18nText>husband</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{92c5d2cc-957a-4323-ad5f-78b04f2bcc94}</id>
      <foreignId>{650e213c-3aa1-4c00-89d3-ae708208c742}</foreignId>
-     <text>niece</text>
+     <text>ভাইঝি</text>
      <i18nText>niece</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>jh</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{48bbd6a6-fb7e-4aa7-94fd-88b3b5574c8d}</id>
      <foreignId>{6a867158-3c7f-48b7-9161-ea7317efe3f9}</foreignId>
-     <text>nephew</text>
+     <text>ভাইপো</text>
      <i18nText>nephew</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4d473c9f-2d59-46a0-878c-70a192d53bca}</id>
      <foreignId>{89a5acb9-f4c3-44ec-abde-a2eb538f9eec}</foreignId>
-     <text>spouse</text>
+     <text>স্বামী বা স্ত্রী</text>
      <i18nText>spouse</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{282b1bfa-b9e5-41cd-95bd-5e9e97beba38}</id>
      <foreignId>{8862489f-7972-497b-be5d-b4afead9b4cd}</foreignId>
-     <text>marriage</text>
+     <text>বিবাহ</text>
      <i18nText>marriage</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>h</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{886522a7-bef9-4987-a42f-caecaab6bb79}</id>
      <foreignId>{226d188f-054e-48bc-8d66-342b14286a7a}</foreignId>
-     <text>couple</text>
+     <text>দম্পতি</text>
      <i18nText>couple</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ab06583f-f8a8-4555-a25b-84fb29df1c5e}</id>
      <foreignId>{65b33bbd-a5ba-45df-9b96-292e493220d5}</foreignId>
-     <text>cousin</text>
+     <text>খুড়তুত ভাই</text>
      <i18nText>cousin</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ce88717e-8304-448b-8603-b8674927a7f2}</id>
      <foreignId>{337596af-ef04-4d45-b73f-22bbf477447d}</foreignId>
-     <text>godson</text>
+     <text>ধর্মপুত্র</text>
      <i18nText>godson</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c0400141-eac9-4678-9b03-9874bd3069af}</id>
      <foreignId>{51a09dd3-ac20-4bd0-a571-ab8e6384b769}</foreignId>
-     <text>children</text>
+     <text>সন্তান</text>
      <i18nText>children</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{aee67cfa-aaa0-4665-ab78-742e3475d75d}</id>
      <foreignId>{5cab4a17-e261-460e-83b9-7219cbaac107}</foreignId>
-     <text>babe</text>
+     <text>শিশু</text>
      <i18nText>babe</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{be6a7006-5e0e-44c8-86db-3c70450fab4b}</id>
      <foreignId>{3bedbf55-a0b4-4b77-a037-ba8f5f3348d7}</foreignId>
-     <text>adopt</text>
+     <text>দত্তক নেওয়া</text>
      <i18nText>adopt</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5fbd510b-d34c-44ce-a8b1-15eabf40dd56}</id>
      <foreignId>{b8751e3b-fa9e-4f9c-970c-2dbff5e212b9}</foreignId>
-     <text>relative</text>
+     <text>আত্মীয়</text>
      <i18nText>relative</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>io</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5ec1950c-80b1-4b90-934e-c140a1c587cf}</id>
      <foreignId>{f0ff8f87-6998-4186-82b0-a5195c3cd2e6}</foreignId>
-     <text>orphan</text>
+     <text>অনাথ</text>
      <i18nText>orphan</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a4df4938-ee04-4114-8d23-a482dd58d892}</id>
      <foreignId>{89ae77b7-1653-4510-824e-12ad53d77951}</foreignId>
-     <text>disinherit</text>
+     <text>উত্তরাধিকার থেকে বঞ্চিত করা</text>
      <i18nText>disinherit</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>o-half</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{266f27f8-bedc-49ca-a2c0-68a1626653fa}</id>
      <foreignId>{13a560b9-0217-48bb-ace9-68606c7c260b}</foreignId>
-     <text>single</text>
+     <text>একক</text>
      <i18nText>single</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6405429a-2a22-48a9-b563-54bc5917eb68}</id>
      <foreignId>{0fb64cac-9f4b-48c6-84b9-5363acd8363b}</foreignId>
-     <text>family</text>
+     <text>পরিবার</text>
      <i18nText>family</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7b522fb7-4646-4f69-add3-5da9cdca074d}</id>
      <foreignId>{d9b61e3c-7ed8-4b23-b940-f95143b3a4b8}</foreignId>
-     <text>great grandfather</text>
+     <text>প্রপিতামহ</text>
      <i18nText>great grandfather</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>h</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a5006484-0b96-4f04-8f29-89df996f166f}</id>
      <foreignId>{98afb7b3-0977-49d9-a445-6fe26ae08397}</foreignId>
-     <text>great grandmother</text>
+     <text>প্রপিতামহী</text>
      <i18nText>great grandmother</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>h</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f1d98d00-fb22-4174-adb8-18c9da1ad30b}</id>
      <foreignId>{6fecb201-d3dc-4f22-81cf-de7fcdfde111}</foreignId>
-     <text>twin brothers</text>
+     <text>যমজ ভাই</text>
      <i18nText>twin brothers</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{837b28bc-9fc9-4a91-bf48-de63f8cfda4c}</id>
      <foreignId>{5642138b-8ebe-4a69-9dd9-3596ab757a56}</foreignId>
-     <text>twin sisters</text>
+     <text>যমজ বোন</text>
      <i18nText>twin sisters</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{992ec82a-f19d-42c6-baba-1e2962b97106}</id>
      <foreignId>{f3e4fae7-4c2e-4228-858d-004b85489a37}</foreignId>
-     <text>step-father</text>
+     <text>বিপিতা</text>
      <i18nText>step-father</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6ef55be9-4f91-4777-9c5f-ba978912e23c}</id>
      <foreignId>{bc83b5cc-90d3-4bb7-b4f6-b8ac53d4e504}</foreignId>
-     <text>step-mother</text>
+     <text>সৎমা</text>
      <i18nText>step-mother</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3cc6ae8e-473a-417f-8592-f47b583e4f00}</id>
      <foreignId>{08bd9966-4282-4fdb-82d1-4d8f21bf29e4}</foreignId>
-     <text>ex-husband</text>
+     <text>প্রাক্তন স্বামী</text>
      <i18nText>ex-husband</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c44a6624-dbe0-4b5b-8eb3-2fbf457387ed}</id>
      <foreignId>{df2d2387-2712-4e6d-9bb2-bcf7b5960be5}</foreignId>
-     <text>ex-wife</text>
+     <text>প্রাক্তন স্ত্রী</text>
      <i18nText>ex-wife</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ef29c3d1-87b7-4101-971f-2d0748c375af}</id>
      <foreignId>{17e9b72d-f2c2-4e92-9b06-7dcecc76262d}</foreignId>
-     <text>bring up</text>
+     <text>লালনপালন করা</text>
      <i18nText>bring up</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{95ffaf80-91f0-43ff-ad05-ef8d5e79677e}</id>
      <foreignId>{fbf42837-2a51-4882-a5fb-2a40c6d444cc}</foreignId>
-     <text>foster child</text>
+     <text>পালিত সন্তান</text>
      <i18nText>foster child</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c2be77fd-0e8f-4cdb-af53-575a0bcb50db}</id>
      <foreignId>{6cbc3c63-65a5-4892-8e56-2a2e663b6d65}</foreignId>
-     <text>be divorced</text>
+     <text>বিবাহবিচ্ছেদ ঘটা</text>
      <i18nText>be divorced</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>gh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{43894d69-1fe2-48ae-8662-550f7aa4e8f4}</id>
      <foreignId>{bc4e9420-0424-4206-9d4f-7dfbd2878730}</foreignId>
-     <text>elder sister</text>
+     <text>দিদি</text>
      <i18nText>elder sister</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0b5c3b11-2d08-4482-958a-bebfe1dafedf}</id>
      <foreignId>{0fa0a6cf-01e1-4ae1-9313-b85d4639b348}</foreignId>
-     <text>be married</text>
+     <text>বিবাহিত হত্তয়া</text>
      <i18nText>be married</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1a1bcd17-281c-4de1-8ec4-445dbf871b7b}</id>
      <foreignId>{a2746154-d49f-4e1f-aa5e-708d2b76f8f2}</foreignId>
-     <text>be engaged</text>
+     <text>বাগ্দত্ত হত্তয়া</text>
      <i18nText>be engaged</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6d99fb36-138b-4f54-93e7-0b3676adb536}</id>
      <foreignId>{fc9a8359-3689-481f-8708-c725f8309537}</foreignId>
-     <text>get on well</text>
+     <text>ভালো লেগে যাত্তয়া</text>
      <i18nText>get on well</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{36df5e59-d723-46df-9bd7-6a0697ed5961}</id>
      <foreignId>{bb315977-2a75-4355-b1f2-eefbaa357a03}</foreignId>
-     <text>black sheep</text>
+     <text>কলঙ্কস্বরূপ ব্যক্তি</text>
      <i18nText>black sheep</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{99694baa-76da-4c18-8b3e-48bade3dea82}</id>
      <foreignId>{a162d6d7-55d3-474c-bd77-e4062a7903a8}</foreignId>
-     <text>family gathering</text>
+     <text>পারিবারিক সমাবেশ</text>
      <i18nText>family gathering</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{231e2003-5c36-4319-822a-32b04d432552}</id>
      <foreignId>{b60de9ba-53fb-4df4-8893-31e67d022646}</foreignId>
-     <text>family name</text>
+     <text>পদবী</text>
      <i18nText>family name</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f89f7291-c99b-40fa-b4da-7d105f9215ec}</id>
      <foreignId>{71fb26a0-a8b4-4926-bbde-3e67d508c295}</foreignId>
-     <text>biological brother</text>
+     <text>নিজের ভাই</text>
      <i18nText>biological brother</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c40471ec-b326-48d3-ae96-021955801223}</id>
      <foreignId>{368dabbd-e453-4104-ba9b-673048767000}</foreignId>
-     <text>be separated</text>
+     <text>আলাদা হওয়া</text>
      <i18nText>be separated</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3d75e3b9-5405-43e2-91ce-9394dd265ae5}</id>
      <foreignId>{28ea7f77-900f-4836-887c-7ebba9a00e0d}</foreignId>
-     <text>I have one younger brother and two sisters.</text>
+     <text>আমার একটি ছোট ভাই এবং দুটি বোন আছে।</text>
      <i18nText>I have one younger brother and two sisters.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7b8a30e4-5a10-49c7-a798-3b47826d0aaf}</id>
      <foreignId>{8a74340e-5f78-48df-80ff-de6e94e416c0}</foreignId>
-     <text>My parents got divorced two years ago.</text>
+     <text>দু বছর আগে আমার মা-বাবার মধ্যে বিবাহবিচ্ছেদ ঘটেছে।</text>
      <i18nText>My parents got divorced two years ago.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>gh</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9386c8c1-2ae1-45d1-b635-7a3e05e09ad4}</id>
      <foreignId>{2a3c6479-3d24-4d3f-a3ba-dfd367b9680e}</foreignId>
-     <text>My sister-in-law just got pregnant and she is expecting a babe.</text>
+     <text>আমার ননদ কিছুদিন আগে গর্ভবতী হয়েছে।</text>
      <i18nText>My sister-in-law just got pregnant and she is expecting a babe.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>h</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b76a532c-f6a5-48c9-b874-f62e9f85e963}</id>
      <foreignId>{a0a49252-3009-4c0a-86f4-0bab74ec379f}</foreignId>
-     <text>My family lives in New York.</text>
+     <text>আমার পরিবার নিউ ইয়র্কে বসবাস করে।</text>
      <i18nText>My family lives in New York.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>iu</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{87d35a51-b64f-4bad-9fd9-defe846c3568}</id>
      <foreignId>{eda7da2b-520e-44c6-b2ae-928b27af2db8}</foreignId>
-     <text>We have been married for 10 years and we have two children.</text>
+     <text>আমরা দশ বছর ধরে বিবাহিত এবং আমাদের দুটি সন্তান আছে।</text>
      <i18nText>We have been married for 10 years and we have two children.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4dbeba25-d092-480b-96e4-0fafe4d84c7f}</id>
      <foreignId>{70ed088d-d131-442d-b07e-531776d2c9d8}</foreignId>
-     <text>They are twins.</text>
+     <text>তারা যমজ।</text>
      <i18nText>They are twins.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e3a92acb-8bfb-4258-bf1c-fd71532f95ce}</id>
      <foreignId>{ef982491-0319-41cb-93ff-c99a4adb6cf0}</foreignId>
-     <text>George is Robert's and Susan's father.</text>
+     <text>জর্জ রবার্ট এবং সুসান-এর বাবা।</text>
      <i18nText>George is Robert's and Susan's father.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a0840e2e-2b3d-494d-8e9d-ede551b745e5}</id>
      <foreignId>{b86467c0-f354-45f0-ada0-9f9d81c65d77}</foreignId>
-     <text>Are you married?</text>
+     <text>আপনি কি বিবাহিত?</text>
      <i18nText>Are you married?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ee498166-c068-49d1-a09e-8cd6f4695fc9}</id>
      <foreignId>{b8f8243f-b323-4359-bbfd-7ad8ddc3ad00}</foreignId>
-     <text>Anne is the youngest child in our family.</text>
+     <text>অ্যানা আমাদের পরিবারের কনিষ্ঠতম সন্তান।</text>
      <i18nText>Anne is the youngest child in our family.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>th</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{38e0d370-d4b7-475f-bf53-f877590a8ac9}</id>
      <foreignId>{843e46b9-d6c2-4bc9-9f23-4af732aaff57}</foreignId>
-     <text>Carol and Michael are Robert's grandparents.</text>
+     <text>ক্যারল এবং মাইকেল রবার্ট-এর দিদা দাদু।</text>
      <i18nText>Carol and Michael are Robert's grandparents.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b809f583-164c-4db1-b4ef-6c76c4bca089}</id>
      <foreignId>{a76df398-1e68-442e-8944-d4ca0c17aaaf}</foreignId>
-     <text>The modern nuclear family consists of dad the breadwinner, mum the housewife and several children.</text>
+     <text>আধুনিক দম্পতি-কেন্দ্রিক পরিবার পরিবারের জীবিকার্জক পিতা, গৃহিনী মাতা ও কয়েকটি সন্তান দ্বারা গঠিত।</text>
      <i18nText>The modern nuclear family consists of dad the breadwinner, mum the housewife and several children.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>th</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{fa0f1c9e-f7b9-4aff-8e6f-e17b50860b8f}</id>
      <foreignId>{5af079ba-7415-42e6-ab66-805ca279808f}</foreignId>
-     <text>My mother died last year.</text>
+     <text>আমার মা গত বছর মারা গেছেন।</text>
      <i18nText>My mother died last year.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{20dea4f4-17ff-46ce-9484-45dd2533315f}</id>
      <foreignId>{c6ef1ec6-0c36-45bd-888a-3fc7a6d75157}</foreignId>
-     <text>My father is an engineer.</text>
+     <text>আমার বাবা একজন ইঞ্জিনিয়ার।</text>
      <i18nText>My father is an engineer.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e9f753c2-1e99-4ccf-a445-e0b875857f0c}</id>
      <foreignId>{383e2b89-9c86-4b6c-a7d1-2ab688625ef4}</foreignId>
-     <text>How big is your family?</text>
+     <text>আপনার পরিবার কত বড়?</text>
      <i18nText>How big is your family?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a47c863f-5b3e-4afa-8426-68371465ce12}</id>
      <foreignId>{c8e812e6-d98e-4154-972a-acbd051e42cd}</foreignId>
-     <text>Do you have any siblings?</text>
+     <text>আপনার কোন ভাইবোন আছে?</text>
      <i18nText>Do you have any siblings?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5dd0fc08-6f7a-4663-b045-a4099a6d3756}</id>
      <foreignId>{801eeb35-50d2-4377-9bcf-0a2e9729ac0d}</foreignId>
-     <text>What is your family name?</text>
+     <text>আপনার পদবী কি?</text>
      <i18nText>What is your family name?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b0b17d71-3764-4041-b125-36e443c9358b}</id>
      <foreignId>{d715af37-b8c2-4f68-a8f0-fb1940717027}</foreignId>
-     <text>Are your parents separated or they still live together?</text>
+     <text>তোমার বাবা-মা কি আলাদা থাকেন নাকি এখনও একসঙ্গে থাকেন?</text>
      <i18nText>Are your parents separated or they still live together?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{eadc643a-ac9a-465f-9e0c-133ab2210aec}</id>
      <foreignId>{9fe9aead-cfdd-4106-b6fe-3b9ff70607ca}</foreignId>
-     <text>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</text>
+     <text>আমাদের পরিবার খুব বড়। আমার দুটি ভাই এবং তিনটি বোন আছে। এছাড়াও আমাদের একুশ জন ভাইবোন আছে: চোদ্দ জন আমার বাবার পরিবারের দিক থেকে এবং সাত জন আমার মায়ের পরিবারের দিক থেকে।</text>
      <i18nText>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8ae1b982-b28b-4b29-b710-a8c9606bda39}</id>
      <foreignId>{a45ad81d-c749-49e7-a752-25e8b358f093}</foreignId>
-     <text>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</text>
+     <text>জুলিয়া ও হলি যমজ এবং তাদের পুরোপুরি এক দেখতে। তারা একসাথে বড় হয়েছে এবং ছোটবেলা থেকেই তাদের মা তাদেরকে একরকমের পোষাক পরাতেন। পারিবারিক অ্যালবামে অনেক ছবি আছে যেখানে তাদের হুবহু একই রকম দেখতে লাগে।</text>
      <i18nText>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>g</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b0a1b4dc-98f3-4e19-bcd7-6e2f3727af1e}</id>
      <foreignId>{b4691fce-fcef-4d07-a854-b4378014e66a}</foreignId>
-     <text>My family is a rather small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</text>
+     <text>আমার পরিবার খুবই ছোট যেটি মাত্র তিন জনের দ্বারা গঠিত: আমার বাবা, আমার মা এবং আমি। আমার মা একজন ডাক্তার এবং আমার বাবা একজন আইনজীবী।</text>
      <i18nText>My family is a rather small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>th</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>d</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{57fbaa60-166f-4336-ba31-9a925ae92ddb}</id>
      <foreignId>{e6ad70f5-ff48-4ccb-a6ba-54ea6d8a3995}</foreignId>
-     <text>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</text>
+     <text>প্রায় এক বছর আগে আমার মা-বাবার বিবাহবিচ্ছেদ ঘটে। তারপর আমার মা একজন কানাডিয়ান ইঞ্জিনিয়ারকে বিয়ে করে টরন্টো চলে যান। আমার বাবা ওয়াশিংটনে থেকে যান এবং আমি তাঁর সঙ্গে থাকার সিদ্ধান্ত নিই।</text>
      <i18nText>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>gh</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>ie</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+     </phonemes>
     </phrase>
    </phrases>
   </unit>
