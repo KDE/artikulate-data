@@ -46,226 +46,226 @@
   <unit>
    <id>{5b7a4516-d991-48aa-bbd4-10544d0823c3}</id>
    <foreignId>{6ab7d60e-b885-4833-97ff-27cb1ca2f543}</foreignId>
-   <title>Numbers</title>
+   <title>Numéros</title>
    <phrases>
     <phrase>
      <id>{f077b7d7-f65a-4b8c-9711-0809991f4b07}</id>
      <foreignId>{24e8ef0c-9234-4da5-a6fe-dbd5104f57d5}</foreignId>
-     <text>0</text>
+     <text>zéro</text>
      <i18nText>0</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3c55a6b0-fd5d-4fb7-b304-0b7b36cfa8a6}</id>
      <foreignId>{ae91a229-b4a9-4264-9a26-75a55aa5d302}</foreignId>
-     <text>1</text>
+     <text>un</text>
      <i18nText>1</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c06efcd0-e941-4a6a-bf57-28424614c7c1}</id>
      <foreignId>{8d7b65c2-e8f2-4153-86cc-9ed3293959d5}</foreignId>
-     <text>2</text>
+     <text>deux</text>
      <i18nText>2</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{74f69e23-2c91-4e93-b0f3-5d1877e9208d}</id>
      <foreignId>{b682e2bd-b16d-4eaf-9935-5eabaa97f1a1}</foreignId>
-     <text>3</text>
+     <text>trois</text>
      <i18nText>3</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e3cbc77c-ca8a-4cc2-945f-d5491b3beb7a}</id>
      <foreignId>{9718cb32-b05d-4f99-9f3a-e5e3973cfe2a}</foreignId>
-     <text>4</text>
+     <text>quatre</text>
      <i18nText>4</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e48f7f83-5a43-46a6-aec5-df01104da5c4}</id>
      <foreignId>{b5e7f4e3-c265-427f-acb0-f9d1922d994b}</foreignId>
-     <text>5</text>
+     <text>cinq</text>
      <i18nText>5</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b16487b4-a019-433f-973f-33a6666af838}</id>
      <foreignId>{eafc05e9-0bb4-4c54-ae0c-990d2610b68b}</foreignId>
-     <text>6</text>
+     <text>six</text>
      <i18nText>6</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{97176068-0928-43f8-b773-37ffd392be1a}</id>
      <foreignId>{d24872ac-7751-41c4-b1c4-cf2a54bd95f5}</foreignId>
-     <text>7</text>
+     <text>sept</text>
      <i18nText>7</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e95ce22d-4f36-4c15-9f11-1a2d540a6ab0}</id>
      <foreignId>{8178c10f-1204-4cc3-9023-69935eea0c1e}</foreignId>
-     <text>8</text>
+     <text>huit</text>
      <i18nText>8</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8cf5bd48-c07d-46d8-a338-5c871227e527}</id>
      <foreignId>{01320417-9ccf-4bd7-8c66-659e68e2449a}</foreignId>
-     <text>9</text>
+     <text>neuf</text>
      <i18nText>9</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{86d03a35-36fe-4912-a7e4-c86b5375a525}</id>
      <foreignId>{83a9943b-1d34-45a0-a446-b6388784b2de}</foreignId>
-     <text>10</text>
+     <text>dix</text>
      <i18nText>10</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ffd97a86-527e-4880-a035-05ae08255c5a}</id>
      <foreignId>{ebd67728-48e8-4dee-846b-a8d55f9173b4}</foreignId>
-     <text>11</text>
+     <text>onze</text>
      <i18nText>11</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b0a9440b-8f50-426d-a67f-620ea81de26b}</id>
      <foreignId>{c1c55dc8-cfac-43df-bf61-f15d9d65cd17}</foreignId>
-     <text>12</text>
+     <text>douze</text>
      <i18nText>12</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4df07077-c017-4eed-bde2-3d5b874d6555}</id>
      <foreignId>{eccc866d-4600-4284-82b4-96fb1120fc7f}</foreignId>
-     <text>13</text>
+     <text>treize</text>
      <i18nText>13</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b489f02c-3f06-41cc-8a55-a21613b2339a}</id>
      <foreignId>{b88e772d-5311-45f5-8628-259df44fafbe}</foreignId>
-     <text>14</text>
+     <text>quatorze</text>
      <i18nText>14</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e037a7f1-69d1-455c-b748-1a8e177f3b38}</id>
      <foreignId>{992b0dad-e3d3-428c-99fe-920e6646186d}</foreignId>
-     <text>15</text>
+     <text>quinze</text>
      <i18nText>15</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{18ab3f6a-972f-4ce1-b8fd-4a2c5548227b}</id>
      <foreignId>{efd24631-c719-44e9-a5d5-bccfe4a32c10}</foreignId>
-     <text>16</text>
+     <text>seize</text>
      <i18nText>16</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5d6e90e9-1910-48d6-ad02-29fdc4c09be5}</id>
      <foreignId>{9b410c81-c696-4bbd-9dc1-76d30c981dc5}</foreignId>
-     <text>17</text>
+     <text>dix-sept</text>
      <i18nText>17</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{81ed092d-4566-4b40-b72b-c14cd522b1a9}</id>
      <foreignId>{a8119748-2dd9-4833-9bc7-956f3229b2be}</foreignId>
-     <text>18</text>
+     <text>dix-huit</text>
      <i18nText>18</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2300611e-ec47-490f-9c70-e4c1ac8a53c5}</id>
      <foreignId>{5e43eccb-80bc-46b9-807d-465540f26a9e}</foreignId>
-     <text>19</text>
+     <text>dix-neuf</text>
      <i18nText>19</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{29329e06-6082-4f08-afb3-29679e6f69bb}</id>
      <foreignId>{f71d08ef-5349-4bdf-b934-f45711ad4f88}</foreignId>
-     <text>20</text>
+     <text>vingt</text>
      <i18nText>20</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f76cfb1f-0eb9-4dd9-96b8-dea36de793d4}</id>
      <foreignId>{213604b9-75ff-42bd-85bc-5db8db7c607a}</foreignId>
-     <text>21</text>
+     <text>vingt et un</text>
      <i18nText>21</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
