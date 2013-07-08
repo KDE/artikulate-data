@@ -11950,216 +11950,216 @@
   <unit>
    <id>{a78a8589-3e50-4bc4-af2d-f77c9ac037df}</id>
    <foreignId>{9656d693-2cbc-4ff5-be52-c3749effd144}</foreignId>
-   <title>Pets</title>
+   <title>Zwierzęta</title>
    <phrases>
     <phrase>
      <id>{77926889-3cbe-4dfe-ba2d-63c0b11b7295}</id>
      <foreignId>{7a3093e2-4668-499b-924f-0c3745c09fe7}</foreignId>
-     <text>dog</text>
+     <text>pies</text>
      <i18nText>dog</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{469b1553-c12c-46fd-9e03-373bf59a7766}</id>
      <foreignId>{86ff747e-01c1-4909-b17c-5c46c77a01dd}</foreignId>
-     <text>puppies</text>
+     <text>szczeniaki</text>
      <i18nText>puppies</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3714401d-c968-495e-9572-75be559cabe3}</id>
      <foreignId>{53151b94-a46a-41fc-95c5-52d7e43c77c0}</foreignId>
-     <text>cat</text>
+     <text>kot</text>
      <i18nText>cat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f481ccba-f0a7-49fc-aba9-4bdb82e2b53e}</id>
      <foreignId>{0cad0354-c55c-401a-8258-aa013f4b9c82}</foreignId>
-     <text>kitten</text>
+     <text>kotek</text>
      <i18nText>kitten</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fd5bcb2d-5eb4-4ece-b234-0782c299afbc}</id>
      <foreignId>{ea69888e-8df5-41ff-90b9-91e5013dcc17}</foreignId>
-     <text>companion</text>
+     <text>towarzysz</text>
      <i18nText>companion</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{160b3adb-fd31-4176-9c5a-7f9d334223bb}</id>
      <foreignId>{668cf3d0-0f1e-4c58-803a-84b0ff37c591}</foreignId>
-     <text>adopt</text>
+     <text>adoptować</text>
      <i18nText>adopt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e40a6d42-95c4-4c83-827e-db1cc1e24564}</id>
      <foreignId>{4f585b0b-37cf-470b-93e1-6390046b170a}</foreignId>
-     <text>rodent</text>
+     <text>gryzoń</text>
      <i18nText>rodent</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ee29c45f-648b-4f17-b2cf-31c4e801dc5d}</id>
      <foreignId>{b0a79606-2b25-4f28-b108-1e10a36deeae}</foreignId>
-     <text>avian</text>
+     <text>ptak</text>
      <i18nText>avian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a9f36ad1-4b90-48fe-b5f0-774119e66c93}</id>
      <foreignId>{cc8d0351-9da6-42bf-905a-0bdae81a11cd}</foreignId>
-     <text>aquarium</text>
+     <text>akwarium</text>
      <i18nText>aquarium</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f2d511f0-4b9a-410a-adcd-27774d197c01}</id>
      <foreignId>{e8e00a23-409a-4030-be85-d90018d21c61}</foreignId>
-     <text>gerbils</text>
+     <text>myszoskoczki</text>
      <i18nText>gerbils</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8dc69bd8-a7a8-4d7d-99bb-62c37cc0c980}</id>
      <foreignId>{903eeb14-e304-4d12-813c-15fdf094577c}</foreignId>
-     <text>hamsters</text>
+     <text>chomiki</text>
      <i18nText>hamsters</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bb6f4674-bc28-4948-8731-bd4395717de0}</id>
      <foreignId>{9e9dcfd9-7813-4218-8e69-8ebee12f8e7c}</foreignId>
-     <text>chinchillas</text>
+     <text>szynszyle</text>
      <i18nText>chinchillas</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9b79af5b-ade3-458f-ad96-2d736e434a8b}</id>
      <foreignId>{f5b7ad46-7538-41cc-8883-ade2eec16d10}</foreignId>
-     <text>canaries</text>
+     <text>kanarki</text>
      <i18nText>canaries</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4434ae49-cb4c-43b5-a096-bfb2fbc405a7}</id>
      <foreignId>{dc48bd8b-4fb3-46d4-a9a3-01a1f9900fef}</foreignId>
-     <text>parakeets</text>
+     <text>papużki</text>
      <i18nText>parakeets</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2ff56f32-3f15-43fb-8c13-313b68159909}</id>
      <foreignId>{26948fe8-620e-4939-a6aa-a5424402b2fb}</foreignId>
-     <text>parrots</text>
+     <text>papugi</text>
      <i18nText>parrots</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5f92f670-97e3-47f8-adeb-fd071324ff7b}</id>
      <foreignId>{4e47aef6-6039-4b4f-b5a9-91c02b0974a9}</foreignId>
-     <text>turtles</text>
+     <text>żółwie</text>
      <i18nText>turtles</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bee5aa63-3f0d-4196-baaa-0cbd0cf5317c}</id>
      <foreignId>{441de0b2-8b23-4e12-be2a-fa3dc8794892}</foreignId>
-     <text>lizards</text>
+     <text>jaszczurki</text>
      <i18nText>lizards</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2bd4d524-e079-4f72-9a29-bf48f5ceffff}</id>
      <foreignId>{79f2a834-46e2-42f2-87e4-29f090f228ae}</foreignId>
-     <text>snakes</text>
+     <text>węże</text>
      <i18nText>snakes</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0096346d-9592-4f8f-aba9-90e100af5d47}</id>
      <foreignId>{b3a54aad-eab9-4d7f-8dcb-02c0c1e38150}</foreignId>
-     <text>fish</text>
+     <text>ryby</text>
      <i18nText>fish</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9ed8f19f-35e1-424a-ad31-6c752a5a342e}</id>
      <foreignId>{f1bfd3b2-83cb-4226-b2ca-f28c637a982a}</foreignId>
-     <text>frogs</text>
+     <text>żaby</text>
      <i18nText>frogs</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0753327e-4a7d-4e14-9c0a-72d8287180cf}</id>
      <foreignId>{cf842fb6-ffdd-4dd5-b22f-568ca65be521}</foreignId>
-     <text>arthropod</text>
+     <text>stawonogi</text>
      <i18nText>arthropod</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12169,137 +12169,137 @@
      <i18nText>tarantula</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d5f8421a-e446-4b01-a332-aa4e5472d7e0}</id>
      <foreignId>{9dbffee5-819f-4083-a15c-f2d8adae421f}</foreignId>
-     <text>equine</text>
+     <text>ssak koniowaty</text>
      <i18nText>equine</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{076eaa39-4f0f-4334-8e37-4c8d7e9c33e9}</id>
      <foreignId>{33232aa8-8358-4c14-8cc3-83ec1f41ad9d}</foreignId>
-     <text>rabbit</text>
+     <text>królik</text>
      <i18nText>rabbit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{65c4d8e2-0641-4e6e-9f7b-d4a9f8e392b5}</id>
      <foreignId>{ce99d8aa-3e3e-4134-a040-874976b10ff1}</foreignId>
-     <text>millipede</text>
+     <text>stonoga</text>
      <i18nText>millipede</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{123f42c4-da65-49cd-a671-ea98fa9bc5a5}</id>
      <foreignId>{a248e424-159f-4af3-b3e9-3bfc16ef3731}</foreignId>
-     <text>friend</text>
+     <text>przyjaciel</text>
      <i18nText>friend</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2add9a0c-dc33-43b5-b7ab-21f66b424e32}</id>
      <foreignId>{b3ffb883-1a07-4e1c-b429-18196c85f4f6}</foreignId>
-     <text>love</text>
+     <text>kochać</text>
      <i18nText>love</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{176d0ffb-594e-4bfc-8693-6806c1a0b58b}</id>
      <foreignId>{3712b08f-e33a-4ff2-83df-a80958c21585}</foreignId>
-     <text>care</text>
+     <text>opieka</text>
      <i18nText>care</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f1a4393e-7aa7-46f2-8e0a-4b17f97861f4}</id>
      <foreignId>{6e088abb-9e85-42c3-9478-63a2223dbbb4}</foreignId>
-     <text>protection</text>
+     <text>zabezpieczenie</text>
      <i18nText>protection</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d8321411-fa77-44d4-8e5b-84b203875600}</id>
      <foreignId>{3c097561-fab5-4b74-898d-bf5a363efb53}</foreignId>
-     <text>shelter</text>
+     <text>schronisko</text>
      <i18nText>shelter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cb175c1b-fde3-4902-b180-3295eb36e005}</id>
      <foreignId>{417f49ff-cb38-4f89-9fe1-cc2833963605}</foreignId>
-     <text>house</text>
+     <text>dom</text>
      <i18nText>house</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a5e8665a-3794-4654-8db7-1347260b17e3}</id>
      <foreignId>{c025082b-e2a0-4dda-af8a-d3600504242e}</foreignId>
-     <text>veterinarian</text>
+     <text>weterynarz</text>
      <i18nText>veterinarian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9f1483ea-a7e0-4486-b651-696cf4a80e54}</id>
      <foreignId>{85fff692-40bc-45f0-af04-7eb95ee9b8bd}</foreignId>
-     <text>disease</text>
+     <text>choroba</text>
      <i18nText>disease</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{de92725f-a6ed-4f55-870c-6e83c2cc768d}</id>
      <foreignId>{bdc6a92c-593d-49ef-95c0-e849e3d905ab}</foreignId>
-     <text>fur</text>
+     <text>futro</text>
      <i18nText>fur</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{937d4936-1bdc-49d2-b206-feb8b063d946}</id>
      <foreignId>{1f57915f-aa60-4aff-97fb-40fc59012722}</foreignId>
-     <text>tail</text>
+     <text>ogon</text>
      <i18nText>tail</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12309,117 +12309,117 @@
      <i18nText>spaniel</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9446879c-de1b-4873-9e36-dce7ec6c2c4b}</id>
      <foreignId>{fc6dde39-5dde-4138-a4e9-88c041fbab1c}</foreignId>
-     <text>bulldog</text>
+     <text>buldog</text>
      <i18nText>bulldog</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{986c0e09-46ab-4b77-a5df-de9fb660a8fe}</id>
      <foreignId>{d346e26b-0bce-4fee-9f41-b6a26e214831}</foreignId>
-     <text>aquatic pet</text>
+     <text>zwierzątko wodne</text>
      <i18nText>aquatic pet</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e0364e6a-788c-4dd8-9897-365d919eb0e5}</id>
      <foreignId>{0adec509-3070-4b8d-a0b9-6502df04a462}</foreignId>
-     <text>tropical fish</text>
+     <text>ryby tropikalne</text>
      <i18nText>tropical fish</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{aa45085a-07b3-42ce-831e-7e448b774c22}</id>
      <foreignId>{d5373204-d88a-4c86-93d3-cb8fa9b317ec}</foreignId>
-     <text>hermit crab</text>
+     <text>krab pustelnik</text>
      <i18nText>hermit crab</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cdea9156-439d-4ef0-8ed6-cd9fcabb45c5}</id>
      <foreignId>{db5e12c2-0afc-4e0c-8310-689632e8bfd6}</foreignId>
-     <text>stick insect</text>
+     <text>patyczak</text>
      <i18nText>stick insect</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{57e3279d-c0d7-4ec2-b95c-77eb047b5f21}</id>
      <foreignId>{4ad454e4-809e-4bdb-afa5-e95a311bb2e4}</foreignId>
-     <text>regular health checkups</text>
+     <text>regularnie sprawdzać zdrowie</text>
      <i18nText>regular health checkups</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c2266ebd-79bf-4d23-bbaf-bfd8d3bea748}</id>
      <foreignId>{d1f7c570-1c43-4593-9653-cdb82b9a2700}</foreignId>
-     <text>guinea pig</text>
+     <text>świnka morska</text>
      <i18nText>guinea pig</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{88a31361-6a8e-4e68-a09c-1ca2caa1755f}</id>
      <foreignId>{84779753-ecc7-4fb6-b9fc-2f859f48c34d}</foreignId>
-     <text>fancy rat</text>
+     <text>szczur ozdobny</text>
      <i18nText>fancy rat</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c444a12-8d5c-4d9e-8370-c019bb3130eb}</id>
      <foreignId>{d70782c3-017c-46ce-b47b-be35b15ddc04}</foreignId>
-     <text>breeds of dogs</text>
+     <text>rasy psów</text>
      <i18nText>breeds of dogs</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3e78735b-c9ae-40df-9919-5b26afcdcea6}</id>
      <foreignId>{bf4d95bc-e8b4-4ed3-b40a-8b198a5b990a}</foreignId>
-     <text>german shepherd</text>
+     <text>owczarek niemiecki</text>
      <i18nText>german shepherd</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0d10cf47-c19b-41b2-b1ea-80d3f712a13c}</id>
      <foreignId>{0573566f-847d-4fa6-b902-4ad7255ed910}</foreignId>
-     <text>black russian terrier</text>
+     <text>czarny russian terrier</text>
      <i18nText>black russian terrier</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12429,317 +12429,317 @@
      <i18nText>chow chow</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{39b11584-5a08-40f3-87f5-62c40cb59f5b}</id>
      <foreignId>{64172dca-d896-4386-9052-9396086ba053}</foreignId>
-     <text>cute little puppies</text>
+     <text>słodkie małe szczeniaki</text>
      <i18nText>cute little puppies</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5aee4b89-7629-471e-ada3-826e8d2f06eb}</id>
      <foreignId>{1f41fb5f-9eed-4fdb-988f-855c1da3dc99}</foreignId>
-     <text>go for a walk</text>
+     <text>iść na spacer</text>
      <i18nText>go for a walk</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4d9dd4c0-a3fd-4403-991f-7f2d51f6a918}</id>
      <foreignId>{ded7fc23-1b01-4959-87e2-c09b3ca13936}</foreignId>
-     <text>feed the cats</text>
+     <text>karmić koty</text>
      <i18nText>feed the cats</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8724dacb-a57d-49fd-938e-7ee0cd113bc1}</id>
      <foreignId>{c7fec4c3-ea65-4b83-842e-da1f60454999}</foreignId>
-     <text>fight loneliness</text>
+     <text>walczyć z samotnością</text>
      <i18nText>fight loneliness</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e6c352bb-8992-46fa-9ed8-a3e347e6c636}</id>
      <foreignId>{f4eb5447-f44a-426f-817b-ceb1a4791caa}</foreignId>
-     <text>furry friend</text>
+     <text>włochaty przyjaciel</text>
      <i18nText>furry friend</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a256921c-68c4-4c0d-b88f-e409b2da0626}</id>
      <foreignId>{07c49776-3c63-488f-a81e-bf60d97e6fab}</foreignId>
-     <text>feel happy</text>
+     <text>być szczęśliwym</text>
      <i18nText>feel happy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bc7bb63b-7fe5-4d21-b5f2-182d87965fe0}</id>
      <foreignId>{50ccf5fe-ccb9-46a7-8e34-b537699c2aff}</foreignId>
-     <text>yellow labrador retriever</text>
+     <text>żółty labrador retriever</text>
      <i18nText>yellow labrador retriever</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1b0d4ff7-bc12-45de-900a-bb5f5dd1380b}</id>
      <foreignId>{2b22ff78-53a0-4cc9-994e-b6f8f002edc8}</foreignId>
-     <text>play with</text>
+     <text>bawić się z</text>
      <i18nText>play with</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3172a5a5-b02b-458f-a64f-a4086dac147e}</id>
      <foreignId>{6d123bc2-b303-47f0-89e7-7f6ea9189833}</foreignId>
-     <text>talk to</text>
+     <text>mówić do</text>
      <i18nText>talk to</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{61fae4e8-cca1-4ddc-82ea-c0d52760a215}</id>
      <foreignId>{12c47607-c183-4ba6-8c76-881710d22df9}</foreignId>
-     <text>family member</text>
+     <text>członek rodziny</text>
      <i18nText>family member</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{884fd59f-5b7b-4211-a388-89a2e1275198}</id>
      <foreignId>{b75a3b38-04b8-456d-8d36-fb47b5864495}</foreignId>
-     <text>Dog is man's best friend.</text>
+     <text>Pies jest najlepszym przyjacielem człowieka.</text>
      <i18nText>Dog is man's best friend.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5c48c60f-a446-4b79-88cb-710d1ac24f63}</id>
      <foreignId>{7aee94c4-2835-4aa1-aefb-d5349fad3f9d}</foreignId>
-     <text>I need to take my dog for a walk now.</text>
+     <text>Muszę wyprowadzić mojego psa.</text>
      <i18nText>I need to take my dog for a walk now.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{68a1d525-938b-4a82-a27c-6ea9dc17b004}</id>
      <foreignId>{5daa81cb-bce9-497e-9fff-d396ba6929e1}</foreignId>
-     <text>Are pets allowed inside the supermarket?</text>
+     <text>Czy zwierzęta moga wchodzić do supermarketu?</text>
      <i18nText>Are pets allowed inside the supermarket?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9ff1e254-54b1-4275-9850-6ee4648a99eb}</id>
      <foreignId>{1a9660cc-3b37-4a1f-959d-3868ee88bc02}</foreignId>
-     <text>I take my cats to the vet every month.</text>
+     <text>Zabieram moje koty do weterynarza każdego miesiąca.</text>
      <i18nText>I take my cats to the vet every month.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2bf7d2a9-05be-40f0-9972-46cb346e1c1b}</id>
      <foreignId>{e4b8b08b-4fc6-4b03-b1b6-201185c59ef2}</foreignId>
-     <text>Where can I get dog food?</text>
+     <text>Gdzie mogę kupić jedzenie dla zwierząt?</text>
      <i18nText>Where can I get dog food?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{581ceb04-86d1-4679-a289-68ef6d5beba5}</id>
      <foreignId>{e493c854-e0ee-419b-8a77-e733c06d245b}</foreignId>
-     <text>My son recently got a pet iguana which he named Jamie.</text>
+     <text>Mój syn ostatnio dostał legwana, którego nazwał Jamie.</text>
      <i18nText>My son recently got a pet iguana which he named Jamie.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8980753c-ec05-4d01-9b05-45a5d39b3dea}</id>
      <foreignId>{f3b7e4b2-8dea-47ee-8870-cfbbb7733fd3}</foreignId>
-     <text>My dog won the local pet talent show this week.</text>
+     <text>Mój pies wygrał lokalny konkurs talentów w ostatnim tygodniu.</text>
      <i18nText>My dog won the local pet talent show this week.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2644ad87-ef0f-43db-8a86-8b3b897675b9}</id>
      <foreignId>{768ae8f5-35d9-4130-a663-c691d26d9835}</foreignId>
-     <text>Does that gorgeous golden retriever belong to you?</text>
+     <text>Czy ten wspaniały golden retriever jest twój?</text>
      <i18nText>Does that gorgeous golden retriever belong to you?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{66e84fc3-3e7e-4bc1-8d3e-2c0cb33f30d1}</id>
      <foreignId>{3a7d156c-af72-4230-b1aa-612e662b20b5}</foreignId>
-     <text>Pugs are one of the most popular pet dogs.</text>
+     <text>Mopsy są jednym z najbardziej popularnych zwierząt domowych.</text>
      <i18nText>Pugs are one of the most popular pet dogs.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b6cd2de9-c5f5-4f5f-988b-475cce0ec331}</id>
      <foreignId>{6a035e5b-84e7-4ed3-a913-d84ece8b1e32}</foreignId>
-     <text>Its my cat's first birthday today.</text>
+     <text>Dzisiaj mój kot ma swoje pierwsze urodziny.</text>
      <i18nText>Its my cat's first birthday today.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2d9b0ea8-586d-41b1-a7cd-9df8e3f26eaa}</id>
      <foreignId>{9a70d618-bf90-4a85-8100-1f15e7f92193}</foreignId>
-     <text>My dog is five years and eight months old.</text>
+     <text>Mój pies ma pięć lat i osiem miesięcy.</text>
      <i18nText>My dog is five years and eight months old.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89cedf70-237c-4173-962a-aad610b5fe79}</id>
      <foreignId>{4514bf50-9547-4465-a746-1bf984f77d0e}</foreignId>
-     <text>My grandmother gifted me these two lovely parakeets on my birthday this year.</text>
+     <text>Moja babcia podarowała mi te dwie piękne papużki na urodziny w tym roku.</text>
      <i18nText>My grandmother gifted me these two lovely parakeets on my birthday this year.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{592c091e-e9f6-4c9d-8bdd-a14536f422d5}</id>
      <foreignId>{5aab3f35-390e-415d-bc08-6f10e90740e7}</foreignId>
-     <text>Our neighbour's hamster went missing last night.</text>
+     <text>Chomik naszego sąsiada zaginął ostatniej nocy.</text>
      <i18nText>Our neighbour's hamster went missing last night.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{33f721ef-86a5-40af-b372-87449380b2dd}</id>
      <foreignId>{6e47e36d-96e0-4297-8a26-ec28b48a26b5}</foreignId>
-     <text>Mrs Wilson had a tough time dealing with her dog's sudden death.</text>
+     <text>Pan Wilson Ciężko zniósł nagłą śmieć swojego psa.</text>
      <i18nText>Mrs Wilson had a tough time dealing with her dog's sudden death.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ba47be7f-439a-42a7-aec3-2b0bc9b5facc}</id>
      <foreignId>{44c01401-d2d1-4bcb-9b96-2a87f1f007a7}</foreignId>
-     <text>I always wanted to have pet rabbits.</text>
+     <text>Zawsze chciałem mieć króliki.</text>
      <i18nText>I always wanted to have pet rabbits.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2af0f73e-5d58-4ce7-9df0-cf85d90511db}</id>
      <foreignId>{2f0ebad7-0e8e-4645-a917-6e9efab78fa3}</foreignId>
-     <text>My mother takes care of the kittens while I'm at work.</text>
+     <text>Moja mama opiekuje się kotkami jak ja jestem w pracy.</text>
      <i18nText>My mother takes care of the kittens while I'm at work.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{81911534-6bc0-47bb-83f4-830cc795c0ea}</id>
      <foreignId>{caf316c1-0c78-49fb-b9d9-e0cf25c5350f}</foreignId>
-     <text>After a lot of pestering, my father got me a cat last summer. She is absolutely adorable and her furry coat is as white as snow. So, we named her Snowball.</text>
+     <text>Po długim czasie namawiania tato w końcu kupił mi kotkę w ostatnie wakacje. Jest super i ma włochate futro białe jak śnieg. Nazwaliśmy ją Snieżynka.</text>
      <i18nText>After a lot of pestering, my father got me a cat last summer. She is absolutely adorable and her furry coat is as white as snow. So, we named her Snowball.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8bc3f059-7f82-4ecb-bb15-fa739bbede48}</id>
      <foreignId>{283e769b-7b7c-47e4-9798-17c73f066a4a}</foreignId>
-     <text>When I was six years old, I had a little dog named Jimmy. He was a very faithful dog to our family. He used to take care of me and my sister when we were little. My mother always trusted Jimmy because he never used to leave us alone or allow anyone to touch us while she was away.</text>
+     <text>Gdy miałem sześć lat miałem małego psa który nazywał się Jimmy. Był on bardzo wiernym psem. Opiekował się mną i moją siostra jak byliśmy mali. Moja mama zawsze ufała Jimm'iemu ponieważ nigdy nas nie zostawiał samych i nie pozwalał nikomu do nas podejść jak jej nie było w pobliżu.</text>
      <i18nText>When I was six years old, I had a little dog named Jimmy. He was a very faithful dog to our family. He used to take care of me and my sister when we were little. My mother always trusted Jimmy because he never used to leave us alone or allow anyone to touch us while she was away.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c7c53d5a-5824-440f-ab8e-76e8e27411e5}</id>
      <foreignId>{644769f9-1851-4d5e-bf11-e211f2ac1918}</foreignId>
-     <text>Pets have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past. Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.</text>
+     <text>Zwierzęta potrafią stymulować swoich opiekunów, w szczególności ludzi starszych, dając im kogoś kim się mogą opiekować, z kim mogą ćwiczyć, i kogś kto pomaga im w leczeniu fizycznym i psychicznym. Posiadanie zwierzątka może pomódz człowiekowi osiągnąć cele zdrowotne, na przyklad obniżyć ciśnienie lub polepszyć zdrowie psychiczne przykładowo obinżając stres.</text>
      <i18nText>Pets have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past. Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4072c8c3-5bfa-425b-9c22-2a7a988fb184}</id>
      <foreignId>{9f2a289a-ea4f-4999-8879-6b17c9595599}</foreignId>
-     <text>Snakes are among the most fascinating animals to keep as pets, and with a wide variety of species to choose from, snake lovers may have a tough time keeping just one type. Though ferocious predators, most snakes can become docile and even friendly with enough handling and good care.</text>
+     <text>Węże to jedno z najbardziej fascynujących zwierząt domowych i do wyboru jest wiele gatunków. Dlatego wężowym maniakom trudno jest ograniczyć sie tylko do jednego gatunku. Wężę pomimo, że są okrutnymi predatorami moga stać się posłuszne i nawet przyjacieskie jeśli się ktoś nimi dobrze opiekuje.</text>
      <i18nText>Snakes are among the most fascinating animals to keep as pets, and with a wide variety of species to choose from, snake lovers may have a tough time keeping just one type. Though ferocious predators, most snakes can become docile and even friendly with enough handling and good care.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b15855ea-211d-40f5-9792-ca4e139b1c0e}</id>
      <foreignId>{81f52b41-ab44-463d-9934-a7f997ed6381}</foreignId>
-     <text>One of the health risks that is associated with pets is falling injuries. Tripping over pets, especially dogs, causes more than 86,000 falls serious enough to prompt a trip to the emergency room each year in the United States. Among elderly and disabled people, these falls have resulted in life-threatening injuries and broken bones.</text>
+     <text>Jednym z zagrożeń związanych z posiadaniem zwierząt są upadki. Potykanie się o zwierzęta, w szczególności psy, jest przyczyną ponad osiemdziesięciu sześciu tysięcy poważnych wizyt na pogotowiu. Wśród osób starszych i niepełnosprawnych niektóre z tych wypadków były przyczyną złamania kości lub zagrażały życiu.</text>
      <i18nText>One of the health risks that is associated with pets is falling injuries. Tripping over pets, especially dogs, causes more than 86,000 falls serious enough to prompt a trip to the emergency room each year in the United States. Among elderly and disabled people, these falls have resulted in life-threatening injuries and broken bones.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
