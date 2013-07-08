@@ -3532,702 +3532,1563 @@
     <phrase>
      <id>{f2a84120-921a-4d48-8f36-2cbdce1a0755}</id>
      <foreignId>{b0ad1fd6-e767-4653-8283-64cd3fe2b391}</foreignId>
-     <text>volleyball</text>
+     <text>ভলিবল</text>
      <i18nText>volleyball</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{630f75aa-62d9-4ee0-aebb-443d11906630}</id>
      <foreignId>{f5a6aac6-2af2-454a-af4e-f2f196a0e3ee}</foreignId>
-     <text>football</text>
+     <text>ফুটবল</text>
      <i18nText>football</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{72292ad3-f84c-42fe-a8f8-d45e835ea7f6}</id>
      <foreignId>{b86133c9-610b-48a3-890c-191e1b9381b8}</foreignId>
-     <text>basketball</text>
+     <text>বাস্কেটবল</text>
      <i18nText>basketball</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5e9b2da3-1b5c-4cab-92d0-2445e3831759}</id>
      <foreignId>{49f57de6-c935-4e91-bff6-b54b4a3ba716}</foreignId>
-     <text>tennis</text>
+     <text>টেনিস</text>
      <i18nText>tennis</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>s</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{29d0c47b-1184-4850-b694-cf634826c906}</id>
      <foreignId>{4754b1fc-dc0f-43e9-8871-1e823a00ece4}</foreignId>
-     <text>karate</text>
+     <text>কারাতে</text>
      <i18nText>karate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{2569614f-d28f-444d-b355-d1199f2bfd96}</id>
      <foreignId>{3f03356b-d8a1-4415-a290-13cfb28fb58b}</foreignId>
-     <text>squash</text>
+     <text>স্কোয়াশ</text>
      <i18nText>squash</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{18023c8f-0852-447e-9793-78d9a39a2ac3}</id>
      <foreignId>{8e81d815-2754-4d25-a296-6d4e1d8e5b85}</foreignId>
-     <text>athletics</text>
+     <text>খেলাধূলা</text>
      <i18nText>athletics</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b16b5953-3a02-47d0-baf5-f594ff29fc08}</id>
      <foreignId>{bcb3b2af-f897-4223-b6e6-6bb6da0b72a9}</foreignId>
-     <text>swimming</text>
+     <text>সাঁতার</text>
      <i18nText>swimming</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{35295d47-da93-4203-9927-ded081843d3b}</id>
      <foreignId>{da3cca9e-4d87-4790-9f1c-abfaeef2ed99}</foreignId>
-     <text>hockey</text>
+     <text>হকিখেলা</text>
      <i18nText>hockey</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c730bbb9-4558-45e2-90aa-73f9c1202fe1}</id>
      <foreignId>{c6d05914-189d-4a83-ac58-6ba705420ab1}</foreignId>
-     <text>rugby</text>
+     <text>রাগবি</text>
      <i18nText>rugby</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f55d1c43-35a0-40f5-a6f5-35d5ffd4cdf0}</id>
      <foreignId>{75c9d101-0e32-40aa-9f89-b00277713458}</foreignId>
-     <text>skiing</text>
+     <text>স্কিইং</text>
      <i18nText>skiing</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b6aeef62-bee5-4c6e-bd12-6b408d155cd6}</id>
      <foreignId>{50c0411a-153b-4106-8c31-a84ebf09efe6}</foreignId>
-     <text>snowboarding</text>
+     <text>স্নোবোর্ডিং</text>
      <i18nText>snowboarding</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{fb6c5f35-c16f-44ca-b36d-584078198cbb}</id>
      <foreignId>{77c3c5ae-7366-425a-8ad0-7d13d4963adf}</foreignId>
-     <text>fitness</text>
+     <text>কর্মক্ষমতা</text>
      <i18nText>fitness</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8482da3a-e20c-4529-9f09-9d8f65dbad8b}</id>
      <foreignId>{d5c92520-4251-4ba2-bba6-1ba49165b160}</foreignId>
-     <text>opponent</text>
+     <text>প্রতিদ্বন্দ্বী</text>
      <i18nText>opponent</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9cd91e39-39be-452c-8cf4-af045c450aa0}</id>
      <foreignId>{eb51a170-01ac-4dbe-b2c8-7338995128c6}</foreignId>
-     <text>record</text>
+     <text>নথি</text>
      <i18nText>record</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7d2911f2-98fa-4824-8a60-038256e83b79}</id>
      <foreignId>{a84f81ac-fd16-4bea-913c-a4f0ceb2908a}</foreignId>
-     <text>spectator</text>
+     <text>দর্শক</text>
      <i18nText>spectator</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9d53a8ff-0ed6-4666-9d0c-4b80d5523655}</id>
      <foreignId>{80e12978-fefc-462d-ac97-80a3ee7b03dc}</foreignId>
-     <text>stadium</text>
+     <text>স্টেডিয়াম</text>
      <i18nText>stadium</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{018b5e44-5f20-41ec-ad4a-b44d38faf7b6}</id>
      <foreignId>{0a0419bd-8408-4467-a36c-da04144664a7}</foreignId>
-     <text>score</text>
+     <text>স্কোর</text>
      <i18nText>score</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ae697ff9-3d36-426c-b3db-ae42d4685acb}</id>
      <foreignId>{590c37a6-6674-4b70-90a9-aaa3841a660c}</foreignId>
-     <text>referee</text>
+     <text>রেফারি</text>
      <i18nText>referee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4d94e49d-fe64-4aa3-b30d-41bdf5f447ef}</id>
      <foreignId>{db779dea-1cb4-4693-a59c-f3cde5585ce7}</foreignId>
-     <text>pitch</text>
+     <text>পিচ</text>
      <i18nText>pitch</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>c</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{06e78362-71d3-47fe-99e2-0e706d4301d8}</id>
      <foreignId>{a41476b7-58f5-4504-9bd4-febeebf74040}</foreignId>
-     <text>coach</text>
+     <text>কোচ</text>
      <i18nText>coach</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>c</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{36dd5a73-9424-406c-bc53-8022d018f2df}</id>
      <foreignId>{b35a79e3-d6c6-40cd-a483-a836441874a4}</foreignId>
-     <text>athlete</text>
+     <text>ক্রীড়াবিদ</text>
      <i18nText>athlete</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{57c3d060-afde-4235-adf5-3ebcd6bd05d3}</id>
      <foreignId>{fd6a1c16-d676-4d30-a0d0-6e46550e888d}</foreignId>
-     <text>cycling</text>
+     <text>সাইক্লিং</text>
      <i18nText>cycling</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a9e27bc7-8ef6-496a-84c8-0d76129caff0}</id>
      <foreignId>{7f60b129-c130-4b41-a584-ee16031ca4bf}</foreignId>
-     <text>boxing</text>
+     <text>বক্সিং</text>
      <i18nText>boxing</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6c8d68bf-0d60-4296-8bd0-c23c8234cb0b}</id>
      <foreignId>{8e46076f-85b9-4782-bd2c-521ae488fc73}</foreignId>
-     <text>winter sports</text>
+     <text>শীতকালীন খেলা</text>
      <i18nText>winter sports</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7d14b71a-c9f5-49ec-89d9-05654c4735a8}</id>
      <foreignId>{5d041d55-48fe-469c-8ce7-b0821bc4d85a}</foreignId>
-     <text>Olympic Games</text>
+     <text>অলিম্পিক ক্রীড়ানুষ্ঠান</text>
      <i18nText>Olympic Games</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>th</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e042fbec-b838-4153-87db-8a101dc863d8}</id>
      <foreignId>{1239190b-8685-42d6-9b40-d8408783e559}</foreignId>
-     <text>sports fun</text>
+     <text>খেলার মজা</text>
      <i18nText>sports fun</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{dc458d0f-8498-4c0c-9411-48ec22f63ec2}</id>
      <foreignId>{7be6d279-52aa-4173-a704-a5e6f9d0121f}</foreignId>
-     <text>play basketball</text>
+     <text>বাস্কেটবল খেলা</text>
      <i18nText>play basketball</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8d29b3da-aeb5-4c24-b7a8-05fb2928ad9a}</id>
      <foreignId>{02aeb29b-933b-46b8-a04a-8d0e42a81c8d}</foreignId>
-     <text>tennis court</text>
+     <text>টেনিস কোর্ট</text>
      <i18nText>tennis court</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1cf03540-725d-4c25-8645-6ca11c323457}</id>
      <foreignId>{00f4b510-b27f-4dd3-8ddd-0d7ac8cbab16}</foreignId>
-     <text>football field</text>
+     <text>ফুটবল মাঠ</text>
      <i18nText>football field</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>th</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{734a3ce9-e982-4d80-a12a-51f291c1ffd9}</id>
      <foreignId>{0e3679e7-e2ac-4dec-93fa-aa066b42f532}</foreignId>
-     <text>do jogging</text>
+     <text>জগিং করা</text>
      <i18nText>do jogging</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{43721ab7-d4c0-45e4-aca4-f3205b7145a0}</id>
      <foreignId>{b062ce57-98fa-4643-b335-33f3de03c2d1}</foreignId>
-     <text>ride a bike</text>
+     <text>মোটর সাইকেল চালানো</text>
      <i18nText>ride a bike</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f39f15c5-450f-4a72-a469-8d90fc788099}</id>
      <foreignId>{80fef4e7-36fa-49d9-b01e-527e2ae44b8f}</foreignId>
-     <text>beach volleyball</text>
+     <text>বীচ ভলিবল</text>
      <i18nText>beach volleyball</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{22a89a91-d22b-4bf1-8310-a8544e2bff59}</id>
      <foreignId>{7507bde1-5f41-4836-baea-db108477def1}</foreignId>
-     <text>Australian rules football</text>
+     <text>অস্ট্রেলিয়ান রুলস ফুটবল</text>
      <i18nText>Australian rules football</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>b</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9a538df0-b882-4df9-90cf-589dadddd4e6}</id>
      <foreignId>{4b9b8449-ae55-4e47-8969-ae91983d1650}</foreignId>
-     <text>rugby match</text>
+     <text>রাগবি ম্যাচ</text>
      <i18nText>rugby match</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>c</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3880fb21-4454-4a16-8165-15b1e430b6a3}</id>
      <foreignId>{506cfec9-6489-4bf4-8e9e-c655a49b1447}</foreignId>
-     <text>martial arts</text>
+     <text>মার্শাল আর্ট</text>
      <i18nText>martial arts</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{fb7de1bb-de53-4a39-be38-cdc1f4df1946}</id>
      <foreignId>{4a6f39cc-aa7a-4047-94d0-c783d2e4358c}</foreignId>
-     <text>golf club</text>
+     <text>গলফ ক্লাব</text>
      <i18nText>golf club</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>b</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0531a81a-2ad5-40d6-b742-f652ef51f05a}</id>
      <foreignId>{da93b103-6a30-4eb9-9070-9b96fd4e8cb0}</foreignId>
-     <text>horse racing event</text>
+     <text>ঘোড়দৌড় ইভেন্ট</text>
      <i18nText>horse racing event</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>gh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>ɔu</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{367dc037-8d3b-4934-8eac-17a2a45c7bf3}</id>
      <foreignId>{b977ff67-7f24-43a5-9fb7-5a7aac60e286}</foreignId>
-     <text>competitive player</text>
+     <text>প্রতিযোগিতামূলক খেলোয়াড়</text>
      <i18nText>competitive player</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{de9cfbaa-c159-4163-8845-33495e3d45e3}</id>
      <foreignId>{f7f97587-e141-4f32-9b50-20929ae4efec}</foreignId>
-     <text>national sport</text>
+     <text>জাতীয় খেলা</text>
      <i18nText>national sport</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>io</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{273e123e-7f88-45f9-bde4-284ce69e17ba}</id>
      <foreignId>{d8133ce4-14a8-4d82-9241-af0718f05d4b}</foreignId>
-     <text>outdoor sport</text>
+     <text>বহিরঙ্গন ক্রীড়া</text>
      <i18nText>outdoor sport</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c0ee722b-0df3-43fc-bbce-97f8a14b1582}</id>
      <foreignId>{6e3becd5-d8eb-46d9-b6fa-a9ce364a8b84}</foreignId>
-     <text>be fit</text>
+     <text>সুস্থ থাকা</text>
      <i18nText>be fit</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c5eb8080-8dc5-4acc-a39a-125116e2b796}</id>
      <foreignId>{14a12df4-c6e6-4b80-a9ab-c042e7ce7d7f}</foreignId>
-     <text>aerobic exercise</text>
+     <text>এরোবিক ব্যায়াম</text>
      <i18nText>aerobic exercise</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b465e55b-fe87-408b-ac21-710696f53942}</id>
      <foreignId>{d0b3978e-f7e3-4233-acb2-a1e7df110e84}</foreignId>
-     <text>healthy weight</text>
+     <text>স্বাস্থ্যকর ওজন</text>
      <i18nText>healthy weight</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e0683973-4182-4887-8db4-4508b42de3fb}</id>
      <foreignId>{0e5f8f40-5329-45e0-a191-63e745927919}</foreignId>
-     <text>team sport</text>
+     <text>দল ভিত্তিক খেলা</text>
      <i18nText>team sport</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{95cf38aa-aeb3-45a2-b36f-163e2c3b478a}</id>
      <foreignId>{4dce30f2-5298-477a-8468-e3b36ca6e354}</foreignId>
-     <text>I play tennis twice a week.</text>
+     <text>আমি সপ্তাহে দুদিন টেনিস খেলি।</text>
      <i18nText>I play tennis twice a week.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a37e3ef6-c921-44a3-8124-1f964c0429f5}</id>
      <foreignId>{82669d0f-31ff-4bf8-85db-ac1fe0be0a8c}</foreignId>
-     <text>What sports do you like?</text>
+     <text>আপনি কি খেলা পছন্দ করেন?</text>
      <i18nText>What sports do you like?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b845f567-469e-4235-8180-54c5952f4f33}</id>
      <foreignId>{b1dd77b4-636e-4cf3-b5ea-3549e62fd829}</foreignId>
-     <text>Last night we went to a live basketball game.</text>
+     <text>গত রাতে আমরা একটি লাইভ বাস্কেটবল খেলা দেখতে গিয়েছিলাম।</text>
      <i18nText>Last night we went to a live basketball game.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>ie</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6feb3e58-9ab4-4036-8a55-0b8603791ee0}</id>
      <foreignId>{ad8c4d73-1f0a-4e1c-a601-957840786770}</foreignId>
-     <text>My grandfather was university boxing champion.</text>
+     <text>আমার দাদু বিশ্ববিদ্যালয়ের বক্সিং চ্যাম্পিয়ন ছিলেন।</text>
      <i18nText>My grandfather was university boxing champion.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{21fcb9d9-8afd-4c2c-81c9-e717c4978562}</id>
      <foreignId>{bc4f163c-bd0f-421a-b1f4-ed50baced348}</foreignId>
-     <text>The Philadelphia Marathon is a popular athletic event.</text>
+     <text>ফিলাডেলফিয়া ম্যারাথন একটি জনপ্রিয় ক্রীড়াবিষয়ক ইভেন্ট।</text>
      <i18nText>The Philadelphia Marathon is a popular athletic event.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>io</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>bh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{777a52d8-ce7c-4d80-bf21-3d5ed947ded7}</id>
      <foreignId>{431526fb-25bc-434b-91a4-698b5e218d6b}</foreignId>
-     <text>Some people consider martial arts to be dangerous.</text>
+     <text>কিছু মানুষ মার্শাল আর্টকে বিপজ্জনক বলে মনে করেন।</text>
      <i18nText>Some people consider martial arts to be dangerous.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{bd70ee48-30e3-400c-98d1-b7519ed00b71}</id>
      <foreignId>{4c5cef55-e0d6-4e98-8a38-5d941a66dc0f}</foreignId>
-     <text>Do you like watching football on TV?</text>
+     <text>আপনি টিভিতে ফুটবল দেখতে পছন্দ করেন কি?</text>
      <i18nText>Do you like watching football on TV?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{34a3f914-914c-4146-ba5c-e528b2380676}</id>
      <foreignId>{e9d451ab-9ccd-4152-8aaa-9376b4e54763}</foreignId>
-     <text>People often take up swimming to improve their fitness.</text>
+     <text>সুস্থ থাকতে প্রায়শ মানুষ সাঁতার কেটে থাকে।</text>
      <i18nText>People often take up swimming to improve their fitness.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c682607e-77f3-45fe-b451-a7ed2a0e7c06}</id>
      <foreignId>{c9c402ad-9f57-41c6-8842-9c4867a3e17a}</foreignId>
-     <text>Darts is a popular pub game.</text>
+     <text>ডার্ট একটি জনপ্রিয় পাব গেম।</text>
      <i18nText>Darts is a popular pub game.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>io</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>m</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{90edeb6d-c3ff-457f-94a4-94befbaf099a}</id>
      <foreignId>{aaa6c5cc-0e72-4b15-abc4-c4d003bad926}</foreignId>
-     <text>Do you think this team will go to the finals?</text>
+     <text>আপনার মতে এই দলটি কি ফাইনাল অবধি পৌঁছবে?</text>
      <i18nText>Do you think this team will go to the finals?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>ɔu</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{eaed9a07-ef21-4aa2-ad37-6a74a6203507}</id>
      <foreignId>{9897c4f3-a2e9-4a21-9f53-828585a5a914}</foreignId>
-     <text>London hosted 2012 Olympic Games.</text>
+     <text>২০১২-র অলিম্পিক ক্রীড়ানুষ্ঠান লন্ডনে আয়োজিত হয়েছিল।</text>
      <i18nText>London hosted 2012 Olympic Games.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>th</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9765376f-3717-4ed5-8a6d-8142ad7d4a1f}</id>
      <foreignId>{a7b4f177-3daa-48a5-8cbe-523e8c28a4d0}</foreignId>
-     <text>Chess is a sport that requires skills and intelligence.</text>
+     <text>দাবা এমন একটি খেলা যেটি খেলতে দক্ষতা এবং বুদ্ধিমত্তা থাকা প্রয়োজন।</text>
      <i18nText>Chess is a sport that requires skills and intelligence.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{2dfd3a7b-7a3e-45de-beb1-60b83330ae26}</id>
      <foreignId>{85e28aaa-bf38-49be-8fa9-6c6ecfb8f2cc}</foreignId>
-     <text>Basketball is a team sport that was invented in USA.</text>
+     <text>বাস্কেটবল একটি দল ভিত্তিক খেলা যেটি মার্কিন যুক্তরাষ্ট্রে উদ্ভাবিত।</text>
      <i18nText>Basketball is a team sport that was invented in USA.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8b15be40-2f7d-4707-8a77-153307f06372}</id>
      <foreignId>{e6ef007f-47ff-4fc4-b7a0-ea356bad5c59}</foreignId>
-     <text>Many families take their children and go ice skating in the evenings.</text>
+     <text>বহু পরিবার তাদের সন্তানদের নিয়ে বিকেলে আইস স্কেটিং করতে যান।</text>
      <i18nText>Many families take their children and go ice skating in the evenings.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>ie</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5633b2de-a695-4320-b012-2422bca31829}</id>
      <foreignId>{3717bd9a-f51f-4b4f-8cef-d17d588ca2a7}</foreignId>
-     <text>Baseball is very popular in United States.</text>
+     <text>বেসবল মার্কিন যুক্তরাষ্ট্রে অত্যন্ত জনপ্রিয়।</text>
      <i18nText>Baseball is very popular in United States.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>io</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{310fd896-bc9d-405c-b172-3eccfc5fca79}</id>
      <foreignId>{f0adfacc-4566-4d29-8a77-6a8830f3538e}</foreignId>
-     <text>He did not pass the ball to the other player.</text>
+     <text>সে বলটা অন্য খেলোয়াড়টিকে পাস করেনি।</text>
      <i18nText>He did not pass the ball to the other player.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>s</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ed9a818a-7d00-4a69-818e-eae095edb9a2}</id>
      <foreignId>{fa039182-42e9-4ec2-ab58-387707689fdb}</foreignId>
-     <text>Today we are going to win.</text>
+     <text>আজকে আমরা জিতব।</text>
      <i18nText>Today we are going to win.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c9d413f8-121e-4feb-bfcc-eae948d6beb9}</id>
      <foreignId>{33073916-636d-48d7-9e82-9ddb7ab2e66a}</foreignId>
-     <text>This is the best football magazine.</text>
+     <text>এটি সেরা ফুটবল পত্রিকা।</text>
      <i18nText>This is the best football magazine.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ffb596f7-3d14-4ad1-8bf4-4578003665cd}</id>
      <foreignId>{ada0b7be-ba0d-44a5-9b4b-e99456fd8bc7}</foreignId>
-     <text>Paula's father reads sports news everyday.</text>
+     <text>পওলার বাবা প্রতিদিন খেলার খবর পড়েন।</text>
      <i18nText>Paula's father reads sports news everyday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{25fd7565-b72c-4c6f-a8e0-d584c600f411}</id>
      <foreignId>{b6369b8b-17df-478b-af81-b7f0edabd3cd}</foreignId>
-     <text>Let's celebrate the victory.</text>
+     <text>আমাদের বিজয় উদযাপন করা যাক।</text>
      <i18nText>Let's celebrate the victory.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f7c267a7-6771-4db2-82a5-3d96de0d3503}</id>
      <foreignId>{93b45a67-97b7-47f3-b331-c01b7c57c153}</foreignId>
-     <text>My father goes jogging every day. He is very fit.</text>
+     <text>আমার বাবা প্রতিদিন জগিং করতে যান। তিনি খুবই স্বাস্থ্যবান।</text>
      <i18nText>My father goes jogging every day. He is very fit.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>ɔu</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{59c0d608-8371-47d4-9da5-8e356931cfb2}</id>
      <foreignId>{6df53553-810b-44ff-a722-a01728b5c6e7}</foreignId>
-     <text>I like to play sports. My favourite is badminton.</text>
+     <text>আমি খেলতে পছন্দ করি। ব্যাডমিন্টন আমার প্রিয় খেলা।</text>
      <i18nText>I like to play sports. My favourite is badminton.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>io</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ec89506c-a2ff-4ec2-8072-4b77943494bd}</id>
      <foreignId>{8867d861-0e56-4f93-8bb2-d58f76f5353c}</foreignId>
-     <text>Ian Thorpe is a famous Australian swimmer. He has won three gold medals in Sydney Summer Olympic Games.</text>
+     <text>ইয়ান থর্প একজন বিখ্যাত অস্ট্রেলিয়ান সাঁতারু। তিনি সিডনি সামার অলিম্পিক গেমসে তিনটি স্বর্ণ পদক জিতেছেন।</text>
      <i18nText>Ian Thorpe is a famous Australian swimmer. He has won three gold medals in Sydney Summer Olympic Games.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8653405e-fce5-4e95-b687-8762e0981c2a}</id>
      <foreignId>{cdb98274-36af-406f-afcd-7f0ed3dddf2a}</foreignId>
-     <text>I have been thinking about exchanging our tennis tickets. Instead of going on Friday, we should go on Saturday. What do you think?</text>
+     <text>আমি ভাবছি টেনিস টিকিটগুলি পালটে নিই। আমাদের শুক্রবার যাওয়ার পরিবর্তে শনিবার যাওয়া উচিত। আপনি কি মনে করেন?</text>
      <i18nText>I have been thinking about exchanging our tennis tickets. Instead of going on Friday, we should go on Saturday. What do you think?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>o-half</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e334354b-e9dd-450a-ad16-2aa1effa4378}</id>
      <foreignId>{bca3de0e-252c-410a-bbad-88ecbb3f8fc1}</foreignId>
-     <text>In football game there are two teams playing. Each team consist of ten field players and a goalie.</text>
+     <text>ফুটবল খেলায় দুটি দল খেলে। প্রত্যেক দলে দশজন খেলোয়াড় এবং একজন গোলরক্ষক থাকে।</text>
      <i18nText>In football game there are two teams playing. Each team consist of ten field players and a goalie.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+     </phonemes>
     </phrase>
    </phrases>
   </unit>
