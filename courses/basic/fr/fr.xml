@@ -3288,146 +3288,146 @@
   <unit>
    <id>{4b89e668-3c2d-4a5f-962f-adae9c38b27f}</id>
    <foreignId>{6bef0e3f-7bc3-4b48-ac77-eeb86c04a458}</foreignId>
-   <title>Weather</title>
+   <title>Météo</title>
    <phrases>
     <phrase>
      <id>{5085488f-eb99-4d94-b67b-51099241e360}</id>
      <foreignId>{64e017d7-88cd-4f0a-92ba-94aa999bf208}</foreignId>
-     <text>thunderstorm</text>
+     <text>orage</text>
      <i18nText>thunderstorm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1a1fe128-e081-43e3-be85-08badec5e302}</id>
      <foreignId>{3fb5bc95-16a8-48e4-95f1-6fafa8cf9606}</foreignId>
-     <text>sunny</text>
+     <text>ensoleillé</text>
      <i18nText>sunny</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{69d4491f-4a5e-49d2-aabf-061b1af4483e}</id>
      <foreignId>{a8a8b5f5-cbd5-4be1-a8e0-b130ff34d0ce}</foreignId>
-     <text>weather</text>
+     <text>météo</text>
      <i18nText>weather</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8b8f75fb-9646-4aaa-9b2f-e565b9af7f82}</id>
      <foreignId>{dcc5c3f3-576b-49c2-b42d-b5e42531de59}</foreignId>
-     <text>rainy</text>
+     <text>pluvieux</text>
      <i18nText>rainy</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{40729f87-58d0-40a8-95c6-4cefde620a5f}</id>
      <foreignId>{0f6d42af-f878-4887-9c85-eb4fa5ab6fb9}</foreignId>
-     <text>windy</text>
+     <text>venteux</text>
      <i18nText>windy</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f88d302e-150b-47b3-afca-3ec54600d9f0}</id>
      <foreignId>{52137abe-6cb0-426b-8825-c7d6367d21c2}</foreignId>
-     <text>snow</text>
+     <text>neige</text>
      <i18nText>snow</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6391f184-df0d-4c49-8bb8-3dadedd2a6fe}</id>
      <foreignId>{3b71f855-e0c4-4e21-b604-8ad79de89773}</foreignId>
-     <text>temperature</text>
+     <text>température</text>
      <i18nText>temperature</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fdf81109-f054-4488-b14c-ce6a5152fb4d}</id>
      <foreignId>{e2e6e20b-a8e8-4a02-b5ff-da145fb03d07}</foreignId>
-     <text>cool</text>
+     <text>frais</text>
      <i18nText>cool</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4cd502c7-3687-4df6-81a9-76f5ae7317ce}</id>
      <foreignId>{aaf37294-bc1c-47ad-80f8-24baa44117d9}</foreignId>
-     <text>warm</text>
+     <text>chaud</text>
      <i18nText>warm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8bdc1c5b-6a07-4f56-aa9d-b32c9ecdfa7d}</id>
      <foreignId>{0df49aef-2874-4120-86e0-d1933279748a}</foreignId>
-     <text>flood</text>
+     <text>inondation</text>
      <i18nText>flood</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{57a296ef-a3b1-42cd-bc07-6a3b063407dd}</id>
      <foreignId>{57fd2370-d302-48c4-811b-c239d8748c5f}</foreignId>
-     <text>drought</text>
+     <text>sécheresse</text>
      <i18nText>drought</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b8fdd373-97a9-491f-8d68-668dce136bf4}</id>
      <foreignId>{74b3353d-3cc9-495d-96a2-b7caf34effe1}</foreignId>
-     <text>hail</text>
+     <text>grêle</text>
      <i18nText>hail</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77b6d4d5-5681-4710-9e6a-8b224f756fd5}</id>
      <foreignId>{cee4b96a-ed08-4c24-af7a-b61ed432f769}</foreignId>
-     <text>rainbow</text>
+     <text>arc en ciel</text>
      <i18nText>rainbow</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4d734cd9-f559-4b19-8cfe-ccfffd20662f}</id>
      <foreignId>{40985c4e-648e-4b28-8c1b-b11438ed9b59}</foreignId>
-     <text>earthquake</text>
+     <text>tremblement de terre</text>
      <i18nText>earthquake</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3437,67 +3437,67 @@
      <i18nText>cyclone</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{87bdc070-9efb-45b6-8a8e-b2d1470df593}</id>
      <foreignId>{d91e0877-bbd6-42a0-a4e4-aba5cd8adf26}</foreignId>
-     <text>climate</text>
+     <text>climat</text>
      <i18nText>climate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5331d0bc-a4a8-4222-83eb-dc68da8ed603}</id>
      <foreignId>{dab75a11-12ca-470d-85bd-41b455bd0f13}</foreignId>
-     <text>ice</text>
+     <text>verglas</text>
      <i18nText>ice</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c91d435e-1184-45bf-b7c5-217b32d3d3ce}</id>
      <foreignId>{25286749-936a-4b37-ab35-44f08ea5a973}</foreignId>
-     <text>summer</text>
+     <text>été</text>
      <i18nText>summer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{541f68f3-da49-4ef1-b0d2-c165375d957d}</id>
      <foreignId>{924330a4-be39-48a9-9855-5497c2284965}</foreignId>
-     <text>winter</text>
+     <text>hiver</text>
      <i18nText>winter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{04a1e2f5-7b5a-4fbd-8e8b-d31abb8e8eb8}</id>
      <foreignId>{e5d41765-9299-4be3-9974-54cd85db4ca1}</foreignId>
-     <text>spring</text>
+     <text>printemps</text>
      <i18nText>spring</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0343f362-eb0d-4211-9992-9f0bafcc8dd3}</id>
      <foreignId>{2dc79256-0882-46c3-b801-511a28df022f}</foreignId>
-     <text>autumn</text>
+     <text>automne</text>
      <i18nText>autumn</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3507,37 +3507,37 @@
      <i18nText>tsunami</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9f42fd45-87ee-44ed-aa00-70469ffe06b3}</id>
      <foreignId>{cd3e98e3-ffa1-4b3a-8369-22951b8ca08e}</foreignId>
-     <text>sunrise</text>
+     <text>lever du soleil</text>
      <i18nText>sunrise</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d9c90789-fb43-409e-9cd1-b77ab0220962}</id>
      <foreignId>{23febf80-6508-4069-b9af-8f92ce733b33}</foreignId>
-     <text>humid</text>
+     <text>humide</text>
      <i18nText>humid</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{66ca5216-9668-4d8d-8367-afc35923ebe1}</id>
      <foreignId>{4c51b96e-e6d6-41e0-ad71-b17f8cc3a9da}</foreignId>
-     <text>meteorology</text>
+     <text>météorologie</text>
      <i18nText>meteorology</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3547,243 +3547,243 @@
      <i18nText>jungle</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{18d89597-ec00-463d-8ba9-5950883e2bd0}</id>
      <foreignId>{9243d51f-43ae-43a3-94e4-bfd08d76cd65}</foreignId>
-     <text>degrees Celsius</text>
+     <text>degrés Celsius</text>
      <i18nText>degrees Celsius</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3ce1fb1c-3ae5-42cd-a5f4-107c2d91efe5}</id>
      <foreignId>{c92a8688-5d39-4e86-bccb-1051b0fd64f6}</foreignId>
-     <text>degrees Fahrenheit</text>
+     <text>degrés Fahrenheit</text>
      <i18nText>degrees Fahrenheit</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b6dacf03-3f63-4b2d-9cee-1fc96d3ca27d}</id>
      <foreignId>{8a26b497-b97a-4ac3-8fbf-d7fe3eef692a}</foreignId>
-     <text>heavy rain</text>
+     <text>pluie battante</text>
      <i18nText>heavy rain</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bcdae2aa-d19c-45e8-b63b-244f534ea4fa}</id>
      <foreignId>{075f4420-6448-4dfd-9d8c-bc9f9c8dad01}</foreignId>
-     <text>clear sky</text>
+     <text>ciel clair</text>
      <i18nText>clear sky</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fab1fd6d-e6c7-4101-a9a9-df0026838e27}</id>
      <foreignId>{752428d8-b71f-4f2a-82bc-29a80ed450fa}</foreignId>
-     <text>water temperature</text>
+     <text>température de l'eau</text>
      <i18nText>water temperature</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{00bf98ea-11fc-4255-a749-7d905cfa1ef1}</id>
      <foreignId>{f38c8194-feb4-41dc-9af4-4e591df5f994}</foreignId>
-     <text>freezing cold</text>
+     <text>froid glacial</text>
      <i18nText>freezing cold</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9246eb25-9bbf-40e0-b0d2-6acbf6e7903d}</id>
      <foreignId>{a3760564-e07c-42fa-8f42-e50144cd68cf}</foreignId>
-     <text>partly cloudy</text>
+     <text>partiellement nuageux</text>
      <i18nText>partly cloudy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{aaeca85d-5035-482e-bf56-e000fe5b8dc9}</id>
      <foreignId>{560a5abd-3869-47fc-b594-1003af104da7}</foreignId>
-     <text>air pressure</text>
+     <text>pression d'air</text>
      <i18nText>air pressure</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f96d3188-f5c9-474b-b1f2-2b957a656cb2}</id>
      <foreignId>{dca2806c-5604-4f97-a76d-0679ebf318f0}</foreignId>
-     <text>global warming</text>
+     <text>le réchauffement climatique</text>
      <i18nText>global warming</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dbda23d2-e30f-4ce1-9ce3-bad4b390d768}</id>
      <foreignId>{db835d85-86f7-4fea-8ebc-964b85e8a930}</foreignId>
-     <text>winter season</text>
+     <text>saison d'hiver</text>
      <i18nText>winter season</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c16e055d-27f2-4f33-9ec8-dac9460f4acf}</id>
      <foreignId>{1b21362a-d75f-4d81-b8f5-d605b2a430bb}</foreignId>
-     <text>tropical storm</text>
+     <text>tempête tropicale</text>
      <i18nText>tropical storm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0dfd8ea0-ede3-47d9-b6e1-d1a68d0ae34e}</id>
      <foreignId>{b7a6905f-8661-4ccd-a9df-b706c3fbd3e6}</foreignId>
-     <text>heat wave</text>
+     <text>vague de chaleur</text>
      <i18nText>heat wave</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eb843724-295f-4ab7-b289-0536e74f5bef}</id>
      <foreignId>{7cda5919-dbe3-4387-bdc9-5ca8a33e9049}</foreignId>
-     <text>sunny day</text>
+     <text>journée ensoleillée</text>
      <i18nText>sunny day</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{514498f5-f816-4bc8-bbc8-4d3bd1c24233}</id>
      <foreignId>{c171361b-7f1f-41d8-8419-43071b6e080d}</foreignId>
-     <text>coastal area</text>
+     <text>zone côtière</text>
      <i18nText>coastal area</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{23a242d8-ade0-4dc6-9c97-0955d6aad586}</id>
      <foreignId>{9d8246c3-d2f2-4e52-a457-95613ae59b46}</foreignId>
-     <text>scattered showers</text>
+     <text>pluies intermittentes</text>
      <i18nText>scattered showers</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{40bfcf7d-9f6c-4e6f-af26-96ae40a35b11}</id>
      <foreignId>{9e952a0a-4a1c-4aea-9a3c-b16ed8522d33}</foreignId>
-     <text>gust of wind</text>
+     <text>coup de vent</text>
      <i18nText>gust of wind</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ec648364-0426-4b2b-aad3-66137e37eb77}</id>
      <foreignId>{7b5e669b-a59e-4a08-8e06-e6de66bb8cd8}</foreignId>
-     <text>weather forecast</text>
+     <text>prévisions météorologiques</text>
      <i18nText>weather forecast</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7ccb76a-176e-4fab-a290-0aed5cef2225}</id>
      <foreignId>{d0072f79-dfce-4406-9be5-6af05caba26f}</foreignId>
-     <text>mediterranean climate</text>
+     <text>climat méditerranéen</text>
      <i18nText>mediterranean climate</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dc07270b-372e-49e9-bc18-bb414b56e4d7}</id>
      <foreignId>{749a8a41-288e-44ea-b35e-6e01da3f99f5}</foreignId>
-     <text>polar ice cap</text>
+     <text>calotte polaire</text>
      <i18nText>polar ice cap</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8117bf05-58d8-4a6d-ab68-2e84dda5a88f}</id>
      <foreignId>{b96bc1fb-a3a5-46d8-b423-c150eea67335}</foreignId>
-     <text>It is snowing.</text>
+     <text>Il neige.</text>
      <i18nText>It is snowing.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2b2a8f5e-5acf-4068-9a68-89255cc23bbc}</id>
      <foreignId>{fab1ab80-ef00-4d3b-b4c4-0f61b528f7b6}</foreignId>
-     <text>What is the weather like?</text>
+     <text>Quel temps fait-il?</text>
      <i18nText>What is the weather like?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{76593071-e2e9-492f-960e-5d9d0e6c106d}</id>
      <foreignId>{15c7a201-aab1-4250-83e5-24cd8392bfa9}</foreignId>
-     <text>Is it raining outside?</text>
+     <text>Est-ce qu'il pleut dehors?</text>
      <i18nText>Is it raining outside?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{30d706c8-d45a-4b31-9e89-af04ea3ed196}</id>
      <foreignId>{86aaf64d-b399-4c29-86f8-d27707916b36}</foreignId>
-     <text>It look like it is going to be windy tomorrow.</text>
+     <text>Il ressemble il va y avoir du vent demain.</text>
      <i18nText>It look like it is going to be windy tomorrow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{45adc993-0b09-49d1-b9b6-aa8a611af5db}</id>
      <foreignId>{9a9d0f51-7a1b-49bf-bcd7-454f35c13203}</foreignId>
-     <text>It is pouring down.</text>
+     <text>Il pleut à torrents.</text>
      <i18nText>It is pouring down.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -3793,7 +3793,7 @@
     <phrase>
      <id>{9de48322-9e84-401c-a6c4-817be0096572}</id>
      <foreignId>{251b17ce-fb83-4036-af23-028eb8e445f8}</foreignId>
-     <text>Let’s hope the weather holds out.</text>
+     <text>Espérons que le temps tient le coup.</text>
      <i18nText>Let’s hope the weather holds out.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -3803,171 +3803,171 @@
     <phrase>
      <id>{37828daf-9468-410d-af4b-f8e9c69f79a7}</id>
      <foreignId>{e647765c-0ef9-4fc7-9b90-3a1b76d8749c}</foreignId>
-     <text>Yesterday it was hot and humid.</text>
+     <text>Hier, il faisait chaud et humide.</text>
      <i18nText>Yesterday it was hot and humid.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7739db50-4781-4954-8057-6e66c819df49}</id>
      <foreignId>{14e81d70-8dcf-4c29-8fea-e88867a3d5c6}</foreignId>
-     <text>Take an umbrella, it’s raining.</text>
+     <text>Prendre un parapluie, il pleut.</text>
      <i18nText>Take an umbrella, it’s raining.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4613a8d2-1dbd-4ec4-84a1-582eed4bfb10}</id>
      <foreignId>{8343e98c-688f-4624-9e43-ea5a115ae8b8}</foreignId>
-     <text>A lot of the crops dried up because of the drought.</text>
+     <text>Un grand nombre de cultures asséché à cause de la sécheresse.</text>
      <i18nText>A lot of the crops dried up because of the drought.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9ad7d75a-d8d3-4c8c-8b53-ac7410e65300}</id>
      <foreignId>{6b4dc159-7699-4c9c-bf5c-fbde86d5f3ad}</foreignId>
-     <text>It is chilly today.</text>
+     <text>Il est frisquet aujourd'hui.</text>
      <i18nText>It is chilly today.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d1db65c8-a2fc-4f4f-89a7-dfbeea660918}</id>
      <foreignId>{f60c5550-328f-4df4-9025-399119d72084}</foreignId>
-     <text>I can feel the warm sunshine on my arms.</text>
+     <text>Je peux sentir la chaleur du soleil sur mes bras.</text>
      <i18nText>I can feel the warm sunshine on my arms.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{280abe8a-6e7b-4c10-92ca-444504f9c224}</id>
      <foreignId>{ffa2d311-3daf-40d3-b314-9abd386a76d7}</foreignId>
-     <text>The wind is blowing.</text>
+     <text>Le vent souffle.</text>
      <i18nText>The wind is blowing.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{427e1f96-85df-416f-b1ae-a81e1c4a1724}</id>
      <foreignId>{8eb069fc-0316-43c7-b6c6-521529ebce6b}</foreignId>
-     <text>You get better weather on the east cost.</text>
+     <text>Vous obtenez un meilleur temps sur la côte est.</text>
      <i18nText>You get better weather on the east cost.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dbe185ab-d697-4fa4-891f-9e7d44753fb4}</id>
      <foreignId>{43679199-c006-4405-88f7-d0a8f68dc993}</foreignId>
-     <text>Last night we saw a beautiful sunset.</text>
+     <text>La nuit dernière, nous avons vu un beau coucher de soleil.</text>
      <i18nText>Last night we saw a beautiful sunset.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8713362c-0177-4a5d-9ab7-890d520be434}</id>
      <foreignId>{233842c1-3c29-4fad-91a1-beada64fe040}</foreignId>
-     <text>A desert is a landscape form or region that receives very little precipitation.</text>
+     <text>Un désert est une forme de paysage ou de la région qui reçoit très peu de précipitations.</text>
      <i18nText>A desert is a landscape form or region that receives very little precipitation.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9870a22c-f48e-45ec-b79b-e14d7c6883fa}</id>
      <foreignId>{9c720f3f-8a98-4a56-8eb7-f7b2ea77a982}</foreignId>
-     <text>The bad weather spoiled our plans for the weekend.</text>
+     <text>Le mauvais temps a gâché nos plans pour le week-end.</text>
      <i18nText>The bad weather spoiled our plans for the weekend.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e3a959c-7e94-4f84-809c-1b174e7574bb}</id>
      <foreignId>{e32a4fc3-3285-4fa9-89b9-304fa8ade0fc}</foreignId>
-     <text>In savanna climate we can distinguish to main seasons: wet and dry.</text>
+     <text>Dans le climat de savane, on peut distinguer de grandes saisons: sèche et humide.</text>
      <i18nText>In savanna climate we can distinguish to main seasons: wet and dry.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{19b6d3ae-9344-4297-a8f7-36ee5a136118}</id>
      <foreignId>{b7e7842b-c462-4130-a980-39b2ecbcea6c}</foreignId>
-     <text>The alpine area  has in general a much harsher climate than the rest of the country.</text>
+     <text>La zone alpine a en général un climat beaucoup plus sévère que le reste du pays.</text>
      <i18nText>The alpine area  has in general a much harsher climate than the rest of the country.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b233e2e6-8a2c-42c7-a418-1e0537647207}</id>
      <foreignId>{7c2fad53-f0c7-418c-a3e2-4bd20e646a8b}</foreignId>
-     <text>We had a drought in our area last summer. It did not rain for two months.</text>
+     <text>Nous avons eu une sécheresse dans notre région l'été dernier. Il n'a pas plu depuis deux mois.</text>
      <i18nText>We had a drought in our area last summer. It did not rain for two months.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{660ebd8d-d65a-4048-9116-36f335dc0c88}</id>
      <foreignId>{1f5d20d4-7386-492f-99a8-32e8d12c521b}</foreignId>
-     <text>It is usually cold in winter. The temperatures are often below zero.</text>
+     <text>Il est généralement froid en hiver. Les températures sont souvent en dessous de zéro.</text>
      <i18nText>It is usually cold in winter. The temperatures are often below zero.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e9e81370-2988-4bf8-9db0-c0e7bf9c9ad6}</id>
      <foreignId>{be9e6e8e-5446-4ad2-8929-b392f70ed7ce}</foreignId>
-     <text>Tropical rainforests are found close to the equator. These areas are characterized by high humidity and heavy rains.</text>
+     <text>Les forêts tropicales se trouvent près de l'équateur. Ces zones sont caractérisées par une forte humidité et des fortes pluies.</text>
      <i18nText>Tropical rainforests are found close to the equator. These areas are characterized by high humidity and heavy rains.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{09a51b50-4ba2-4e6c-8418-035fbdb0cf74}</id>
      <foreignId>{d36df743-452d-4edf-b72d-b4b0f34e2012}</foreignId>
-     <text>It is pretty warm. What is the temperature?</text>
+     <text>Il est assez chaud. Quelle est la température?</text>
      <i18nText>It is pretty warm. What is the temperature?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7a18928-3ddf-4c70-a502-e937d4c16f04}</id>
      <foreignId>{2fd8d252-622b-43fa-9a71-479447165d38}</foreignId>
-     <text>Summers are warm with occasional showers and cool nights. Winter temperatures range between 2°C and 5°C.</text>
+     <text>Les étés sont chauds avec des averses occasionnelles et des nuits fraîches. Winter gamme des températures comprise entre 2 ° C et 5 ° C.</text>
      <i18nText>Summers are warm with occasional showers and cool nights. Winter temperatures range between 2°C and 5°C.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -3980,11 +3980,11 @@
     <phrase>
      <id>{b1dcfc7c-a457-48bd-940b-cd4971e4010e}</id>
      <foreignId>{ae35c2ce-2c62-4c8a-847b-5b7320e16ef4}</foreignId>
-     <text>hour</text>
+     <text>heure</text>
      <i18nText>hour</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3994,653 +3994,653 @@
      <i18nText>minute</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5901e278-e9a9-4ee2-b82e-bfe472155589}</id>
      <foreignId>{6e53d461-1b6e-45ec-8ce8-93c6deb0c85b}</foreignId>
-     <text>second</text>
+     <text>seconde</text>
      <i18nText>second</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f7a78d60-6263-4e76-8510-6a2430431bba}</id>
      <foreignId>{00a2ab96-367b-4ee9-bcb2-0e21dd30ec12}</foreignId>
-     <text>morning</text>
+     <text>matin</text>
      <i18nText>morning</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0fb69ab9-9f27-42ac-927d-9b835c41e586}</id>
      <foreignId>{94fb6368-3554-499a-ac67-074a84cb95a0}</foreignId>
-     <text>afternoon</text>
+     <text>après-midi</text>
      <i18nText>afternoon</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{df235cf2-a7e5-4935-92ee-c8f8d6dd7be2}</id>
      <foreignId>{91c15fee-4501-4501-a9cf-b1ffbb5fbdf9}</foreignId>
-     <text>evening</text>
+     <text>soir</text>
      <i18nText>evening</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0fbf812f-0da8-4603-b4d0-a10b75e19802}</id>
      <foreignId>{f8c2706c-675d-4d2b-ac86-34b10743a318}</foreignId>
-     <text>day</text>
+     <text>jour</text>
      <i18nText>day</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{99a1dc47-52a3-4b5c-95fb-8b7f9e78a38d}</id>
      <foreignId>{035bfa88-a2de-4b70-898a-84d31ee7b9ba}</foreignId>
-     <text>night</text>
+     <text>nuit</text>
      <i18nText>night</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c6a255e6-e025-4d7e-9856-5edf098b9459}</id>
      <foreignId>{1532e66f-a0e1-4cd7-8763-d42e651379bb}</foreignId>
-     <text>half</text>
+     <text>demi</text>
      <i18nText>half</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bd99275f-c5f1-463e-9cba-3568f42210c1}</id>
      <foreignId>{b236085a-b33c-41f8-9558-b0906d6ca8cb}</foreignId>
-     <text>quarter</text>
+     <text>quart</text>
      <i18nText>quarter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1701d561-f9de-477c-a7ad-9ad5d2d18c98}</id>
      <foreignId>{465f47c1-6e2e-4b0f-9e09-e035c4b4ff8e}</foreignId>
-     <text>week</text>
+     <text>semaine</text>
      <i18nText>week</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cd1455bb-90ad-4e0b-a326-8c90420baf2b}</id>
      <foreignId>{9822a8a9-a5bc-4f29-92a3-99d159113d03}</foreignId>
-     <text>Monday</text>
+     <text>lundi</text>
      <i18nText>Monday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1a7c8af0-3114-43b2-aa64-c6115d81b8e2}</id>
      <foreignId>{277f067d-a046-49db-9ad2-d65c5a66525a}</foreignId>
-     <text>Tuesday</text>
+     <text>mardi</text>
      <i18nText>Tuesday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1e2abcc5-1705-493c-beaa-c8a532ed537d}</id>
      <foreignId>{6e7a38a5-3fe2-42b4-a218-94e96eea1c0f}</foreignId>
-     <text>Wednesday</text>
+     <text>mercredi</text>
      <i18nText>Wednesday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{63bb7a8f-6a14-4aea-9896-2dfe13b4bb31}</id>
      <foreignId>{1a4b48b7-56a9-491f-bb6c-0e0cd9c43cde}</foreignId>
-     <text>Thursday</text>
+     <text>jeudi</text>
      <i18nText>Thursday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9074858e-9658-41ff-a364-e07edbf36f5b}</id>
      <foreignId>{74fa92a1-19d0-453a-9536-561516f19ceb}</foreignId>
-     <text>Friday</text>
+     <text>vendredi</text>
      <i18nText>Friday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c627c3e8-ee06-474b-9ee6-a761687ce3ab}</id>
      <foreignId>{c8579df1-7426-49b1-9eff-1d5d504cd7a1}</foreignId>
-     <text>Saturday</text>
+     <text>samedi</text>
      <i18nText>Saturday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d3efa0b0-7ee5-460b-b3ef-133543772547}</id>
      <foreignId>{1d2dad26-790a-4385-986e-a7709c151487}</foreignId>
-     <text>Sunday</text>
+     <text>dimanche</text>
      <i18nText>Sunday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4d3700ac-55ad-4ac7-9e26-0c7bd6e46b38}</id>
      <foreignId>{e4419e87-85c5-44f7-9b04-2b00e023a326}</foreignId>
-     <text>month</text>
+     <text>mois</text>
      <i18nText>month</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{666d315b-eaa1-41f3-b493-3d4996d30fa9}</id>
      <foreignId>{c04a9c01-e56e-4cff-9e59-a9fcbfbe0823}</foreignId>
-     <text>January</text>
+     <text>janvier</text>
      <i18nText>January</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{57ffa778-2dd2-4282-bd64-c3a2746bb6e5}</id>
      <foreignId>{00bada29-0cd1-49c7-b738-f26a800647d7}</foreignId>
-     <text>February</text>
+     <text>février</text>
      <i18nText>February</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bf4c84fe-520c-4679-859e-b049508ceeff}</id>
      <foreignId>{4faed864-c6bc-4186-8501-8c5b91fef5a3}</foreignId>
-     <text>March</text>
+     <text>mars</text>
      <i18nText>March</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{da6f6899-ff82-4fc8-86b2-04567de43927}</id>
      <foreignId>{8ca1a0c4-e70e-4d27-808e-63b74f243c12}</foreignId>
-     <text>April</text>
+     <text>avril</text>
      <i18nText>April</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5a15d343-42b1-4828-9ed1-f78ce7af20a7}</id>
      <foreignId>{c6ebefad-4dde-45d4-b887-8ffacbd902e2}</foreignId>
-     <text>May</text>
+     <text>mai</text>
      <i18nText>May</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{acd16c6d-c03f-41a2-8e0b-46c294065cb4}</id>
      <foreignId>{7507cab0-4fd2-49f1-808d-862e145d2a76}</foreignId>
-     <text>June</text>
+     <text>juin</text>
      <i18nText>June</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{aa5b1623-069e-469e-a01e-59ed602e208a}</id>
      <foreignId>{666a5101-fd4a-487c-8223-157c120e20eb}</foreignId>
-     <text>July</text>
+     <text>juillet</text>
      <i18nText>July</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f5746b85-8308-4573-8a45-1304656bab57}</id>
      <foreignId>{5b280d4a-c342-4a65-b5f2-2f96130766ee}</foreignId>
-     <text>August</text>
+     <text>août</text>
      <i18nText>August</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4073ab37-d9f6-42c6-9bb2-1e876fdeb675}</id>
      <foreignId>{c7cbf0a6-69ac-41b8-b9fb-c7a6b9cf6ea5}</foreignId>
-     <text>September</text>
+     <text>septembre</text>
      <i18nText>September</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{876db3b0-591b-4d2f-85df-e4cef614df92}</id>
      <foreignId>{d1d31fb1-d8e7-488e-b958-1a5f55fe9517}</foreignId>
-     <text>October</text>
+     <text>octobre</text>
      <i18nText>October</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{553a1f7c-a727-4065-9c8e-a829bf3f267c}</id>
      <foreignId>{35abad03-516a-42b1-95ed-3668ffac7aeb}</foreignId>
-     <text>November</text>
+     <text>novembre</text>
      <i18nText>November</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e7709b58-a182-4187-a823-4ba9f37f6156}</id>
      <foreignId>{69dd0405-d468-40e8-aa9e-864230543a34}</foreignId>
-     <text>December</text>
+     <text>décembre</text>
      <i18nText>December</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{42c3bfd8-5c33-4573-82ce-069e48882e28}</id>
      <foreignId>{5204eb4d-7da4-461a-a7b3-bdcd6b6887a2}</foreignId>
-     <text>year</text>
+     <text>année</text>
      <i18nText>year</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60811a55-aa16-4f7a-83fd-7ab66fdc0c0f}</id>
      <foreignId>{36335b54-7f72-43ce-9b0f-6dbab028f30c}</foreignId>
-     <text>decade</text>
+     <text>décennie</text>
      <i18nText>decade</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{407c1384-05fb-498c-a256-95db61106073}</id>
      <foreignId>{7f99d382-d61e-44e5-a375-4b3f2cbb6b10}</foreignId>
-     <text>calendar</text>
+     <text>calendrier</text>
      <i18nText>calendar</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5f025c63-f9c8-4107-80b0-31bf8e82625e}</id>
      <foreignId>{38f4481a-44b8-425d-9241-549f06c418e5}</foreignId>
-     <text>weekend</text>
+     <text>fin de la semaine</text>
      <i18nText>weekend</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5d902c8e-10b4-4811-94ad-27084c280652}</id>
      <foreignId>{5858fbef-9663-4ad4-bb88-aa274444181d}</foreignId>
-     <text>quarter to twelve</text>
+     <text>douze heures moins le quart</text>
      <i18nText>quarter to twelve</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6ad90e75-969b-4b2a-900d-1a6f762a50f8}</id>
      <foreignId>{efed04e6-9959-488a-a977-e851f4384b20}</foreignId>
-     <text>half past eight</text>
+     <text>huit heures et demie</text>
      <i18nText>half past eight</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{137ec520-88d4-47ff-9634-cfde587a9a2c}</id>
      <foreignId>{d9845eb7-1801-4f4e-8e80-b04bdcbd0e8e}</foreignId>
-     <text>10 minutes past midnight</text>
+     <text>10 minutes après minuit</text>
      <i18nText>10 minutes past midnight</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c4d8af67-d176-42eb-9f61-1f400dcc3578}</id>
      <foreignId>{de680210-fa6b-49e6-a41d-fa50ed506d4c}</foreignId>
-     <text>25th of December</text>
+     <text>vingt-cinquième de Décembre</text>
      <i18nText>25th of December</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3c95f5b2-4c72-407e-a6b0-53b40f0d09fa}</id>
      <foreignId>{f9185dc8-c4f0-4b37-80b8-a83a7ef8df83}</foreignId>
-     <text>New Year's Eve</text>
+     <text>Saint-Sylvestre</text>
      <i18nText>New Year's Eve</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{757dee15-55f3-4e18-8997-fe3f2130d234}</id>
      <foreignId>{93e3b0b8-b500-4305-90d9-2a371aedfbc3}</foreignId>
-     <text>Christmas Day</text>
+     <text>jour de Noël</text>
      <i18nText>Christmas Day</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b8b72129-fe29-4991-a649-d2447e3e7015}</id>
      <foreignId>{e2557b04-4951-4140-9be6-4ac6f31a3f62}</foreignId>
-     <text>5 pm</text>
+     <text>dix-sept heures</text>
      <i18nText>5 pm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c06a0759-e49e-40a1-be71-19272703e631}</id>
      <foreignId>{a0632227-3977-492e-b1c8-0f9bf672372a}</foreignId>
-     <text>1 am</text>
+     <text>une heure</text>
      <i18nText>1 am</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{92d2382b-fed1-455f-b22a-0d0b8c9991ee}</id>
      <foreignId>{f0adbbcd-e92c-48d2-a1de-4b27eb448db2}</foreignId>
-     <text>Before Christ</text>
+     <text>avant Jésus-Christ</text>
      <i18nText>Before Christ</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{61f171c5-3e1b-458a-a30a-2ee42084bdfe}</id>
      <foreignId>{825884b6-0644-4cd9-a7c3-2d4462fc25a4}</foreignId>
-     <text>XXI century</text>
+     <text>vingt et unième siècle</text>
      <i18nText>XXI century</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e724d81f-0a19-4f26-8f46-8c0957c0f888}</id>
      <foreignId>{0346bda3-8f3c-4487-860c-3b8c0def5ae9}</foreignId>
-     <text>around 10 o'clock</text>
+     <text>vers dix heures</text>
      <i18nText>around 10 o'clock</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6b7c741b-4015-4f07-a01e-691b99dd8e72}</id>
      <foreignId>{5feee433-1ad9-44a4-95e7-2b971e946ada}</foreignId>
-     <text>public holiday</text>
+     <text>jour férié</text>
      <i18nText>public holiday</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3a553006-e941-497f-88ea-0b2ceeaea957}</id>
      <foreignId>{d71a5ab4-511a-47e4-a78b-f60884e0ac46}</foreignId>
-     <text>working week</text>
+     <text>semaine de travail</text>
      <i18nText>working week</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dff30c3f-6c9b-4b79-a4a9-143b4b0e6fc1}</id>
      <foreignId>{fc671988-937e-4787-97b2-bf26da11ff4f}</foreignId>
-     <text>early twenties</text>
+     <text>début de la vingtaine</text>
      <i18nText>early twenties</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{af10345e-874c-48de-85c8-a4c7c2f37a9a}</id>
      <foreignId>{3baea57e-8dda-4463-92ee-54003c50a085}</foreignId>
-     <text>100 hours</text>
+     <text>cent heures</text>
      <i18nText>100 hours</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c77bf9e6-68b9-4adb-ad31-0295e18ab206}</id>
      <foreignId>{3e2bc2c7-0725-429c-8859-657baff94a43}</foreignId>
-     <text>few minutes ago</text>
+     <text>Il ya quelques minutes</text>
      <i18nText>few minutes ago</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1305abd6-12c2-4e84-8a42-de210270191e}</id>
      <foreignId>{3a501153-1290-4910-869a-019b135baf67}</foreignId>
-     <text>last week</text>
+     <text>la semaine dernière</text>
      <i18nText>last week</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7ec2f6ef-4f0b-4630-90b0-f34ea80bec3d}</id>
      <foreignId>{c9f1c2a8-029b-4be2-bafb-dc728d653b2b}</foreignId>
-     <text>in the future</text>
+     <text>dans l'avenir</text>
      <i18nText>in the future</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7f573e6d-71d2-4c1a-9b12-fa8b9f5169d1}</id>
      <foreignId>{0bb615c9-e50a-4713-9d8b-9beedde1c861}</foreignId>
-     <text>following year</text>
+     <text>année suivant</text>
      <i18nText>following year</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5bbe4a84-d1b2-4c6a-9d29-ece0ad06e28d}</id>
      <foreignId>{9ddc1d37-151f-46ca-83fb-ff521d399606}</foreignId>
-     <text>4th August 1972</text>
+     <text>quatrième Août mille neuf cent soixante-douze</text>
      <i18nText>4th August 1972</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c3f992df-fc30-4195-bcbe-d8c141c49d2a}</id>
      <foreignId>{cd8628d8-444f-4d88-8791-bb31743a6ec6}</foreignId>
-     <text>time zone</text>
+     <text>fuseau horaire</text>
      <i18nText>time zone</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{266a3bd7-bffd-4acb-82ce-7bf8079f6858}</id>
      <foreignId>{c2abd6f8-633b-4d15-ad49-b362c89225ab}</foreignId>
-     <text>It is first of July 2012.</text>
+     <text>Il est le premier de Juillet deux mille douze.</text>
      <i18nText>It is first of July 2012.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e2f19f04-c547-4ef6-9dd6-337e7043f8fd}</id>
      <foreignId>{4eca4f60-dccd-4f39-876b-68ae2610be5b}</foreignId>
-     <text>We are meeting on Monday.</text>
+     <text>Nous nous réunissons lundi.</text>
      <i18nText>We are meeting on Monday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7514958b-ea7d-47f6-8cca-87159d14d500}</id>
      <foreignId>{baafc251-1b2c-43c6-82ea-fce70e9a03a9}</foreignId>
-     <text>My birthday is on the 22nd of November.</text>
+     <text>Mon anniversaire est le vingt deuxième Novembre.</text>
      <i18nText>My birthday is on the 22nd of November.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ce6ebe8c-4525-4b28-bd02-80e1cfc83a15}</id>
      <foreignId>{beea2ec5-ae82-4249-816d-fbb81fc0277a}</foreignId>
-     <text>It is 12 o'clock.</text>
+     <text>Il est douze heures.</text>
      <i18nText>It is 12 o'clock.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{06d6de15-1c30-48d6-b856-b9e8b41ca212}</id>
      <foreignId>{119ebe92-16e8-4c35-85c4-7a704fd3ce20}</foreignId>
-     <text>He was born in 1988.</text>
+     <text>Il est né en mille neuf cent quatre vingt huit.</text>
      <i18nText>He was born in 1988.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3436791f-9aa2-4a87-909d-512a787469f1}</id>
      <foreignId>{237ce4bc-264c-4950-bb5c-01626bee84eb}</foreignId>
-     <text>What time is it?</text>
+     <text>Quelle heure est-il?</text>
      <i18nText>What time is it?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6cd8ba5b-138c-4b4c-887a-45ccc03d0cff}</id>
      <foreignId>{be0a5a95-f9ec-41e2-b76f-b796cedb2458}</foreignId>
-     <text>I work through all week except Saturdays and Sundays.</text>
+     <text>Je travaille à travers toute la semaine sauf le samedi et le dimanche.</text>
      <i18nText>I work through all week except Saturdays and Sundays.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9a2c5110-3fd1-4cf5-b693-1cbd003d7cdb}</id>
      <foreignId>{a4a1a498-a12f-41e6-96fa-da5026bf64b0}</foreignId>
-     <text>1st of October is Chinese National Day.</text>
+     <text>Premier d'Octobre est la journée nationale chinoise.</text>
      <i18nText>1st of October is Chinese National Day.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fe30bdc6-a960-4e07-9498-ae2d9b4c12cd}</id>
      <foreignId>{e53a316a-4758-46d5-aeca-9e72506ce7af}</foreignId>
-     <text>When is your birthday?</text>
+     <text>Quand est ton anniversaire?</text>
      <i18nText>When is your birthday?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{affcb449-4de6-4456-80bf-cdae54457a83}</id>
      <foreignId>{13f445de-ba11-4bd0-bd8c-e1f23e5d930c}</foreignId>
-     <text>A millennium is a period of one thousand years.</text>
+     <text>Un millénaire est une période de mille ans.</text>
      <i18nText>A millennium is a period of one thousand years.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cc0595e3-15c5-4840-a8d7-efed76bd9f8d}</id>
      <foreignId>{ee5e1777-62a8-4854-8239-9150e5633039}</foreignId>
-     <text>My training period is from April 15 to May 11.</text>
+     <text>Mon stage est d'avril quinze à onze mai.</text>
      <i18nText>My training period is from April 15 to May 11.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -4650,101 +4650,101 @@
     <phrase>
      <id>{407bb9b7-036b-46d4-97a2-da896ceab959}</id>
      <foreignId>{f7673017-5562-4d37-b2b3-1490971353c7}</foreignId>
-     <text>Valentine's Day is 14th of February.</text>
+     <text>Saint Valentin est quatorzième de Février.</text>
      <i18nText>Valentine's Day is 14th of February.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d47a951f-2c4c-44b8-8773-79b1c7bb0d7e}</id>
      <foreignId>{9683bd47-1071-4337-82b9-cbead8b662b6}</foreignId>
-     <text>Most people in France go on holiday in July.</text>
+     <text>La plupart des gens en France partent en vacances en Juillet.</text>
      <i18nText>Most people in France go on holiday in July.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{399b7f83-6df6-4888-8eb1-49edba0fc0ad}</id>
      <foreignId>{d0053de5-1270-46cb-83b2-656a97e7b3f3}</foreignId>
-     <text>I am going to a party next Friday.</text>
+     <text>Je vais à une fête vendredi prochain.</text>
      <i18nText>I am going to a party next Friday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d43191fb-bf74-47db-bfa0-153ac266016d}</id>
      <foreignId>{db36973e-59fc-4ad9-ac82-7066a9c7269f}</foreignId>
-     <text>When does the concert begin?</text>
+     <text>Quand le concert commence?</text>
      <i18nText>When does the concert begin?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0d70361c-ca70-4787-88df-d6df50e08827}</id>
      <foreignId>{fa1dd8f7-08d0-4883-87f2-d0ce44cc676f}</foreignId>
-     <text>We land at 5.30 pm local time.</text>
+     <text>Nous atterrissons à cinq heures et demie, heure locale.</text>
      <i18nText>We land at 5.30 pm local time.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f2dbf367-0cdd-4362-a171-56610b1f8cd6}</id>
      <foreignId>{229e2379-9afe-4b1c-8174-4c51d79891eb}</foreignId>
-     <text>Easter is a movable feast. Last year Easter Sunday was in first week of April.</text>
+     <text>Pâques est une fête mobile. L'année dernière, le dimanche de Pâques était en première semaine d'Avril.</text>
      <i18nText>Easter is a movable feast. Last year Easter Sunday was in first week of April.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a79fbaf3-7535-4589-bac4-ecbcfe8ea77e}</id>
      <foreignId>{f94d3270-cf6c-486e-9ec1-c0f8fc757151}</foreignId>
-     <text>4th of July is an important date in American history. On this day in 1776 America declared independence from Great Britain. After this it became a national holiday.</text>
+     <text>Quatrième de Juillet est une date importante dans l'histoire américaine. Ce jour-là, en mille sept cent soixante-seize, l'Amérique a proclamé son indépendance de la Grande-Bretagne. Après cela, il est devenu un jour férié national.</text>
      <i18nText>4th of July is an important date in American history. On this day in 1776 America declared independence from Great Britain. After this it became a national holiday.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cc8ec9ad-51ea-4aba-8428-31054af471ee}</id>
      <foreignId>{768f6a4a-ef4d-4e7b-9ad9-adef38a3fcca}</foreignId>
-     <text>Christopher Columbus was born on 31 October 1451. He become famous for discovering America. He died in 1506 at the age of 54.</text>
+     <text>Christophe Colomb est né le trente et unième octobre mille quatre cent cinquante-et-un. Il est devenu célèbre pour la découverte de l'Amérique. Il est décédé en mille cinq cent six à l'âge de cinquante-quatre.</text>
      <i18nText>Christopher Columbus was born on 31 October 1451. He become famous for discovering America. He died in 1506 at the age of 54.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ada27141-cefe-41a8-a845-526c2ed56713}</id>
      <foreignId>{2a75e701-f615-4af3-9217-795afc8d0193}</foreignId>
-     <text>The meeting is going to be at 1 pm. It is going to last for 1 hour and 30 minutes.</text>
+     <text>La réunion va être à treize heures. Il va durer une heure et trente minutes.</text>
      <i18nText>The meeting is going to be at 1 pm. It is going to last for 1 hour and 30 minutes.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9db44709-9f5a-478b-80a4-ac65777d0dac}</id>
      <foreignId>{a85b5b1e-5722-4c4d-97f5-ba203356f3e0}</foreignId>
-     <text>We are going to depart at 6 o'clock. Please arrive at least 15 minutes earlier.</text>
+     <text>Nous allons partir à six heures. S'il vous plaît arriver au moins quinze minutes plus tôt.</text>
      <i18nText>We are going to depart at 6 o'clock. Please arrive at least 15 minutes earlier.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -4757,61 +4757,61 @@
     <phrase>
      <id>{60775f55-a825-42ea-a24c-47716ed637a4}</id>
      <foreignId>{00cd82f1-c7dc-4261-b4a0-f3bb958265fe}</foreignId>
-     <text>shirt</text>
+     <text>chemise</text>
      <i18nText>shirt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{32b7157d-d620-4612-8d22-9e0a6660acb3}</id>
      <foreignId>{8a859aa3-ee9a-4a78-922d-d196ce16ceb8}</foreignId>
-     <text>trousers</text>
+     <text>pantalon</text>
      <i18nText>trousers</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2c20c5b9-c3c8-4771-afe0-51c18364baa7}</id>
      <foreignId>{30428966-1334-4fea-bcdb-4a592956698d}</foreignId>
-     <text>jeans</text>
+     <text>jean</text>
      <i18nText>jeans</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2206e85a-0e11-4ab4-8bb8-7cabda1963e8}</id>
      <foreignId>{1449fc28-ada2-4c76-bbd1-4ee82d512d3d}</foreignId>
-     <text>jumper</text>
+     <text>pull-over</text>
      <i18nText>jumper</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6d4dd8a2-dd1b-4552-9772-2d5a9eda46a4}</id>
      <foreignId>{773efcc7-b491-4a3c-9161-e4200dc810f7}</foreignId>
-     <text>gloves</text>
+     <text>gants</text>
      <i18nText>gloves</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0852d1e6-cf6a-4e71-9d69-184762daa04a}</id>
      <foreignId>{4ca286f1-d190-4dc2-b366-5c2d6f7b9510}</foreignId>
-     <text>hat</text>
+     <text>chapeau</text>
      <i18nText>hat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4821,57 +4821,57 @@
      <i18nText>T-shirt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{74c43cb1-5d77-4641-86dd-0b04c98b5e6b}</id>
      <foreignId>{774a7142-26b3-4efc-88ac-fb0a3042a8f6}</foreignId>
-     <text>blouse</text>
+     <text>chemisier</text>
      <i18nText>blouse</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{364a2ead-9c73-4a71-9d88-26e9207363bc}</id>
      <foreignId>{31b05cfe-4819-4ffc-93d8-823dbec24c6b}</foreignId>
-     <text>shorts</text>
+     <text>short</text>
      <i18nText>shorts</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9811cda3-88ee-4858-aec2-3ad8c949fd33}</id>
      <foreignId>{709c090e-df1e-4d6e-ba64-4fa1bfd336b8}</foreignId>
-     <text>shoes</text>
+     <text>chaussures</text>
      <i18nText>shoes</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{55798d71-51c7-4dec-896d-d6810efac381}</id>
      <foreignId>{216ad380-0e3b-4efb-8c27-ae861c194954}</foreignId>
-     <text>trainers</text>
+     <text>chaussure de sport</text>
      <i18nText>trainers</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2565eba0-a63c-4ce9-8794-f79398a2b875}</id>
      <foreignId>{178cf5da-3eb5-4189-a371-eb3c864d3ec6}</foreignId>
-     <text>sandals</text>
+     <text>sandales</text>
      <i18nText>sandals</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4881,47 +4881,47 @@
      <i18nText>bikini</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{df6f2205-d7ea-47e8-a35b-1ad04cd8adf2}</id>
      <foreignId>{3b84ba49-354b-4d8b-8eb7-e2b69f210f8f}</foreignId>
-     <text>underwear</text>
+     <text>sous-vêtements</text>
      <i18nText>underwear</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{774b5b2c-f383-46f8-ac8a-c8bbb942c72d}</id>
      <foreignId>{84717073-8207-4c10-a226-fc31f4842093}</foreignId>
-     <text>skirt</text>
+     <text>jupe</text>
      <i18nText>skirt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ba931519-e9e0-4d91-9155-44474f6dca1a}</id>
      <foreignId>{f5879b35-4eca-41f6-9851-4eac71ef22fc}</foreignId>
-     <text>suit</text>
+     <text>costume</text>
      <i18nText>suit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ab7fd181-81ef-454c-8c48-62f29fb9ba47}</id>
      <foreignId>{42a4e86b-0c69-44e3-823e-74cae0dd1f0f}</foreignId>
-     <text>jacket</text>
+     <text>veste</text>
      <i18nText>jacket</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4931,103 +4931,103 @@
      <i18nText>pyjama</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5d7e9dbf-18ae-4b68-a1e5-3f1b0d654743}</id>
      <foreignId>{8242df90-5393-4296-a128-288fd9123193}</foreignId>
-     <text>yellow</text>
+     <text>jaune</text>
      <i18nText>yellow</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f9a9dbdc-5963-4e5b-a72a-38f4d2b98e8e}</id>
      <foreignId>{9de01466-8334-4c27-a33b-ecf235904b14}</foreignId>
-     <text>red</text>
+     <text>rouge</text>
      <i18nText>red</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a83b7e60-bd68-42fd-8edb-f314a80788dd}</id>
      <foreignId>{0f9db6cf-ac9e-495f-8c86-1d3617503c1d}</foreignId>
-     <text>green</text>
+     <text>vert</text>
      <i18nText>green</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e22e3a8d-d948-4ebc-83e0-6e6b3d9180a2}</id>
      <foreignId>{569bde6d-5166-414c-ae4f-338eae72232b}</foreignId>
-     <text>blue</text>
+     <text>bleu</text>
      <i18nText>blue</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a6dbeb22-d5aa-4918-b163-28436f15fac8}</id>
      <foreignId>{ec172453-46fe-4e88-90f5-67aaa961aba8}</foreignId>
-     <text>white</text>
+     <text>blanc</text>
      <i18nText>white</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5ee72e0f-5a5b-4112-9758-d2b6a2908cbb}</id>
      <foreignId>{3f39c716-d0d8-4e8e-b79f-34f4b227398f}</foreignId>
-     <text>black</text>
+     <text>noir</text>
      <i18nText>black</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{37f33998-7e15-4511-b8ef-f507b1a1a254}</id>
      <foreignId>{3a24f03a-6e12-4164-bf49-4768c771bfe2}</foreignId>
-     <text>stripes</text>
+     <text>rayures</text>
      <i18nText>stripes</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b390f0ea-3a46-431a-8177-16a89c3db1db}</id>
      <foreignId>{8615220b-d325-49d2-a101-c2a1757649e9}</foreignId>
-     <text>small</text>
+     <text>petit</text>
      <i18nText>small</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6c11589b-a8a1-4714-b44e-7c7e6d1f0173}</id>
      <foreignId>{1d0c9113-f6ec-415d-a68b-28a1564b9a69}</foreignId>
-     <text>big</text>
+     <text>grand</text>
      <i18nText>big</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{79757ad4-ecdc-4495-bd51-6295ad72cd95}</id>
      <foreignId>{9f22770a-ee8d-4973-a21b-368ffb4288a3}</foreignId>
-     <text>loose</text>
+     <text>lâche</text>
      <i18nText>loose</i18nText>
      <soundFile></soundFile>
      <type>word</type>
@@ -5037,11 +5037,11 @@
     <phrase>
      <id>{2365d3cb-9b81-49fe-905f-a947bfd1e721}</id>
      <foreignId>{e8221ab1-9e13-4c73-8ef4-cd7576358836}</foreignId>
-     <text>short</text>
+     <text>court</text>
      <i18nText>short</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5051,23 +5051,23 @@
      <i18nText>long</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{86925c05-4a6a-4e25-965c-9ec3116c1a2d}</id>
      <foreignId>{6170f45a-4d87-4958-9fb7-81757d95f8f4}</foreignId>
-     <text>pink gloves</text>
+     <text>gants roses</text>
      <i18nText>pink gloves</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f4e567cf-04a6-4621-8742-bb9b83eae8aa}</id>
      <foreignId>{790b43bb-f63a-4da2-9037-0c1b7380f697}</foreignId>
-     <text>large vest</text>
+     <text>grand gilet</text>
      <i18nText>large vest</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -5077,87 +5077,87 @@
     <phrase>
      <id>{26ff55e7-6faa-4987-b081-b57a9e48a9c5}</id>
      <foreignId>{5be9dad4-ee22-4a46-afb3-b44ad0f9f8ba}</foreignId>
-     <text>wear glasses</text>
+     <text>porter des lunettes</text>
      <i18nText>wear glasses</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fc5263b2-19a8-475f-9c7c-26bd2bdba0e5}</id>
      <foreignId>{e98908f0-2728-4a79-a831-5d4227bde3df}</foreignId>
-     <text>expensive watch</text>
+     <text>montre de luxe</text>
      <i18nText>expensive watch</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1d10ed62-a11b-41b1-947d-6d6e07d2720b}</id>
      <foreignId>{18d390df-61af-4ab9-99ba-fe6ffaad26d0}</foreignId>
-     <text>too narrow</text>
+     <text>trop étroit</text>
      <i18nText>too narrow</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{68357682-bbc9-40db-b217-325b1430e6f0}</id>
      <foreignId>{f9158622-3f4d-4354-b763-f2d73a567887}</foreignId>
-     <text>get dressed</text>
+     <text>s'habiller</text>
      <i18nText>get dressed</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{08e433c1-d7a9-4024-a7da-0cf8ac9e318b}</id>
      <foreignId>{36564d95-dc09-4328-8741-e91c3e2f4adc}</foreignId>
-     <text>changing room</text>
+     <text>vestiaire</text>
      <i18nText>changing room</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{275440ba-60e5-4cdf-92a4-08adfe1f0e80}</id>
      <foreignId>{bf855118-fa8b-4092-afe2-89e22a44b541}</foreignId>
-     <text>size 12</text>
+     <text>taille douze</text>
      <i18nText>size 12</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{db44f339-42a3-4aed-938a-34b108ef015a}</id>
      <foreignId>{bc84522b-244f-4793-876e-f38252888cad}</foreignId>
-     <text>beautiful earrings</text>
+     <text>belles boucles d'oreilles</text>
      <i18nText>beautiful earrings</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d7916bf1-105b-403f-9ee2-7935ccf69f4c}</id>
      <foreignId>{4c39f52b-ac56-4b3f-af44-3389e03df71a}</foreignId>
-     <text>summer sale</text>
+     <text>vente d'été</text>
      <i18nText>summer sale</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4cfbdd09-5ba7-40ea-bdcc-886f5da183ea}</id>
      <foreignId>{60bad8c7-0925-4ceb-be3a-f08a443c4fd7}</foreignId>
-     <text>pair of sleepers</text>
+     <text>paire de traverses</text>
      <i18nText>pair of sleepers</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -5177,217 +5177,217 @@
     <phrase>
      <id>{5b8e617b-af83-42f9-827f-e3a6b0ef63eb}</id>
      <foreignId>{7068dcdd-2097-469c-83ad-9a66def8c3d9}</foreignId>
-     <text>go clothes shopping</text>
+     <text>acheter des vêtements</text>
      <i18nText>go clothes shopping</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7d7b4ba9-ae32-49cf-883b-4c3a225bfaaf}</id>
      <foreignId>{efc2883c-0545-4a56-ae4f-25b6e9fa06ae}</foreignId>
-     <text>take off</text>
+     <text>enlever</text>
      <i18nText>take off</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3d4e28d0-9ab5-4ba5-806f-20b3794de97a}</id>
      <foreignId>{7e968523-df55-4e2c-b87a-dd56470fcf7a}</foreignId>
-     <text>famous brand</text>
+     <text>célèbre marque</text>
      <i18nText>famous brand</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{38fe45fd-b982-4c3e-898a-294bb55498f4}</id>
      <foreignId>{bba9aac8-7d46-49f3-a894-c3979f2b31da}</foreignId>
-     <text>second-hand clothes</text>
+     <text>vêtements de seconde main</text>
      <i18nText>second-hand clothes</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0cd9946e-9de0-4cb8-8c6f-630fd9d7df22}</id>
      <foreignId>{4d95f00e-19ab-443d-bfa2-0b0ddfa1a9b8}</foreignId>
-     <text>This red dress suits you well.</text>
+     <text>Cette robe rouge vous va bien.</text>
      <i18nText>This red dress suits you well.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7a98fc36-32b7-4a46-a95f-baf1f6aea433}</id>
      <foreignId>{754e4fa4-6d95-42eb-8beb-2cfac5208171}</foreignId>
-     <text>It is just a bit too tight.</text>
+     <text>Il est juste un peu trop serré.</text>
      <i18nText>It is just a bit too tight.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b14b47ed-9523-434a-8e87-229b40b732bf}</id>
      <foreignId>{882def05-077a-4ee6-9267-91084e4abbe5}</foreignId>
-     <text>What are you going to wear tonight?</text>
+     <text>Qu'est-ce que vous allez porter ce soir?</text>
      <i18nText>What are you going to wear tonight?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e5a3447d-47ea-4e97-87d2-1b2c65159c37}</id>
      <foreignId>{43e67e18-3e78-4162-a598-a4e0b8c85b21}</foreignId>
-     <text>Why don't you try it on?</text>
+     <text>Pourquoi ne pas essayer?</text>
      <i18nText>Why don't you try it on?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d949ecb8-9093-4101-9c6a-f7fa946d1874}</id>
      <foreignId>{4bc955a9-6952-436f-8848-3600ebfcf256}</foreignId>
-     <text>You cannot wear trainers with a suit.</text>
+     <text>Vous ne pouvez pas porter des formateurs avec un costume.</text>
      <i18nText>You cannot wear trainers with a suit.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{83b9c012-dbc2-4ba4-bcef-0203e3d8c7b0}</id>
      <foreignId>{57106c8a-065d-4c82-8d1b-356965b734c0}</foreignId>
-     <text>I like it but I think I need a slightly smaller size.</text>
+     <text>J'aime mais je pense que j'ai besoin d'une taille légèrement plus petite.</text>
      <i18nText>I like it but I think I need a slightly smaller size.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{974c18ac-93f2-472b-853b-7df97bef02a8}</id>
      <foreignId>{0a2052e3-0143-461e-9011-10a5af2ff2f3}</foreignId>
-     <text>It does not fit.</text>
+     <text>Il ne convient pas.</text>
      <i18nText>It does not fit.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f8bcad1f-f374-42a0-9d2f-425a2ff6f16f}</id>
      <foreignId>{a4551120-2870-44da-9124-3a2967dc31af}</foreignId>
-     <text>Where do you have changing rooms?</text>
+     <text>Où avez-vous des vestiaires?</text>
      <i18nText>Where do you have changing rooms?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e2d0e22e-8847-4618-9f2f-4dd122df6baf}</id>
      <foreignId>{e45f0d16-e888-4c0f-8679-a723e88ec31e}</foreignId>
-     <text>I need to buy a new winter jacket.</text>
+     <text>J'ai besoin d'acheter un nouveau manteau d'hiver.</text>
      <i18nText>I need to buy a new winter jacket.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8eeb75bf-b481-4a73-a8f5-7bdc1972177a}</id>
      <foreignId>{cc1d85c9-fa38-48f0-aa78-20583be9f404}</foreignId>
-     <text>Please, take off your shoes.</text>
+     <text>S'il vous plaît, enlevez vos chaussures.</text>
      <i18nText>Please, take off your shoes.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{213ecca1-2900-4427-bf0b-2758814571d6}</id>
      <foreignId>{28e6e787-ae9d-41d9-b52c-bbf64154e952}</foreignId>
-     <text>Did you wash my white summer dress?</text>
+     <text>Avez-vous lavé ma robe d'été blanche?</text>
      <i18nText>Did you wash my white summer dress?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0929d78a-8c6e-4965-be07-42fd56cfa194}</id>
      <foreignId>{bf9c214b-197f-4ab1-bcd8-7ff0fae7e4de}</foreignId>
-     <text>You need to wear long sleeve shirt.</text>
+     <text>Vous devez porter une chemise à manches longues.</text>
      <i18nText>You need to wear long sleeve shirt.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1fab3a25-86f3-4a84-9161-03893ec0a087}</id>
      <foreignId>{af8bc51f-c740-49dc-94fa-d2fb78c8485a}</foreignId>
-     <text>He is wearing a red T-shirt and black trousers today.</text>
+     <text>Il est vêtu d'un T-shirt rouge et un pantalon noir aujourd'hui.</text>
      <i18nText>He is wearing a red T-shirt and black trousers today.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fa48690c-0512-4b79-914c-bdbee731628d}</id>
      <foreignId>{8888ce66-0fae-416a-b016-aa83f842f3f6}</foreignId>
-     <text>He bought her a gold ring.</text>
+     <text>Il lui a acheté une bague en or.</text>
      <i18nText>He bought her a gold ring.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{15fe5bb5-cb49-4907-ad72-a8369f783a79}</id>
      <foreignId>{e56c8862-4e3c-49ae-9423-57a1a521ea86}</foreignId>
-     <text>She looks very elegant.</text>
+     <text>Elle est très élégant.</text>
      <i18nText>She looks very elegant.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a3bde6fe-3093-4323-9b53-299d29c75285}</id>
      <foreignId>{a81f4f15-1b82-497a-94a1-fdbeac90dc3f}</foreignId>
-     <text>This mini skirt is a bit too short.</text>
+     <text>Cette mini jupe est un peu trop court.</text>
      <i18nText>This mini skirt is a bit too short.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1557aa22-a107-42dd-9f5d-d6afda1f46d0}</id>
      <foreignId>{a4f0fee7-038e-46b9-8c83-8c8757390c11}</foreignId>
-     <text>Take a hat and sunglasses. It is very sunny.</text>
+     <text>Prenez un chapeau et des lunettes de soleil. Il est très ensoleillé.</text>
      <i18nText>Take a hat and sunglasses. It is very sunny.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b3a645f5-aa33-4cd1-b132-67acaec5fd81}</id>
      <foreignId>{f7404f91-ce9b-4a0f-8fcb-bb0ff8538eb1}</foreignId>
-     <text>She prefers casual clothes. She usually wears blue jeans and a sweater to class.</text>
+     <text>Elle préfère des vêtements décontractés. Elle porte généralement des jeans et un pull en classe.</text>
      <i18nText>She prefers casual clothes. She usually wears blue jeans and a sweater to class.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -5397,31 +5397,31 @@
     <phrase>
      <id>{b7ab487e-f4f7-4cb1-890e-28c02017222b}</id>
      <foreignId>{270db466-be79-4c4b-b615-4c7be3139c83}</foreignId>
-     <text>Did you see Jim's new coat? It is very fashionable.</text>
+     <text>Avez-vous vu nouvelle couche de Jim? Il est très à la mode.</text>
      <i18nText>Did you see Jim's new coat? It is very fashionable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d08a3500-10db-4ac6-8da1-4054d487ca2a}</id>
      <foreignId>{28993b79-dfd1-496c-bf6b-28d23b4b73aa}</foreignId>
-     <text>She is so stylish! She must read all the fashion magazines.</text>
+     <text>Elle est tellement élégant! Elle doit lire tous les magazines de mode.</text>
      <i18nText>She is so stylish! She must read all the fashion magazines.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8ec86610-44f0-4a3a-ab91-b59e2ee7cab1}</id>
      <foreignId>{3fabd9f5-b36b-4113-957c-ac2b3dd50a15}</foreignId>
-     <text>I hate wearing high-heel shoes. They are always so uncomfortable.</text>
+     <text>Je déteste porter des souliers à talons hauts. Ils sont toujours aussi mal à l'aise.</text>
      <i18nText>I hate wearing high-heel shoes. They are always so uncomfortable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -5438,7 +5438,7 @@
      <i18nText>film</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5448,7 +5448,7 @@
      <i18nText>crime</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5458,47 +5458,47 @@
      <i18nText>thriller</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1c00d060-4b55-4442-8132-60e32c0e47f3}</id>
      <foreignId>{1af1e8a5-f8a4-478d-b8f9-4d0cb7f56b42}</foreignId>
-     <text>drama</text>
+     <text>drame</text>
      <i18nText>drama</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7961f8bd-2907-469b-aa9c-e2ac1243cfc2}</id>
      <foreignId>{349feb8f-4c0e-4365-aef1-1be4035e5eac}</foreignId>
-     <text>comedy</text>
+     <text>comédie</text>
      <i18nText>comedy</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{48082aeb-d0c2-4737-924d-5d46af97ce52}</id>
      <foreignId>{8975628f-e49d-427f-b58a-087e8153abf4}</foreignId>
-     <text>theatre</text>
+     <text>théâtre</text>
      <i18nText>theatre</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{650d42de-4295-43f7-a23c-d392bbf2a3eb}</id>
      <foreignId>{f30e3ceb-c032-4549-b9e6-e766a4924437}</foreignId>
-     <text>music</text>
+     <text>musique</text>
      <i18nText>music</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5508,7 +5508,7 @@
      <i18nText>rock</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5518,67 +5518,67 @@
      <i18nText>pop</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ddea8f8a-563e-4027-bb59-51b65ce324fd}</id>
      <foreignId>{f443e584-337c-437e-9a76-75e961c8ffae}</foreignId>
-     <text>book</text>
+     <text>livre</text>
      <i18nText>book</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ce3186b1-763e-4de3-85e7-1b87920d039e}</id>
      <foreignId>{311b06b6-8102-4da6-bfa2-549aee014468}</foreignId>
-     <text>novel</text>
+     <text>roman</text>
      <i18nText>novel</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9e01424d-4ed9-415f-a8f8-781e7ad5ce7c}</id>
      <foreignId>{9e252a1b-c527-48d6-a95a-1bc9ce675eed}</foreignId>
-     <text>author</text>
+     <text>auteur</text>
      <i18nText>author</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d7ae0c2c-b95a-49db-939c-474f8b20a5b9}</id>
      <foreignId>{bfacf17d-8122-45cb-aa27-d4bacd75b132}</foreignId>
-     <text>director</text>
+     <text>réalisateur</text>
      <i18nText>director</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ce69549b-25c4-4f93-a2ff-533de92e14d8}</id>
      <foreignId>{ac2b92c7-dd22-4931-b24b-3534ac978336}</foreignId>
-     <text>writer</text>
+     <text>écrivain</text>
      <i18nText>writer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{11e0353f-790e-4e57-bf15-fc1904bf7a7d}</id>
      <foreignId>{e170dc17-d24c-43de-b202-8258917ada18}</foreignId>
-     <text>read</text>
+     <text>lire</text>
      <i18nText>read</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5588,67 +5588,67 @@
      <i18nText>ballet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{34ced027-1df1-42fa-af0d-768336b65867}</id>
      <foreignId>{dbf84dc0-92b0-45c2-a20e-1b014bdb3252}</foreignId>
-     <text>actor</text>
+     <text>acteur</text>
      <i18nText>actor</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e3d8c082-5331-4bbe-bec9-d01f0bafbe7c}</id>
      <foreignId>{8d01ffe9-630c-4ac8-ac56-fada9f5e3202}</foreignId>
-     <text>nightclub</text>
+     <text>discothèque</text>
      <i18nText>nightclub</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c71601d4-bb6f-4670-8adc-4b28ba8ced09}</id>
      <foreignId>{2f613a60-5036-4304-a64e-4e61933f3ccc}</foreignId>
-     <text>circus</text>
+     <text>cirque</text>
      <i18nText>circus</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60caacd1-80db-49e2-b2ab-aa253efc0bc8}</id>
      <foreignId>{d00bcf38-abf0-4cca-9cdc-44e027aaf043}</foreignId>
-     <text>singer</text>
+     <text>chanteur</text>
      <i18nText>singer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8d2335c4-0986-4a3f-a1f6-a69d963ad354}</id>
      <foreignId>{9c9aa673-2851-4840-9ae1-13b01bb02628}</foreignId>
-     <text>composer</text>
+     <text>compositeur</text>
      <i18nText>composer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c77f949a-3f55-4e19-b0f0-2e1c0d145dd9}</id>
      <foreignId>{b653b385-22b2-4d15-9f25-c95fa24bb287}</foreignId>
-     <text>cartoon</text>
+     <text>dessin animé</text>
      <i18nText>cartoon</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5658,213 +5658,213 @@
      <i18nText>heavy metal</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ed14836b-208d-4f32-b6fc-4e3fea6940c8}</id>
      <foreignId>{237cf071-13b8-4521-abd1-3ab12e298c15}</foreignId>
-     <text>listen to music</text>
+     <text>écouter de la musique</text>
      <i18nText>listen to music</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6a0c2714-8e3a-42c1-a9ab-d98fdec9fdae}</id>
      <foreignId>{713e0a62-c5df-4858-89d5-8d3d4cc7e09f}</foreignId>
-     <text>go to the cinema</text>
+     <text>aller au cinéma</text>
      <i18nText>go to the cinema</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b28ad1b7-bb77-419f-99ef-52e5526da402}</id>
      <foreignId>{bfd46f10-08e0-433b-803d-5ea917a28302}</foreignId>
-     <text>movie night</text>
+     <text>soirée cinéma</text>
      <i18nText>movie night</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{07f6f51e-7661-4c25-b4af-9743f03aede2}</id>
      <foreignId>{8e8b1fed-8aee-4fe9-85ad-60bfab1ab2a0}</foreignId>
-     <text>go clubbing</text>
+     <text>aller en discothèque</text>
      <i18nText>go clubbing</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3848ad73-2dfe-427e-82e6-bc81993e808e}</id>
      <foreignId>{ad71538f-7e64-471e-bdb2-3a393504d176}</foreignId>
-     <text>meet friends</text>
+     <text>rencontrer des amis</text>
      <i18nText>meet friends</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c953ab1e-1b9a-4f63-affc-79f6c0552f27}</id>
      <foreignId>{51cf771c-1691-49d7-a135-f096e2284d7f}</foreignId>
-     <text>have drinks</text>
+     <text>aller pour les boissons</text>
      <i18nText>have drinks</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{81ed3916-c6ca-419e-a3f1-b9b60515fd3b}</id>
      <foreignId>{d02099ab-6a17-4811-b5e4-4dc045c0400b}</foreignId>
-     <text>chill out</text>
+     <text>se détendre</text>
      <i18nText>chill out</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{96a01c38-dd19-4c03-af5e-35f9c502ac81}</id>
      <foreignId>{d86ef931-ff7a-420f-8a20-d7efc768784f}</foreignId>
-     <text>play video games</text>
+     <text>jouer à des jeux vidéo</text>
      <i18nText>play video games</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c9fef7d-90ce-4857-a052-b2e48258b7ae}</id>
      <foreignId>{4cdf6ccd-185f-4e9f-a2b6-36e101bad70c}</foreignId>
-     <text>stay at home</text>
+     <text>rester à la maison</text>
      <i18nText>stay at home</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b0476fdd-7381-4b6d-81c5-d69594903c99}</id>
      <foreignId>{928a6958-184b-429c-9f57-7407753534cb}</foreignId>
-     <text>film star</text>
+     <text>star de cinéma</text>
      <i18nText>film star</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{204875b3-0db1-41f1-8091-94f803cfb21e}</id>
      <foreignId>{44a09652-3923-4a2d-8c66-0abca8e93eea}</foreignId>
-     <text>play a role</text>
+     <text>jouer un rôle</text>
      <i18nText>play a role</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{39193b76-aade-4dc0-9072-5d54abdcb221}</id>
      <foreignId>{e6407930-3461-43dd-a4dc-ce235d036617}</foreignId>
-     <text>science fiction movie</text>
+     <text>film de science-fiction</text>
      <i18nText>science fiction movie</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{19e8f8d3-914d-4b06-9bef-0ca73c9a2319}</id>
      <foreignId>{4118423f-38d5-4300-9f4c-cf23e420d7e7}</foreignId>
-     <text>attraction park</text>
+     <text>Le parc d'attraction</text>
      <i18nText>attraction park</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{81dd905e-1d6b-4cc1-9cb6-960c76c981b1}</id>
      <foreignId>{f7f6bb7c-2fa1-4ca2-9697-d818679e08f5}</foreignId>
-     <text>play the guitar</text>
+     <text>jouer de la guitare</text>
      <i18nText>play the guitar</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bdff986d-3bcf-4885-862e-ab7bbfbdd2d9}</id>
      <foreignId>{94319c5d-798e-42eb-987a-88dd1cd92142}</foreignId>
-     <text>animated movie</text>
+     <text>film d'animation</text>
      <i18nText>animated movie</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d1d05b27-081f-4107-9f7b-cd7a49e02b1f}</id>
      <foreignId>{8838e047-6749-443c-8e3b-ebc07b5d364f}</foreignId>
-     <text>action movie</text>
+     <text>film d'action</text>
      <i18nText>action movie</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7da8f331-e192-455f-bf73-419fd47b287c}</id>
      <foreignId>{d133dd10-4448-4853-81fd-57b3b088404a}</foreignId>
-     <text>star in a film</text>
+     <text>être une star dans un film</text>
      <i18nText>star in a film</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5fe0c2d0-590f-4cc0-8eb7-25bd273d2e7c}</id>
      <foreignId>{fea2b2d2-d084-4446-8dfe-68739f775218}</foreignId>
-     <text>We are going to the cinema tomorrow.</text>
+     <text>Nous allons au cinéma demain.</text>
      <i18nText>We are going to the cinema tomorrow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4fb30801-daa6-4f8a-a7ba-ee043acb830f}</id>
      <foreignId>{79416454-e9c9-445d-ae0a-858cf7938bad}</foreignId>
-     <text>Have you seen the latest Harry Potter movie?</text>
+     <text>Avez-vous vu le dernier film de Harry Potter?</text>
      <i18nText>Have you seen the latest Harry Potter movie?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{efe34ad3-2707-48ae-a7f0-3a78cfd6edcb}</id>
      <foreignId>{b226b063-4388-44db-bffa-2044c19a31e4}</foreignId>
-     <text>I like classical music.</text>
+     <text>J'aime la musique classique.</text>
      <i18nText>I like classical music.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b10444be-bba4-43c3-9f9b-ff192a1c1fdc}</id>
      <foreignId>{3ca17d48-65eb-41ad-9dde-61151cd7befe}</foreignId>
-     <text>Argo is a 2012 historical drama thriller film directed by Ben Affleck.</text>
+     <text>Argo est un film de thriller drame historique de duex mille douze réalisé par Ben Affleck.</text>
      <i18nText>Argo is a 2012 historical drama thriller film directed by Ben Affleck.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5874,77 +5874,77 @@
     <phrase>
      <id>{07979e7b-e3d8-4370-b866-0d184889e435}</id>
      <foreignId>{b9234c78-3726-40ed-98ed-05ea93c9fe75}</foreignId>
-     <text>This movie is based on the novel.</text>
+     <text>Ce film est basé sur le roman.</text>
      <i18nText>This movie is based on the novel.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d92e60b7-170f-445f-b850-fa53f6e6640d}</id>
      <foreignId>{1aada1d4-f8d4-47ae-9301-0aea890d36b9}</foreignId>
-     <text>Steven Spielberg is a famous director.</text>
+     <text>Steven Spielberg est un réalisateur célèbre.</text>
      <i18nText>Steven Spielberg is a famous director.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a2fd7d03-8a41-478b-a974-20751825277c}</id>
      <foreignId>{063e8b2f-5be3-4b5f-9d89-da387f4275a2}</foreignId>
-     <text>Let's go out tonight.</text>
+     <text>Sortons ce soir.</text>
      <i18nText>Let's go out tonight.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{733e4c2b-9b55-4acf-885a-c7fd44ef4dfc}</id>
      <foreignId>{1b5bd79a-c9d0-4833-8949-cd012418ba73}</foreignId>
-     <text>I read three or four books every month.</text>
+     <text>J'ai lu trois ou quatre livres par mois.</text>
      <i18nText>I read three or four books every month.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ba2ce613-2f9f-48cc-9f4f-7f9535b3bee7}</id>
      <foreignId>{46ccb2ef-0d02-499b-b795-0a1c10afe2ac}</foreignId>
-     <text>Shakira is a Colombian pop singer.</text>
+     <text>Shakira est une chanteuse pop colombienne.</text>
      <i18nText>Shakira is a Colombian pop singer.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0dc02bc3-24cb-4d44-91d1-9f2c8a5796d4}</id>
      <foreignId>{e5e66768-a64c-44ce-8ca3-65f58932b6ae}</foreignId>
-     <text>We have seen a magician show last week.</text>
+     <text>Nous avons vu un spectacle de magicien semaine dernière.</text>
      <i18nText>We have seen a magician show last week.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7be0214-ec5e-4fa6-8366-63e6b01d1c84}</id>
      <foreignId>{47301ecc-12b0-4b6e-b4d0-0b728a7fe81b}</foreignId>
-     <text>Nowadays most towns have multiplex cinemas.</text>
+     <text>Aujourd'hui, la plupart des villes ont des cinémas multiplex.</text>
      <i18nText>Nowadays most towns have multiplex cinemas.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ba381d40-9842-4547-a7b8-63fae5c737da}</id>
      <foreignId>{868d446a-b896-4ba4-952c-7be65f996e67}</foreignId>
-     <text>In theatres you can see plays, musicals or pantomimes.</text>
+     <text>Dans les salles, vous pouvez voir des pièces de théâtre, des comédies musicales ou des pantomimes.</text>
      <i18nText>In theatres you can see plays, musicals or pantomimes.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5954,67 +5954,67 @@
     <phrase>
      <id>{49211f63-14e4-4234-8a39-2eb33e95d088}</id>
      <foreignId>{4e7dbcaa-2b19-4721-b169-a9ccbd005257}</foreignId>
-     <text>Many people go to their local pub where they can play darts or pool.</text>
+     <text>Beaucoup de gens vont à leur pub local où ils peuvent jouer aux fléchettes ou au billard.</text>
      <i18nText>Many people go to their local pub where they can play darts or pool.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{edc82507-7cd5-4c12-ba97-b8b11f48e797}</id>
      <foreignId>{c5fd918a-e8b6-414c-9436-e63a3788f77f}</foreignId>
-     <text>Jennifer Aniston is a Hollywood actress.</text>
+     <text>Jennifer Aniston est une actrice d'Hollywood.</text>
      <i18nText>Jennifer Aniston is a Hollywood actress.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{36683ce0-f3d5-41c8-bd97-6a4dc0fbd077}</id>
      <foreignId>{5f03c6eb-e1de-476a-8feb-aeb8a417ca77}</foreignId>
-     <text>At the weekend, younger people often go to a local disco.</text>
+     <text>Le week-end, les jeunes vont souvent à une discothèque locale.</text>
      <i18nText>At the weekend, younger people often go to a local disco.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{82531a06-a61d-40c0-a0b3-0cede1945bb7}</id>
      <foreignId>{99c8356a-65aa-4155-b14b-87b9c4bd9b17}</foreignId>
-     <text>There will be a concert of folk music at the town square.</text>
+     <text>Il y aura un concert de musique folklorique sur la place du village.</text>
      <i18nText>There will be a concert of folk music at the town square.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7901d1dc-c077-4ccc-b85a-382e9a0a4b09}</id>
      <foreignId>{062656a3-e80d-47f4-8591-ad24650aad1e}</foreignId>
-     <text>Do you like going to the theatre?</text>
+     <text>Aimez-vous aller au théâtre?</text>
      <i18nText>Do you like going to the theatre?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6831e11e-58de-48e5-b13c-acbc829f8482}</id>
      <foreignId>{26f54c0f-0d3e-4ffc-944c-f11125676812}</foreignId>
-     <text>This play got very good reviews.</text>
+     <text>Ce jeu a obtenu de très bonnes critiques.</text>
      <i18nText>This play got very good reviews.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ed7ff1f5-7270-4f01-9dcd-46a8bc131485}</id>
      <foreignId>{6b9226a1-7b40-41c2-a8e7-57c00f1e9ee7}</foreignId>
-     <text>What row do you like to sit in?</text>
+     <text>Que rangée aimez-vous vous asseoir dedans?</text>
      <i18nText>What row do you like to sit in?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6024,67 +6024,67 @@
     <phrase>
      <id>{b61d372e-203e-46d3-928b-572f568dbcbf}</id>
      <foreignId>{8963c3a1-ed0c-4808-9dc5-dd40903918da}</foreignId>
-     <text>I will ll try to find good seats for tonight show.</text>
+     <text>Je vais essayer vais trouver de bonnes places pour ce soir spectacle.</text>
      <i18nText>I will ll try to find good seats for tonight show.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f992f713-ecd8-433e-ad02-22abf8cacce3}</id>
      <foreignId>{fb82b0b1-49de-4b40-82d4-3566d18a6b2c}</foreignId>
-     <text>The circus brings the best magicians and clowns.</text>
+     <text>Le cirque apporte les meilleurs magiciens et des clowns.</text>
      <i18nText>The circus brings the best magicians and clowns.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d1fe4bcf-3873-4b63-9aeb-0ff345b65dd4}</id>
      <foreignId>{d843e00f-f846-41a8-8030-cbc4848195d7}</foreignId>
-     <text>They specialize in making fun of the audience.</text>
+     <text>Ils se spécialisent dans la fabrication plaisir de l'auditoire.</text>
      <i18nText>They specialize in making fun of the audience.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8fa1b287-babc-40a3-9ccf-1101fc6ad184}</id>
      <foreignId>{d2795df4-4fe5-4bf4-a265-be2ca10a98d6}</foreignId>
-     <text>I'm exhausted. I'm going to stay at home and watch a movie.</text>
+     <text>Je suis épuisé. Je vais rester à la maison et regarder un film.</text>
      <i18nText>I'm exhausted. I'm going to stay at home and watch a movie.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f81e6767-b9aa-48fb-9b17-2594047a0b79}</id>
      <foreignId>{b784d7ef-b18d-4568-9f71-4cd44fb2e741}</foreignId>
-     <text>This book is about police investigator. I really recommend it if you like crime stories.</text>
+     <text>Ce livre est d'environ enquêteur de la police. Je recommande vraiment si vous aimez les histoires de crimes.</text>
      <i18nText>This book is about police investigator. I really recommend it if you like crime stories.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b74176eb-f109-48a1-b438-fb2c7de8509a}</id>
      <foreignId>{31a71925-8837-4df9-be1c-7d7de8e244e5}</foreignId>
-     <text>Each year Rio de Janeiro hosts the biggest carnival in the world. The tradition dates back to 1823.</text>
+     <text>Chaque année, Rio de Janeiro accueille le plus grand carnaval du monde. La tradition remonte à mille huit cent vingt-trois.</text>
      <i18nText>Each year Rio de Janeiro hosts the biggest carnival in the world. The tradition dates back to 1823.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9cac4fe8-fc40-4a36-8ea5-cde50b94f3b9}</id>
      <foreignId>{a6e9b7e2-aa81-4607-a234-e105cfcd9ffd}</foreignId>
-     <text>This movie has won three Oscars last year. It is an absolute must see.</text>
+     <text>Ce film a remporté trois Oscars l'année dernière. Il est un must absolu.</text>
      <i18nText>This movie has won three Oscars last year. It is an absolute must see.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -6101,671 +6101,671 @@
     <phrase>
      <id>{6e4038ac-93a9-4a99-b9ad-30d4d68dd3be}</id>
      <foreignId>{978ea2b2-bba3-4d3a-a075-b9b653573170}</foreignId>
-     <text>head</text>
+     <text>tête</text>
      <i18nText>head</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{28398b6c-01f6-49f7-a5ba-7cbbbc330036}</id>
      <foreignId>{9c6053f1-44ce-4121-9b9b-e5d96902f35f}</foreignId>
-     <text>eye</text>
+     <text>oeil</text>
      <i18nText>eye</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7d6298c2-cfb2-4728-95c0-aaf7bd2eb371}</id>
      <foreignId>{c276be5f-d8b3-4a62-a260-e1ae864a8864}</foreignId>
-     <text>mouth</text>
+     <text>bouche</text>
      <i18nText>mouth</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6e58b3e6-0a82-48ec-9710-75d0aea36220}</id>
      <foreignId>{50937b19-99a7-465f-ae46-01f32e3a9fa4}</foreignId>
-     <text>nose</text>
+     <text>nez</text>
      <i18nText>nose</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d4af71b8-ae23-4fde-97c8-9062697c78bb}</id>
      <foreignId>{6c71d1cd-df66-4d12-9107-3f7a8655407b}</foreignId>
-     <text>ear</text>
+     <text>oreille</text>
      <i18nText>ear</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{61e76a3f-5180-42e6-a4a1-81070d9752d5}</id>
      <foreignId>{3341f1a2-0248-4786-af3c-43151c5e2995}</foreignId>
-     <text>chin</text>
+     <text>menton</text>
      <i18nText>chin</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dc7b0f08-bfdd-4b16-8deb-8c20fd32a542}</id>
      <foreignId>{a17a067d-57c7-4f7b-b777-7a52ec2a28a3}</foreignId>
-     <text>neck</text>
+     <text>cou</text>
      <i18nText>neck</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77ed6a84-b10c-4601-a9d1-6f9ef883cb30}</id>
      <foreignId>{936cc123-0231-4973-8221-1ce02a00131b}</foreignId>
-     <text>arm</text>
+     <text>bras</text>
      <i18nText>arm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{36a29080-4e00-43d3-abd6-7604339bb165}</id>
      <foreignId>{228bb20f-2d77-4350-bbb6-4456c9345306}</foreignId>
-     <text>hand</text>
+     <text>main</text>
      <i18nText>hand</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{61e79c92-2907-4218-ab1f-95b74cd82ac4}</id>
      <foreignId>{b333684c-90fc-4915-a44c-a2d48e54a28a}</foreignId>
-     <text>finger</text>
+     <text>doigt</text>
      <i18nText>finger</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5b4ab94f-ac1c-4e33-8a28-a19ff30689ec}</id>
      <foreignId>{421bfeb0-4b74-4fc7-a956-b61ef0bd54e6}</foreignId>
-     <text>stomach</text>
+     <text>estomac</text>
      <i18nText>stomach</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77446251-6921-4c3f-9107-476b69480687}</id>
      <foreignId>{5e570f2a-f0d5-4103-ba9b-0346b8d8f4b2}</foreignId>
-     <text>thigh</text>
+     <text>cuisse</text>
      <i18nText>thigh</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1fc980db-13a5-45f9-9ed7-47a791c6ee1c}</id>
      <foreignId>{4fb53603-4ffb-4716-8a71-8aeda31258a5}</foreignId>
-     <text>chest</text>
+     <text>buste</text>
      <i18nText>chest</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ab679939-bb33-4d82-9007-b30df32c4472}</id>
      <foreignId>{8683e6c5-b482-4a6b-b533-c7862c0b6b2f}</foreignId>
-     <text>shoulder</text>
+     <text>épaule</text>
      <i18nText>shoulder</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0ed82ad3-b494-479f-be5b-b9e0fe7609a3}</id>
      <foreignId>{a29e6480-b689-43ac-b9bd-1589478476bc}</foreignId>
-     <text>leg</text>
+     <text>jambe</text>
      <i18nText>leg</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{638eb7ca-3f4e-421e-b0b9-851840f14d46}</id>
      <foreignId>{b307f466-e262-45a6-9b6b-a7bdd79fa5d7}</foreignId>
-     <text>knee</text>
+     <text>genou</text>
      <i18nText>knee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f54204e8-019b-47dc-b457-4864496b78a4}</id>
      <foreignId>{f9c0d813-e3cd-48c3-938a-8e6b6299353c}</foreignId>
-     <text>ankle</text>
+     <text>cheville</text>
      <i18nText>ankle</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{070df2df-0fb1-4f9c-8b16-6870472a2397}</id>
      <foreignId>{83389629-c64a-4be6-950f-da89ba7d543a}</foreignId>
-     <text>foot</text>
+     <text>pied</text>
      <i18nText>foot</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9a69a31b-06f2-48af-9d0b-cda88eb67c25}</id>
      <foreignId>{6f9b3358-e758-4878-b308-2d60723d8e4e}</foreignId>
-     <text>toe</text>
+     <text>doigt de pied</text>
      <i18nText>toe</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6961ca37-12a3-484a-88bb-cf4c85f4f6ba}</id>
      <foreignId>{369ec525-984b-44b2-bad9-f7a32d8c5399}</foreignId>
-     <text>palm</text>
+     <text>paume</text>
      <i18nText>palm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{447cebb0-1611-4825-aea9-654dfc35fa5e}</id>
      <foreignId>{73c9762b-4ded-4c16-96b0-4348a212157b}</foreignId>
-     <text>elbow</text>
+     <text>coude</text>
      <i18nText>elbow</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{23e41c07-77aa-4ea1-a16c-14a24cb3831d}</id>
      <foreignId>{f28131a9-a47d-478e-83a4-fc81ab22f5f1}</foreignId>
-     <text>have a fever</text>
+     <text>avoir de la fièvre</text>
      <i18nText>have a fever</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3d37cb33-b50c-40fe-80fd-b3be966b360d}</id>
      <foreignId>{13fe6af4-66a2-4f2a-a33a-fd240d14c7b4}</foreignId>
-     <text>cut a finger</text>
+     <text>couper un doigt</text>
      <i18nText>cut a finger</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d7198bcc-e3de-495b-95b1-e88387fc6f79}</id>
      <foreignId>{f1deaf55-7158-4dc5-87e0-2796476c107a}</foreignId>
-     <text>get a cold</text>
+     <text>obtenir un froid</text>
      <i18nText>get a cold</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{27c5fe5f-468f-478a-a3d3-ae3b779be294}</id>
      <foreignId>{480eaaa7-8592-4a83-9579-4277bf21e196}</foreignId>
-     <text>break an arm</text>
+     <text>casser un bras</text>
      <i18nText>break an arm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{38a0646e-b95e-4dad-afc0-0fe4cfd63fa5}</id>
      <foreignId>{7567aeea-cbb1-4d94-bd59-f799cd55ed99}</foreignId>
-     <text>be in pain</text>
+     <text>être dans la douleur</text>
      <i18nText>be in pain</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4ea466b8-5b3f-4a53-b314-980dcc5fa69b}</id>
      <foreignId>{5a0b73b0-d6ad-4019-bda5-0aa48c7ec8c7}</foreignId>
-     <text>get an injection</text>
+     <text>recevoir une injection</text>
      <i18nText>get an injection</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{981097c0-06b5-4dcd-8eab-eea47280cd69}</id>
      <foreignId>{4b1ad981-4ee7-4fd7-a50a-052a78d2358c}</foreignId>
-     <text>blood pressure</text>
+     <text>la pression artérielle</text>
      <i18nText>blood pressure</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3e1d8713-9b7f-4cfa-aba6-cfcbbd615b10}</id>
      <foreignId>{d5dc99e7-a458-4698-b947-bbee0b13a5bd}</foreignId>
-     <text>have a soar knee</text>
+     <text>avoir un genou soar</text>
      <i18nText>have a soar knee</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{32c6a5d4-86ca-4f3f-bfe2-824932abf774}</id>
      <foreignId>{9fbe9bea-6dae-4a0c-b8a5-994c3c318782}</foreignId>
-     <text>be sick</text>
+     <text>être malade</text>
      <i18nText>be sick</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5c162281-aa2f-4236-9a8a-bf35160d7589}</id>
      <foreignId>{25f392c9-fa60-41ca-8e59-cfb72d759b30}</foreignId>
-     <text>have a stomachache</text>
+     <text>avoir un mal de ventre</text>
      <i18nText>have a stomachache</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c2da7960-48f4-4e74-b391-401a60372897}</id>
      <foreignId>{641a29aa-c450-4267-bd38-4ef7a070f16e}</foreignId>
-     <text>x-ray scan</text>
+     <text>balayage à rayons X</text>
      <i18nText>x-ray scan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b8d327b5-43d1-42c4-bb2c-74832ce3f969}</id>
      <foreignId>{74c66cf2-4b6c-41b8-b9e6-f87d21ed3c0d}</foreignId>
-     <text>cut down on drinking</text>
+     <text>réduire le boire</text>
      <i18nText>cut down on drinking</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a277c355-e14c-478b-8f63-57836007812d}</id>
      <foreignId>{d3389bb8-8825-4daf-bc36-258be516476d}</foreignId>
-     <text>take pills</text>
+     <text>prendre des pilules</text>
      <i18nText>take pills</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{48980e36-e609-44bd-b719-6662728f4108}</id>
      <foreignId>{33d6ed14-32c4-4b90-ba03-98e580847cf0}</foreignId>
-     <text>have a black eye</text>
+     <text>avoir un œil au beurre noir</text>
      <i18nText>have a black eye</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{98d59fba-2a9b-4a3a-b0b6-4f86deb6abad}</id>
      <foreignId>{e5de73c1-78b5-4079-9f64-f1c451d0c288}</foreignId>
-     <text>sick note</text>
+     <text>arrêt de travail</text>
      <i18nText>sick note</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{48639739-1e13-46b4-a25d-6dcf6f019ca9}</id>
      <foreignId>{c15b2d06-1a3f-4137-9993-25334d2b79e2}</foreignId>
-     <text>be congested</text>
+     <text>être congestionné</text>
      <i18nText>be congested</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d9664904-5f37-4ac9-91e9-33c7196dd859}</id>
      <foreignId>{28dbc507-6f11-46fb-b891-9b8ab2e26c0d}</foreignId>
-     <text>pull a muscle</text>
+     <text>tirer un muscle</text>
      <i18nText>pull a muscle</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f849257b-8437-4c60-a668-d5b3e867379c}</id>
      <foreignId>{04dd9571-8b9d-48d8-8eaf-47330b972473}</foreignId>
-     <text>have diarrhoea</text>
+     <text>avoir la diarrhée</text>
      <i18nText>have diarrhoea</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{31c02f9b-bec9-4f82-9b32-f4759cfe8175}</id>
      <foreignId>{5b97090f-f005-48cb-8fb0-dc893085a60b}</foreignId>
-     <text>have little energy</text>
+     <text>avoir peu d'énergie</text>
      <i18nText>have little energy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{20b65f01-bb99-47ce-bdff-19a577f1ff84}</id>
      <foreignId>{34df363f-3c78-4b3b-be35-738b0f96d48c}</foreignId>
-     <text>insulin injection</text>
+     <text>injection d'insuline</text>
      <i18nText>insulin injection</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{91a6fca2-0b09-4b95-915f-262cfc476e83}</id>
      <foreignId>{646c91b5-94ef-4c29-a592-c621ba18f5d0}</foreignId>
-     <text>I have a appointment with a nurse tomorrow.</text>
+     <text>J'ai un rendez-vous avec une infirmière demain.</text>
      <i18nText>I have a appointment with a nurse tomorrow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{05466cff-cb81-4c69-8772-f2b825112250}</id>
      <foreignId>{c35f8724-1f65-4ced-9741-9cdb75a4999b}</foreignId>
-     <text>Do you have medical insurance?</text>
+     <text>Avez-vous une assurance médicale?</text>
      <i18nText>Do you have medical insurance?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b9b4bf5d-7589-4eee-8b4b-092a029fd64d}</id>
      <foreignId>{c23f86d9-d69e-499c-a7a6-0bf2a71d0687}</foreignId>
-     <text>What are your symptoms?</text>
+     <text>Quels sont vos symptômes?</text>
      <i18nText>What are your symptoms?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6956b9fd-5e6d-44d2-bb05-e1c1f128dc98}</id>
      <foreignId>{33c96725-15cd-4fb7-beb8-9b15334efeff}</foreignId>
-     <text>I have got a pain in my back.</text>
+     <text>J'ai une douleur dans mon dos.</text>
      <i18nText>I have got a pain in my back.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8693d5a8-0749-42b4-9563-8da7c68e438c}</id>
      <foreignId>{acc3b824-3234-460d-98bd-d4713a292373}</foreignId>
-     <text>It is prescription for the chemist.</text>
+     <text>C'est prescription pour le chimiste.</text>
      <i18nText>It is prescription for the chemist.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1021f775-af90-40bd-b9c1-1f497bec77a1}</id>
      <foreignId>{6c22be49-47a7-4d6b-a0e1-cef8be5bec90}</foreignId>
-     <text>I am having difficulty with breathing.</text>
+     <text>J'ai de la difficulté à respirer.</text>
      <i18nText>I am having difficulty with breathing.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77a3c6ba-82f1-4280-8c0b-7192ebc5196b}</id>
      <foreignId>{128eb6bc-f971-4cb0-bfe0-d4e6872189d5}</foreignId>
-     <text>Do you have any allergies?</text>
+     <text>Avez-vous des allergies?</text>
      <i18nText>Do you have any allergies?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{95123318-41e1-4101-97a5-3c776b6efd28}</id>
      <foreignId>{5a1a34fa-f19e-4b82-ba55-32b99038c292}</foreignId>
-     <text>You need to loose some weight.</text>
+     <text>Vous avez besoin de perdre du poids.</text>
      <i18nText>You need to loose some weight.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89c2bb43-4d8b-4a59-9a74-79fee0a2b1d5}</id>
      <foreignId>{7e30c1e7-c7b6-4321-b5c5-24ec5d71d0bb}</foreignId>
-     <text>Take three of these pills a day.</text>
+     <text>Prenez trois de ces pilules par jour.</text>
      <i18nText>Take three of these pills a day.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e9b96574-789a-4612-beed-49db4c49f0ac}</id>
      <foreignId>{69dbc8cf-1dd6-4835-a3c7-3099c6929b65}</foreignId>
-     <text>A nurse needs to take your blood sample.</text>
+     <text>Une infirmière a besoin de prendre votre échantillon de sang.</text>
      <i18nText>A nurse needs to take your blood sample.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{83867f94-97c4-464b-a0d8-5051d41d6f53}</id>
      <foreignId>{49e587dd-a8c2-4155-ba30-a63cd85c6391}</foreignId>
-     <text>Are you on any sort of medication?</text>
+     <text>Êtes-vous sur toute sorte de médicaments?</text>
      <i18nText>Are you on any sort of medication?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e05992f4-410f-439a-a83a-61be0b3e4b11}</id>
      <foreignId>{3e297d69-18d3-47ee-a676-75608f5e5f0e}</foreignId>
-     <text>I am going to prescribe you some strong antibiotics.</text>
+     <text>Je vais vous prescrire des antibiotiques puissants.</text>
      <i18nText>I am going to prescribe you some strong antibiotics.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{06404f13-5330-47e1-a8bc-9380c35ef092}</id>
      <foreignId>{88ea6e83-482f-4861-99d1-e22606668568}</foreignId>
-     <text>My temperature is a little bit high.</text>
+     <text>Ma température est un peu élevé.</text>
      <i18nText>My temperature is a little bit high.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b5f2f7c3-aaf8-47c2-af18-31aff7de24f0}</id>
      <foreignId>{11871be1-c4ba-4d6d-9302-d693b89c86ee}</foreignId>
-     <text>Does it hurt when I press here?</text>
+     <text>Ça fait mal quand j'appuie ici?</text>
      <i18nText>Does it hurt when I press here?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c19c82d5-8450-48c2-8437-a2ff1ecb6597}</id>
      <foreignId>{c5987882-f550-43cd-8487-d58f0c1c3e97}</foreignId>
-     <text>Open your moth, please.</text>
+     <text>Ouvrez la bouche, s'il vous plaît.</text>
      <i18nText>Open your mouth, please.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{659e1de3-fadc-4c98-97ca-c265022694e5}</id>
      <foreignId>{d5f91e4c-ef33-43c8-bda4-e614ef7810c1}</foreignId>
-     <text>Do you have any doctors who speak English?</text>
+     <text>Avez-vous des médecins qui parlent anglais?</text>
      <i18nText>Do you have any doctors who speak English?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{82c31eb5-7f5a-46eb-b7c3-fb5a30ccc839}</id>
      <foreignId>{fd391f4e-9c52-4c2a-9284-a5fe42b4527c}</foreignId>
-     <text>I am diabetic.</text>
+     <text>Je suis diabétique.</text>
      <i18nText>I am diabetic.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c19ae9e4-56f3-4697-8d7c-a6587a2f4874}</id>
      <foreignId>{1d85facc-2ddf-41e9-b6c6-668834000f1f}</foreignId>
-     <text>We are going to put a plaster on you knee.</text>
+     <text>Nous allons mettre un plâtre sur vous genou.</text>
      <i18nText>We are going to put a plaster on you knee.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77d0ed75-8e66-49c4-9772-308d996e87df}</id>
      <foreignId>{0059416d-8c54-45dc-b507-47130a0331f7}</foreignId>
-     <text>You should give up smoking.</text>
+     <text>Vous devriez arrêter de fumer.</text>
      <i18nText>You should give up smoking.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b9c05668-166d-409b-a635-148728bdcfa2}</id>
      <foreignId>{ebf60531-1caf-4e00-8b2f-a07eff8e868e}</foreignId>
-     <text>There is a possibility you might be pregnant.</text>
+     <text>Il ya une possibilité que vous pourriez être enceinte.</text>
      <i18nText>There is a possibility you might be pregnant.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{26c18358-665b-40cd-abe3-1b5a27dea403}</id>
      <foreignId>{a80f87ab-be88-4a07-9bc8-84d2209f3139}</foreignId>
-     <text>I do not fell very well. I think I need to see a doctor.</text>
+     <text>Je ne me sens pas très bien. Je pense que j'ai besoin de voir un médecin.</text>
      <i18nText>I do not fell very well. I think I need to see a doctor.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1e320951-6a76-4f1d-84d6-315576b5d6c5}</id>
      <foreignId>{be62ccf5-b7e8-4758-90bd-8976d5a2f9c3}</foreignId>
-     <text>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</text>
+     <text>Je me sens déprimé et j'ai eu de la difficulté à dormir. Pourriez-vous me donner un rendez-vous avec un spécialiste dans les prochains jours?</text>
      <i18nText>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b112a359-07e7-4996-93f8-c448343b8d25}</id>
      <foreignId>{adb8fa13-592c-4637-80c1-1051254655f9}</foreignId>
-     <text>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</text>
+     <text>Y at-il des effets secondaires de ce médicament? J'ai aussi oublié de mentionner que je suis allergique à la pénicilline.</text>
      <i18nText>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{20bd059a-ed62-4bbc-a2f8-3ebef6a06067}</id>
      <foreignId>{a7f8f39f-40db-4d65-af85-71d8365846d8}</foreignId>
-     <text>There are several patients in the lobby waiting for medical exams. Hopefully the doctor will be able to see you in about an hour.</text>
+     <text>Il ya plusieurs patients dans le hall d'attente pour les examens médicaux. Espérons que le médecin sera en mesure de vous voir dans une heure environ.</text>
      <i18nText>There are several patients in the lobby waiting for medical exams. Hopefully the doctor will be able to see you in about an hour.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c78a620-556f-477c-9503-aa63067732e1}</id>
      <foreignId>{eae50b0c-2924-47e1-a9e1-8e4d3653c0b3}</foreignId>
-     <text>After asking a few questions, the doctor's diagnosis was that I had a bacterial infection. She wrote me out a prescription.</text>
+     <text>Après avoir posé quelques questions, le diagnostic du médecin, c'est que j'avais une infection bactérienne. Elle m'a écrit une prescription.</text>
      <i18nText>After asking a few questions, the doctor's diagnosis was that I had a bacterial infection. She wrote me out a prescription.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{36f5231b-a400-4b87-83ba-4c03c5e14ddb}</id>
      <foreignId>{dd4539d6-e3fd-4ba3-baf3-1847f213084b}</foreignId>
-     <text>My grandmother suggested that I need to eat chicken soup. I will try this tomorrow and if it does not help I will see a specialist.</text>
+     <text>Ma grand-mère a suggéré que je dois manger de la soupe de poulet. Je vais essayer demain et si cela n'aide pas, je vais voir un spécialiste.</text>
      <i18nText>My grandmother suggested that I need to eat chicken soup. I will try this tomorrow and if it does not help I will see a specialist.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
