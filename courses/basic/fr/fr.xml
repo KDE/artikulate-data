@@ -1217,186 +1217,186 @@
   <unit>
    <id>{cc94a958-97e0-4e6d-b0ed-ff5e2ee425ab}</id>
    <foreignId>{53705f4a-2a84-476d-90bf-aea23d6df487}</foreignId>
-   <title>Family</title>
+   <title>Famille</title>
    <phrases>
     <phrase>
      <id>{19c2cf6f-4fd0-4006-9eff-52fd19ca8f97}</id>
      <foreignId>{a45209f9-2797-4b21-9e5f-cd2f65417515}</foreignId>
-     <text>mother</text>
+     <text>mère</text>
      <i18nText>mother</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e0aef554-ef3e-448f-ac10-637f990615a5}</id>
      <foreignId>{f13aa413-12db-4ac4-970f-a049a02b7e30}</foreignId>
-     <text>father</text>
+     <text>père</text>
      <i18nText>father</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e8de7ca4-ae66-4452-afcb-70d64b7c86a7}</id>
      <foreignId>{7cef4738-6d85-4685-a781-46a5a52d1af7}</foreignId>
-     <text>uncle</text>
+     <text>oncle</text>
      <i18nText>uncle</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{41fa3502-dc17-4777-83ec-a37015748334}</id>
      <foreignId>{bcfd006d-c3e8-49ef-bc08-0768c18c9cbe}</foreignId>
-     <text>aunt</text>
+     <text>tante</text>
      <i18nText>aunt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{874b1abf-f40c-47b5-ac69-050d6f7c7973}</id>
      <foreignId>{b81fd88c-bc00-4aea-a9cc-9489e566a00a}</foreignId>
-     <text>brother</text>
+     <text>frère</text>
      <i18nText>brother</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ebdc807c-1465-4c8d-bfff-c59246adf12c}</id>
      <foreignId>{ca56ec04-0662-425d-ae9d-4f282a342fb5}</foreignId>
-     <text>sister</text>
+     <text>soeur</text>
      <i18nText>sister</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{70c3a1a6-b012-4a44-9657-a5cabc12b49d}</id>
      <foreignId>{65f2a6bd-5be6-4169-afb5-3581f8e06078}</foreignId>
-     <text>grandmother</text>
+     <text>grand-mère</text>
      <i18nText>grandmother</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{05251666-9b29-497a-8df5-6ee301cb0504}</id>
      <foreignId>{108a4ddf-8c9b-4632-9188-0a7cfda508a1}</foreignId>
-     <text>grandfather</text>
+     <text>grand-père</text>
      <i18nText>grandfather</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0417bc69-7ce9-4cc4-acfb-e61b5150ffa4}</id>
      <foreignId>{5c475011-d85f-47fa-9dd5-d83b230145f9}</foreignId>
-     <text>daughter</text>
+     <text>fille</text>
      <i18nText>daughter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{552a41ad-b3c2-4b3e-ae5c-87c905f4465c}</id>
      <foreignId>{c5ac8139-5acc-4c5e-b458-7cccdffa7105}</foreignId>
-     <text>son</text>
+     <text>fil</text>
      <i18nText>son</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b00a77bc-8beb-4371-a511-c79f1fb5a49c}</id>
      <foreignId>{4a17e0b5-117f-4123-aa09-699debeb26d5}</foreignId>
-     <text>siblings</text>
+     <text>frères et sœurs</text>
      <i18nText>siblings</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{538ccab9-8ed9-4f2e-a257-ed3b85784434}</id>
      <foreignId>{3da7d5bb-73a4-4a15-92e7-b28f08fec585}</foreignId>
-     <text>grandson</text>
+     <text>petit-fils</text>
      <i18nText>grandson</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60834c5f-f1c8-4cf6-9a16-a3f6a6e7f033}</id>
      <foreignId>{ff3ca9c7-09fc-42f8-bd91-807ef443acea}</foreignId>
-     <text>granddaughter</text>
+     <text>petite-fille</text>
      <i18nText>granddaughter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6fc92874-0a4a-4b8c-8407-5dab38995525}</id>
      <foreignId>{56ff75ed-c079-467a-b702-d83e2aa940ec}</foreignId>
-     <text>wife</text>
+     <text>femme</text>
      <i18nText>wife</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{59ba7955-ee76-49f5-9ce1-359a88df5b30}</id>
      <foreignId>{e9d6f3c9-2adc-44da-b376-c47033d941dc}</foreignId>
-     <text>husband</text>
+     <text>mari</text>
      <i18nText>husband</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0f19f632-ebfd-4440-bdea-0fdd654db532}</id>
      <foreignId>{650e213c-3aa1-4c00-89d3-ae708208c742}</foreignId>
-     <text>niece</text>
+     <text>nièce</text>
      <i18nText>niece</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{456ff6ae-aad0-443d-8457-4a95e0f997d1}</id>
      <foreignId>{6a867158-3c7f-48b7-9161-ea7317efe3f9}</foreignId>
-     <text>nephew</text>
+     <text>neveu</text>
      <i18nText>nephew</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{03e4d7f4-4def-48f0-a93d-6bf1bf66d46b}</id>
      <foreignId>{89a5acb9-f4c3-44ec-abde-a2eb538f9eec}</foreignId>
-     <text>spouse</text>
+     <text>époux</text>
      <i18nText>spouse</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1406,7 +1406,7 @@
      <i18nText>marriage</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1416,367 +1416,367 @@
      <i18nText>couple</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dcf3d3d4-c817-4d15-8300-f551e34e9653}</id>
      <foreignId>{65b33bbd-a5ba-45df-9b96-292e493220d5}</foreignId>
-     <text>cousin</text>
+     <text>cousine</text>
      <i18nText>cousin</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c65e19e-cb6b-407d-b5fc-a34a6e7b45ce}</id>
      <foreignId>{337596af-ef04-4d45-b73f-22bbf477447d}</foreignId>
-     <text>godson</text>
+     <text>filleul</text>
      <i18nText>godson</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e627190-6133-43d0-bd28-a205b8d6d27f}</id>
      <foreignId>{51a09dd3-ac20-4bd0-a571-ab8e6384b769}</foreignId>
-     <text>children</text>
+     <text>enfants</text>
      <i18nText>children</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b25ca23e-d51b-45f6-823c-8b92a697b752}</id>
      <foreignId>{5cab4a17-e261-460e-83b9-7219cbaac107}</foreignId>
-     <text>babe</text>
+     <text>bébé</text>
      <i18nText>babe</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4bbe4199-a962-4579-907f-09bdcadc665b}</id>
      <foreignId>{3bedbf55-a0b4-4b77-a037-ba8f5f3348d7}</foreignId>
-     <text>adopt</text>
+     <text>adopter</text>
      <i18nText>adopt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bd4836b4-d14e-4711-ab65-fbb6829e850e}</id>
      <foreignId>{b8751e3b-fa9e-4f9c-970c-2dbff5e212b9}</foreignId>
-     <text>relative</text>
+     <text>de la même famille</text>
      <i18nText>relative</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{508d7cc4-ec6f-4555-b152-359c7b80a059}</id>
      <foreignId>{f0ff8f87-6998-4186-82b0-a5195c3cd2e6}</foreignId>
-     <text>orphan</text>
+     <text>orphelin</text>
      <i18nText>orphan</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9e80f7fb-a45f-44c1-8f3e-cc20cc8576d0}</id>
      <foreignId>{89ae77b7-1653-4510-824e-12ad53d77951}</foreignId>
-     <text>disinherit</text>
+     <text>déshériter</text>
      <i18nText>disinherit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{66dfe9cc-5bd7-403e-9332-5881719b2857}</id>
      <foreignId>{13a560b9-0217-48bb-ace9-68606c7c260b}</foreignId>
-     <text>single</text>
+     <text>célibataire</text>
      <i18nText>single</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{93223cdd-897c-4659-9972-e08898d15647}</id>
      <foreignId>{0fb64cac-9f4b-48c6-84b9-5363acd8363b}</foreignId>
-     <text>family</text>
+     <text>famille</text>
      <i18nText>family</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{18111085-0a54-416a-8860-52dbd2460ad9}</id>
      <foreignId>{d9b61e3c-7ed8-4b23-b940-f95143b3a4b8}</foreignId>
-     <text>great grandfather</text>
+     <text>arrière-grand-père</text>
      <i18nText>great grandfather</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1a851f58-ef3a-4b19-867d-bd5360701498}</id>
      <foreignId>{98afb7b3-0977-49d9-a445-6fe26ae08397}</foreignId>
-     <text>great grandmother</text>
+     <text>arrière-grand-mère</text>
      <i18nText>great grandmother</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{38594275-8231-473f-9028-66483c128eb6}</id>
      <foreignId>{6fecb201-d3dc-4f22-81cf-de7fcdfde111}</foreignId>
-     <text>twin brothers</text>
+     <text>jumeaux</text>
      <i18nText>twin brothers</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{915ab8a2-b364-4ba5-8a0a-b3b0caa0612d}</id>
      <foreignId>{5642138b-8ebe-4a69-9dd9-3596ab757a56}</foreignId>
-     <text>twin sisters</text>
+     <text>soeurs jumelles</text>
      <i18nText>twin sisters</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a5e802f1-fc26-451e-98cf-d83af6aa23b0}</id>
      <foreignId>{f3e4fae7-4c2e-4228-858d-004b85489a37}</foreignId>
-     <text>step-father</text>
+     <text>beau-père</text>
      <i18nText>step-father</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d947a4ea-adf1-46c8-8daa-280c2986acf1}</id>
      <foreignId>{bc83b5cc-90d3-4bb7-b4f6-b8ac53d4e504}</foreignId>
-     <text>step-mother</text>
+     <text>belle-mère</text>
      <i18nText>step-mother</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d1b768e0-c993-4f60-92fe-302060feb088}</id>
      <foreignId>{08bd9966-4282-4fdb-82d1-4d8f21bf29e4}</foreignId>
-     <text>ex-husband</text>
+     <text>ex-mari</text>
      <i18nText>ex-husband</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{879699a7-fdd5-4170-8cf6-5941b157d1bc}</id>
      <foreignId>{df2d2387-2712-4e6d-9bb2-bcf7b5960be5}</foreignId>
-     <text>ex-wife</text>
+     <text>ex-femme</text>
      <i18nText>ex-wife</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cc49f5e7-57a9-4068-b741-bc2cfe44a36f}</id>
      <foreignId>{17e9b72d-f2c2-4e92-9b06-7dcecc76262d}</foreignId>
-     <text>bring up</text>
+     <text>éduquer</text>
      <i18nText>bring up</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a5a1ef9b-8b89-4866-ba61-11c6cdf9fc57}</id>
      <foreignId>{fbf42837-2a51-4882-a5fb-2a40c6d444cc}</foreignId>
-     <text>foster child</text>
+     <text>adoptif</text>
      <i18nText>foster child</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8ef3b010-6c2f-45d4-82a7-9aa9a518647b}</id>
      <foreignId>{6cbc3c63-65a5-4892-8e56-2a2e663b6d65}</foreignId>
-     <text>be divorced</text>
+     <text>être divorcé</text>
      <i18nText>be divorced</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{223d88f0-a51c-4d21-992c-086da2f9be55}</id>
      <foreignId>{bc4e9420-0424-4206-9d4f-7dfbd2878730}</foreignId>
-     <text>elder sister</text>
+     <text>sœur aînée</text>
      <i18nText>elder sister</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2c28ab64-acf0-4f66-b8db-c9d6ba9a2ae8}</id>
      <foreignId>{0fa0a6cf-01e1-4ae1-9313-b85d4639b348}</foreignId>
-     <text>be married</text>
+     <text>être marié</text>
      <i18nText>be married</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{03147f24-4ff4-43b5-95e9-5e8a00f5b5ea}</id>
      <foreignId>{a2746154-d49f-4e1f-aa5e-708d2b76f8f2}</foreignId>
-     <text>be engaged</text>
+     <text>être engagée</text>
      <i18nText>be engaged</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{090dac2f-a037-444c-8415-4bbf33aa920e}</id>
      <foreignId>{fc9a8359-3689-481f-8708-c725f8309537}</foreignId>
-     <text>get on well</text>
+     <text>bien s'entendre</text>
      <i18nText>get on well</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ea0b9b79-1315-4bb0-951d-dfa5bff806d4}</id>
      <foreignId>{bb315977-2a75-4355-b1f2-eefbaa357a03}</foreignId>
-     <text>black sheep</text>
+     <text>brebis galeuse</text>
      <i18nText>black sheep</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2a5f80bf-8f4c-4a8d-83a3-44fbefef4f76}</id>
      <foreignId>{a162d6d7-55d3-474c-bd77-e4062a7903a8}</foreignId>
-     <text>family gathering</text>
+     <text>réunion de famille</text>
      <i18nText>family gathering</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1ecee11a-5124-49b5-953b-d7ef02299620}</id>
      <foreignId>{b60de9ba-53fb-4df4-8893-31e67d022646}</foreignId>
-     <text>family name</text>
+     <text>nom de famille</text>
      <i18nText>family name</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5cf407be-3ea9-4f1c-9f50-90c6627a2efd}</id>
      <foreignId>{71fb26a0-a8b4-4926-bbde-3e67d508c295}</foreignId>
-     <text>biological brother</text>
+     <text>frère biologique</text>
      <i18nText>biological brother</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7ea95be1-92ae-464a-b7c7-fc31abfca095}</id>
      <foreignId>{368dabbd-e453-4104-ba9b-673048767000}</foreignId>
-     <text>be separated</text>
+     <text>être séparé</text>
      <i18nText>be separated</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c478ad64-c099-439b-b415-473f86421f87}</id>
      <foreignId>{28ea7f77-900f-4836-887c-7ebba9a00e0d}</foreignId>
-     <text>I have one younger brother and two sisters.</text>
+     <text>J'ai un jeune frère et deux soeurs.</text>
      <i18nText>I have one younger brother and two sisters.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d05130f7-ff69-4cd0-abc0-2871b326cdd7}</id>
      <foreignId>{8a74340e-5f78-48df-80ff-de6e94e416c0}</foreignId>
-     <text>My parents got divorced two years ago.</text>
+     <text>Mes parents ont divorcé il ya deux ans.</text>
      <i18nText>My parents got divorced two years ago.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e0410cc6-6fca-45a9-8615-0b40df64500c}</id>
      <foreignId>{2a3c6479-3d24-4d3f-a3ba-dfd367b9680e}</foreignId>
-     <text>My sister-in-law just got pregnant and she is expecting a babe.</text>
+     <text>Ma soeur-frère juste tombée enceinte et elle attend un bébé.</text>
      <i18nText>My sister-in-law just got pregnant and she is expecting a babe.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cbd9bda0-a6bd-4e12-91bd-9b829e9dcb32}</id>
      <foreignId>{a0a49252-3009-4c0a-86f4-0bab74ec379f}</foreignId>
-     <text>My family lives in New York.</text>
+     <text>Ma famille vit à New York.</text>
      <i18nText>My family lives in New York.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ed6a3c1f-569e-46d9-9664-1b5c8c911290}</id>
      <foreignId>{eda7da2b-520e-44c6-b2ae-928b27af2db8}</foreignId>
-     <text>We have been married for 10 years and we have two children.</text>
+     <text>Nous avons été mariés pendant 10 ans et nous avons deux enfants.</text>
      <i18nText>We have been married for 10 years and we have two children.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4a50ce96-5801-4fd6-ad7d-29feca630fb7}</id>
      <foreignId>{70ed088d-d131-442d-b07e-531776d2c9d8}</foreignId>
-     <text>They are twins.</text>
+     <text>Ils sont jumeaux.</text>
      <i18nText>They are twins.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1786,43 +1786,43 @@
      <i18nText>George is Robert's and Susan's father.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{560c7b92-ae74-4840-a8e0-ea3e26e5606b}</id>
      <foreignId>{b86467c0-f354-45f0-ada0-9f9d81c65d77}</foreignId>
-     <text>Are you married?</text>
+     <text>Êtes-vous marié?</text>
      <i18nText>Are you married?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{64523ba7-773b-40e6-85e4-15d4a8c12a4e}</id>
      <foreignId>{b8f8243f-b323-4359-bbfd-7ad8ddc3ad00}</foreignId>
-     <text>Anne is the youngest child in our family.</text>
+     <text>Anne est le plus jeune enfant dans notre famille.</text>
      <i18nText>Anne is the youngest child in our family.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{422161e9-a10e-4746-a37a-1e4a0b9b6597}</id>
      <foreignId>{843e46b9-d6c2-4bc9-9f23-4af732aaff57}</foreignId>
-     <text>Carol and Michael are Robert's grandparents.</text>
+     <text>Carol et Michael sont les grands-parents de Robert.</text>
      <i18nText>Carol and Michael are Robert's grandparents.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1f8f0246-d375-422b-adb9-c3d9868bd2ee}</id>
      <foreignId>{a76df398-1e68-442e-8944-d4ca0c17aaaf}</foreignId>
-     <text>The modern nuclear family consists of dad the breadwinner, mum the housewife and several children.</text>
+     <text>La famille moderne se compose de père soutien de famille, la maman la femme au foyer et plusieurs enfants.</text>
      <i18nText>The modern nuclear family consists of dad the breadwinner, mum the housewife and several children.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1832,77 +1832,77 @@
     <phrase>
      <id>{14fe9327-a192-442d-9427-3c704552a875}</id>
      <foreignId>{5af079ba-7415-42e6-ab66-805ca279808f}</foreignId>
-     <text>My mother died last year.</text>
+     <text>Ma mère est morte l'année dernière.</text>
      <i18nText>My mother died last year.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ff0de93b-100d-4d70-90df-c4e8087856c1}</id>
      <foreignId>{c6ef1ec6-0c36-45bd-888a-3fc7a6d75157}</foreignId>
-     <text>My father is an engineer.</text>
+     <text>Mon père est ingénieur.</text>
      <i18nText>My father is an engineer.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{94126a9d-15fb-42f1-a731-4049c952d1e4}</id>
      <foreignId>{383e2b89-9c86-4b6c-a7d1-2ab688625ef4}</foreignId>
-     <text>How big is your family?</text>
+     <text>Quelle est la taille de votre famille?</text>
      <i18nText>How big is your family?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0e14be53-ff25-4d9c-8f81-fe0a5818e28e}</id>
      <foreignId>{c8e812e6-d98e-4154-972a-acbd051e42cd}</foreignId>
-     <text>Do you have any siblings?</text>
+     <text>Avez-vous des frères et soeurs?</text>
      <i18nText>Do you have any siblings?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8d3d5302-0d27-475a-b21b-e071eab49a96}</id>
      <foreignId>{801eeb35-50d2-4377-9bcf-0a2e9729ac0d}</foreignId>
-     <text>What is your family name?</text>
+     <text>Quel est votre nom de famille?</text>
      <i18nText>What is your family name?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c2a278e7-66c1-468b-8387-33f6c123e28a}</id>
      <foreignId>{d715af37-b8c2-4f68-a8f0-fb1940717027}</foreignId>
-     <text>Are your parents separated or they still live together?</text>
+     <text>Vos parents sont séparés ou ils vivent toujours ensemble?</text>
      <i18nText>Are your parents separated or they still live together?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{942279d7-bb15-4f4a-97ae-5034fd0c1de3}</id>
      <foreignId>{9fe9aead-cfdd-4106-b6fe-3b9ff70607ca}</foreignId>
-     <text>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</text>
+     <text>Notre famille est très grande. J'ai deux frères et trois sœurs. Nous avons également vingt et un cousines: quatorze du côté de mon père et sept du côté de mon mère.</text>
      <i18nText>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a7462d6c-6224-46a1-b989-589642e3843d}</id>
      <foreignId>{a45ad81d-c749-49e7-a752-25e8b358f093}</foreignId>
-     <text>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</text>
+     <text>Julia et Saint sont des jumeaux et ils sont exactement les mêmes. Ils ont été élevés ensemble et depuis qu'ils étaient enfants de leur mère essayé de s'habiller à l'identique. Il ya beaucoup de photos dans l'album de famille où les filles sont indissociables..</text>
      <i18nText>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -1912,21 +1912,21 @@
     <phrase>
      <id>{443a7e03-9391-41d8-b89c-91e3ed34ad75}</id>
      <foreignId>{b4691fce-fcef-4d07-a854-b4378014e66a}</foreignId>
-     <text>My family is a rather small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</text>
+     <text>Ma famille est plutôt petite, avec seulement trois personnes, mon père, ma mère et moi. Ma mère est médecin et mon père est un avocat.</text>
      <i18nText>My family is a rather small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{161fa046-583b-4d7f-a883-9c515272d90e}</id>
      <foreignId>{e6ad70f5-ff48-4ccb-a6ba-54ea6d8a3995}</foreignId>
-     <text>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</text>
+     <text>Mes parents ont divorcé il ya un an. Après le divorce ma mère a épousé un ingénieur canadien et a déménagé à Toronto. Mon père est resté à Washington et j'ai décidé de vivre avec lui..</text>
      <i18nText>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -1939,11 +1939,11 @@
     <phrase>
      <id>{58eda942-d543-4859-ba0d-88ac768a9db0}</id>
      <foreignId>{b0ad1fd6-e767-4653-8283-64cd3fe2b391}</foreignId>
-     <text>volleyball</text>
+     <text>volley-ball</text>
      <i18nText>volleyball</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1953,17 +1953,17 @@
      <i18nText>football</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{74f2da59-0c03-4739-8c31-30dd706754af}</id>
      <foreignId>{b86133c9-610b-48a3-890c-191e1b9381b8}</foreignId>
-     <text>basketball</text>
+     <text>basket-ball</text>
      <i18nText>basketball</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1973,17 +1973,17 @@
      <i18nText>tennis</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b1fe0419-6ddd-4461-98d5-e24bc21eb321}</id>
      <foreignId>{4754b1fc-dc0f-43e9-8871-1e823a00ece4}</foreignId>
-     <text>karate</text>
+     <text>karaté</text>
      <i18nText>karate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1993,27 +1993,27 @@
      <i18nText>squash</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{54759a4c-b550-4e25-bde4-2294331ba649}</id>
      <foreignId>{8e81d815-2754-4d25-a296-6d4e1d8e5b85}</foreignId>
-     <text>athletics</text>
+     <text>athlétisme</text>
      <i18nText>athletics</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dc5252ac-7288-40eb-8b35-9c7243713579}</id>
      <foreignId>{bcb3b2af-f897-4223-b6e6-6bb6da0b72a9}</foreignId>
-     <text>swimming</text>
+     <text>natation</text>
      <i18nText>swimming</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2023,7 +2023,7 @@
      <i18nText>hockey</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2033,47 +2033,47 @@
      <i18nText>rugby</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7e88d45-5c79-423a-afd3-cb80173e58d3}</id>
      <foreignId>{75c9d101-0e32-40aa-9f89-b00277713458}</foreignId>
-     <text>skiing</text>
+     <text>ski</text>
      <i18nText>skiing</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{10280a89-dc2a-4c0a-95bf-834942372dbf}</id>
      <foreignId>{50c0411a-153b-4106-8c31-a84ebf09efe6}</foreignId>
-     <text>snowboarding</text>
+     <text>snowboard</text>
      <i18nText>snowboarding</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{284d684c-cf9f-4c1e-a6da-1428ec607b5f}</id>
      <foreignId>{77c3c5ae-7366-425a-8ad0-7d13d4963adf}</foreignId>
-     <text>fitness</text>
+     <text>forme physique</text>
      <i18nText>fitness</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6b024003-3324-42a1-9638-2f664e8795cf}</id>
      <foreignId>{d5c92520-4251-4ba2-bba6-1ba49165b160}</foreignId>
-     <text>opponent</text>
+     <text>adversaire</text>
      <i18nText>opponent</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2083,27 +2083,27 @@
      <i18nText>record</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{39d1b96d-c0de-4e42-b06c-a0bae6f7f178}</id>
      <foreignId>{a84f81ac-fd16-4bea-913c-a4f0ceb2908a}</foreignId>
-     <text>spectator</text>
+     <text>spectateur</text>
      <i18nText>spectator</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b2f1ab64-c424-4bdd-9590-bbeda1cbbbbc}</id>
      <foreignId>{80e12978-fefc-462d-ac97-80a3ee7b03dc}</foreignId>
-     <text>stadium</text>
+     <text>stade</text>
      <i18nText>stadium</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2113,527 +2113,527 @@
      <i18nText>score</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{426fd4dd-b84e-4d43-9355-df48a6f2ac76}</id>
      <foreignId>{590c37a6-6674-4b70-90a9-aaa3841a660c}</foreignId>
-     <text>referee</text>
+     <text>arbitre</text>
      <i18nText>referee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{902ef575-4266-4125-9def-83ad4421ab7f}</id>
      <foreignId>{db779dea-1cb4-4693-a59c-f3cde5585ce7}</foreignId>
-     <text>pitch</text>
+     <text>terrain</text>
      <i18nText>pitch</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{51cb5991-6f21-489c-b819-cee439ffaa3e}</id>
      <foreignId>{a41476b7-58f5-4504-9bd4-febeebf74040}</foreignId>
-     <text>coach</text>
+     <text>entraîneur</text>
      <i18nText>coach</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{35932ee0-1bb0-46f4-ae57-5ca27800b390}</id>
      <foreignId>{b35a79e3-d6c6-40cd-a483-a836441874a4}</foreignId>
-     <text>athlete</text>
+     <text>athlète</text>
      <i18nText>athlete</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fbd2648c-13b8-4337-9373-7a99aa17359f}</id>
      <foreignId>{fd6a1c16-d676-4d30-a0d0-6e46550e888d}</foreignId>
-     <text>cycling</text>
+     <text>cyclisme</text>
      <i18nText>cycling</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d40acd69-002f-43c3-ab7c-6fe8ef70f26e}</id>
      <foreignId>{7f60b129-c130-4b41-a584-ee16031ca4bf}</foreignId>
-     <text>boxing</text>
+     <text>boxe</text>
      <i18nText>boxing</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b4ec9bdd-dd2e-4fe4-90b3-4f17f24880cb}</id>
      <foreignId>{8e46076f-85b9-4782-bd2c-521ae488fc73}</foreignId>
-     <text>winter sports</text>
+     <text>sports d'hiver</text>
      <i18nText>winter sports</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{79d2646a-96e7-44f3-9735-fab03e84a9bf}</id>
      <foreignId>{5d041d55-48fe-469c-8ce7-b0821bc4d85a}</foreignId>
-     <text>Olympic Games</text>
+     <text>Jeux olympiques</text>
      <i18nText>Olympic Games</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{63678151-4993-4241-ab7b-449a1c3b32c5}</id>
      <foreignId>{1239190b-8685-42d6-9b40-d8408783e559}</foreignId>
-     <text>sports fun</text>
+     <text>supporteur</text>
      <i18nText>sports fun</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d1c8bf1d-d252-4b57-8502-54d4965b2a42}</id>
      <foreignId>{7be6d279-52aa-4173-a704-a5e6f9d0121f}</foreignId>
-     <text>play basketball</text>
+     <text>jouer au basket</text>
      <i18nText>play basketball</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f442e54a-9b8b-4bf5-b917-282b574d6425}</id>
      <foreignId>{02aeb29b-933b-46b8-a04a-8d0e42a81c8d}</foreignId>
-     <text>tennis court</text>
+     <text>court de tennis</text>
      <i18nText>tennis court</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{61cd184c-636c-4cce-a2f7-93f611fadfde}</id>
      <foreignId>{00f4b510-b27f-4dd3-8ddd-0d7ac8cbab16}</foreignId>
-     <text>football field</text>
+     <text>terrain de football</text>
      <i18nText>football field</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6676d7bd-3e16-4df1-9834-97e24fff11ed}</id>
      <foreignId>{0e3679e7-e2ac-4dec-93fa-aa066b42f532}</foreignId>
-     <text>do jogging</text>
+     <text>faire du jogging</text>
      <i18nText>do jogging</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3a87ed3c-b655-4797-8e73-378d83f138a0}</id>
      <foreignId>{b062ce57-98fa-4643-b335-33f3de03c2d1}</foreignId>
-     <text>ride a bike</text>
+     <text>monter à vélo</text>
      <i18nText>ride a bike</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{960e2020-e19b-4816-a465-d7a5a9129009}</id>
      <foreignId>{80fef4e7-36fa-49d9-b01e-527e2ae44b8f}</foreignId>
-     <text>beach volleyball</text>
+     <text>beach-volley</text>
      <i18nText>beach volleyball</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a63f3bde-c33e-42e4-98be-c9dc167b0c0c}</id>
      <foreignId>{7507bde1-5f41-4836-baea-db108477def1}</foreignId>
-     <text>Australian rules football</text>
+     <text>Football australien</text>
      <i18nText>Australian rules football</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{846e7337-32ed-438a-910c-fd5b036788d1}</id>
      <foreignId>{4b9b8449-ae55-4e47-8969-ae91983d1650}</foreignId>
-     <text>rugby match</text>
+     <text>match de rugby</text>
      <i18nText>rugby match</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9f6d8e7b-f070-4602-b957-b3f693f61640}</id>
      <foreignId>{506cfec9-6489-4bf4-8e9e-c655a49b1447}</foreignId>
-     <text>martial arts</text>
+     <text>arts martiaux</text>
      <i18nText>martial arts</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{808134c3-0152-4552-be58-80ab5944a436}</id>
      <foreignId>{4a6f39cc-aa7a-4047-94d0-c783d2e4358c}</foreignId>
-     <text>golf club</text>
+     <text>club de golf</text>
      <i18nText>golf club</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2ef43244-2c96-48fd-9779-19c69667826b}</id>
      <foreignId>{da93b103-6a30-4eb9-9070-9b96fd4e8cb0}</foreignId>
-     <text>horse racing event</text>
+     <text>événement de courses de chevaux</text>
      <i18nText>horse racing event</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8ab629eb-5979-4ed7-9ea7-99a78bf7443c}</id>
      <foreignId>{b977ff67-7f24-43a5-9fb7-5a7aac60e286}</foreignId>
-     <text>competitive player</text>
+     <text>joueur compétitif</text>
      <i18nText>competitive player</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9011e7a4-01f4-445a-8029-65802e456f61}</id>
      <foreignId>{f7f97587-e141-4f32-9b50-20929ae4efec}</foreignId>
-     <text>national sport</text>
+     <text>sport national</text>
      <i18nText>national sport</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d2278aeb-f0b5-4b96-9079-66671cbc7ba6}</id>
      <foreignId>{d8133ce4-14a8-4d82-9241-af0718f05d4b}</foreignId>
-     <text>outdoor sport</text>
+     <text>sport de plein air</text>
      <i18nText>outdoor sport</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6427f6d5-aa5e-4e8d-991f-d71e473d7a89}</id>
      <foreignId>{6e3becd5-d8eb-46d9-b6fa-a9ce364a8b84}</foreignId>
-     <text>be fit</text>
+     <text>être en forme</text>
      <i18nText>be fit</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9b411442-f681-4301-9b8d-caf98fb7bae0}</id>
      <foreignId>{14a12df4-c6e6-4b80-a9ab-c042e7ce7d7f}</foreignId>
-     <text>aerobic exercise</text>
+     <text>exercice aérobique</text>
      <i18nText>aerobic exercise</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4462860c-7e22-419f-99ad-5fe2466ee737}</id>
      <foreignId>{d0b3978e-f7e3-4233-acb2-a1e7df110e84}</foreignId>
-     <text>healthy weight</text>
+     <text>poids idéal</text>
      <i18nText>healthy weight</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5ec9475a-3593-4c6f-9c37-c229d8b95034}</id>
      <foreignId>{0e5f8f40-5329-45e0-a191-63e745927919}</foreignId>
-     <text>team sport</text>
+     <text>sport d'équipe</text>
      <i18nText>team sport</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{663b3d82-5247-4838-b8fb-240e225fb7c6}</id>
      <foreignId>{4dce30f2-5298-477a-8468-e3b36ca6e354}</foreignId>
-     <text>I play tennis twice a week.</text>
+     <text>Je joue au tennis deux fois par semaine.</text>
      <i18nText>I play tennis twice a week.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2eecc97c-5a31-410e-a26b-2506b70418c4}</id>
      <foreignId>{82669d0f-31ff-4bf8-85db-ac1fe0be0a8c}</foreignId>
-     <text>What sports do you like?</text>
+     <text>Quels sont les sports que vous aimez?</text>
      <i18nText>What sports do you like?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{17a17d3b-82fb-41e4-91e1-4a2ee11b28d8}</id>
      <foreignId>{b1dd77b4-636e-4cf3-b5ea-3549e62fd829}</foreignId>
-     <text>Last night we went to a live basketball game.</text>
+     <text>La nuit dernière, nous sommes allés à un match de basket en direct.</text>
      <i18nText>Last night we went to a live basketball game.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{58000ee6-2659-4073-a175-8329a0a1a764}</id>
      <foreignId>{ad8c4d73-1f0a-4e1c-a601-957840786770}</foreignId>
-     <text>My grandfather was university boxing champion.</text>
+     <text>Mon grand-père était champion de boxe a l'université.</text>
      <i18nText>My grandfather was university boxing champion.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7e82ff1-1639-4005-aaff-c45eb7b9b1bd}</id>
      <foreignId>{bc4f163c-bd0f-421a-b1f4-ed50baced348}</foreignId>
-     <text>The Philadelphia Marathon is a popular athletic event.</text>
+     <text>Le Marathon de Philadelphie est un événement sportif populaire.</text>
      <i18nText>The Philadelphia Marathon is a popular athletic event.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dd2487c5-6cd2-4056-9e1c-2b0472927cdf}</id>
      <foreignId>{431526fb-25bc-434b-91a4-698b5e218d6b}</foreignId>
-     <text>Some people consider martial arts to be dangerous.</text>
+     <text>Certaines personnes considèrent que les arts martiaux pour être dangereux.</text>
      <i18nText>Some people consider martial arts to be dangerous.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{54cf853c-7575-439d-be7a-59cd7079dc0f}</id>
      <foreignId>{4c5cef55-e0d6-4e98-8a38-5d941a66dc0f}</foreignId>
-     <text>Do you like watching football on TV?</text>
+     <text>Aimez-vous regarder le football à la télévision?</text>
      <i18nText>Do you like watching football on TV?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c331fe9f-fb15-4ada-8639-ba73cbecdbca}</id>
      <foreignId>{e9d451ab-9ccd-4152-8aaa-9376b4e54763}</foreignId>
-     <text>People often take up swimming to improve their fitness.</text>
+     <text>Les gens font souvent de la natation pour améliorer leur condition physique.</text>
      <i18nText>People often take up swimming to improve their fitness.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89c9509b-0f43-412f-8e12-2528ac6e8aef}</id>
      <foreignId>{c9c402ad-9f57-41c6-8842-9c4867a3e17a}</foreignId>
-     <text>Darts is a popular pub game.</text>
+     <text>Le jeu de flechettes est populaire en pub.</text>
      <i18nText>Darts is a popular pub game.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{936b7cc3-bac8-43dc-b137-824429bde33f}</id>
      <foreignId>{aaa6c5cc-0e72-4b15-abc4-c4d003bad926}</foreignId>
-     <text>Do you think this team will go to the finals?</text>
+     <text>Pensez-vous que cette équipe ira en finale?</text>
      <i18nText>Do you think this team will go to the finals?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ba8a0415-42a1-4759-b170-8aa5d204876c}</id>
      <foreignId>{9897c4f3-a2e9-4a21-9f53-828585a5a914}</foreignId>
-     <text>London hosted 2012 Olympic Games.</text>
+     <text>Londres a accueilli les Jeux Olympiques de deux mille douze.</text>
      <i18nText>London hosted 2012 Olympic Games.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{06e24242-7ae7-4a0f-8beb-4fac7fb8919a}</id>
      <foreignId>{a7b4f177-3daa-48a5-8cbe-523e8c28a4d0}</foreignId>
-     <text>Chess is a sport that requires skills and intelligence.</text>
+     <text>Le jeu d'échec est un sport qui exige des compétences et de l'intelligence.</text>
      <i18nText>Chess is a sport that requires skills and intelligence.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{52c407e7-ad68-4072-b7bb-0c3a4fb5a23d}</id>
      <foreignId>{85e28aaa-bf38-49be-8fa9-6c6ecfb8f2cc}</foreignId>
-     <text>Basketball is a team sport that was invented in USA.</text>
+     <text>Basket-ball est un sport d'équipe qui a été inventé aux Etats-Unis.</text>
      <i18nText>Basketball is a team sport that was invented in USA.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bdc43f40-1162-4038-a4c9-ca1d593c084d}</id>
      <foreignId>{e6ef007f-47ff-4fc4-b7a0-ea356bad5c59}</foreignId>
-     <text>Many families take their children and go ice skating in the evenings.</text>
+     <text>Beaucoup de familles amènent leurs enfants faire du patin à glace en soirée.</text>
      <i18nText>Many families take their children and go ice skating in the evenings.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a052fd2a-0129-4acf-a763-9322ba4940c1}</id>
      <foreignId>{3717bd9a-f51f-4b4f-8cef-d17d588ca2a7}</foreignId>
-     <text>Baseball is very popular in United States.</text>
+     <text>Le baseball est très populaire aux États-Unis.</text>
      <i18nText>Baseball is very popular in United States.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d94a977e-40eb-465d-81a2-aa2f352533e3}</id>
      <foreignId>{f0adfacc-4566-4d29-8a77-6a8830f3538e}</foreignId>
-     <text>He did not pass the ball to the other player.</text>
+     <text>Il n'a pas passé le ballon à l'autre joueur.</text>
      <i18nText>He did not pass the ball to the other player.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ded3bf7b-6788-4fad-b34d-bf94bb7b2ee0}</id>
      <foreignId>{fa039182-42e9-4ec2-ab58-387707689fdb}</foreignId>
-     <text>Today we are going to win.</text>
+     <text>Aujourd'hui, nous allons gagner.</text>
      <i18nText>Today we are going to win.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b2c7828f-ccd9-4e19-b48c-442d5ae0a175}</id>
      <foreignId>{33073916-636d-48d7-9e82-9ddb7ab2e66a}</foreignId>
-     <text>This is the best football magazine.</text>
+     <text>C'est le meilleur magazine de football.</text>
      <i18nText>This is the best football magazine.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{59abde08-c328-404e-8e7c-343e00848e69}</id>
      <foreignId>{ada0b7be-ba0d-44a5-9b4b-e99456fd8bc7}</foreignId>
-     <text>Paula's father reads sports news everyday.</text>
+     <text>Le père de Paula lit les nouvelles de sports tous les jours.</text>
      <i18nText>Paula's father reads sports news everyday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{70e70b43-ab55-49d3-add3-090553242295}</id>
      <foreignId>{b6369b8b-17df-478b-af81-b7f0edabd3cd}</foreignId>
-     <text>Let's celebrate the victory.</text>
+     <text>Célébrons la victoire.</text>
      <i18nText>Let's celebrate the victory.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a8002cca-0327-429a-b8f0-0781d3dcb7f4}</id>
      <foreignId>{93b45a67-97b7-47f3-b331-c01b7c57c153}</foreignId>
-     <text>My father goes jogging every day. He is very fit.</text>
+     <text>Mon père va faire du jogging tous les jours. Il est très en forme.</text>
      <i18nText>My father goes jogging every day. He is very fit.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a3ecb0df-4173-40c3-9b18-ac193a2ae9df}</id>
      <foreignId>{6df53553-810b-44ff-a722-a01728b5c6e7}</foreignId>
-     <text>I like to play sports. My favourite is badminton.</text>
+     <text>J'aime faire du sport. Mon préféré est badminton.</text>
      <i18nText>I like to play sports. My favourite is badminton.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9b21896f-d33e-456b-a995-a6800caf1cfa}</id>
      <foreignId>{8867d861-0e56-4f93-8bb2-d58f76f5353c}</foreignId>
-     <text>Ian Thorpe is a famous Australian swimmer. He has won three gold medals in Sydney Summer Olympic Games.</text>
+     <text>Ian Thorpe est un célèbre nageur australien. Il a remporté trois médailles d'or aux Jeux Olympiques d'été de Sydney.</text>
      <i18nText>Ian Thorpe is a famous Australian swimmer. He has won three gold medals in Sydney Summer Olympic Games.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{27a4f637-eaed-48a4-bb23-2eae79777fb0}</id>
      <foreignId>{cdb98274-36af-406f-afcd-7f0ed3dddf2a}</foreignId>
-     <text>I have been thinking about exchanging our tennis tickets. Instead of going on Friday, we should go on Saturday. What do you think?</text>
+     <text>Je pensais échanger nos billets de tennis. Au lieu d'y aller le vendredi, nous devrions y aller le samedi. Qu'en pensez-vous?</text>
      <i18nText>I have been thinking about exchanging our tennis tickets. Instead of going on Friday, we should go on Saturday. What do you think?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cb6cc027-281e-4be6-b67e-664158651b39}</id>
      <foreignId>{bca3de0e-252c-410a-bbad-88ecbb3f8fc1}</foreignId>
-     <text>In football game there are two teams playing. Each team consist of ten field players and a goalie.</text>
+     <text>Dans un match de football il y a deux équipes qui jouent. Chaque équipe se compose de dix joueurs de champ et un gardien de but.</text>
      <i18nText>In football game there are two teams playing. Each team consist of ten field players and a goalie.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
