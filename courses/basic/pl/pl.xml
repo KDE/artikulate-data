@@ -290,9 +290,9 @@
      <foreignId>{1181aba9-cc44-4715-97f1-f17b6764252b}</foreignId>
      <text>B</text>
      <i18nText>B</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d4dfe56d-c81b-4b9b-938e-be8e31e0be2d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -310,9 +310,9 @@
      <foreignId>{09d629f5-b0d8-4b6a-8250-05010336a8e8}</foreignId>
      <text>D</text>
      <i18nText>D</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c18105b5-2ed9-4cc4-9d99-e05332787f04}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -330,9 +330,9 @@
      <foreignId>{e38434d2-d10e-4f36-8c46-f91ff5ee3c37}</foreignId>
      <text>F</text>
      <i18nText>F</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{18458387-65dd-4405-b986-fb3a0f79fb36}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -350,9 +350,9 @@
      <foreignId>{38e72852-abd0-4fb3-b4de-302f34dd9024}</foreignId>
      <text>H</text>
      <i18nText>H</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{feeda0d8-a01e-4bdf-ab92-e7906e51b711}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -370,9 +370,9 @@
      <foreignId>{6858fef3-9243-48f1-b02a-088b06c14946}</foreignId>
      <text>J</text>
      <i18nText>J</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3091ae4b-4f1e-478a-9adc-dfe0ec2acc09}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -390,9 +390,9 @@
      <foreignId>{a4a0082c-1558-4090-9122-9491c1cc5c53}</foreignId>
      <text>L</text>
      <i18nText>L</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{afa8fe33-a47e-41e7-8279-3d9418dadb29}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -410,9 +410,9 @@
      <foreignId>{48e2f464-731b-4532-ad13-1f72ce3a3c4a}</foreignId>
      <text>N</text>
      <i18nText>N</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f08f54f1-aa23-47e7-9227-15eaf28d8155}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -430,9 +430,9 @@
      <foreignId>{855e5223-c7b2-4352-b010-4f7af903fdde}</foreignId>
      <text>P</text>
      <i18nText>P</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0676ef78-e3b7-46fd-aaa4-b58eac954440}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -450,9 +450,9 @@
      <foreignId>{91417828-5a45-41a6-8569-c8b5b6031f80}</foreignId>
      <text>R</text>
      <i18nText>R</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1f3b9519-5be0-4e08-8ee5-dafa76cafa70}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -470,9 +470,9 @@
      <foreignId>{f272f8b4-db77-45af-b041-7f612a3582d2}</foreignId>
      <text>T</text>
      <i18nText>T</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{61f2c752-366e-4d6c-bfee-241bbe7f4246}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -490,9 +490,9 @@
      <foreignId>{e3cd820a-0444-40ab-b1fd-8c441bf00a08}</foreignId>
      <text>V</text>
      <i18nText>V</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1333b2ad-b708-4c15-b11a-9859b5043449}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -510,9 +510,9 @@
      <foreignId>{deda3cb6-43ad-441b-b6f7-014b862d4154}</foreignId>
      <text>X</text>
      <i18nText>X</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{427bc15b-2841-41ee-be24-05d114bc5ed2}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -530,9 +530,9 @@
      <foreignId>{dc13efc0-6f60-4a97-9c01-f35a18ef4cd8}</foreignId>
      <text>Z</text>
      <i18nText>Z</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d1a3dae6-7efb-42e9-b5db-63fcdde665c0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -548,9 +548,9 @@
      <id>{0a3d71e0-c3df-4e7d-868d-141226a6a06b}</id>
      <text>Ć</text>
      <i18nText></i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0a3d71e0-c3df-4e7d-868d-141226a6a06b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -566,9 +566,9 @@
      <id>{31221bef-b2e8-492a-83f1-e0a79b8c6402}</id>
      <text>Ń</text>
      <i18nText></i18nText>
-     <soundFile></soundFile>
+     <soundFile>{31221bef-b2e8-492a-83f1-e0a79b8c6402}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -584,9 +584,9 @@
      <id>{8d638f20-918c-4cdf-81f7-9c371033c78f}</id>
      <text>Ż</text>
      <i18nText></i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8d638f20-918c-4cdf-81f7-9c371033c78f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
