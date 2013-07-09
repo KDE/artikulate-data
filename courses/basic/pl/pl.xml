@@ -9228,177 +9228,177 @@
      <i18nText>zoo</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8771d5ba-2f11-4c8f-abde-e4a6f4d3b416}</id>
      <foreignId>{a9091248-708a-409e-83a6-865e1e3e42e6}</foreignId>
-     <text>fence</text>
+     <text>ogrodzenie</text>
      <i18nText>fence</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{75d81697-e6ad-4d4e-b971-e541c8757d56}</id>
      <foreignId>{1899b334-78d1-4634-a07f-cee0b11ab6ec}</foreignId>
-     <text>animals</text>
+     <text>zwierzęta</text>
      <i18nText>animals</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8ffbe75e-1d7d-4747-a76d-57c996d66eca}</id>
      <foreignId>{f0ada064-70aa-439e-be56-8bd74f59ed42}</foreignId>
-     <text>mammal</text>
+     <text>ssak</text>
      <i18nText>mammal</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3793309e-ad38-4e3d-bbca-e8fcd215e51a}</id>
      <foreignId>{5c318918-758a-41e4-b83d-acc8795ba0dd}</foreignId>
-     <text>reptile</text>
+     <text>gad</text>
      <i18nText>reptile</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4abe0521-6a18-4414-b1a0-049e7e1675cb}</id>
      <foreignId>{8eb44b2e-cd47-4468-bf97-534ae80b9d28}</foreignId>
-     <text>amphibian</text>
+     <text>amfibia</text>
      <i18nText>amphibian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f4567e96-9957-402a-9e40-8622057b0a8e}</id>
      <foreignId>{f1e238dd-af5a-4f3b-b4e3-4a2f572e25bf}</foreignId>
-     <text>bird</text>
+     <text>ptak</text>
      <i18nText>bird</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3b5b8142-f6eb-4318-8826-cf158fbea043}</id>
      <foreignId>{46d3d589-737a-4091-86eb-8ceb505e4333}</foreignId>
-     <text>primate</text>
+     <text>prymat</text>
      <i18nText>primate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{44daf4c7-c5fc-4884-8081-f4f6d580eef8}</id>
      <foreignId>{ba44856e-72b0-44ba-9461-b8a0dd251cd0}</foreignId>
-     <text>feline</text>
+     <text>ssak z rodziny kotów</text>
      <i18nText>feline</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4ebb7610-4865-4caa-8274-d7ef10569fed}</id>
      <foreignId>{c17b885a-037b-4532-8e79-39dc1333611d}</foreignId>
-     <text>ungulate</text>
+     <text>ssak kopytny</text>
      <i18nText>ungulate</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{023274a9-5f4b-45a2-9692-8b04fe6f471f}</id>
      <foreignId>{17aff141-3fb9-4af8-be9e-ea9f227f6d17}</foreignId>
-     <text>marsupial</text>
+     <text>torbacz</text>
      <i18nText>marsupial</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9aee97d0-fd9d-4cd4-9465-8477f1de2451}</id>
      <foreignId>{dbb19f88-a2c8-4c1c-87b5-b5878989fe56}</foreignId>
-     <text>monkey</text>
+     <text>małpa</text>
      <i18nText>monkey</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d7908de9-574c-4e49-924f-5d74ba407ea5}</id>
      <foreignId>{7a550622-420c-4433-868d-2d0244ab6f96}</foreignId>
-     <text>chimpanzee</text>
+     <text>szympans</text>
      <i18nText>chimpanzee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{910af3a6-f886-4fab-8d2e-edad392ac882}</id>
      <foreignId>{bca22879-8cf7-41a5-9e4e-6d1ec44bc0ba}</foreignId>
-     <text>gorilla</text>
+     <text>goryl</text>
      <i18nText>gorilla</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7e347006-6906-4d72-bd8c-d298bb21381d}</id>
      <foreignId>{6606fcd3-2921-47c8-99ba-99ecca1e6398}</foreignId>
-     <text>lion</text>
+     <text>lew</text>
      <i18nText>lion</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77e84b92-9eca-4001-8d36-f33245559d70}</id>
      <foreignId>{b2d9e06c-ba1f-4519-af11-b76fb1bcc30c}</foreignId>
-     <text>tiger</text>
+     <text>tygrys</text>
      <i18nText>tiger</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{148552c1-2a49-49e7-a04f-620aa471e187}</id>
      <foreignId>{94b277bc-52d3-4fcf-bd3c-9a4630a6699f}</foreignId>
-     <text>fox</text>
+     <text>lis</text>
      <i18nText>fox</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f6283a7e-0f66-4360-835b-28122742257d}</id>
      <foreignId>{ef72cb0c-26f0-4a73-b508-ba079d3b6c7d}</foreignId>
-     <text>wolf</text>
+     <text>wilk</text>
      <i18nText>wolf</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9408,57 +9408,57 @@
      <i18nText>jaguar</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d740d61a-cebe-4ed5-8c42-14089d09bffa}</id>
      <foreignId>{9d5f506b-2ae7-43c3-ad94-f7876e0ac3c4}</foreignId>
-     <text>hyena</text>
+     <text>hiena</text>
      <i18nText>hyena</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ffedaaa2-fe56-493e-abe7-51765dde6af3}</id>
      <foreignId>{57ff2bf4-b62a-4735-97e0-a58cedcb85ad}</foreignId>
-     <text>margay</text>
+     <text>margaj</text>
      <i18nText>margay</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e88a3c67-ca10-42d6-a03d-147efc3f646d}</id>
      <foreignId>{7e7f3cc8-12a7-44ba-8aca-54a0b1d33d8b}</foreignId>
-     <text>coyote</text>
+     <text>kojot</text>
      <i18nText>coyote</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6259a243-2adf-490b-823a-07b4c01d532c}</id>
      <foreignId>{3d5c2d35-df8c-4830-b4d5-c873061a1541}</foreignId>
-     <text>elephant</text>
+     <text>słoń</text>
      <i18nText>elephant</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{99962797-5319-4f4e-82bd-41671a7a68b4}</id>
      <foreignId>{7d4749a0-ffee-4526-ae04-89c6b223449f}</foreignId>
-     <text>giraffe</text>
+     <text>żyrafa</text>
      <i18nText>giraffe</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9468,17 +9468,17 @@
      <i18nText>zebra</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a1c9e413-6c74-47c9-8307-7cc36d5578cf}</id>
      <foreignId>{e74a4276-6e9c-4cdd-8fe4-5063a1fbe887}</foreignId>
-     <text>kangaroo</text>
+     <text>kangur</text>
      <i18nText>kangaroo</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9488,627 +9488,627 @@
      <i18nText>koala</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{336a65ad-07f2-4f5d-97da-150b84b29f68}</id>
      <foreignId>{ec7191d0-0ded-427b-8538-5ae20f6d40c4}</foreignId>
-     <text>porcupine</text>
+     <text>jeżozwierz</text>
      <i18nText>porcupine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f4bc4623-8303-47c4-9f7f-0ffdc1d2b725}</id>
      <foreignId>{16a01f56-8949-49e2-9296-de010b4c03f0}</foreignId>
-     <text>hippopotamus</text>
+     <text>hipopotam</text>
      <i18nText>hippopotamus</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{99c03ef6-cbe6-46de-b426-6c80d0750bec}</id>
      <foreignId>{d7c045f8-17c1-47d2-8280-e187a52a28a9}</foreignId>
-     <text>rhinoceros</text>
+     <text>jednorożec</text>
      <i18nText>rhinoceros</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4174bde3-fd7b-4506-8f91-a365957f619b}</id>
      <foreignId>{94cdb782-8ed8-436c-8209-8b6d6b4ceb69}</foreignId>
-     <text>reindeer</text>
+     <text>renifer</text>
      <i18nText>reindeer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d51633fc-2c07-4fa8-9c2c-684ff365297c}</id>
      <foreignId>{d996ce62-b258-4dca-81b7-810d8d9a77f3}</foreignId>
-     <text>skunk</text>
+     <text>skunks</text>
      <i18nText>skunk</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4af610e4-4648-454d-80ec-965abe7f3efd}</id>
      <foreignId>{0e0bfff4-03d7-4cb9-8e75-df01189eef74}</foreignId>
-     <text>warthog</text>
+     <text>guziec</text>
      <i18nText>warthog</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{517f6a4b-90f7-4814-868d-f91185c8aaff}</id>
      <foreignId>{46396123-9c24-4080-ad95-90f9f9dd608f}</foreignId>
-     <text>crocodile</text>
+     <text>krokodyl</text>
      <i18nText>crocodile</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1859717b-5a72-433e-899d-a801e23c5d2c}</id>
      <foreignId>{17aaadf8-7194-4f6a-b4d7-8d299e27d4f2}</foreignId>
-     <text>alligator</text>
+     <text>aligator</text>
      <i18nText>alligator</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{37dff0ac-ee74-4327-81c3-56835e87b6e7}</id>
      <foreignId>{061fdeba-c487-4edd-840e-3e94a1b03ca2}</foreignId>
-     <text>snake</text>
+     <text>wąż</text>
      <i18nText>snake</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60c42b54-423f-4883-9267-49a984072a78}</id>
      <foreignId>{ce59158f-43cb-45b1-b38a-65f293d667dd}</foreignId>
-     <text>anaconda</text>
+     <text>anakonda</text>
      <i18nText>anaconda</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{254fbca8-f111-4d2e-9f47-c817dd70a597}</id>
      <foreignId>{11a3a16c-3169-4b7c-90c8-846d196091d0}</foreignId>
-     <text>python</text>
+     <text>pyton</text>
      <i18nText>python</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{15b39f1e-b548-4c4e-9093-c84293d48bb1}</id>
      <foreignId>{c0df2d5a-f39b-4f1a-bada-1ab6e0bc2744}</foreignId>
-     <text>tortoise</text>
+     <text>żółw</text>
      <i18nText>tortoise</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{215b5fb6-2726-46f6-8c72-5eaaa3251f07}</id>
      <foreignId>{74ddae14-4ccc-40ca-a4ab-ff9f77cdfe1d}</foreignId>
-     <text>peacock</text>
+     <text>paw</text>
      <i18nText>peacock</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5372507c-dc9a-47b1-a01c-cdf91d60f7b7}</id>
      <foreignId>{567271b9-6504-4585-8388-409ed3dea347}</foreignId>
-     <text>flamingo</text>
+     <text>flaming</text>
      <i18nText>flamingo</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{177bce0c-aba7-4706-a0c7-8d1b8754d1cc}</id>
      <foreignId>{4c418afe-c158-42ab-9c5e-62778311f72d}</foreignId>
-     <text>mongoose lemur</text>
+     <text>lemur mangusta</text>
      <i18nText>mongoose lemur</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5a013810-6242-480d-a97d-4628d8b03714}</id>
      <foreignId>{8c8f87ab-b4fc-4a95-ae8e-4cdd3c758d7c}</foreignId>
-     <text>sumatran orangutan</text>
+     <text>orangutan sumatrzański</text>
      <i18nText>sumatran orangutan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ceb35690-8cbe-4a0c-80de-2b0a86bba4b6}</id>
      <foreignId>{bc446ebf-ac00-4b1a-9c40-e994f1a97368}</foreignId>
-     <text>coquerel's sifaka</text>
+     <text>lemur sifaka</text>
      <i18nText>coquerel's sifaka</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b692b954-00c8-44cd-9674-350761072443}</id>
      <foreignId>{284ec187-1e1a-4f31-9c84-3b830d1fdebf}</foreignId>
-     <text>white-handed gibbon</text>
+     <text>gibon białoręki</text>
      <i18nText>white-handed gibbon</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4116d8d8-8aed-49aa-81da-4192a0f2415e}</id>
      <foreignId>{cde0868a-b86a-4a67-9fa7-bfdf65170b8f}</foreignId>
-     <text>pygmy marmoset</text>
+     <text>pigmejka</text>
      <i18nText>pygmy marmoset</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{602d51c8-56f2-4364-91fe-6fedb43124e3}</id>
      <foreignId>{93c0498e-d8fc-45cf-94fd-fa437cdc847c}</foreignId>
-     <text>clouded leopard</text>
+     <text>pantera mglista</text>
      <i18nText>clouded leopard</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{99600f59-9bd9-4ad1-bb82-c25bbb202943}</id>
      <foreignId>{fd0698d1-147e-461a-a6a7-067851b6278d}</foreignId>
-     <text>african cheetah</text>
+     <text>gepard afrykański</text>
      <i18nText>african cheetah</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d12b6eb6-3829-4278-b08d-59f3a75cadcd}</id>
      <foreignId>{a503580f-2351-41b7-b494-f11ace452324}</foreignId>
-     <text>arabian oryx</text>
+     <text>oryks arabski</text>
      <i18nText>arabian oryx</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{55908984-473b-43c9-9ad4-1d8e09a9ea79}</id>
      <foreignId>{c8e7838a-8623-4695-84f2-170ae941ae45}</foreignId>
-     <text>red panda</text>
+     <text>panda czerwona</text>
      <i18nText>red panda</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{22db1fa7-1dfe-45ba-8e76-761f7b7ab25e}</id>
      <foreignId>{133bc978-f056-4504-a4cb-0c16bdba958a}</foreignId>
-     <text>sloth bear</text>
+     <text>wargacz</text>
      <i18nText>sloth bear</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7b75214d-218d-49aa-9e18-9954c67fdc6c}</id>
      <foreignId>{563bfa13-3217-4460-87a7-53562e5fac72}</foreignId>
-     <text>mule deer</text>
+     <text>mulak</text>
      <i18nText>mule deer</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0deb97ab-3621-4aca-a241-0e37de8ad65a}</id>
      <foreignId>{bd0d8ee1-8b55-4e48-bf5b-39e185c6d051}</foreignId>
-     <text>thomson's gazelle</text>
+     <text>gazela Thomsona</text>
      <i18nText>thomson's gazelle</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d453a14e-b7a7-4bd1-a5cb-33b84b04eb93}</id>
      <foreignId>{56ce580d-7dd8-4143-a8b1-48e0d478ed49}</foreignId>
-     <text>north american racoon</text>
+     <text>północnoamerykański szop pracz</text>
      <i18nText>north american racoon</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1566055b-9e89-4e3f-854b-008159f10d1b}</id>
      <foreignId>{b27ca54a-1723-49e1-95c0-1a0650531b4f}</foreignId>
-     <text>tree pangolin</text>
+     <text>łuskowiec leśny</text>
      <i18nText>tree pangolin</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6ca03f3e-dd47-48be-91e2-87ee191d2c61}</id>
      <foreignId>{4d79a717-5ad4-4246-86a2-8ad1dfd5741c}</foreignId>
-     <text>blue-banded iguana</text>
+     <text>legwan fidżijski</text>
      <i18nText>blue-banded iguana</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9bc8c992-ab64-47ec-a338-e208162c643b}</id>
      <foreignId>{bce6c33f-f1d4-4272-83af-d1000bf0bd17}</foreignId>
-     <text>komodo dragon</text>
+     <text>waran z Komodo</text>
      <i18nText>komodo dragon</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d2e7c064-ea7a-4264-9b8e-92a71130d7d6}</id>
      <foreignId>{f00cb6f1-d6be-4c08-ae6e-06ca62e7197d}</foreignId>
-     <text>tree monitor</text>
+     <text>waran szmaragdowy</text>
      <i18nText>tree monitor</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2041cad4-c8fa-4455-a94c-a35ccb50988b}</id>
      <foreignId>{12d78977-4d6c-4fdc-a2f2-4fdfd96a5872}</foreignId>
-     <text>gila lizard</text>
+     <text>heloderma arizońska</text>
      <i18nText>gila lizard</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{287aacda-acd9-44b4-a3b1-75013ed7f46f}</id>
      <foreignId>{0459fd2f-d11c-495e-9e83-5f5f9129e5c4}</foreignId>
-     <text>king cobra</text>
+     <text>kobra królewska</text>
      <i18nText>king cobra</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{22f355b5-0a32-4904-89ad-5e8b475c0841}</id>
      <foreignId>{b91cc464-8a4e-4e5b-ad9c-0454406ada3a}</foreignId>
-     <text>pit viper</text>
+     <text>grzechotnik</text>
      <i18nText>pit viper</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c0aa2dbc-30e3-4352-b4c1-fed12c10bcf4}</id>
      <foreignId>{4f54bb76-5890-4b99-8f5b-c38b1d99ff1d}</foreignId>
-     <text>leaf tailed gecko</text>
+     <text>gekon liściowy</text>
      <i18nText>leaf tailed gecko</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7eac90cc-7601-487c-9d97-a2e0779d96e6}</id>
      <foreignId>{b767cf45-6ab3-4a98-a725-91229490f171}</foreignId>
-     <text>pond turtle</text>
+     <text>żółw błotny</text>
      <i18nText>pond turtle</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cab35424-7b18-4add-9bdf-e5f3309c9d1c}</id>
      <foreignId>{9089239f-bf3b-4cc0-918f-b0ad555d3e5c}</foreignId>
-     <text>california tiger salamander</text>
+     <text>ambystoma kalifornijska</text>
      <i18nText>california tiger salamander</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ac242a7d-1375-4403-9687-e35500e82b29}</id>
      <foreignId>{e7398bab-b75e-4b36-97a3-aa050b679574}</foreignId>
-     <text>poison dart frog</text>
+     <text>żaba drzewołazowata</text>
      <i18nText>poison dart frog</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ce06942b-7ee0-4ca6-ae30-68f0d2219cd3}</id>
      <foreignId>{d8b77bc9-7ba5-4756-9ca3-370396d18cc1}</foreignId>
-     <text>Do not go near the fence, please.</text>
+     <text>Proszę nie zbliżać się do ogrodzenia.</text>
      <i18nText>Do not go near the fence, please.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a16f9ff9-8486-4917-baf3-224260dd6d43}</id>
      <foreignId>{4e1dd580-c2e4-4d09-8a02-a1ae18e36538}</foreignId>
-     <text>Look, there is a cute white tiger cub.</text>
+     <text>Spójrz, tam jest ładny biały tygrys gołowąs.</text>
      <i18nText>Look, there is a cute white tiger cub.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f44f288f-ed2c-476a-9155-c5c5f7fb1e24}</id>
      <foreignId>{313d8cc9-18bd-454a-9c7b-485396e2ce00}</foreignId>
-     <text>During winter, you will find lots of migratory birds by this lake.</text>
+     <text>Zimą można zobaczyć wiele ptaków migrujących przez to jezioro.</text>
      <i18nText>During winter, you will find lots of migratory birds by this lake.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cd515d66-cd71-4786-befb-9c1d187a4afb}</id>
      <foreignId>{120b269e-96a5-405d-9abc-030cf52846d0}</foreignId>
-     <text>Do you know where the reptile park is?</text>
+     <text>Czy wiesz, gdzie jest park z gadami?</text>
      <i18nText>Do you know where the reptile park is?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5fb57c49-e26e-4be3-b60f-fcded26ecdb7}</id>
      <foreignId>{ca09974e-dd61-4ec5-9e86-8ac3b21ab892}</foreignId>
-     <text>You will find the information kiosk right beside the entrance gate.</text>
+     <text>Kiosk informacyjny jest tuż obok bramy wjazdowej.</text>
      <i18nText>You will find the information kiosk right beside the entrance gate.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{be0a6e42-20df-46e7-b52e-05f275b2a567}</id>
      <foreignId>{01188091-f643-43df-a966-8ec857fcb7c1}</foreignId>
-     <text>Do not forget to get the zoo map at the information kiosk.</text>
+     <text>Nie zapomnij wziąć mapy zoo z kiosku informacyjnego.</text>
      <i18nText>Do not forget to get the zoo map at the information kiosk.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{56e93f56-09f9-4737-9a04-ad67ad8a271e}</id>
      <foreignId>{18df4512-d562-4645-bd1f-8a710e33094d}</foreignId>
-     <text>Please do not feed or tease any wild animals of the zoo.</text>
+     <text>Proszę nie karmić ani nie dokuczać dzikim zwierzętom w zoo.</text>
      <i18nText>Please do not feed or tease any wild animals of the zoo.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d38385a1-a198-4d8b-8d80-732520fe4728}</id>
      <foreignId>{5b4b8678-62df-4246-96c7-7bcb87996618}</foreignId>
-     <text>Polythene bags, plastic bottles and food items are not allowed inside the zoo premises.</text>
+     <text>Torby z polietylenu, plastikowe butelki, i produkty spożywcze nie są dozwolone na terenie zoo.</text>
      <i18nText>Polythene bags, plastic bottles and food items are not allowed inside the zoo premises.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{46d24c09-ce44-4013-8723-a35661023a1b}</id>
      <foreignId>{73a23af6-172a-43d6-8bc9-7894696172ff}</foreignId>
-     <text>Do not try to enter any animal enclosure.</text>
+     <text>Proszę nie próbować wchodzić do ogrodzeń ze zwierzętami.</text>
      <i18nText>Do not try to enter any animal enclosure.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2cb98472-2657-4395-9bed-67044a20ca48}</id>
      <foreignId>{c23c7dac-b32c-413b-8794-f7db0f13e37c}</foreignId>
-     <text>You are not allowed to carry any firearms or sharp objects inside the zoo.</text>
+     <text>Nie wolno posiadać broni palnej lub ostrych przedmiotów na terenie zoo.</text>
      <i18nText>You are not allowed to carry any firearms or sharp objects inside the zoo.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{474f7e2f-3d5c-4429-81d2-d69b9caa1afc}</id>
      <foreignId>{3531b2a6-e1f5-4262-8a2b-7c370da8730d}</foreignId>
-     <text>Spoonbill, an endangered species is regularly being bred here.</text>
+     <text>Platalea jest zagrożonym gatunkiem, który jest regularnie tutaj rozmnażamy.</text>
      <i18nText>Spoonbill, an endangered species is regularly being bred here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9804e158-c89f-4c81-a18b-d69d1202dc37}</id>
      <foreignId>{ded1f582-3b89-4ece-ab3a-08f02c55a45f}</foreignId>
-     <text>The word 'zoo' is short for 'zoological park' or 'zoological garden'.</text>
+     <text>Słowo "zoo" jest skrótem od "parku zoologicznego" lub "ogródu zoologicznego".</text>
      <i18nText>The word 'zoo' is short for 'zoological park' or 'zoological garden'.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e2d5ea4d-1347-4afe-94ed-46b5626fe72e}</id>
      <foreignId>{a44eec79-84e4-49f6-90ea-bdd31e7d9863}</foreignId>
-     <text>You shall be fined if you are caught littering the zoo premises.</text>
+     <text>Zostaniesz ukarany grzywną, jeśli zostaniesz przyłapany na zaśmiecaniu terenu zoo.</text>
      <i18nText>You shall be fined if you are caught littering the zoo premises.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5107a41a-ab0a-47a3-901d-1695088c4ee7}</id>
      <foreignId>{18b64ce8-cd52-4501-99b6-dc4b0fc2c682}</foreignId>
-     <text>Lions are known to sleep for 18-20 hours a day.</text>
+     <text>Lwy śpią od osiemnastu do dwudziestu godzin dziennie.</text>
      <i18nText>Lions are known to sleep for 18-20 hours a day.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e6ae1222-b4f5-4e06-a384-cf743c3a3500}</id>
      <foreignId>{2378e330-dd07-4ac8-ae84-1ab0d2d9fa20}</foreignId>
-     <text>The zoo remains open for visitors from nine in the morning to five in the evening.</text>
+     <text>Zoo jest otwarte dla zwiedzającyh od dziewiątej rano do piątej po południu.</text>
      <i18nText>The zoo remains open for visitors from nine in the morning to five in the evening.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6a9d9c65-72fd-43c7-af8a-a700abdd8a61}</id>
      <foreignId>{39530feb-1de4-42d5-9f19-d7316f03dc84}</foreignId>
-     <text>Bisons are the heaviest land animals in North America.</text>
+     <text>Bizony są najcięższymi zwierzętami w Północnej Ameryce.</text>
      <i18nText>Bisons are the heaviest land animals in North America.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a8596465-c444-4dfb-a001-02eb35ec4bad}</id>
      <foreignId>{579fe786-2e19-4782-be3b-83fd3b7def29}</foreignId>
-     <text>Wheelchairs are available at the entrance at no charge on a first-come, first-served basis.</text>
+     <text>Wózki inwalidzkie są dostępne przy wejściu bez opłaty na zasadzie kto pierwszy, ten lepszy.</text>
      <i18nText>Wheelchairs are available at the entrance at no charge on a first-come, first-served basis.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{97f4c435-b8c2-485e-b3fd-5f26a5265f7e}</id>
      <foreignId>{9c981323-3399-4e88-864b-ecf7220e3523}</foreignId>
-     <text>The Zoo is equipped with disabled-friendly restrooms.</text>
+     <text>Zoo posiada toalety dla osób niepełnosprawnych.</text>
      <i18nText>The Zoo is equipped with disabled-friendly restrooms.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{67d7b27f-c55d-4f6f-94c4-763502a72ad1}</id>
      <foreignId>{abb346cd-a02a-42ee-856d-24a70afaaedb}</foreignId>
-     <text>The Beluga, or white whale, is one of the smallest species of whales.</text>
+     <text>Beluga zwana także wielorybem białym jest jednym z najmiejszych gatunków wieloryba.</text>
      <i18nText>The Beluga, or white whale, is one of the smallest species of whales.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1a2de8f4-3494-403e-aa66-ab4c0cb455ae}</id>
      <foreignId>{7e59d165-399c-430a-8d1f-c7a1a5d6dcc3}</foreignId>
-     <text>Despite looking like a cross between a pig, an elephant and a panda, these tapirs are closely related to rhinos and horses. The tapir’s trunk is a powerful sense organ that is integral to its search for food. It serves a dual purpose as hands to guide food into the mouth and to probe unfamiliar objects.</text>
+     <text>Tapiry pomimo że wygladają jak mieszanka świni, słonia i pandy, są spokrewnione z nosorożcami i końmi. Trąba tapira jest narzędziem, które pomaga mu w poszukiwaniu jedzenia. Ma podwójny cel, działa jako ręka podając jedzenie i służy do sondowania nieznanych obiektów.</text>
      <i18nText>Despite looking like a cross between a pig, an elephant and a panda, these tapirs are closely related to rhinos and horses. The tapir’s trunk is a powerful sense organ that is integral to its search for food. It serves a dual purpose as hands to guide food into the mouth and to probe unfamiliar objects.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5ee9a243-2dcb-4190-95f3-700a40c72314}</id>
      <foreignId>{09026d53-0ac3-425e-a7c9-2516e7969de9}</foreignId>
-     <text>This is the world's best rainforest zoo having more than 2,800 animals representing over 300 species of mammals, birds and reptiles. Here the animals roam freely in open and naturalistic habitats and are on well-balanced diets ensuring their best health and optimum weight.</text>
+     <text>To jest najlepsze na świecie zoo lasu deszczowego i ma ponad dwa tysiące osiemset zwierząt reprezentujących ponad trzysta gatunków ssaków, ptaków i gadów. Tutaj zwierzęta poruszają się swobodnie w naturalnym otoczeniu. Mają też wyważoną dietę, co zapewnia im odpowednią wagę i zdrowie.</text>
      <i18nText>This is the world's best rainforest zoo having more than 2,800 animals representing over 300 species of mammals, birds and reptiles. Here the animals roam freely in open and naturalistic habitats and are on well-balanced diets ensuring their best health and optimum weight.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3a984d3f-426f-4d59-b3dc-854fd38a7917}</id>
      <foreignId>{333e14fa-1ce0-489f-a13b-22e9d1022419}</foreignId>
-     <text>The Zoo remains closed to the visitors on every Thursday except if it is a national holiday. In that case, it remains open to the visitors on that day and the weekly closure is observed on the next available working day.</text>
+     <text>Zoo jest zamknięte dla zwiedzających w każdy czwartek z wyjątkiem gdy jest to święto narodowe. W tym przypadku, zoo jest otwarte dla zwiedzających, a dzień zamknięcia zostaje przeniesiony na kolejny dzień roboczy.</text>
      <i18nText>The Zoo remains closed to the visitors on every Thursday except if it is a national holiday. In that case, it remains open to the visitors on that day and the weekly closure is observed on the next available working day.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{de158b3d-796b-452f-9047-af18d51437be}</id>
      <foreignId>{50bc2639-dad6-4872-984e-13cf0a4091e3}</foreignId>
-     <text>These American alligators once faced extinction. The United States Fish and Wildlife Service placed them on the endangered species list in 1967. Thanks to the legal protection, they were taken off the list just 20 years later.</text>
+     <text>Te amerykańskie aligatory były już raz w obliczu wymarcia. Fish and Wildlife Service umieściła je na liście gatunków zagrożonych w tysiąc dziewięćset sześćddzesiątym siódmym roku. Dzięki ochronie prawnej, zostały usunięte z listy zaledwie dwadzieścia lat później.</text>
      <i18nText>These American alligators once faced extinction. The United States Fish and Wildlife Service placed them on the endangered species list in 1967. Thanks to the legal protection, they were taken off the list just 20 years later.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6e1d5aee-111d-44c7-9c99-c32cb1e9113c}</id>
      <foreignId>{6c7d16b8-5cbd-4bad-9cfd-8a88ea4d97c3}</foreignId>
-     <text>About 90% of the park are paved pathways which are accessible by wheelchair. There are also ramps and allocated viewing areas for disabled guests to view various exhibits and shows at the zoo.</text>
+     <text>Na terenie około dziewiędziesięciu procent parku są brukowane drogi, które są przystosowane dla osób niepełnosprawnych. Istnieją również rampy dla niepełnosprawnych do oglądania różnych wystaw i pokazów w zoo.</text>
      <i18nText>About 90% of the park are paved pathways which are accessible by wheelchair. There are also ramps and allocated viewing areas for disabled guests to view various exhibits and shows at the zoo.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
