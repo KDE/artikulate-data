@@ -18,7 +18,7 @@
      <i18nText>Guten Tag.</i18nText>
      <soundFile>de_01.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1978,12 +1978,15 @@
     <phrase>
      <id>{e133f596-d6a9-4373-a62d-1e95befde07c}</id>
      <foreignId>{49f57de6-c935-4e91-bff6-b54b4a3ba716}</foreignId>
-     <text>tennis</text>
+     <text>Tennis</text>
      <i18nText>tennis</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ae</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ed7e4bd2-8bd9-4b96-a441-83a13fab40da}</id>
@@ -2655,11 +2658,11 @@
     <phrase>
      <id>{d6f692c3-6558-4994-a472-edddaf3e5afc}</id>
      <foreignId>{565a4bc9-884b-4104-a96e-fb5830792bb8}</foreignId>
-     <text>Greece</text>
+     <text>Griechenland</text>
      <i18nText>Greece</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
