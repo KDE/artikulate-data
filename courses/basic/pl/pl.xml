@@ -2721,9 +2721,9 @@
      <foreignId>{7005dad7-79e4-49de-9636-c6a72689b5ea}</foreignId>
      <text>Niemcy</text>
      <i18nText>Germany</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4926914b-da36-4c04-aebd-dd908666cac0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2741,9 +2741,9 @@
      <foreignId>{f3be58dc-59f0-46af-aaf8-d4fac7f39f35}</foreignId>
      <text>Hiszpania</text>
      <i18nText>Spain</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fab6b18c-2402-4453-83a7-325f954b2861}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2761,9 +2761,9 @@
      <foreignId>{67f07b95-e524-46a8-9f13-794559c7d47d}</foreignId>
      <text>Wielka Brytania</text>
      <i18nText>Great Britain</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{994018ba-80c0-49be-85f6-885cda80ba54}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2781,9 +2781,9 @@
      <foreignId>{f70b0692-8a4d-4642-8533-93213d7a9d86}</foreignId>
      <text>Argentyna</text>
      <i18nText>Argentina</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ee042dd1-e507-4730-b6da-dd757ac6da99}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2801,9 +2801,9 @@
      <foreignId>{3180c47c-69fe-411a-a5a8-295febff5ab1}</foreignId>
      <text>Kanada</text>
      <i18nText>Canada</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7d8bcf2d-be3a-4fdc-9f39-52927e357e98}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2821,9 +2821,9 @@
      <foreignId>{27849b42-f31c-4da0-aeb3-0169a575e07d}</foreignId>
      <text>Nowa Zelandia</text>
      <i18nText>New Zealand</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1e2d0bb3-01c7-43c5-bede-638ca3ff2cd3}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2841,9 +2841,9 @@
      <foreignId>{b83341ef-7fe1-4566-b490-b5a69a54b1c5}</foreignId>
      <text>Indie</text>
      <i18nText>India</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{23f9cfc6-dc99-4f7d-9109-84c54b187981}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2861,9 +2861,9 @@
      <foreignId>{98903ca5-3a97-4600-8861-a0d94c5fb15d}</foreignId>
      <text>Amerkanin</text>
      <i18nText>American</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0201ca07-fbf9-466f-9931-271cc682ce51}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2881,9 +2881,9 @@
      <foreignId>{ef7e1122-90d9-4655-986d-c0fa69414bc4}</foreignId>
      <text>Kanadyjczyk</text>
      <i18nText>Canadian</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7f50d92d-1e6e-4db7-bf67-ec2a27362b2e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2901,9 +2901,9 @@
      <foreignId>{4c2f86d4-a09f-4175-ac70-ba23f826c0a6}</foreignId>
      <text>Brazylijczyk</text>
      <i18nText>Brazilian</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{098a5ae2-79b0-4d1a-8bfb-d8efe7b7c6f9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2921,9 +2921,9 @@
      <foreignId>{5beab421-e04e-4d7b-b544-91d0f06f55f0}</foreignId>
      <text>Japończyk</text>
      <i18nText>Japanese</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b9ea353b-8ee5-4719-8505-9e0a9bfaebc0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2941,9 +2941,9 @@
      <foreignId>{638fdfe5-8b77-44fa-9402-978102fd638b}</foreignId>
      <text>Francuz</text>
      <i18nText>French</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fb0fa3d7-145c-4565-8edc-ed3ec7983d17}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2961,9 +2961,9 @@
      <foreignId>{d3e44058-e136-45e5-9804-f1c86c9e6487}</foreignId>
      <text>flaga</text>
      <i18nText>flag</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6d282c6e-89df-4558-b226-cc0f8088a2f9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2981,9 +2981,9 @@
      <foreignId>{3527919b-8a7c-4880-a298-b98bc750fda2}</foreignId>
      <text>mówić w języku</text>
      <i18nText>speak a language</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8190e5bc-c072-491f-b713-f32ddb2866cc}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3001,9 +3001,9 @@
      <foreignId>{1b61b73e-a5db-4a80-86de-c9dc99827a9b}</foreignId>
      <text>tradycyjny ubiór</text>
      <i18nText>traditional dress</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{77ca8ca1-16ce-408a-8d01-40947c620de4}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3021,9 +3021,9 @@
      <foreignId>{b24165ba-6027-4e70-a0d3-2e46ad639c32}</foreignId>
      <text>kraj zagraniczny</text>
      <i18nText>foreign country</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e1daf2b5-2e45-4d98-99c5-eb63ba1ac561}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3041,9 +3041,9 @@
      <foreignId>{c27bde10-87fd-493d-9e93-e00f143b987d}</foreignId>
      <text>oficjanly język</text>
      <i18nText>official language</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bd48f468-7283-415a-a993-e24923896363}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3061,9 +3061,9 @@
      <foreignId>{f27236b1-cd29-4008-93c5-7b08ef572cf8}</foreignId>
      <text>stolica</text>
      <i18nText>capital city</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3db626dd-ff46-4f9f-b0ee-1c593cb11fad}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3081,9 +3081,9 @@
      <foreignId>{9a0983a0-491c-4de6-9580-1664868f6b18}</foreignId>
      <text>jechać za granicę</text>
      <i18nText>go abroad</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e95faa8e-1f9f-456b-b937-a9dee97ae67d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3101,9 +3101,9 @@
      <foreignId>{a9be6a5e-7979-41dd-ab74-575082a52efe}</foreignId>
      <text>język ojczysty</text>
      <i18nText>mother tongue</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{efd2cc0e-a4a9-4ec8-aec4-9ae15c91b31f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3121,9 +3121,9 @@
      <foreignId>{d68b2825-e8a9-443b-9159-a4dfec6ff7e6}</foreignId>
      <text>szok kulturowy</text>
      <i18nText>culture shock</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{36fb543f-c75b-4995-bc6f-6aa78c77e89e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3141,9 +3141,9 @@
      <foreignId>{71c5bf98-fe19-45cb-9f2d-28a27056a001}</foreignId>
      <text>Skąd pochodzisz?</text>
      <i18nText>Where are you from?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d5323842-d2bc-445e-994b-f7d9c74ca627}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3161,9 +3161,9 @@
      <foreignId>{53345892-f6f1-4c9f-ad05-45ec2290ca85}</foreignId>
      <text>W Brazyli mówi się po portugalsku.</text>
      <i18nText>In Brazil people speak portuguese.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{43354223-c4d7-4158-9542-996f15f02a37}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3181,9 +3181,9 @@
      <foreignId>{fc0a450f-bcbc-4ea7-a127-d815d2646c60}</foreignId>
      <text>Polski i czeski są językami słowiańskimi.</text>
      <i18nText>Polish and Check are Slavic languages.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b26af1b7-2ea7-4725-8050-f77843e79f0f}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3201,9 +3201,9 @@
      <foreignId>{8ab66404-44a6-446e-96eb-0cb7745d7ac7}</foreignId>
      <text>Mówię po hiszpańsku, niemiecku i trochę po włosku.</text>
      <i18nText>I can speak Spanish, German and a bit of Italian.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ed105412-571e-4365-97e2-3e0b618835fd}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3221,9 +3221,9 @@
      <foreignId>{5ba2ee29-0342-46f7-a082-37d4452624fd}</foreignId>
      <text>Niemiecka flaga składa się z trzech kolorów: czrewonego, czarngeo i żółtego.</text>
      <i18nText>There are three colours on German flag: red, black and yellow.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fbccdd35-669d-4cc3-b2f9-5cfc5e253709}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3241,9 +3241,9 @@
      <foreignId>{e4aa21fd-f647-45c5-98be-ffddba6111f4}</foreignId>
      <text>Jaka jest narodowa potrawa indyjska?</text>
      <i18nText>What is a traditional Indian dish?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a8ace78e-e5d8-4537-99bb-a9a5a174ae9a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3259,11 +3259,11 @@
     <phrase>
      <id>{443b1da8-8ae0-4ffe-bef6-8cd6b30fb3b4}</id>
      <foreignId>{758cb73e-7410-4708-9854-48f554248611}</foreignId>
-     <text>Włoski dialekt z południa różnie sie wiele od jakiegokolwiek dialektu tego kraju.</text>
+     <text>Włoski dialekt z południa różni sie wiele od jakiegokolwiek dialektu tego kraju.</text>
      <i18nText>Italian dialect from south is very different from any other dialects spoken in the country.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{443b1da8-8ae0-4ffe-bef6-8cd6b30fb3b4}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3281,9 +3281,9 @@
      <foreignId>{caebae74-e96a-4ced-9994-65d5e8c953a8}</foreignId>
      <text>W Australii tradycyjnie je się indyka w Święta Bożego Narodzenia.</text>
      <i18nText>Eating turkey on Christmas Day in Australia is a tradition.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{60f0c6c6-d228-42f9-acda-4206f706b921}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3301,9 +3301,9 @@
      <foreignId>{2a7ce4b0-8af9-429a-80b8-91f8fc341f92}</foreignId>
      <text>Grecja graniczy z Albanią, Macedonią i Turcją.</text>
      <i18nText>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0625b0d9-b9ae-415f-b809-e1a641abd714}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3321,9 +3321,9 @@
      <foreignId>{58326819-3659-4317-b4ae-3b5ca03122e8}</foreignId>
      <text>Mam podwójne obywatelstwo. Jestem obywatelem Francji i mam też paszport brytyjski.</text>
      <i18nText>I have double nationality. I am a French citizen and I also have a British passport.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{67bc2ffe-4e60-426b-8a87-2e45b93b9abb}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3341,9 +3341,9 @@
      <foreignId>{32794fd5-6247-4d13-a3eb-5c42d265d628}</foreignId>
      <text>Pochodzę z Hiszpanii i urodziłem się w Barcelonie. Gdy miałem cztery latka moja rodzina emigrowała do Stanów Zjednoczonych i zostaliśmy już tu na stałe. Mówię po hiszpańsku i angielsku.</text>
      <i18nText>I come from Spain and I was born in Barcelona. When I was four years old my family emigrated to USA and we stayed there until now. I can speak both Spanish and English.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{34622374-f4ab-4ace-bdc3-9455b4edfa48}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
