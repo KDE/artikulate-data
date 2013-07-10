@@ -620,9 +620,9 @@
      <foreignId>{6320b3db-cefc-4abf-be0d-3cb1a790b53c}</foreignId>
      <text>wyjście</text>
      <i18nText>exit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{39b9222f-b947-4d18-b6cf-8d9d119a44f4}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -640,9 +640,9 @@
      <foreignId>{31533327-aa7e-45c6-875c-dea4ab78c945}</foreignId>
      <text>restauracja</text>
      <i18nText>restaurant</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ee6c0a30-213c-409a-ae30-1d3998ba2fd6}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -660,9 +660,9 @@
      <foreignId>{0a30c392-eaba-4d6f-83ab-ea503bc8e872}</foreignId>
      <text>ulica</text>
      <i18nText>street</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{90fc9008-a40f-4a62-82b7-aff3e24fcbe9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -680,9 +680,9 @@
      <foreignId>{50632f8c-002a-429e-9020-3b2189d2571b}</foreignId>
      <text>lotnisko</text>
      <i18nText>airport</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1ce5bc6e-e93f-4bea-a232-6415807a8f71}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -700,9 +700,9 @@
      <foreignId>{ef9b98e2-43c6-4196-83f6-576fc45f7240}</foreignId>
      <text>supermarket</text>
      <i18nText>supermarket</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6f15fec0-4a2b-4281-8a51-21d10d529e4c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -720,9 +720,9 @@
      <foreignId>{869eacc5-48bc-4808-926d-aa02db9744a9}</foreignId>
      <text>skrzyżowanie</text>
      <i18nText>junction</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{957d5347-c3e8-4db1-b0ee-f60f9597d577}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -740,9 +740,9 @@
      <foreignId>{9ecc4cd8-035d-4a89-a2dc-5c09f01f7faa}</foreignId>
      <text>kościół</text>
      <i18nText>church</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1cc5e404-a4aa-4c48-8aab-32907bbf0409}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -762,7 +762,7 @@
      <i18nText>hotel</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -780,9 +780,9 @@
      <foreignId>{ca54934b-b6d6-4ba7-bff6-7236521bf207}</foreignId>
      <text>prom</text>
      <i18nText>ferry</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0e2c9b47-07dd-4b4a-8af8-31934841e28b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -800,9 +800,9 @@
      <foreignId>{5ac09060-6657-4c62-8aa5-e80625fc3a4e}</foreignId>
      <text>rzeźba</text>
      <i18nText>sculpture</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{66f72839-0d8e-491b-928a-681245ae8a93}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -822,7 +822,7 @@
      <i18nText>coach</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -840,9 +840,9 @@
      <foreignId>{644caa37-926f-4257-b423-34dcf183ae89}</foreignId>
      <text>stolica</text>
      <i18nText>capital</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{815a4351-db30-4199-bb60-aa759bc26288}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -860,9 +860,9 @@
      <foreignId>{3410833e-aca1-407f-8c17-deab07da0cb8}</foreignId>
      <text>katedra</text>
      <i18nText>cathedral</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b9c4fd9e-c28c-4c2f-bb88-ee29a277298c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -880,9 +880,9 @@
      <foreignId>{2c28962d-cd9d-468b-b5b8-6d902b61fdba}</foreignId>
      <text>sklep z pamiątkami</text>
      <i18nText>souvenir shop</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{af138a6a-752d-4b53-8ac3-79b0f611beec}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -900,9 +900,9 @@
      <foreignId>{7f0823ae-fc6b-4a36-9ee3-00164f4168aa}</foreignId>
      <text>sto jardów</text>
      <i18nText>hundred yards</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d5380fdd-1917-4fa5-bcd1-19dab9045a37}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -920,9 +920,9 @@
      <foreignId>{724064ae-fb35-4b00-b077-b6e58e39b0fc}</foreignId>
      <text>dom gościnny</text>
      <i18nText>bed and breakfast (B&amp;B)</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{56b88ec2-1ee7-4e7c-896a-8a365a685d76}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -940,9 +940,9 @@
      <foreignId>{87c58bf2-d6b5-4d7c-b186-d5afe5c48b9b}</foreignId>
      <text>hostel młodzieżowy</text>
      <i18nText>youth hostel</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fc27c396-7919-4f56-aaf4-3d606d58b683}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -960,9 +960,9 @@
      <foreignId>{17e2fb23-63b5-4d4e-a066-0037e7a5afb6}</foreignId>
      <text>zwiedzać</text>
      <i18nText>go sightseeing</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5793657a-964e-4537-a0a3-6772e205c791}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -980,9 +980,9 @@
      <foreignId>{1073c6d5-338d-4537-9a7b-a7589b16586f}</foreignId>
      <text>stare miasto</text>
      <i18nText>old town</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{13339ce4-59c9-4bea-a093-e29da3ec0190}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1000,9 +1000,9 @@
      <foreignId>{da804619-a060-48ad-83c0-7989b3279ee3}</foreignId>
      <text>godziny otwarcia</text>
      <i18nText>opening times</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4fa9cffa-0a62-449c-8d9d-32155de4a69b}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1020,9 +1020,9 @@
      <foreignId>{4cee20bb-363b-44bb-901c-021d6108dcd8}</foreignId>
      <text>zrobić zdjęcie</text>
      <i18nText>take a photo</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b2a8b13a-3305-47f4-9662-bba1b96a6b45}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1040,9 +1040,9 @@
      <foreignId>{68dfe7bb-4f64-4995-b194-af299d59f162}</foreignId>
      <text>jechać autobusem</text>
      <i18nText>go by bus</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b96909c0-bc80-4172-a0e6-1a267d122de6}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1060,9 +1060,9 @@
      <foreignId>{eb292974-a18e-4e48-8237-bb480c7e5f0f}</foreignId>
      <text>Skręć w prawo na skrzyżowaniu.</text>
      <i18nText>Turn right at the crossroads.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9fa78577-3154-4d30-83c7-ae728405b11c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1080,9 +1080,9 @@
      <foreignId>{50102ee1-d95c-4c33-ad1d-ca57de2bbc66}</foreignId>
      <text>Przepraszam, mógłby mi Pan powiedzieć jak dojść na pocztę?</text>
      <i18nText>Excuse me, could you tell me how to get to the post office?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fea3bcd6-1618-442a-b13f-d99fe9117f9a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1100,9 +1100,9 @@
      <foreignId>{a983071c-0522-4055-aee7-f164f5f70334}</foreignId>
      <text>Czy muzeum jest otwarte w soboty?</text>
      <i18nText>Is the museum open on Saturdays?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1abb2e81-8436-4f07-9416-5f5c29591496}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1122,7 +1122,7 @@
      <i18nText>The next bus stop is at the end of the street.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1140,9 +1140,9 @@
      <foreignId>{205bd4d4-3315-4ba0-beba-e76cb4d5d821}</foreignId>
      <text>Chodźmy do centrum.</text>
      <i18nText>Let's go to the city centre.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0087be0b-5401-4d5a-bd4c-6cd90d62aea8}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1160,9 +1160,9 @@
      <foreignId>{91c058c1-7d53-4ec3-a822-756212ee254b}</foreignId>
      <text>Możemy dojść tam na piechotę?</text>
      <i18nText>Can we get there by foot?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7dae14c1-f217-4ec8-b0cf-4bc5b2bb6032}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1180,9 +1180,9 @@
      <foreignId>{de0f3a0e-e42b-417b-b1ea-3c2c81eaedad}</foreignId>
      <text>Ile kosztuje wejście?</text>
      <i18nText>How much is the admission fee?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1b3d4cf7-84ed-4ffe-9999-330da1336975}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1200,9 +1200,9 @@
      <foreignId>{6becb819-6669-4f88-9fb8-b7ccba61bec7}</foreignId>
      <text>Chcecie zobaczyć Muzeum Narodowe?</text>
      <i18nText>Would you like to visit National Gallery?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1524ca02-a6e5-49dc-ae61-6fcb9878d28b}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1220,9 +1220,9 @@
      <foreignId>{4713c077-5ed2-4a49-95db-ee32fdfe2ce0}</foreignId>
      <text>Musicie zobaczyć stary zamek.</text>
      <i18nText>You must visit the old castle.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5dacb068-bea2-41fe-8953-0c03b409ade2}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1240,9 +1240,9 @@
      <foreignId>{e20e8a6a-c9af-4f31-998e-a9d5e9561c0a}</foreignId>
      <text>Londyn jest stolicą Anglii. Jest to różnorodne miasto z wieloma atrakcjami. Najbardziej znane atrakcje turystyczne to London Eye, National Gallery and Tower of London. Także pałac Buckingham w centrum miasta jest często odwiedzany przez turystów gdyż jest rezydencją brytyjskiej królowej. Codziennie przed pałcem odbywa się zmiana warty co warto zobaczyć.</text>
      <i18nText>London is a capital of England. It is a diverse and exciting city with many attractions. The most visited tourist attractions are London Eye, the National Gallery and Tower of London. Also Buckingham Palace situated is in the city centre is a popular sight as it is the official residence of the British Queen. Every day in front of the palace Changing the Guard ceremony takes place. This is worth seeing while you are visiting London and it is usually witnessed by large crowds.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cb221d47-ff12-42e8-9afc-86c59ea22478}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1250,9 +1250,9 @@
      <foreignId>{5de429b5-c6be-4f7f-93f9-fb70b57bc7b6}</foreignId>
      <text>Witamy w Rzymie! Zwiedzaj miasto naszym turystycznym autobusem. Autobusy odjeżdzają co 15 miunt z przed stacji kolejowej i zatrzymują sie przy dziesięciu rożnych atrakcjach. Możesz wysiąść na jakimkolwiek przystanku i zwiedzać okololice jak długo tylko chcesz. Więcej informacji uzyskasz w informacji turystycznej obok głównego wejścia do stacji kolejowej.</text>
      <i18nText>Welcome to Rome! Why don't you join us for a “hop on, hop off” sightseeing tour of the city... The buses leave every 15 minutes from the train station and stop at 10 different city attractions. You can get off the bus at any stop and enjoy your time in the local area for as long as you want. For more information come and ask tourist information office just next to the main train station entrance.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{06ea1265-5b28-48c2-9876-36eac85dbf1a}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1270,9 +1270,9 @@
      <foreignId>{e7864b6c-dd16-4141-8752-6a42124ff5c6}</foreignId>
      <text>Galeria jest otwarta od poniedziałku do piątku między dziesiątą a siedemnastą. Wejście dla dorosłych kosztuje dziesięć dolarów, a dla dzieci poniżej dwunastu lat pięć dolarów. Robienie zdjęć jest zabronione i aparaty fotograficzne należy zostawić w szatni.</text>
      <i18nText>The gallery is open Monday-Friday from 10 am until 5 pm.  Entrance fee is 10$ for adults and 5$ for children under 12 years of age. Photographing is strictly prohibited in the whole building and all cameras must be left in the cloakroom.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{44e95cd8-38c5-440b-86c6-6f50d716eea9}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
