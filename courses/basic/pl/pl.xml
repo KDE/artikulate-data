@@ -1297,9 +1297,9 @@
      <foreignId>{f13aa413-12db-4ac4-970f-a049a02b7e30}</foreignId>
      <text>tata</text>
      <i18nText>father</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d8de1411-d66a-414c-b05f-84c1a5576f9f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1317,9 +1317,9 @@
      <foreignId>{bcfd006d-c3e8-49ef-bc08-0768c18c9cbe}</foreignId>
      <text>ciocia</text>
      <i18nText>aunt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6edd2f35-02a5-45a3-80c9-ddc3f81b289c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1337,9 +1337,9 @@
      <foreignId>{ca56ec04-0662-425d-ae9d-4f282a342fb5}</foreignId>
      <text>siostra</text>
      <i18nText>sister</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fe10c76a-565a-4525-8b80-45b566298bb3}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1357,9 +1357,9 @@
      <foreignId>{108a4ddf-8c9b-4632-9188-0a7cfda508a1}</foreignId>
      <text>dziadek</text>
      <i18nText>grandfather</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bda774d8-4246-4e20-ae56-74f4d58fa118}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1377,9 +1377,9 @@
      <foreignId>{c5ac8139-5acc-4c5e-b458-7cccdffa7105}</foreignId>
      <text>syn</text>
      <i18nText>son</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1696b4de-bf0f-4631-864f-bc3fb5994ea5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1397,9 +1397,9 @@
      <foreignId>{3da7d5bb-73a4-4a15-92e7-b28f08fec585}</foreignId>
      <text>wnuczek</text>
      <i18nText>grandson</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c1089f16-d5df-434c-8808-d9f0cada90bd}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1417,9 +1417,9 @@
      <foreignId>{56ff75ed-c079-467a-b702-d83e2aa940ec}</foreignId>
      <text>żona</text>
      <i18nText>wife</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{aedc6c37-e91c-45eb-bc98-3c313dd64b3a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1437,9 +1437,9 @@
      <foreignId>{650e213c-3aa1-4c00-89d3-ae708208c742}</foreignId>
      <text>siostrzenica</text>
      <i18nText>niece</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3907a799-c40f-488d-be5b-f63fc680dc80}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1457,9 +1457,9 @@
      <foreignId>{89a5acb9-f4c3-44ec-abde-a2eb538f9eec}</foreignId>
      <text>małżonek</text>
      <i18nText>spouse</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f1912780-37e6-4321-8b65-34e94acedca0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1477,9 +1477,9 @@
      <foreignId>{226d188f-054e-48bc-8d66-342b14286a7a}</foreignId>
      <text>para</text>
      <i18nText>couple</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8b58f8e1-bce5-48d3-9b96-c27ce219ea88}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1497,9 +1497,9 @@
      <foreignId>{337596af-ef04-4d45-b73f-22bbf477447d}</foreignId>
      <text>chrześniak</text>
      <i18nText>godson</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{609729f0-8f0a-431f-8250-fbb7b241e68b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1517,9 +1517,9 @@
      <foreignId>{5cab4a17-e261-460e-83b9-7219cbaac107}</foreignId>
      <text>niemowlę</text>
      <i18nText>babe</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a8632590-0386-4f3a-a1a4-533c211ab065}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1537,9 +1537,9 @@
      <foreignId>{b8751e3b-fa9e-4f9c-970c-2dbff5e212b9}</foreignId>
      <text>krewny</text>
      <i18nText>relative</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a6fd7bbd-94c8-4b5d-8e31-c1616f3a31d5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1557,9 +1557,9 @@
      <foreignId>{89ae77b7-1653-4510-824e-12ad53d77951}</foreignId>
      <text>wydziedziczyć</text>
      <i18nText>disinherit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{819625a0-d890-4d43-b3fd-208d221fa574}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1577,9 +1577,9 @@
      <foreignId>{0fb64cac-9f4b-48c6-84b9-5363acd8363b}</foreignId>
      <text>rodzina</text>
      <i18nText>family</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4c3d2add-52be-411e-9ff2-cea9e0ffd91f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1597,9 +1597,9 @@
      <foreignId>{98afb7b3-0977-49d9-a445-6fe26ae08397}</foreignId>
      <text>prababcia</text>
      <i18nText>great grandmother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b429c844-242a-4aea-9448-8d24c047fde5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1617,9 +1617,9 @@
      <foreignId>{5642138b-8ebe-4a69-9dd9-3596ab757a56}</foreignId>
      <text>bliźniaczki</text>
      <i18nText>twin sisters</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6defd123-f46c-4654-9e02-126fe4aae8b6}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1637,9 +1637,9 @@
      <foreignId>{bc83b5cc-90d3-4bb7-b4f6-b8ac53d4e504}</foreignId>
      <text>macocha</text>
      <i18nText>step-mother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9baeaf8e-c804-4142-97b4-07457f1b2ce9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1657,9 +1657,9 @@
      <foreignId>{df2d2387-2712-4e6d-9bb2-bcf7b5960be5}</foreignId>
      <text>była żona</text>
      <i18nText>ex-wife</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{af68f9b0-6df4-436b-9992-b2da2f7299b9}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1677,9 +1677,9 @@
      <foreignId>{fbf42837-2a51-4882-a5fb-2a40c6d444cc}</foreignId>
      <text>przybrane dziecko</text>
      <i18nText>foster child</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f5d28256-df0d-44a7-a5c2-212ff7e8d4d8}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1697,9 +1697,9 @@
      <foreignId>{bc4e9420-0424-4206-9d4f-7dfbd2878730}</foreignId>
      <text>starsza siostra</text>
      <i18nText>elder sister</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{afd54e32-3d8c-40a6-abef-58445e69086c}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1717,9 +1717,9 @@
      <foreignId>{a2746154-d49f-4e1f-aa5e-708d2b76f8f2}</foreignId>
      <text>być zaręczonym</text>
      <i18nText>be engaged</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{79fac19d-1ef1-4f2a-9fca-f7e313e4f7bb}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1737,9 +1737,9 @@
      <foreignId>{bb315977-2a75-4355-b1f2-eefbaa357a03}</foreignId>
      <text>czarna owca</text>
      <i18nText>black sheep</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7e6780fa-7c2a-4a80-b26d-142e843bbd38}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1757,9 +1757,9 @@
      <foreignId>{b60de9ba-53fb-4df4-8893-31e67d022646}</foreignId>
      <text>nazwisko</text>
      <i18nText>family name</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{94d47f6b-5de8-400a-92ca-96348bac9e5b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1777,9 +1777,9 @@
      <foreignId>{368dabbd-e453-4104-ba9b-673048767000}</foreignId>
      <text>być w separacji</text>
      <i18nText>be separated</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c00e95e0-dd3f-4ccc-834d-8b8b5e5d8094}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1797,9 +1797,9 @@
      <foreignId>{8a74340e-5f78-48df-80ff-de6e94e416c0}</foreignId>
      <text>Moi rodzice rozwiedli się dwa lata temu.</text>
      <i18nText>My parents got divorced two years ago.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4ad6bfab-be29-4770-b770-d2b8c4fde22c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1817,9 +1817,9 @@
      <foreignId>{a0a49252-3009-4c0a-86f4-0bab74ec379f}</foreignId>
      <text>Moja rodzina mieszka w Nowym Jorku.</text>
      <i18nText>My family lives in New York.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{917dfea6-1429-46e5-bbb7-0b60568f713a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1837,9 +1837,9 @@
      <foreignId>{70ed088d-d131-442d-b07e-531776d2c9d8}</foreignId>
      <text>Oni są bliźniakami.</text>
      <i18nText>They are twins.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{86c9ad60-13bf-466a-82ed-c390f994706d}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1857,9 +1857,9 @@
      <foreignId>{b86467c0-f354-45f0-ada0-9f9d81c65d77}</foreignId>
      <text>Jesteś mężatką?</text>
      <i18nText>Are you married?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d7f94039-3cea-48bd-a076-90fd38f3bb23}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1877,9 +1877,9 @@
      <foreignId>{843e46b9-d6c2-4bc9-9f23-4af732aaff57}</foreignId>
      <text>Karolina i Michał są Roberta dziadkami.</text>
      <i18nText>Carol and Michael are Robert's grandparents.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{da15c49d-ed82-479f-af0e-7d55b7192554}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1897,9 +1897,9 @@
      <foreignId>{5af079ba-7415-42e6-ab66-805ca279808f}</foreignId>
      <text>Moja mama zmarła rok temu.</text>
      <i18nText>My mother died last year.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a8ff78b7-9a95-4af1-9fc0-3f7780c81228}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1917,9 +1917,9 @@
      <foreignId>{383e2b89-9c86-4b6c-a7d1-2ab688625ef4}</foreignId>
      <text>Jak duża jest twoja rodzina?</text>
      <i18nText>How big is your family?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ee0f9f18-4f80-45b6-8bbc-a25ce6b19957}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1937,9 +1937,9 @@
      <foreignId>{801eeb35-50d2-4377-9bcf-0a2e9729ac0d}</foreignId>
      <text>Jak masz na nazwisko?</text>
      <i18nText>What is your family name?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bd9a44d4-93a9-43b8-b020-7c2462b351cb}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1957,9 +1957,9 @@
      <foreignId>{9fe9aead-cfdd-4106-b6fe-3b9ff70607ca}</foreignId>
      <text>Nasza rodzina jest duża. Ja mam dwoje braci i trzy siostry. Mamy także dwadzieścia jeden kuzynów i kuzynek: czternaście od strony taty i siedmioro od strony mamy.</text>
      <i18nText>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bfb9e666-8be2-4f3f-ad1c-0373c1228dc6}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1977,9 +1977,9 @@
      <foreignId>{b4691fce-fcef-4d07-a854-b4378014e66a}</foreignId>
      <text>Moja rodzina nie jest zbyt duża i składa sie z trzech osób: mnie, mamy i taty. Moja mama jest lekarzem, a mój tata jest prawnikiem.</text>
      <i18nText>My family is a rather small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{11ab6661-8233-4a3d-98d8-01a6707a994b}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
