@@ -4047,7 +4047,7 @@
      <i18nText>hour</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4065,9 +4065,9 @@
      <foreignId>{6e53d461-1b6e-45ec-8ce8-93c6deb0c85b}</foreignId>
      <text>sekunda</text>
      <i18nText>second</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a09da6cf-9803-4732-bdf0-4fb47b6ede96}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4085,9 +4085,9 @@
      <foreignId>{94fb6368-3554-499a-ac67-074a84cb95a0}</foreignId>
      <text>popołudnie</text>
      <i18nText>afternoon</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d8c2531d-e0b9-4e20-a613-ece13fdffd57}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4105,9 +4105,9 @@
      <foreignId>{f8c2706c-675d-4d2b-ac86-34b10743a318}</foreignId>
      <text>dźień</text>
      <i18nText>day</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c2bb16db-7cc0-44fc-bfad-6599197c5da4}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4125,9 +4125,9 @@
      <foreignId>{1532e66f-a0e1-4cd7-8763-d42e651379bb}</foreignId>
      <text>pół</text>
      <i18nText>half</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{98340905-1f16-47a4-9001-b23deeac2f0d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4135,9 +4135,9 @@
      <foreignId>{b236085a-b33c-41f8-9558-b0906d6ca8cb}</foreignId>
      <text>kwadrans</text>
      <i18nText>quarter</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{47f116c5-8b2e-432e-8e41-16e73c22cd77}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4155,9 +4155,9 @@
      <foreignId>{9822a8a9-a5bc-4f29-92a3-99d159113d03}</foreignId>
      <text>poniedziałek</text>
      <i18nText>Monday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{01f5b588-555c-4983-be55-6ebdc5894803}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4175,9 +4175,9 @@
      <foreignId>{6e7a38a5-3fe2-42b4-a218-94e96eea1c0f}</foreignId>
      <text>środa</text>
      <i18nText>Wednesday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b0de93bc-1d24-4cad-b358-8dcfd9aeb4c0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4195,9 +4195,9 @@
      <foreignId>{74fa92a1-19d0-453a-9536-561516f19ceb}</foreignId>
      <text>piątek</text>
      <i18nText>Friday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b6ab96ef-25b3-49f8-a8cd-d007ebfc98c0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4215,9 +4215,9 @@
      <foreignId>{1d2dad26-790a-4385-986e-a7709c151487}</foreignId>
      <text>niedziela</text>
      <i18nText>Sunday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3c900907-8a19-4b67-8176-3b23fd3f1b30}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4235,9 +4235,9 @@
      <foreignId>{c04a9c01-e56e-4cff-9e59-a9fcbfbe0823}</foreignId>
      <text>styczeń</text>
      <i18nText>January</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c3df359e-db6d-45b4-8d06-0dc8b254aad0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4255,9 +4255,9 @@
      <foreignId>{4faed864-c6bc-4186-8501-8c5b91fef5a3}</foreignId>
      <text>marzec</text>
      <i18nText>March</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7d01b14b-1595-41b1-94c8-4f2527f7c262}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4275,9 +4275,9 @@
      <foreignId>{c6ebefad-4dde-45d4-b887-8ffacbd902e2}</foreignId>
      <text>maj</text>
      <i18nText>May</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{770e5437-23bb-4733-acfb-e703cfda3c72}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4295,9 +4295,9 @@
      <foreignId>{666a5101-fd4a-487c-8223-157c120e20eb}</foreignId>
      <text>lipiec</text>
      <i18nText>July</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1973d8e9-443b-4a0f-a3d8-c496215000ac}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4315,9 +4315,9 @@
      <foreignId>{c7cbf0a6-69ac-41b8-b9fb-c7a6b9cf6ea5}</foreignId>
      <text>wrzesień</text>
      <i18nText>September</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cb998a4d-cb65-485b-8231-2ff59362edbc}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4335,9 +4335,9 @@
      <foreignId>{35abad03-516a-42b1-95ed-3668ffac7aeb}</foreignId>
      <text>listopad</text>
      <i18nText>November</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{08ac5589-2fbd-4ed3-a309-45d8115c7d66}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4355,9 +4355,9 @@
      <foreignId>{5204eb4d-7da4-461a-a7b3-bdcd6b6887a2}</foreignId>
      <text>rok</text>
      <i18nText>year</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b91a1675-f4dc-4087-bcb6-9b6f009d1276}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4375,9 +4375,9 @@
      <foreignId>{7f99d382-d61e-44e5-a375-4b3f2cbb6b10}</foreignId>
      <text>kalendarz</text>
      <i18nText>calendar</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{78ab305a-f67a-4806-be22-2a7b5d3d0893}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4395,9 +4395,9 @@
      <foreignId>{5858fbef-9663-4ad4-bb88-aa274444181d}</foreignId>
      <text>za piętnaście dwunasta</text>
      <i18nText>quarter to twelve</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{45d6e656-704f-4125-8b10-aa88c8e2cc46}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4415,9 +4415,9 @@
      <foreignId>{d9845eb7-1801-4f4e-8e80-b04bdcbd0e8e}</foreignId>
      <text>dzieśięć minut po północy</text>
      <i18nText>10 minutes past midnight</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9723d320-74c8-4bc0-9c85-02aa4aae4dcf}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4435,9 +4435,9 @@
      <foreignId>{f9185dc8-c4f0-4b37-80b8-a83a7ef8df83}</foreignId>
      <text>Nowy Rok</text>
      <i18nText>New Year's Eve</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ec88a32a-b1ad-42e5-aaa6-670b276d2b94}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4455,9 +4455,9 @@
      <foreignId>{e2557b04-4951-4140-9be6-4ac6f31a3f62}</foreignId>
      <text>piąta po południu</text>
      <i18nText>5 pm</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2c6efe87-9474-4f6f-902a-dad0d8f9e313}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4475,9 +4475,9 @@
      <foreignId>{f0adbbcd-e92c-48d2-a1de-4b27eb448db2}</foreignId>
      <text>przed Chrystusem</text>
      <i18nText>Before Christ</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b4fb05d5-ba35-4003-baa1-c0b97ca2d98e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4495,9 +4495,9 @@
      <foreignId>{0346bda3-8f3c-4487-860c-3b8c0def5ae9}</foreignId>
      <text>około dziesiątej</text>
      <i18nText>around 10 o'clock</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{af6c741d-0067-4e4e-b388-968343cecd28}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4515,9 +4515,9 @@
      <foreignId>{d71a5ab4-511a-47e4-a78b-f60884e0ac46}</foreignId>
      <text>tydzień pracowniczy</text>
      <i18nText>working week</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c632f76b-f2ae-4f04-b5a6-c160920843a8}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4535,9 +4535,9 @@
      <foreignId>{3baea57e-8dda-4463-92ee-54003c50a085}</foreignId>
      <text>sto godzin</text>
      <i18nText>100 hours</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{635cd57d-e8c6-46fc-9a12-55740209e765}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4555,9 +4555,9 @@
      <foreignId>{3a501153-1290-4910-869a-019b135baf67}</foreignId>
      <text>ostatniego tygodnia</text>
      <i18nText>last week</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{05934d7c-dd61-4231-9c05-c1f0d2808cae}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4575,9 +4575,9 @@
      <foreignId>{0bb615c9-e50a-4713-9d8b-9beedde1c861}</foreignId>
      <text>kolejnego roku</text>
      <i18nText>following year</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b63bb671-5ecf-4b96-9a4e-224c046ee224}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4585,9 +4585,9 @@
      <foreignId>{9ddc1d37-151f-46ca-83fb-ff521d399606}</foreignId>
      <text>czwaty sierpnia tysiąc dziewięćset siedemdziesiątego drugiego roku</text>
      <i18nText>4th August 1972</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{35f5afaa-4cce-4a93-afe8-997e74804d55}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4605,9 +4605,9 @@
      <foreignId>{c2abd6f8-633b-4d15-ad49-b362c89225ab}</foreignId>
      <text>Jest pierwszy lipca dwa tysiące dwunastego roku.</text>
      <i18nText>It is first of July 2012.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{af9ecc81-793f-4e16-8b23-7a75ecc51607}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4625,9 +4625,9 @@
      <foreignId>{baafc251-1b2c-43c6-82ea-fce70e9a03a9}</foreignId>
      <text>Moje urodziny są dwudziestego drugiego listopada.</text>
      <i18nText>My birthday is on the 22nd of November.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{582a8945-7f57-45e2-b31b-119cdcfea07d}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4645,9 +4645,9 @@
      <foreignId>{119ebe92-16e8-4c35-85c4-7a704fd3ce20}</foreignId>
      <text>On urodził się w tysiąc dziewięćset osiemdziesiątym ósmym roku.</text>
      <i18nText>He was born in 1988.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bda4ac22-3785-4848-a08d-85a85a929f78}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4665,9 +4665,9 @@
      <foreignId>{be0a5a95-f9ec-41e2-b76f-b796cedb2458}</foreignId>
      <text>Pracuję przez cały tydzień oprócz soboty i niedzieli.</text>
      <i18nText>I work through all week except Saturdays and Sundays.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4c4e6c7e-34b2-4b34-b1dd-d06694093e85}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4685,9 +4685,9 @@
      <foreignId>{e53a316a-4758-46d5-aeca-9e72506ce7af}</foreignId>
      <text>Kiedy masz urodziny?</text>
      <i18nText>When is your birthday?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{21264761-2f9a-4344-941f-58cba3bd328d}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4705,9 +4705,9 @@
      <foreignId>{ee5e1777-62a8-4854-8239-9150e5633039}</foreignId>
      <text>Mój trening odbędzie się między piętnastym kwietnia a jedenastym maja.</text>
      <i18nText>My training period is from April 15 to May 11.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e0bfb5c0-df28-4320-8ca0-b8d30e5a9a71}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4725,9 +4725,9 @@
      <foreignId>{9683bd47-1071-4337-82b9-cbead8b662b6}</foreignId>
      <text>Większość ludzi we Francji jeździ na wakacje w lipcu.</text>
      <i18nText>Most people in France go on holiday in July.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0b742e26-732e-43d2-a300-c4dbe36d83b0}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4745,9 +4745,9 @@
      <foreignId>{db36973e-59fc-4ad9-ac82-7066a9c7269f}</foreignId>
      <text>O której zaczyna się koncert?</text>
      <i18nText>When does the concert begin?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f0a12450-8b01-4385-8a9b-a94a8dbff0cf}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4765,9 +4765,9 @@
      <foreignId>{229e2379-9afe-4b1c-8174-4c51d79891eb}</foreignId>
      <text>Wielkanoc jest ruchomym świętem. Rok temu Niedziela Wielkanocna była w pierwszym tygodniu kwietnia.</text>
      <i18nText>Easter is a movable feast. Last year Easter Sunday was in first week of April.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{13e32c7a-0d1b-4be3-85fc-7251c48612eb}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4785,9 +4785,9 @@
      <foreignId>{768f6a4a-ef4d-4e7b-9ad9-adef38a3fcca}</foreignId>
      <text>Krzysztof Kolumb urodził się trzydziestego pierwszego października tysiąc czterysta pięćdziesiątego pierwszego roku. Stał sie sławny poprzez odkrycie Ameryki. Zmarł w tysiąc pięćset szóstym rok w wieku pięćdziesięciu czterech lat.</text>
      <i18nText>Christopher Columbus was born on 31 October 1451. He become famous for discovering America. He died in 1506 at the age of 54.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3c57b0b1-a9cc-4a7e-beb2-711cc6b76696}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4805,9 +4805,9 @@
      <foreignId>{a85b5b1e-5722-4c4d-97f5-ba203356f3e0}</foreignId>
      <text>Odjeżdżamy o szóstej. Proszę przybyć na miejsce przynajmniej piętnaście minut wcześniej.</text>
      <i18nText>We are going to depart at 6 o'clock. Please arrive at least 15 minutes earlier.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fb802a4d-9fec-4686-8cd5-dcbcbc5c7b22}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
