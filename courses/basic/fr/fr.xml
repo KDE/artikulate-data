@@ -2,7 +2,7 @@
 <course>
  <id>fr</id>
  <foreignId>artikulate-basic</foreignId>
- <title>ArtiKulate Français</title>
+ <title>Artikulate Français</title>
  <description>Course française.</description>
  <language>fr</language>
  <units>
