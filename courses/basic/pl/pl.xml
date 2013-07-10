@@ -7,43 +7,6 @@
  <language>pl</language>
  <units>
   <unit>
-   <id>{35576ed4-c166-433f-b82e-9955688f2fe9}</id>
-   <foreignId>{dd60f04a-eb37-44b7-9787-67aaf7d3578d}</foreignId>
-   <title>Na ulicy</title>
-   <phrases>
-    <phrase>
-     <id>{83389fb9-74b0-4b44-8753-bebdddb0f13e}</id>
-     <foreignId>{3a4c1926-60d7-44c6-80d1-03165a641c75}</foreignId>
-     <text>Good day.</text>
-     <i18nText>Good day.</i18nText>
-     <soundFile></soundFile>
-     <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-    <phrase>
-     <id>{56169b70-d957-4f8d-b286-c281e7c36a48}</id>
-     <foreignId>{56b0d0a2-8505-4a9e-89f7-a933824fac89}</foreignId>
-     <text>How are you?</text>
-     <i18nText>How are you?</i18nText>
-     <soundFile></soundFile>
-     <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-    <phrase>
-     <id>{dac93941-a6e6-418c-8d20-539bba6bfa5c}</id>
-     <foreignId>{b65eced5-4d94-4c05-b738-244215da0b50}</foreignId>
-     <text></text>
-     <i18nText></i18nText>
-     <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-   </phrases>
-  </unit>
-  <unit>
    <id>{755e5ca9-d4c7-46e0-9891-a8806545782e}</id>
    <foreignId>{6ab7d60e-b885-4833-97ff-27cb1ca2f543}</foreignId>
    <title>Liczby</title>

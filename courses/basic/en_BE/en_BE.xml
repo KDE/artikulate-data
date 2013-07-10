@@ -501,43 +501,6 @@
    </phrases>
   </unit>
   <unit>
-   <id>{55fbdaef-0cfc-4f8f-a876-d38782398f8d}</id>
-   <foreignId>{dd60f04a-eb37-44b7-9787-67aaf7d3578d}</foreignId>
-   <title>On the Street</title>
-   <phrases>
-    <phrase>
-     <id>{5dd41708-97d0-42e8-818c-9e9c29acbc4c}</id>
-     <foreignId>{3a4c1926-60d7-44c6-80d1-03165a641c75}</foreignId>
-     <text>Good day.</text>
-     <i18nText>Good day.</i18nText>
-     <soundFile></soundFile>
-     <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-    <phrase>
-     <id>{1b725d74-4071-43a4-b228-924b38132ec8}</id>
-     <foreignId>{56b0d0a2-8505-4a9e-89f7-a933824fac89}</foreignId>
-     <text>How are you?</text>
-     <i18nText>How are you?</i18nText>
-     <soundFile></soundFile>
-     <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-    <phrase>
-     <id>{b1738442-9eb3-44d0-9bb2-ccd59bdba4c8}</id>
-     <foreignId>{b65eced5-4d94-4c05-b738-244215da0b50}</foreignId>
-     <text></text>
-     <i18nText></i18nText>
-     <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-   </phrases>
-  </unit>
-  <unit>
    <id>{0f9fb38c-513e-425d-8200-39f6062634b6}</id>
    <foreignId>{b0b42671-d5d1-4d9c-9f2d-ef329e1dd6db}</foreignId>
    <title>Tourism</title>

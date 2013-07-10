@@ -7,58 +7,6 @@
  <language>ba</language>
  <units>
   <unit>
-   <id>{855fc408-5688-4ffd-9100-18e2da50c7c0}</id>
-   <foreignId>{dd60f04a-eb37-44b7-9787-67aaf7d3578d}</foreignId>
-   <title>রাস্তায়</title>
-   <phrases>
-    <phrase>
-     <id>{01bcbbd0-a375-4752-a52b-5a6430d1e40e}</id>
-     <foreignId>{3a4c1926-60d7-44c6-80d1-03165a641c75}</foreignId>
-     <text>শুভ দিন</text>
-     <i18nText>Good day.</i18nText>
-     <soundFile></soundFile>
-     <type>expression</type>
-     <editState>translated</editState>
-     <phonemes>
-      <phonemeID>sh</phonemeID>
-      <phonemeID>u</phonemeID>
-      <phonemeID>bh</phonemeID>
-      <phonemeID>d-labial</phonemeID>
-      <phonemeID>i</phonemeID>
-      <phonemeID>n</phonemeID>
-     </phonemes>
-    </phrase>
-    <phrase>
-     <id>{d964df36-49a3-4090-9e5d-4e2d4d3ba331}</id>
-     <foreignId>{56b0d0a2-8505-4a9e-89f7-a933824fac89}</foreignId>
-     <text>কেমন আছেন?</text>
-     <i18nText>How are you?</i18nText>
-     <soundFile></soundFile>
-     <type>sentence</type>
-     <editState>translated</editState>
-     <phonemes>
-      <phonemeID>k</phonemeID>
-      <phonemeID>æ</phonemeID>
-      <phonemeID>m</phonemeID>
-      <phonemeID>n</phonemeID>
-      <phonemeID>a</phonemeID>
-      <phonemeID>ch</phonemeID>
-      <phonemeID>e</phonemeID>
-     </phonemes>
-    </phrase>
-    <phrase>
-     <id>{dd635016-5a7e-4652-a879-0cd1589696a0}</id>
-     <foreignId>{b65eced5-4d94-4c05-b738-244215da0b50}</foreignId>
-     <text></text>
-     <i18nText></i18nText>
-     <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-   </phrases>
-  </unit>
-  <unit>
    <id>{b0880aa5-b71a-4abe-ae36-39c94a4a9113}</id>
    <foreignId>{6ab7d60e-b885-4833-97ff-27cb1ca2f543}</foreignId>
    <title>সংখ্যা</title>

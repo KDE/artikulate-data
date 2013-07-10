@@ -7,43 +7,6 @@
  <language>fr</language>
  <units>
   <unit>
-   <id>{a32b2875-99f0-4b5f-a3d4-62a4e243e45f}</id>
-   <foreignId>{dd60f04a-eb37-44b7-9787-67aaf7d3578d}</foreignId>
-   <title>On the Street</title>
-   <phrases>
-    <phrase>
-     <id>{00cde3eb-df77-4728-a778-35c3553f902e}</id>
-     <foreignId>{3a4c1926-60d7-44c6-80d1-03165a641c75}</foreignId>
-     <text>Good day.</text>
-     <i18nText>Good day.</i18nText>
-     <soundFile></soundFile>
-     <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-    <phrase>
-     <id>{26a8b7a8-7ff9-4a51-b025-a865c5d0c1af}</id>
-     <foreignId>{56b0d0a2-8505-4a9e-89f7-a933824fac89}</foreignId>
-     <text>How are you?</text>
-     <i18nText>How are you?</i18nText>
-     <soundFile></soundFile>
-     <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-    <phrase>
-     <id>{8b3f5918-3c7d-4c7e-a979-c4f712466dfe}</id>
-     <foreignId>{b65eced5-4d94-4c05-b738-244215da0b50}</foreignId>
-     <text></text>
-     <i18nText></i18nText>
-     <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-   </phrases>
-  </unit>
-  <unit>
    <id>{5b7a4516-d991-48aa-bbd4-10544d0823c3}</id>
    <foreignId>{6ab7d60e-b885-4833-97ff-27cb1ca2f543}</foreignId>
    <title>Numéros</title>

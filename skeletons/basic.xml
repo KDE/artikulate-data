@@ -5,27 +5,6 @@
  <description>Artikulate Basic Course</description>
  <units>
   <unit>
-   <id>{dd60f04a-eb37-44b7-9787-67aaf7d3578d}</id>
-   <title>On the Street</title>
-   <phrases>
-    <phrase>
-     <id>{3a4c1926-60d7-44c6-80d1-03165a641c75}</id>
-     <text>Good day.</text>
-     <type>sentence</type>
-    </phrase>
-    <phrase>
-     <id>{56b0d0a2-8505-4a9e-89f7-a933824fac89}</id>
-     <text>How are you?</text>
-     <type>sentence</type>
-    </phrase>
-    <phrase>
-     <id>{b65eced5-4d94-4c05-b738-244215da0b50}</id>
-     <text></text>
-     <type>word</type>
-    </phrase>
-   </phrases>
-  </unit>
-  <unit>
    <id>{6ab7d60e-b885-4833-97ff-27cb1ca2f543}</id>
    <title>Numbers</title>
    <phrases>
