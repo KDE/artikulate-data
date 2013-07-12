@@ -1275,7 +1275,7 @@
     <phrase>
      <id>{552a41ad-b3c2-4b3e-ae5c-87c905f4465c}</id>
      <foreignId>{c5ac8139-5acc-4c5e-b458-7cccdffa7105}</foreignId>
-     <text>fil</text>
+     <text>fils</text>
      <i18nText>son</i18nText>
      <soundFile></soundFile>
      <type>word</type>
@@ -1385,7 +1385,7 @@
     <phrase>
      <id>{dcf3d3d4-c817-4d15-8300-f551e34e9653}</id>
      <foreignId>{65b33bbd-a5ba-45df-9b96-292e493220d5}</foreignId>
-     <text>cousine</text>
+     <text>cousin</text>
      <i18nText>cousin</i18nText>
      <soundFile></soundFile>
      <type>word</type>
@@ -1435,10 +1435,10 @@
     <phrase>
      <id>{bd4836b4-d14e-4711-ab65-fbb6829e850e}</id>
      <foreignId>{b8751e3b-fa9e-4f9c-970c-2dbff5e212b9}</foreignId>
-     <text>de la même famille</text>
+     <text>parent</text>
      <i18nText>relative</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
+     <type>word</type>
      <editState>translated</editState>
      <phonemes/>
     </phrase>
@@ -1508,17 +1508,17 @@
      <text>jumeaux</text>
      <i18nText>twin brothers</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
+     <type>word</type>
      <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{915ab8a2-b364-4ba5-8a0a-b3b0caa0612d}</id>
      <foreignId>{5642138b-8ebe-4a69-9dd9-3596ab757a56}</foreignId>
-     <text>soeurs jumelles</text>
+     <text>jumelles</text>
      <i18nText>twin sisters</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
+     <type>word</type>
      <editState>translated</editState>
      <phonemes/>
     </phrase>
@@ -1575,10 +1575,10 @@
     <phrase>
      <id>{a5a1ef9b-8b89-4866-ba61-11c6cdf9fc57}</id>
      <foreignId>{fbf42837-2a51-4882-a5fb-2a40c6d444cc}</foreignId>
-     <text>adoptif</text>
+     <text>enfant adopté</text>
      <i18nText>foster child</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
+     <type>expression</type>
      <editState>translated</editState>
      <phonemes/>
     </phrase>
@@ -1615,7 +1615,7 @@
     <phrase>
      <id>{03147f24-4ff4-43b5-95e9-5e8a00f5b5ea}</id>
      <foreignId>{a2746154-d49f-4e1f-aa5e-708d2b76f8f2}</foreignId>
-     <text>être engagée</text>
+     <text>être fiancée</text>
      <i18nText>be engaged</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -1695,7 +1695,7 @@
     <phrase>
      <id>{d05130f7-ff69-4cd0-abc0-2871b326cdd7}</id>
      <foreignId>{8a74340e-5f78-48df-80ff-de6e94e416c0}</foreignId>
-     <text>Mes parents ont divorcé il ya deux ans.</text>
+     <text>Mes parents ont divorcé il y a deux ans.</text>
      <i18nText>My parents got divorced two years ago.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1705,7 +1705,7 @@
     <phrase>
      <id>{e0410cc6-6fca-45a9-8615-0b40df64500c}</id>
      <foreignId>{2a3c6479-3d24-4d3f-a3ba-dfd367b9680e}</foreignId>
-     <text>Ma soeur-frère juste tombée enceinte et elle attend un bébé.</text>
+     <text>Ma belle soeur est juste tombée enceinte et elle attend un bébé.</text>
      <i18nText>My sister-in-law just got pregnant and she is expecting a babe.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1745,7 +1745,7 @@
     <phrase>
      <id>{dfdd702f-1578-4749-a168-9913fa3a8d19}</id>
      <foreignId>{ef982491-0319-41cb-93ff-c99a4adb6cf0}</foreignId>
-     <text>George is Robert's and Susan's father.</text>
+     <text>Georges est le père de Robert et Susan.</text>
      <i18nText>George is Robert's and Susan's father.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1765,7 +1765,7 @@
     <phrase>
      <id>{64523ba7-773b-40e6-85e4-15d4a8c12a4e}</id>
      <foreignId>{b8f8243f-b323-4359-bbfd-7ad8ddc3ad00}</foreignId>
-     <text>Anne est le plus jeune enfant dans notre famille.</text>
+     <text>Anne est la plus jeune enfant dans notre famille.</text>
      <i18nText>Anne is the youngest child in our family.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1785,11 +1785,11 @@
     <phrase>
      <id>{1f8f0246-d375-422b-adb9-c3d9868bd2ee}</id>
      <foreignId>{a76df398-1e68-442e-8944-d4ca0c17aaaf}</foreignId>
-     <text>La famille moderne se compose de père soutien de famille, la maman la femme au foyer et plusieurs enfants.</text>
+     <text>Le noyau de famille moderne se compose du père soutien de famille, de la maman femme au foyer et de plusieurs enfants.</text>
      <i18nText>The modern nuclear family consists of dad the breadwinner, mum the housewife and several children.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1855,7 +1855,7 @@
     <phrase>
      <id>{942279d7-bb15-4f4a-97ae-5034fd0c1de3}</id>
      <foreignId>{9fe9aead-cfdd-4106-b6fe-3b9ff70607ca}</foreignId>
-     <text>Notre famille est très grande. J'ai deux frères et trois sœurs. Nous avons également vingt et un cousines: quatorze du côté de mon père et sept du côté de mon mère.</text>
+     <text>Notre famille est très grande. J'ai deux frères et trois sœurs. Nous avons également vingt et un cousins: quatorze du côté de mon père et sept du côté de ma mère.</text>
      <i18nText>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -1865,17 +1865,17 @@
     <phrase>
      <id>{a7462d6c-6224-46a1-b989-589642e3843d}</id>
      <foreignId>{a45ad81d-c749-49e7-a752-25e8b358f093}</foreignId>
-     <text>Julia et Saint sont des jumeaux et ils sont exactement les mêmes. Ils ont été élevés ensemble et depuis qu'ils étaient enfants de leur mère essayé de s'habiller à l'identique. Il ya beaucoup de photos dans l'album de famille où les filles sont indissociables..</text>
+     <text>Julia et Holy sont jumeaux et ils sont exactement les mêmes. Ils ont été élevés ensemble et depuis qu'ils sont enfants, leur mère a essayé de les habiller à l'identique. Il y a beaucoup de photos dans l'album de famille où les filles sont indifférentiables..</text>
      <i18nText>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{443a7e03-9391-41d8-b89c-91e3ed34ad75}</id>
      <foreignId>{b4691fce-fcef-4d07-a854-b4378014e66a}</foreignId>
-     <text>Ma famille est plutôt petite, avec seulement trois personnes, mon père, ma mère et moi. Ma mère est médecin et mon père est un avocat.</text>
+     <text>Ma famille est plutôt petite, avec seulement trois personnes, mon père, ma mère et moi. Ma mère est médecin et mon père est avocat.</text>
      <i18nText>My family is a rather small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -1885,7 +1885,7 @@
     <phrase>
      <id>{161fa046-583b-4d7f-a883-9c515272d90e}</id>
      <foreignId>{e6ad70f5-ff48-4ccb-a6ba-54ea6d8a3995}</foreignId>
-     <text>Mes parents ont divorcé il ya un an. Après le divorce ma mère a épousé un ingénieur canadien et a déménagé à Toronto. Mon père est resté à Washington et j'ai décidé de vivre avec lui..</text>
+     <text>Mes parents ont divorcé il y a un an. Après le divorce ma mère a épousé un ingénieur canadien et a déménagé à Toronto. Mon père est resté à Washington et j'ai décidé de vivre avec lui..</text>
      <i18nText>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
