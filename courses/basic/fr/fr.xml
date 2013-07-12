@@ -1904,9 +1904,9 @@
      <foreignId>{b0ad1fd6-e767-4653-8283-64cd3fe2b391}</foreignId>
      <text>volley-ball</text>
      <i18nText>volleyball</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{58eda942-d543-4859-ba0d-88ac768a9db0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1924,9 +1924,9 @@
      <foreignId>{b86133c9-610b-48a3-890c-191e1b9381b8}</foreignId>
      <text>basket-ball</text>
      <i18nText>basketball</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{74f2da59-0c03-4739-8c31-30dd706754af}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1944,9 +1944,9 @@
      <foreignId>{4754b1fc-dc0f-43e9-8871-1e823a00ece4}</foreignId>
      <text>karaté</text>
      <i18nText>karate</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b1fe0419-6ddd-4461-98d5-e24bc21eb321}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1964,9 +1964,9 @@
      <foreignId>{8e81d815-2754-4d25-a296-6d4e1d8e5b85}</foreignId>
      <text>athlétisme</text>
      <i18nText>athletics</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{54759a4c-b550-4e25-bde4-2294331ba649}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1984,9 +1984,9 @@
      <foreignId>{da3cca9e-4d87-4790-9f1c-abfaeef2ed99}</foreignId>
      <text>hockey</text>
      <i18nText>hockey</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cbc738b6-ce5a-4cd1-9971-f1a9a25cd83c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2004,9 +2004,9 @@
      <foreignId>{75c9d101-0e32-40aa-9f89-b00277713458}</foreignId>
      <text>ski</text>
      <i18nText>skiing</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b7e88d45-5c79-423a-afd3-cb80173e58d3}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2024,9 +2024,9 @@
      <foreignId>{77c3c5ae-7366-425a-8ad0-7d13d4963adf}</foreignId>
      <text>forme physique</text>
      <i18nText>fitness</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{284d684c-cf9f-4c1e-a6da-1428ec607b5f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2044,9 +2044,9 @@
      <foreignId>{eb51a170-01ac-4dbe-b2c8-7338995128c6}</foreignId>
      <text>record</text>
      <i18nText>record</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cc39aae4-96c9-482c-b043-1e65bcdf8b0d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2064,9 +2064,9 @@
      <foreignId>{80e12978-fefc-462d-ac97-80a3ee7b03dc}</foreignId>
      <text>stade</text>
      <i18nText>stadium</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b2f1ab64-c424-4bdd-9590-bbeda1cbbbbc}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2084,9 +2084,9 @@
      <foreignId>{590c37a6-6674-4b70-90a9-aaa3841a660c}</foreignId>
      <text>arbitre</text>
      <i18nText>referee</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{426fd4dd-b84e-4d43-9355-df48a6f2ac76}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2104,9 +2104,9 @@
      <foreignId>{a41476b7-58f5-4504-9bd4-febeebf74040}</foreignId>
      <text>entraîneur</text>
      <i18nText>coach</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{51cb5991-6f21-489c-b819-cee439ffaa3e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2124,9 +2124,9 @@
      <foreignId>{fd6a1c16-d676-4d30-a0d0-6e46550e888d}</foreignId>
      <text>cyclisme</text>
      <i18nText>cycling</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fbd2648c-13b8-4337-9373-7a99aa17359f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2144,9 +2144,9 @@
      <foreignId>{8e46076f-85b9-4782-bd2c-521ae488fc73}</foreignId>
      <text>sports d'hiver</text>
      <i18nText>winter sports</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b4ec9bdd-dd2e-4fe4-90b3-4f17f24880cb}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2162,11 +2162,11 @@
     <phrase>
      <id>{63678151-4993-4241-ab7b-449a1c3b32c5}</id>
      <foreignId>{1239190b-8685-42d6-9b40-d8408783e559}</foreignId>
-     <text>supporteur</text>
+     <text>supporter</text>
      <i18nText>sports fun</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{63678151-4993-4241-ab7b-449a1c3b32c5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2184,9 +2184,9 @@
      <foreignId>{02aeb29b-933b-46b8-a04a-8d0e42a81c8d}</foreignId>
      <text>court de tennis</text>
      <i18nText>tennis court</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f442e54a-9b8b-4bf5-b917-282b574d6425}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2204,9 +2204,9 @@
      <foreignId>{0e3679e7-e2ac-4dec-93fa-aa066b42f532}</foreignId>
      <text>faire du jogging</text>
      <i18nText>do jogging</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6676d7bd-3e16-4df1-9834-97e24fff11ed}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2224,9 +2224,9 @@
      <foreignId>{80fef4e7-36fa-49d9-b01e-527e2ae44b8f}</foreignId>
      <text>beach-volley</text>
      <i18nText>beach volleyball</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{960e2020-e19b-4816-a465-d7a5a9129009}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2244,9 +2244,9 @@
      <foreignId>{4b9b8449-ae55-4e47-8969-ae91983d1650}</foreignId>
      <text>match de rugby</text>
      <i18nText>rugby match</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{846e7337-32ed-438a-910c-fd5b036788d1}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2264,9 +2264,9 @@
      <foreignId>{4a6f39cc-aa7a-4047-94d0-c783d2e4358c}</foreignId>
      <text>club de golf</text>
      <i18nText>golf club</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{808134c3-0152-4552-be58-80ab5944a436}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2284,9 +2284,9 @@
      <foreignId>{b977ff67-7f24-43a5-9fb7-5a7aac60e286}</foreignId>
      <text>joueur compétitif</text>
      <i18nText>competitive player</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8ab629eb-5979-4ed7-9ea7-99a78bf7443c}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2304,9 +2304,9 @@
      <foreignId>{d8133ce4-14a8-4d82-9241-af0718f05d4b}</foreignId>
      <text>sport de plein air</text>
      <i18nText>outdoor sport</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d2278aeb-f0b5-4b96-9079-66671cbc7ba6}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2324,9 +2324,9 @@
      <foreignId>{14a12df4-c6e6-4b80-a9ab-c042e7ce7d7f}</foreignId>
      <text>exercice aérobique</text>
      <i18nText>aerobic exercise</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9b411442-f681-4301-9b8d-caf98fb7bae0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2344,9 +2344,9 @@
      <foreignId>{0e5f8f40-5329-45e0-a191-63e745927919}</foreignId>
      <text>sport d'équipe</text>
      <i18nText>team sport</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5ec9475a-3593-4c6f-9c37-c229d8b95034}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2364,15 +2364,15 @@
      <foreignId>{82669d0f-31ff-4bf8-85db-ac1fe0be0a8c}</foreignId>
      <text>Quels sont les sports que vous aimez?</text>
      <i18nText>What sports do you like?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2eecc97c-5a31-410e-a26b-2506b70418c4}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{17a17d3b-82fb-41e4-91e1-4a2ee11b28d8}</id>
      <foreignId>{b1dd77b4-636e-4cf3-b5ea-3549e62fd829}</foreignId>
-     <text>La nuit dernière, nous sommes allés à un match de basket en direct.</text>
+     <text>La nuit dernière, nous sommes allés à un match de basket.</text>
      <i18nText>Last night we went to a live basketball game.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -2382,11 +2382,11 @@
     <phrase>
      <id>{58000ee6-2659-4073-a175-8329a0a1a764}</id>
      <foreignId>{ad8c4d73-1f0a-4e1c-a601-957840786770}</foreignId>
-     <text>Mon grand-père était champion de boxe a l'université.</text>
+     <text>Mon grand-père était champion de boxe à l'université.</text>
      <i18nText>My grandfather was university boxing champion.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{58000ee6-2659-4073-a175-8329a0a1a764}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2402,11 +2402,11 @@
     <phrase>
      <id>{dd2487c5-6cd2-4056-9e1c-2b0472927cdf}</id>
      <foreignId>{431526fb-25bc-434b-91a4-698b5e218d6b}</foreignId>
-     <text>Certaines personnes considèrent que les arts martiaux pour être dangereux.</text>
+     <text>Certaines personnes considèrent que les arts martiaux sont dangereux.</text>
      <i18nText>Some people consider martial arts to be dangerous.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dd2487c5-6cd2-4056-9e1c-2b0472927cdf}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2424,15 +2424,15 @@
      <foreignId>{e9d451ab-9ccd-4152-8aaa-9376b4e54763}</foreignId>
      <text>Les gens font souvent de la natation pour améliorer leur condition physique.</text>
      <i18nText>People often take up swimming to improve their fitness.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c331fe9f-fb15-4ada-8639-ba73cbecdbca}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89c9509b-0f43-412f-8e12-2528ac6e8aef}</id>
      <foreignId>{c9c402ad-9f57-41c6-8842-9c4867a3e17a}</foreignId>
-     <text>Le jeu de flechettes est populaire en pub.</text>
+     <text>Le jeu de flechettes est populaire dans les pub.</text>
      <i18nText>Darts is a popular pub game.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -2444,9 +2444,9 @@
      <foreignId>{aaa6c5cc-0e72-4b15-abc4-c4d003bad926}</foreignId>
      <text>Pensez-vous que cette équipe ira en finale?</text>
      <i18nText>Do you think this team will go to the finals?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{936b7cc3-bac8-43dc-b137-824429bde33f}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2464,9 +2464,9 @@
      <foreignId>{a7b4f177-3daa-48a5-8cbe-523e8c28a4d0}</foreignId>
      <text>Le jeu d'échec est un sport qui exige des compétences et de l'intelligence.</text>
      <i18nText>Chess is a sport that requires skills and intelligence.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{06e24242-7ae7-4a0f-8beb-4fac7fb8919a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2484,9 +2484,9 @@
      <foreignId>{e6ef007f-47ff-4fc4-b7a0-ea356bad5c59}</foreignId>
      <text>Beaucoup de familles amènent leurs enfants faire du patin à glace en soirée.</text>
      <i18nText>Many families take their children and go ice skating in the evenings.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bdc43f40-1162-4038-a4c9-ca1d593c084d}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2504,9 +2504,9 @@
      <foreignId>{f0adfacc-4566-4d29-8a77-6a8830f3538e}</foreignId>
      <text>Il n'a pas passé le ballon à l'autre joueur.</text>
      <i18nText>He did not pass the ball to the other player.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d94a977e-40eb-465d-81a2-aa2f352533e3}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2524,9 +2524,9 @@
      <foreignId>{33073916-636d-48d7-9e82-9ddb7ab2e66a}</foreignId>
      <text>C'est le meilleur magazine de football.</text>
      <i18nText>This is the best football magazine.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b2c7828f-ccd9-4e19-b48c-442d5ae0a175}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2542,11 +2542,11 @@
     <phrase>
      <id>{70e70b43-ab55-49d3-add3-090553242295}</id>
      <foreignId>{b6369b8b-17df-478b-af81-b7f0edabd3cd}</foreignId>
-     <text>Célébrons la victoire.</text>
+     <text>Allons célébrer la victoire.</text>
      <i18nText>Let's celebrate the victory.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{70e70b43-ab55-49d3-add3-090553242295}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2562,11 +2562,11 @@
     <phrase>
      <id>{a3ecb0df-4173-40c3-9b18-ac193a2ae9df}</id>
      <foreignId>{6df53553-810b-44ff-a722-a01728b5c6e7}</foreignId>
-     <text>J'aime faire du sport. Mon préféré est badminton.</text>
+     <text>J'aime faire du sport. Mon préféré est le badminton.</text>
      <i18nText>I like to play sports. My favourite is badminton.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a3ecb0df-4173-40c3-9b18-ac193a2ae9df}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2584,9 +2584,9 @@
      <foreignId>{cdb98274-36af-406f-afcd-7f0ed3dddf2a}</foreignId>
      <text>Je pensais échanger nos billets de tennis. Au lieu d'y aller le vendredi, nous devrions y aller le samedi. Qu'en pensez-vous?</text>
      <i18nText>I have been thinking about exchanging our tennis tickets. Instead of going on Friday, we should go on Saturday. What do you think?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{27a4f637-eaed-48a4-bb23-2eae79777fb0}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
