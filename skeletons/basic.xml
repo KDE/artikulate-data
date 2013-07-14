@@ -6367,5 +6367,391 @@
     </phrase>
    </phrases>
   </unit>
+  <unit>
+   <id>{59ea8b40-f531-4ffc-a73d-7677dcf6693a}</id>
+   <title>At a Party</title>
+   <phrases>
+    <phrase>
+     <id>{512d4b47-95ee-4b9d-813d-204b6f60b61a}</id>
+     <text>talk</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{65934ab4-4411-46c8-8e43-fae733280db4}</id>
+     <text>chat</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{3ef417c6-ac7d-46de-a58f-80c6099e45a1}</id>
+     <text>socialize</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b29ff080-bd90-403d-a4a7-f5b263b7ec34}</id>
+     <text>meet</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{77f6de88-7c7f-4c26-861a-eea57a6281a0}</id>
+     <text>greet</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0fb3056f-737c-41f0-a3ef-2d39e5ad59b9}</id>
+     <text>welcome</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{4fc1e04f-79d4-4f9c-8f77-623ed565175f}</id>
+     <text>congratulate</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{857464e1-df5e-4fef-9737-f783097e0f34}</id>
+     <text>family</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{6535b402-2cb6-4b28-bc5e-b3c7c0ce487e}</id>
+     <text>friend</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5e7b0287-0e95-473a-8264-665bff89fafa}</id>
+     <text>relative</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ebb0c706-8798-463a-9ac2-ddfd237192b8}</id>
+     <text>acquaintance</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{1b9a1392-697a-4097-8392-a2de48612bfc}</id>
+     <text>me</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{535f44a0-2fbe-456b-8d8d-9a247225d20b}</id>
+     <text>my</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{ae7385aa-fc33-41e6-a5c1-40f0cf37309b}</id>
+     <text>he</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{63323223-e8d0-475d-8a41-cf71f22ea82c}</id>
+     <text>her</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{77a02977-f74b-4048-a844-21416473a50d}</id>
+     <text>they</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{89e8724a-ac71-4127-8e1a-257b71e4b06e}</id>
+     <text>their</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7a4b370a-ec24-48d7-9b5f-901e1a7fcb5a}</id>
+     <text>we</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{56c0b6ce-b408-4b81-b510-125ffd1f8c30}</id>
+     <text>our</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{5522e00c-3549-46a1-828a-c3d080f9491f}</id>
+     <text>laugh</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0b5a31f2-4419-45ab-87eb-31e523a75f49}</id>
+     <text>smile</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f225d858-c600-489d-9b60-db3fb4440e5f}</id>
+     <text>Hello</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a0ee16ed-19bd-4ac6-a079-f4e351366efe}</id>
+     <text>sorry</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{d291e8ce-d3cf-4bb9-ad07-abf2064fd540}</id>
+     <text>please</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{32a5034b-1be4-4bce-9b55-d07016fdcc73}</id>
+     <text>marriage</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a11e3b50-bf65-4698-9563-85646a035366}</id>
+     <text>anniversary</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a3dc0d21-74cc-4868-9a86-e7e1b89e18ef}</id>
+     <text>birthday</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c3901217-c499-4565-9ad8-9976be004035}</id>
+     <text>graduation</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{0ae5091f-e31e-465a-811b-562b06f097a9}</id>
+     <text>farewell</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{c0cd9026-2991-48d5-bd46-9b02f076aa5f}</id>
+     <text>tea</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{78b73e46-1b7d-4bf3-9f43-0deaf1e7d33a}</id>
+     <text>coffee</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{b580a41a-27d3-41cf-b150-8cef635248e0}</id>
+     <text>wine</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{7a912314-4e29-44f7-9de6-f2c323814d0b}</id>
+     <text>champagne</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{f7a7e4f2-f357-445b-9251-8029bc8114f7}</id>
+     <text>dinner</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{46f21a09-8947-4daa-b798-213cc266b992}</id>
+     <text>formal</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{995891bd-fd61-44fb-a838-c919f7a08f14}</id>
+     <text>casual</text>
+     <type>word</type>
+    </phrase>
+    <phrase>
+     <id>{a8adf2fc-6385-4085-a543-9d577dbab7a5}</id>
+     <text>thank you</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{06533764-025c-493c-af0d-c0a6ecdd2bee}</id>
+     <text>excuse me</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{50b36fd6-4a79-4a48-8618-ccada807f78a}</id>
+     <text>my pleasure</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{bab4a87e-cae8-4080-a017-a2533d37895a}</id>
+     <text>It's okay</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{6ecdec95-65a1-410c-81b9-27ed6ac3168c}</id>
+     <text>same here</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{ebe1f899-cbeb-4de5-ba23-8bb8322afc77}</id>
+     <text>ladies and gentlemen</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{e8327fc2-a787-4e76-9c81-c91a4f8803f1}</id>
+     <text>good evening</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{4b5dd1be-5998-437a-a583-4757a3ea9892}</id>
+     <text>good night</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{31fc202a-f54e-4f0e-85d1-57f20e0f2e77}</id>
+     <text>small talk</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{b7b4d122-720e-4edc-a24c-7456070bd01a}</id>
+     <text>tea party</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{9a6dc3e3-86c7-41c2-ac8c-6505b72758d9}</id>
+     <text>cocktail party</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{3324a508-82e4-439b-8b8f-8855acac6da2}</id>
+     <text>surprise party</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{64c4d159-8d14-43ed-acbe-7976b752cdbd}</id>
+     <text>wedding reception</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{10b30e0a-af33-4ed3-8946-179c76c1d80d}</id>
+     <text>baby shower</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7e2d442b-8651-4b27-b6fe-078037dca343}</id>
+     <text>fundraising ceremony</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{7fba0ec3-d24f-422a-94a3-ae28821b9cb8}</id>
+     <text>masquerade ball</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{88ea2fdb-d331-4e75-9f14-d2d6a4f17ff2}</id>
+     <text>looks gorgeous</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{f38da704-55e9-4c8b-b78b-6fa61c3f365f}</id>
+     <text>cute little girl</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{ee9a8ce1-1332-4a83-a33b-d86d7b0b2d5a}</id>
+     <text>housewarming party</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{193738a4-abde-4e49-942f-b5e211dd20e5}</id>
+     <text>dance party</text>
+     <type>expression</type>
+    </phrase>
+    <phrase>
+     <id>{ea291596-4a58-411f-9c1a-26ec21d11390}</id>
+     <text>Would you like to go to the prom with me?</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{93662b29-0d33-4bd1-b74c-c5054276af37}</id>
+     <text>Carol looks stunning in that purple gown.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{931a6942-d230-45f2-a812-c9bf19c9a0df}</id>
+     <text>We will be throwing our engagement party soon.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{48533d15-bb64-4999-9773-1fdb4a0b0e5b}</id>
+     <text>I'd like you to come to the beach party on Sunday.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{bc0aaf07-5758-41a2-9a0a-0ca8642c7d7b}</id>
+     <text>I have been waiting for the graduation party for a very long time.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{b9dc533d-9ec6-45dd-aba1-4fce94afdbf5}</id>
+     <text>We are meeting after five years.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{3625945b-c191-47a4-b6d2-5d86aebc312b}</id>
+     <text>Phil's parents have arranged for a small post wedding reception party for the newly wed couple.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{fd4044e8-c45c-4c65-8323-5faa78bbcd4a}</id>
+     <text>Susan invited me over to her place for a sleepover party.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{1cd9aa1c-cb48-43e0-910c-16993c5746b2}</id>
+     <text>Marie has been planning for her marriage party since ages.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{7f8094c9-abff-41f6-83af-e04dac2b2a7b}</id>
+     <text>I think I met you before.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{8494f4b0-75f4-46f5-94d7-702cf59cc7aa}</id>
+     <text>Lily and George make a beautiful couple.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{fbeea374-74b0-4c58-ab2b-1dda04474502}</id>
+     <text>Julie's baby shower party is on Wednesday.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{0e7c7d2d-7794-4dfb-bf42-d3572a6ab342}</id>
+     <text>Thank you for coming.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4ae40d80-e434-4f55-8cbf-427d60128c19}</id>
+     <text>It is a pleasure having you here.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{4f22b469-c9ea-4477-86b8-4f93c5da4a9d}</id>
+     <text>A LAN party is a party that involves multi-player computer games and uses a Local Area Network.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{686bd5b1-cba1-4d49-a4cf-f2c5262aa8cc}</id>
+     <text>I had a great time.</text>
+     <type>sentence</type>
+    </phrase>
+    <phrase>
+     <id>{e183f7c3-11a6-4439-abfc-5d02bcf87466}</id>
+     <text>Susan hosted the party really well. All her guests looked very contended and happy.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{32538363-00c6-4ab8-99f8-0fba91cd9d40}</id>
+     <text>Next month my parents will be completing their twenty-five years of marriage. I have been planning on throwing them a nice surprise party for a long time.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{1514a00a-85c2-475e-afc9-9ff8501c0af6}</id>
+     <text>Richard and his family are throwing a housewarming party next Saturday. They have invited all the residents of the building. We will surely have fun.</text>
+     <type>paragraph</type>
+    </phrase>
+    <phrase>
+     <id>{ba78a846-fd7c-496c-aa65-948f85dffd6e}</id>
+     <text>We have organized a fundraising party tomorrow. I will be hosting it. There will be dinner followed by speeches by the board members.</text>
+     <type>paragraph</type>
+    </phrase>
+   </phrases>
+  </unit>
  </units>
 </skeleton>
