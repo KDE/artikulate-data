@@ -3591,7 +3591,7 @@
     <phrase>
      <id>{aaeca85d-5035-482e-bf56-e000fe5b8dc9}</id>
      <foreignId>{560a5abd-3869-47fc-b594-1003af104da7}</foreignId>
-     <text>pression d'air</text>
+     <text>pression de l'air</text>
      <i18nText>air pressure</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -3755,17 +3755,17 @@
      <i18nText>It is pouring down.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9de48322-9e84-401c-a6c4-817be0096572}</id>
      <foreignId>{251b17ce-fb83-4036-af23-028eb8e445f8}</foreignId>
-     <text>Espérons que le temps tient le coup.</text>
+     <text>Espérons que le temps perdure.</text>
      <i18nText>Let’s hope the weather holds out.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3781,7 +3781,7 @@
     <phrase>
      <id>{7739db50-4781-4954-8057-6e66c819df49}</id>
      <foreignId>{14e81d70-8dcf-4c29-8fea-e88867a3d5c6}</foreignId>
-     <text>Prendre un parapluie, il pleut.</text>
+     <text>Prenez un parapluie, il pleut.</text>
      <i18nText>Take an umbrella, it’s raining.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -3791,7 +3791,7 @@
     <phrase>
      <id>{4613a8d2-1dbd-4ec4-84a1-582eed4bfb10}</id>
      <foreignId>{8343e98c-688f-4624-9e43-ea5a115ae8b8}</foreignId>
-     <text>Un grand nombre de cultures asséché à cause de la sécheresse.</text>
+     <text>Un grand nombre de cultures a séché à cause de la sécheresse.</text>
      <i18nText>A lot of the crops dried up because of the drought.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -3801,7 +3801,7 @@
     <phrase>
      <id>{9ad7d75a-d8d3-4c8c-8b53-ac7410e65300}</id>
      <foreignId>{6b4dc159-7699-4c9c-bf5c-fbde86d5f3ad}</foreignId>
-     <text>Il est frisquet aujourd'hui.</text>
+     <text>Il fait frisquet aujourd'hui.</text>
      <i18nText>It is chilly today.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -3831,7 +3831,7 @@
     <phrase>
      <id>{427e1f96-85df-416f-b1ae-a81e1c4a1724}</id>
      <foreignId>{8eb069fc-0316-43c7-b6c6-521529ebce6b}</foreignId>
-     <text>Vous obtenez un meilleur temps sur la côte est.</text>
+     <text>Vous avez un meilleur temps sur la côte est.</text>
      <i18nText>You get better weather on the east cost.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -3851,7 +3851,7 @@
     <phrase>
      <id>{8713362c-0177-4a5d-9ab7-890d520be434}</id>
      <foreignId>{233842c1-3c29-4fad-91a1-beada64fe040}</foreignId>
-     <text>Un désert est une forme de paysage ou de la région qui reçoit très peu de précipitations.</text>
+     <text>Un désert est type de paysage ou de région qui reçoit très peu de précipitations.</text>
      <i18nText>A desert is a landscape form or region that receives very little precipitation.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -3871,7 +3871,7 @@
     <phrase>
      <id>{2e3a959c-7e94-4f84-809c-1b174e7574bb}</id>
      <foreignId>{e32a4fc3-3285-4fa9-89b9-304fa8ade0fc}</foreignId>
-     <text>Dans le climat de savane, on peut distinguer de grandes saisons: sèche et humide.</text>
+     <text>Dans le climat de savane, on peut distinguer deux grandes saisons: sèche et humide.</text>
      <i18nText>In savanna climate we can distinguish to main seasons: wet and dry.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -3891,7 +3891,7 @@
     <phrase>
      <id>{b233e2e6-8a2c-42c7-a418-1e0537647207}</id>
      <foreignId>{7c2fad53-f0c7-418c-a3e2-4bd20e646a8b}</foreignId>
-     <text>Nous avons eu une sécheresse dans notre région l'été dernier. Il n'a pas plu depuis deux mois.</text>
+     <text>Nous avons eu une sécheresse dans notre région l'été dernier. Il n'a pas plu pendant deux mois.</text>
      <i18nText>We had a drought in our area last summer. It did not rain for two months.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -3901,7 +3901,7 @@
     <phrase>
      <id>{660ebd8d-d65a-4048-9116-36f335dc0c88}</id>
      <foreignId>{1f5d20d4-7386-492f-99a8-32e8d12c521b}</foreignId>
-     <text>Il est généralement froid en hiver. Les températures sont souvent en dessous de zéro.</text>
+     <text>Il fait généralement froid en hiver. Les températures sont souvent en dessous de zéro.</text>
      <i18nText>It is usually cold in winter. The temperatures are often below zero.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -3911,7 +3911,7 @@
     <phrase>
      <id>{e9e81370-2988-4bf8-9db0-c0e7bf9c9ad6}</id>
      <foreignId>{be9e6e8e-5446-4ad2-8929-b392f70ed7ce}</foreignId>
-     <text>Les forêts tropicales se trouvent près de l'équateur. Ces zones sont caractérisées par une forte humidité et des fortes pluies.</text>
+     <text>Les forêts tropicales se trouvent près de l'équateur. Ces zones sont caractérisées par une forte humidité et de fortes pluies.</text>
      <i18nText>Tropical rainforests are found close to the equator. These areas are characterized by high humidity and heavy rains.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -3921,7 +3921,7 @@
     <phrase>
      <id>{09a51b50-4ba2-4e6c-8418-035fbdb0cf74}</id>
      <foreignId>{d36df743-452d-4edf-b72d-b4b0f34e2012}</foreignId>
-     <text>Il est assez chaud. Quelle est la température?</text>
+     <text>Il fait assez chaud. Quelle est la température?</text>
      <i18nText>It is pretty warm. What is the temperature?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -3931,7 +3931,7 @@
     <phrase>
      <id>{b7a18928-3ddf-4c70-a502-e937d4c16f04}</id>
      <foreignId>{2fd8d252-622b-43fa-9a71-479447165d38}</foreignId>
-     <text>Les étés sont chauds avec des averses occasionnelles et des nuits fraîches. Winter gamme des températures comprise entre 2 ° C et 5 ° C.</text>
+     <text>Les étés sont chauds avec des averses occasionnelles et des nuits fraîches. L'hiver la température est comprise entre 2 ° C et 5 ° C.</text>
      <i18nText>Summers are warm with occasional showers and cool nights. Winter temperatures range between 2°C and 5°C.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
