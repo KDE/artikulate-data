@@ -5397,7 +5397,7 @@
   <unit>
    <id>{dc23d979-b0c1-4ac4-91b0-01a267e05001}</id>
    <foreignId>{0a545fff-8256-4da5-9b20-2c3a4dea5d1c}</foreignId>
-   <title>Entertainment</title>
+   <title>Divertissement</title>
    <phrases>
     <phrase>
      <id>{90d7be96-e93a-4e0d-9929-ce2d6a511a93}</id>
@@ -5652,7 +5652,7 @@
     <phrase>
      <id>{b28ad1b7-bb77-419f-99ef-52e5526da402}</id>
      <foreignId>{bfd46f10-08e0-433b-803d-5ea917a28302}</foreignId>
-     <text>soirée cinéma</text>
+     <text>soirée film</text>
      <i18nText>movie night</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -5682,7 +5682,7 @@
     <phrase>
      <id>{c953ab1e-1b9a-4f63-affc-79f6c0552f27}</id>
      <foreignId>{51cf771c-1691-49d7-a135-f096e2284d7f}</foreignId>
-     <text>aller pour les boissons</text>
+     <text>boire un verre</text>
      <i18nText>have drinks</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -5832,17 +5832,17 @@
     <phrase>
      <id>{b10444be-bba4-43c3-9f9b-ff192a1c1fdc}</id>
      <foreignId>{3ca17d48-65eb-41ad-9dde-61151cd7befe}</foreignId>
-     <text>Argo est un film de thriller drame historique de duex mille douze réalisé par Ben Affleck.</text>
+     <text>Argo est un thriller dramatique historique de deux mille douze réalisé par Ben Affleck.</text>
      <i18nText>Argo is a 2012 historical drama thriller film directed by Ben Affleck.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{07979e7b-e3d8-4370-b866-0d184889e435}</id>
      <foreignId>{b9234c78-3726-40ed-98ed-05ea93c9fe75}</foreignId>
-     <text>Ce film est basé sur le roman.</text>
+     <text>Ce film est basé sur un roman.</text>
      <i18nText>This movie is based on the novel.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5872,7 +5872,7 @@
     <phrase>
      <id>{733e4c2b-9b55-4acf-885a-c7fd44ef4dfc}</id>
      <foreignId>{1b5bd79a-c9d0-4833-8949-cd012418ba73}</foreignId>
-     <text>J'ai lu trois ou quatre livres par mois.</text>
+     <text>Je lis trois ou quatre livres par mois.</text>
      <i18nText>I read three or four books every month.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5892,7 +5892,7 @@
     <phrase>
      <id>{0dc02bc3-24cb-4d44-91d1-9f2c8a5796d4}</id>
      <foreignId>{e5e66768-a64c-44ce-8ca3-65f58932b6ae}</foreignId>
-     <text>Nous avons vu un spectacle de magicien semaine dernière.</text>
+     <text>Nous avons vu un spectacle de magie la semaine dernière.</text>
      <i18nText>We have seen a magician show last week.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5912,11 +5912,11 @@
     <phrase>
      <id>{ba381d40-9842-4547-a7b8-63fae5c737da}</id>
      <foreignId>{868d446a-b896-4ba4-952c-7be65f996e67}</foreignId>
-     <text>Dans les salles, vous pouvez voir des pièces de théâtre, des comédies musicales ou des pantomimes.</text>
+     <text>Dans les salles, vous pouvez voir des pièces de théâtre, des comédies musicales ou des spectacles pour enfants.</text>
      <i18nText>In theatres you can see plays, musicals or pantomimes.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5972,7 +5972,7 @@
     <phrase>
      <id>{6831e11e-58de-48e5-b13c-acbc829f8482}</id>
      <foreignId>{26f54c0f-0d3e-4ffc-944c-f11125676812}</foreignId>
-     <text>Ce jeu a obtenu de très bonnes critiques.</text>
+     <text>Cette piece a obtenu de très bonnes critiques.</text>
      <i18nText>This play got very good reviews.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5982,17 +5982,17 @@
     <phrase>
      <id>{ed7ff1f5-7270-4f01-9dcd-46a8bc131485}</id>
      <foreignId>{6b9226a1-7b40-41c2-a8e7-57c00f1e9ee7}</foreignId>
-     <text>Que rangée aimez-vous vous asseoir dedans?</text>
+     <text>Dans quelle rangée voulez-vous vous asseoir?</text>
      <i18nText>What row do you like to sit in?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b61d372e-203e-46d3-928b-572f568dbcbf}</id>
      <foreignId>{8963c3a1-ed0c-4808-9dc5-dd40903918da}</foreignId>
-     <text>Je vais essayer vais trouver de bonnes places pour ce soir spectacle.</text>
+     <text>Je vais essayer de trouver de bonnes places pour le spectacle de ce soir.</text>
      <i18nText>I will ll try to find good seats for tonight show.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6002,7 +6002,7 @@
     <phrase>
      <id>{f992f713-ecd8-433e-ad02-22abf8cacce3}</id>
      <foreignId>{fb82b0b1-49de-4b40-82d4-3566d18a6b2c}</foreignId>
-     <text>Le cirque apporte les meilleurs magiciens et des clowns.</text>
+     <text>Le cirque amène les meilleurs magiciens et clowns.</text>
      <i18nText>The circus brings the best magicians and clowns.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6012,7 +6012,7 @@
     <phrase>
      <id>{d1fe4bcf-3873-4b63-9aeb-0ff345b65dd4}</id>
      <foreignId>{d843e00f-f846-41a8-8030-cbc4848195d7}</foreignId>
-     <text>Ils se spécialisent dans la fabrication plaisir de l'auditoire.</text>
+     <text>Ils se spécialisent dans la moquerie de l'auditoire.</text>
      <i18nText>They specialize in making fun of the audience.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6032,7 +6032,7 @@
     <phrase>
      <id>{f81e6767-b9aa-48fb-9b17-2594047a0b79}</id>
      <foreignId>{b784d7ef-b18d-4568-9f71-4cd44fb2e741}</foreignId>
-     <text>Ce livre est d'environ enquêteur de la police. Je recommande vraiment si vous aimez les histoires de crimes.</text>
+     <text>Ce livre est à propos d'un inspecteur de police. Je le recommande vraiment si vous aimez les histoires criminelles.</text>
      <i18nText>This book is about police investigator. I really recommend it if you like crime stories.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -6052,11 +6052,11 @@
     <phrase>
      <id>{9cac4fe8-fc40-4a36-8ea5-cde50b94f3b9}</id>
      <foreignId>{a6e9b7e2-aa81-4607-a234-e105cfcd9ffd}</foreignId>
-     <text>Ce film a remporté trois Oscars l'année dernière. Il est un must absolu.</text>
+     <text>Ce film a remporté trois Oscars l'année dernière. Il est à voir absolument.</text>
      <i18nText>This movie has won three Oscars last year. It is an absolute must see.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
