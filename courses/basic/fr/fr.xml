@@ -3943,7 +3943,7 @@
   <unit>
    <id>{b6439062-8ce9-4e40-bdec-37ace906e699}</id>
    <foreignId>{0acb0757-ee0a-4393-bef3-ea0fea4aef58}</foreignId>
-   <title>Time and Dates</title>
+   <title>Date et heure</title>
    <phrases>
     <phrase>
      <id>{b1dcfc7c-a457-48bd-940b-cd4971e4010e}</id>
@@ -4328,7 +4328,7 @@
     <phrase>
      <id>{c4d8af67-d176-42eb-9f61-1f400dcc3578}</id>
      <foreignId>{de680210-fa6b-49e6-a41d-fa50ed506d4c}</foreignId>
-     <text>vingt-cinquième de Décembre</text>
+     <text>vingt-cinq Décembre</text>
      <i18nText>25th of December</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -4428,7 +4428,7 @@
     <phrase>
      <id>{dff30c3f-6c9b-4b79-a4a9-143b4b0e6fc1}</id>
      <foreignId>{fc671988-937e-4787-97b2-bf26da11ff4f}</foreignId>
-     <text>début de la vingtaine</text>
+     <text>début des années vingt</text>
      <i18nText>early twenties</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -4468,7 +4468,7 @@
     <phrase>
      <id>{7ec2f6ef-4f0b-4630-90b0-f34ea80bec3d}</id>
      <foreignId>{c9f1c2a8-029b-4be2-bafb-dc728d653b2b}</foreignId>
-     <text>dans l'avenir</text>
+     <text>à l'avenir</text>
      <i18nText>in the future</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -4478,7 +4478,7 @@
     <phrase>
      <id>{7f573e6d-71d2-4c1a-9b12-fa8b9f5169d1}</id>
      <foreignId>{0bb615c9-e50a-4713-9d8b-9beedde1c861}</foreignId>
-     <text>année suivant</text>
+     <text>l'année suivante</text>
      <i18nText>following year</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -4488,7 +4488,7 @@
     <phrase>
      <id>{5bbe4a84-d1b2-4c6a-9d29-ece0ad06e28d}</id>
      <foreignId>{9ddc1d37-151f-46ca-83fb-ff521d399606}</foreignId>
-     <text>quatrième Août mille neuf cent soixante-douze</text>
+     <text>quate Août mille neuf cent soixante-douze</text>
      <i18nText>4th August 1972</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
@@ -4508,7 +4508,7 @@
     <phrase>
      <id>{266a3bd7-bffd-4acb-82ce-7bf8079f6858}</id>
      <foreignId>{c2abd6f8-633b-4d15-ad49-b362c89225ab}</foreignId>
-     <text>Il est le premier de Juillet deux mille douze.</text>
+     <text>On est le premier Juillet deux mille douze.</text>
      <i18nText>It is first of July 2012.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -4528,7 +4528,7 @@
     <phrase>
      <id>{7514958b-ea7d-47f6-8cca-87159d14d500}</id>
      <foreignId>{baafc251-1b2c-43c6-82ea-fce70e9a03a9}</foreignId>
-     <text>Mon anniversaire est le vingt deuxième Novembre.</text>
+     <text>Mon anniversaire est le vingt deux Novembre.</text>
      <i18nText>My birthday is on the 22nd of November.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -4568,7 +4568,7 @@
     <phrase>
      <id>{6cd8ba5b-138c-4b4c-887a-45ccc03d0cff}</id>
      <foreignId>{be0a5a95-f9ec-41e2-b76f-b796cedb2458}</foreignId>
-     <text>Je travaille à travers toute la semaine sauf le samedi et le dimanche.</text>
+     <text>Je travaille toute la semaine sauf le samedi et le dimanche.</text>
      <i18nText>I work through all week except Saturdays and Sundays.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -4578,7 +4578,7 @@
     <phrase>
      <id>{9a2c5110-3fd1-4cf5-b693-1cbd003d7cdb}</id>
      <foreignId>{a4a1a498-a12f-41e6-96fa-da5026bf64b0}</foreignId>
-     <text>Premier d'Octobre est la journée nationale chinoise.</text>
+     <text>Le premier Octobre c'est la journée nationale chinoise.</text>
      <i18nText>1st of October is Chinese National Day.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -4608,17 +4608,17 @@
     <phrase>
      <id>{cc0595e3-15c5-4840-a8d7-efed76bd9f8d}</id>
      <foreignId>{ee5e1777-62a8-4854-8239-9150e5633039}</foreignId>
-     <text>Mon stage est d'avril quinze à onze mai.</text>
+     <text>Mon stage est du quinze avril au onze mai.</text>
      <i18nText>My training period is from April 15 to May 11.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{407bb9b7-036b-46d4-97a2-da896ceab959}</id>
      <foreignId>{f7673017-5562-4d37-b2b3-1490971353c7}</foreignId>
-     <text>Saint Valentin est quatorzième de Février.</text>
+     <text>La Saint Valentin est le quatorze Février.</text>
      <i18nText>Valentine's Day is 14th of February.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -4668,7 +4668,7 @@
     <phrase>
      <id>{f2dbf367-0cdd-4362-a171-56610b1f8cd6}</id>
      <foreignId>{229e2379-9afe-4b1c-8174-4c51d79891eb}</foreignId>
-     <text>Pâques est une fête mobile. L'année dernière, le dimanche de Pâques était en première semaine d'Avril.</text>
+     <text>Pâques est une fête mobile. L'année dernière, le dimanche de Pâques était durant la première semaine d'Avril.</text>
      <i18nText>Easter is a movable feast. Last year Easter Sunday was in first week of April.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -4678,7 +4678,7 @@
     <phrase>
      <id>{a79fbaf3-7535-4589-bac4-ecbcfe8ea77e}</id>
      <foreignId>{f94d3270-cf6c-486e-9ec1-c0f8fc757151}</foreignId>
-     <text>Quatrième de Juillet est une date importante dans l'histoire américaine. Ce jour-là, en mille sept cent soixante-seize, l'Amérique a proclamé son indépendance de la Grande-Bretagne. Après cela, il est devenu un jour férié national.</text>
+     <text>Le quatre Juillet est une date importante dans l'histoire américaine. Ce jour-là, en mille sept cent soixante-seize, l'Amérique a proclamé son indépendance de la Grande-Bretagne. Après cela, c'est devenu un jour férié national.</text>
      <i18nText>4th of July is an important date in American history. On this day in 1776 America declared independence from Great Britain. After this it became a national holiday.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -4688,7 +4688,7 @@
     <phrase>
      <id>{cc8ec9ad-51ea-4aba-8428-31054af471ee}</id>
      <foreignId>{768f6a4a-ef4d-4e7b-9ad9-adef38a3fcca}</foreignId>
-     <text>Christophe Colomb est né le trente et unième octobre mille quatre cent cinquante-et-un. Il est devenu célèbre pour la découverte de l'Amérique. Il est décédé en mille cinq cent six à l'âge de cinquante-quatre.</text>
+     <text>Christophe Colomb est né le trente et un octobre mille quatre cent cinquante-et-un. Il est devenu célèbre pour la découverte de l'Amérique. Il est décédé en mille cinq cent six à l'âge de cinquante quatre ans.</text>
      <i18nText>Christopher Columbus was born on 31 October 1451. He become famous for discovering America. He died in 1506 at the age of 54.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -4698,7 +4698,7 @@
     <phrase>
      <id>{ada27141-cefe-41a8-a845-526c2ed56713}</id>
      <foreignId>{2a75e701-f615-4af3-9217-795afc8d0193}</foreignId>
-     <text>La réunion va être à treize heures. Il va durer une heure et trente minutes.</text>
+     <text>La réunion va être à treize heures. Elle va durer une heure et trente minutes.</text>
      <i18nText>The meeting is going to be at 1 pm. It is going to last for 1 hour and 30 minutes.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -4708,7 +4708,7 @@
     <phrase>
      <id>{9db44709-9f5a-478b-80a4-ac65777d0dac}</id>
      <foreignId>{a85b5b1e-5722-4c4d-97f5-ba203356f3e0}</foreignId>
-     <text>Nous allons partir à six heures. S'il vous plaît arriver au moins quinze minutes plus tôt.</text>
+     <text>Nous allons partir à six heures. S'il vous plaît arrivez au moins quinze minutes plus tôt.</text>
      <i18nText>We are going to depart at 6 o'clock. Please arrive at least 15 minutes earlier.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
