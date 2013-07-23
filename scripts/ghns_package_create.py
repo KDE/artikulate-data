@@ -16,7 +16,7 @@ COURSES = "/tmp/DATA/courses"
 DOWNLOAD_TARS = "Artikulate_tars"
 SKELETONS ="/tmp/DATA/skeletons/"
 HTML = "http://files.kde.org/edu/artikulate/"
-PERCENTAGE = 0.9 # uncomment to create tars only for courses with more then 90 percent of the phrases 
+PERCENTAGE = 0.01 # uncomment to create tars only for courses with more then 90 percent of the phrases 
 # PERCENTAGE = 0 # uncomment to create tars for all the phrases regardless of number of recordings
 
 # create a new directory for storing tars
@@ -67,7 +67,7 @@ def sizeof_fmt(num):
 #################################################################
 	
 if os.listdir(DOWNLOAD_TARS)!=[] :	
-	xml_file = open(DOWNLOAD_TARS + "/"+ "artikulate.xml", "wb")
+	xml_file = open(DOWNLOAD_TARS + "/"+ "knewstuff.xml", "wb")
 	root = ET.Element("knewstuff")
 
 	for tar in os.listdir(DOWNLOAD_TARS):
@@ -147,12 +147,12 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 	
 	# compress xml file	
 	
-    	compressed_xml = bz2.BZ2File(DOWNLOAD_TARS + "/" + "artikulate.xml.bz2", 'wb')
-       	compressed_xml.write(file(DOWNLOAD_TARS + "/" + "artikulate.xml").read())
+    	compressed_xml = bz2.BZ2File(DOWNLOAD_TARS + "/" + "knewstuff.xml.bz2", 'wb')
+       	compressed_xml.write(file(DOWNLOAD_TARS + "/" + "knewstuff.xml").read())
 	compressed_xml.close()
 	
 	# remove xml file
-	os.remove(DOWNLOAD_TARS + "/" + "artikulate.xml")
+	os.remove(DOWNLOAD_TARS + "/" + "knewstuff.xml")
 
 
 
