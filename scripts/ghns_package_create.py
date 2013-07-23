@@ -9,7 +9,7 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import glob
 from datetime import datetime
-import bz2
+import shutil
 
 DESTINATION = "/tmp/DATA"
 COURSES = "/tmp/DATA/courses"
@@ -50,8 +50,8 @@ for skeleton in os.listdir(COURSES):
 		
 		if (record_number >=  PERCENTAGE * number_of_skeleton_phrases):
 			# create tar file	
-			tar_path = DOWNLOAD_TARS + "/"+ skeleton + "_" + lang_course + ".tar"
-			tar = tarfile.open(tar_path, "w")
+			tar_path = DOWNLOAD_TARS + "/"+ skeleton + "_" + lang_course + ".tar.bz2"
+			tar = tarfile.open(tar_path, "w:bz2")
 			tar.add(COURSES + "/" + skeleton + "/" + lang_course, arcname=lang_course)
 			tar.close()
 
@@ -71,7 +71,7 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 	root = ET.Element("knewstuff")
 
 	for tar in os.listdir(DOWNLOAD_TARS):
-		if tar.endswith(".tar"):
+		if tar.endswith(".tar.bz2"):
 	
 			stuff = ET.SubElement(root, "stuff")
 
@@ -145,14 +145,9 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 	xml_file.write(pretty_print_text.replace('\n', doctype, 1))
 	xml_file.close()
 	
-	# compress xml file	
 	
-    	compressed_xml = bz2.BZ2File(DOWNLOAD_TARS + "/" + "knewstuff.xml.bz2", 'wb')
-       	compressed_xml.write(file(DOWNLOAD_TARS + "/" + "knewstuff.xml").read())
-	compressed_xml.close()
-	
-	# remove xml file
-	os.remove(DOWNLOAD_TARS + "/" + "knewstuff.xml")
+	# remove DATA from tmp folder
+	shutil.rmtree(DESTINATION)
 
 
 
