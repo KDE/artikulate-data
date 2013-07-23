@@ -3,20 +3,20 @@
 ##############################################################################
 
 from git import Repo
-import os, time
-import stat
+import os
 import tarfile
 import xml.etree.ElementTree as ET
-import lxml.etree as etree
 from xml.dom import minidom
 import glob
+from datetime import datetime
+import bz2
 
 DESTINATION = "/tmp/DATA"
 COURSES = "/tmp/DATA/courses"
 DOWNLOAD_TARS = "Artikulate_tars"
 SKELETONS ="/tmp/DATA/skeletons/"
 HTML = "http://files.kde.org/edu/artikulate/"
-PERCENTAGE = 0.9 # uncomment to create tars only with more then 90 percent of the phrases
+PERCENTAGE = 0.9 # uncomment to create tars only for courses with more then 90 percent of the phrases 
 #PERCENTAGE = 0 # uncomment to create tars for all the phrases regardless of number of recordings
 
 # create a new directory for storing tars
@@ -26,7 +26,6 @@ if not os.path.exists(DOWNLOAD_TARS): os.makedirs(DOWNLOAD_TARS)
 repo = Repo.clone_from("git://anongit.kde.org/artikulate-data", DESTINATION)
 
 ######  setup reader access only ###### 
-
 repo.config_reader() 
 
 
@@ -38,8 +37,7 @@ repo.config_reader()
 for skeleton in os.listdir(COURSES):
 	
 	# count phrases in skeleton
-	skeleton_file_path = SKELETONS + skeleton + ".xml"
-	skeleton_file = open(skeleton_file_path,'r')
+	skeleton_file = open(SKELETONS + skeleton + ".xml",'r')
 	skelton_string = minidom.parseString(skeleton_file.read())
 	skeleton_file.close()
 	number_of_skeleton_phrases =len(skelton_string.getElementsByTagName('phrase'))
@@ -79,19 +77,30 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 
 			# name
 			field1 = ET.SubElement(stuff, "name")
-			field1.text = tar
+			field1.text = tar[0:len(tar)-4]
 
 			# type
 			field2 = ET.SubElement(stuff, "type")
 			field2.text = "artikulate/language"
 
 			# author
+			author="unknown"
+			authors_mail="unknown"
+			tar_file = tarfile.open(DOWNLOAD_TARS + "/" + tar)
+
+			# get author's details from coresponding AUTHORS file
+			for name in tar_file.getnames():
+				if "AUTHORS" in name:
+					author_file = tar_file.extractfile(tar_file.getmember(name)).read().split()
+					author = author_file[1] + " " + author_file[2] 
+					authors_mail = author_file[3][1:len(author_file[3])-1]
+			tar_file.close()
 			field3 = ET.SubElement(stuff, "author")
-			field3.set("e-mail", "konkiewicz.m@gmail.com")
-			field3.text = "Magda Konkiewicz"
+			field3.set("e-mail", authors_mail)
+			field3.text = author
 
 			# licence
-			field4 = ET.SubElement(stuff, "licence")
+			field4 = ET.SubElement(stuff, "license")
 			field4.text = "GPL"
 
 			# summary
@@ -101,15 +110,15 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 
 			# version
 			field5 = ET.SubElement(stuff, "version")
-			field5.text = "1.0"
+			field5.text = str(datetime.fromtimestamp(os.stat(DOWNLOAD_TARS + "/" + tar).st_mtime))[0:10]
 
 			# release
 			field6 = ET.SubElement(stuff, "release")
-			field6.text = "1"
+			field6.text = "1.0"
 
 			# releasedate
 			field7 = ET.SubElement(stuff, "releasedate")
-			field7.text = time.ctime(os.path.getmtime(DOWNLOAD_TARS + "/" + tar))
+			field7.text = str(datetime.fromtimestamp(os.stat(DOWNLOAD_TARS + "/" + tar).st_mtime))[0:10] 
 
 			# preview
 			field8 = ET.SubElement(stuff, "preview")
@@ -120,18 +129,21 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 			field9.set("lang", "en")
 			field9.text = HTML + tar
 
-			# rating
-			field10 = ET.SubElement(stuff, "rating")
-			field10.text = "5"
-	
-			# downloads
-			field11 = ET.SubElement(stuff, "downloads")
-			field11.text = "0"
 
 	# save all to xml file	
 	pretty_print_text = (minidom.parseString(ET.tostring(root)).toprettyxml(encoding='UTF-8'))
 	doctype = '\n' + '<!DOCTYPE knewstuff SYSTEM "knewstuff.dtd">'+ '\n'
 	xml_file.write(pretty_print_text.replace('\n', doctype, 1))
+	xml_file.close()
+	
+	# compress xml file	
+	
+    	compressed_xml = bz2.BZ2File(DOWNLOAD_TARS + "/" + "artikulate.xml.bz2", 'wb')
+       	compressed_xml.write(file(DOWNLOAD_TARS + "/" + "artikulate.xml").read())
+	compressed_xml.close()
+	
+	# remove xml file
+	os.remove(DOWNLOAD_TARS + "/" + "artikulate.xml")
 
 
 
