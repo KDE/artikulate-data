@@ -17,7 +17,7 @@ DOWNLOAD_TARS = "Artikulate_tars"
 SKELETONS ="/tmp/DATA/skeletons/"
 HTML = "http://files.kde.org/edu/artikulate/"
 PERCENTAGE = 0.9 # uncomment to create tars only for courses with more then 90 percent of the phrases 
-#PERCENTAGE = 0 # uncomment to create tars for all the phrases regardless of number of recordings
+# PERCENTAGE = 0 # uncomment to create tars for all the phrases regardless of number of recordings
 
 # create a new directory for storing tars
 if not os.path.exists(DOWNLOAD_TARS): os.makedirs(DOWNLOAD_TARS)
@@ -84,7 +84,7 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 			field2.text = "artikulate/language"
 
 			# author
-			author="unknown"
+			author= "unknown"
 			authors_mail="unknown"
 			tar_file = tarfile.open(DOWNLOAD_TARS + "/" + tar)
 
@@ -92,16 +92,25 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 			for name in tar_file.getnames():
 				if "AUTHORS" in name:
 					author_file = tar_file.extractfile(tar_file.getmember(name)).read().split()
-					author = author_file[1] + " " + author_file[2] 
-					authors_mail = author_file[3][1:len(author_file[3])-1]
+
+					# parse author's name
+					for i in range(1,len(author_file)-1):
+						if author== "unknown":
+							author = author_file[i]
+						else:
+							author = author + " "+ author_file[i]
+
+					# parse author's mail
+					authors_mail = author_file[len(author_file)-1][1:len(author_file[len(author_file)-1])-1]
 			tar_file.close()
+
 			field3 = ET.SubElement(stuff, "author")
 			field3.set("e-mail", authors_mail)
 			field3.text = author
 
 			# licence
 			field4 = ET.SubElement(stuff, "license")
-			field4.text = "GPL"
+			field4.text =  "CC-BY-SA-3.0"
 
 			# summary
 			field4 = ET.SubElement(stuff, "summary")
