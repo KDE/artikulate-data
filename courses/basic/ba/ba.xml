@@ -12367,672 +12367,1421 @@
     <phrase>
      <id>{6eab0431-5925-4467-b195-8173bc7c7d87}</id>
      <foreignId>{978ea2b2-bba3-4d3a-a075-b9b653573170}</foreignId>
-     <text>head</text>
+     <text>মাথা</text>
      <i18nText>head</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4de04b23-515a-4cb8-9b9b-e38c6c7afc27}</id>
      <foreignId>{9c6053f1-44ce-4121-9b9b-e5d96902f35f}</foreignId>
-     <text>eye</text>
+     <text>চোখ</text>
      <i18nText>eye</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>kh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d0256332-f45a-44e6-b6df-66b202893627}</id>
      <foreignId>{c276be5f-d8b3-4a62-a260-e1ae864a8864}</foreignId>
-     <text>mouth</text>
+     <text>মুখ</text>
      <i18nText>mouth</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>kh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a3e524de-4bd4-43de-a204-6385ab881dc3}</id>
      <foreignId>{50937b19-99a7-465f-ae46-01f32e3a9fa4}</foreignId>
-     <text>nose</text>
+     <text>নাক</text>
      <i18nText>nose</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{95a616c5-d452-4505-974c-18c6b6faaa48}</id>
      <foreignId>{6c71d1cd-df66-4d12-9107-3f7a8655407b}</foreignId>
-     <text>ear</text>
+     <text>কান</text>
      <i18nText>ear</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{56138820-93b7-48b0-9c1d-b4a66b517325}</id>
      <foreignId>{3341f1a2-0248-4786-af3c-43151c5e2995}</foreignId>
-     <text>chin</text>
+     <text>চিবুক</text>
      <i18nText>chin</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a56d70f2-131d-45fe-aa98-465141ef9591}</id>
      <foreignId>{a17a067d-57c7-4f7b-b777-7a52ec2a28a3}</foreignId>
-     <text>neck</text>
+     <text>ঘাড়</text>
      <i18nText>neck</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>gh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{14c6a76b-ae4e-4106-9af4-d1a86e3ddc02}</id>
      <foreignId>{936cc123-0231-4973-8221-1ce02a00131b}</foreignId>
-     <text>arm</text>
+     <text>বাহু</text>
      <i18nText>arm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d5b6649a-f153-488b-8322-6aedde687b52}</id>
      <foreignId>{228bb20f-2d77-4350-bbb6-4456c9345306}</foreignId>
-     <text>hand</text>
+     <text>হাত</text>
      <i18nText>hand</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f507ccc5-f303-431b-b619-7f1510752a21}</id>
      <foreignId>{b333684c-90fc-4915-a44c-a2d48e54a28a}</foreignId>
-     <text>finger</text>
+     <text>আঙ্গুল</text>
      <i18nText>finger</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6c24fed7-28b8-4579-8d7d-d7f75848c3cc}</id>
      <foreignId>{421bfeb0-4b74-4fc7-a956-b61ef0bd54e6}</foreignId>
-     <text>stomach</text>
+     <text>পেট</text>
      <i18nText>stomach</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{de08cf58-fd74-4933-a5c2-26ec411f3723}</id>
      <foreignId>{5e570f2a-f0d5-4103-ba9b-0346b8d8f4b2}</foreignId>
-     <text>thigh</text>
+     <text>ঊরু</text>
      <i18nText>thigh</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>u</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b645ad3b-933b-4134-84f7-f4f070bc8f05}</id>
      <foreignId>{4fb53603-4ffb-4716-8a71-8aeda31258a5}</foreignId>
-     <text>chest</text>
+     <text>বুক</text>
      <i18nText>chest</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ff349163-4c90-461c-9ce0-45588f54a514}</id>
      <foreignId>{8683e6c5-b482-4a6b-b533-c7862c0b6b2f}</foreignId>
-     <text>shoulder</text>
+     <text>কাঁধ</text>
      <i18nText>shoulder</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6555bc79-195d-4599-93f3-7de1a56bbeef}</id>
      <foreignId>{a29e6480-b689-43ac-b9bd-1589478476bc}</foreignId>
-     <text>leg</text>
+     <text>পা</text>
      <i18nText>leg</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7b8bc0bb-6042-4dcd-9d6e-9bc68148c1db}</id>
      <foreignId>{b307f466-e262-45a6-9b6b-a7bdd79fa5d7}</foreignId>
-     <text>knee</text>
+     <text>হাঁটু</text>
      <i18nText>knee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{921d70d0-07b7-4657-84a4-afa3225b0818}</id>
      <foreignId>{f9c0d813-e3cd-48c3-938a-8e6b6299353c}</foreignId>
-     <text>ankle</text>
+     <text>গোড়ালি</text>
      <i18nText>ankle</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5314b8a4-fe4e-430d-ba36-5692a9aa4c7c}</id>
      <foreignId>{83389629-c64a-4be6-950f-da89ba7d543a}</foreignId>
-     <text>foot</text>
+     <text>পাদদেশ</text>
      <i18nText>foot</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{37b67103-d3ca-42a1-aeba-4b127f2f6584}</id>
      <foreignId>{6f9b3358-e758-4878-b308-2d60723d8e4e}</foreignId>
-     <text>toe</text>
+     <text>পায়ের আঙ্গুল</text>
      <i18nText>toe</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5e1619a1-bdb1-400d-a45e-bb46eccb0b43}</id>
      <foreignId>{369ec525-984b-44b2-bad9-f7a32d8c5399}</foreignId>
-     <text>palm</text>
+     <text>করতল</text>
      <i18nText>palm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{009540b6-7f22-48e8-9b60-ff4466e6cd3c}</id>
      <foreignId>{73c9762b-4ded-4c16-96b0-4348a212157b}</foreignId>
-     <text>elbow</text>
+     <text>কনুই</text>
      <i18nText>elbow</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>ui</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e065097d-e18c-4b85-8cbd-d2ec3de0415c}</id>
      <foreignId>{f28131a9-a47d-478e-83a4-fc81ab22f5f1}</foreignId>
-     <text>have a fever</text>
+     <text>জ্বর হওয়া</text>
      <i18nText>have a fever</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{09b8c0e0-2d97-4f0d-8355-3577ea2cad15}</id>
      <foreignId>{13fe6af4-66a2-4f2a-a33a-fd240d14c7b4}</foreignId>
-     <text>cut a finger</text>
+     <text>আঙ্গুল কেটে যাওয়া</text>
      <i18nText>cut a finger</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{52d662f1-6444-4ccd-9681-174ef41a7acf}</id>
      <foreignId>{f1deaf55-7158-4dc5-87e0-2796476c107a}</foreignId>
-     <text>get a cold</text>
+     <text>ঠাণ্ডা লাগা</text>
      <i18nText>get a cold</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>th</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>g</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a121210e-061c-48c9-ad2a-2784085ae5cd}</id>
      <foreignId>{480eaaa7-8592-4a83-9579-4277bf21e196}</foreignId>
-     <text>break an arm</text>
+     <text>হাত ভেঙ্গে যাওয়া</text>
      <i18nText>break an arm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4543f15f-e8e9-4434-a5f4-a3908361b76c}</id>
      <foreignId>{7567aeea-cbb1-4d94-bd59-f799cd55ed99}</foreignId>
-     <text>be in pain</text>
+     <text>ব্যাথা হওয়া</text>
      <i18nText>be in pain</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5079f8f5-4158-4b91-bc8f-ca3555624b33}</id>
      <foreignId>{5a0b73b0-d6ad-4019-bda5-0aa48c7ec8c7}</foreignId>
-     <text>get an injection</text>
+     <text>ইনজেকশন নেওয়া</text>
      <i18nText>get an injection</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d17604ce-6d29-4c6c-acba-57450f3e0910}</id>
      <foreignId>{4b1ad981-4ee7-4fd7-a50a-052a78d2358c}</foreignId>
-     <text>blood pressure</text>
+     <text>রক্তচাপ</text>
      <i18nText>blood pressure</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c7a4e1e8-f4a9-46ce-bd09-9a3d3b539170}</id>
      <foreignId>{d5dc99e7-a458-4698-b947-bbee0b13a5bd}</foreignId>
-     <text>have a soar knee</text>
+     <text>হাঁটুতে ক্ষত থাকা</text>
      <i18nText>have a soar knee</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{94e73d50-dcb7-4c4f-86bf-12ef6be92168}</id>
      <foreignId>{9fbe9bea-6dae-4a0c-b8a5-994c3c318782}</foreignId>
-     <text>be sick</text>
+     <text>অসুস্থ হত্তয়া</text>
      <i18nText>be sick</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f6cbdaf3-fa4b-4487-ae93-57ef48869887}</id>
      <foreignId>{25f392c9-fa60-41ca-8e59-cfb72d759b30}</foreignId>
-     <text>have a stomachache</text>
+     <text>পেটব্যাথা করা</text>
      <i18nText>have a stomachache</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{01839770-743d-4873-8f1a-3ae632d683af}</id>
      <foreignId>{641a29aa-c450-4267-bd38-4ef7a070f16e}</foreignId>
-     <text>x-ray scan</text>
+     <text>এক্সরে স্ক্যান</text>
      <i18nText>x-ray scan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{25869c0e-9446-4203-8576-e6410ba47768}</id>
      <foreignId>{74c66cf2-4b6c-41b8-b9e6-f87d21ed3c0d}</foreignId>
-     <text>cut down on drinking</text>
+     <text>মদ্যপান কমান</text>
      <i18nText>cut down on drinking</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5c158b91-82ef-4523-ae57-b2dab554ed74}</id>
      <foreignId>{d3389bb8-8825-4daf-bc36-258be516476d}</foreignId>
-     <text>take pills</text>
+     <text>ওষুধ খাওয়া</text>
      <i18nText>take pills</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5665bf80-9450-4d58-8f00-95305a154050}</id>
      <foreignId>{33d6ed14-32c4-4b90-ba03-98e580847cf0}</foreignId>
-     <text>have a black eye</text>
+     <text>চোখে আঘাত পাওয়া</text>
      <i18nText>have a black eye</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>gh</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3fbd66ec-e61d-4769-9aac-19ae92f015a6}</id>
      <foreignId>{e5de73c1-78b5-4079-9f64-f1c451d0c288}</foreignId>
-     <text>sick note</text>
+     <text>অসুস্থতার চিঠি</text>
      <i18nText>sick note</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>th</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d9f941fd-8d7d-439c-bb72-f21472e34c16}</id>
      <foreignId>{c15b2d06-1a3f-4137-9993-25334d2b79e2}</foreignId>
-     <text>be congested</text>
+     <text>কোষ্ঠকাঠিন্য হওয়া</text>
      <i18nText>be congested</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>th</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{782893b7-0ba5-4daf-9a3e-57349a22200c}</id>
      <foreignId>{28dbc507-6f11-46fb-b891-9b8ab2e26c0d}</foreignId>
-     <text>pull a muscle</text>
+     <text>পেশীতে টান ধরা</text>
      <i18nText>pull a muscle</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{305e4666-a0ac-4a55-9c3d-8fdca81a6d0b}</id>
      <foreignId>{04dd9571-8b9d-48d8-8eaf-47330b972473}</foreignId>
-     <text>have diarrhoea</text>
+     <text>ডায়রিয়া হওয়া</text>
      <i18nText>have diarrhoea</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b454fd8a-40d5-485b-a538-e2e5a5ccc4c3}</id>
      <foreignId>{5b97090f-f005-48cb-8fb0-dc893085a60b}</foreignId>
-     <text>have little energy</text>
+     <text>দুর্বল হওয়া</text>
      <i18nText>have little energy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ff83e844-9626-4ac4-b1d5-91a0c3574191}</id>
      <foreignId>{34df363f-3c78-4b3b-be35-738b0f96d48c}</foreignId>
-     <text>insulin injection</text>
+     <text>ইনসুলিন ইনজেকশন</text>
      <i18nText>insulin injection</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{51f9d5f3-2d43-4a4f-a9f9-f773bc72f89b}</id>
      <foreignId>{646c91b5-94ef-4c29-a592-c621ba18f5d0}</foreignId>
-     <text>I have a appointment with a nurse tomorrow.</text>
+     <text>আগামীকাল আমার একজন নার্সের সঙ্গে একটা এপয়েন্টমেন্ট আছে।</text>
      <i18nText>I have a appointment with a nurse tomorrow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>th</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ffa3629f-11ec-45e5-9850-2349393a7764}</id>
      <foreignId>{c35f8724-1f65-4ced-9741-9cdb75a4999b}</foreignId>
-     <text>Do you have medical insurance?</text>
+     <text>আপনার মেডিকেল ইন্সুরেন্স আছে?</text>
      <i18nText>Do you have medical insurance?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>iu</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{10669cc0-770d-49ed-a702-89c66e80a67a}</id>
      <foreignId>{c23f86d9-d69e-499c-a7a6-0bf2a71d0687}</foreignId>
-     <text>What are your symptoms?</text>
+     <text>আপনার লক্ষণগুলো কি কি?</text>
      <i18nText>What are your symptoms?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{fbcab504-35ab-47c3-a998-1ed752c076d6}</id>
      <foreignId>{33c96725-15cd-4fb7-beb8-9b15334efeff}</foreignId>
-     <text>I have got a pain in my back.</text>
+     <text>আমার পিঠ ব্যাথা করছে।</text>
      <i18nText>I have got a pain in my back.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>th</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b348b5ac-2ce3-40e4-b76e-5513034149dd}</id>
      <foreignId>{acc3b824-3234-460d-98bd-d4713a292373}</foreignId>
-     <text>It is prescription for the chemist.</text>
+     <text>এটা কেমিস্টের জন্য প্রেসক্রিপশন।</text>
      <i18nText>It is prescription for the chemist.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>p</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{015cf15e-c5dc-4e17-971c-a2755c11fd1f}</id>
      <foreignId>{6c22be49-47a7-4d6b-a0e1-cef8be5bec90}</foreignId>
-     <text>I am having difficulty with breathing.</text>
+     <text>আমার নিশ্বাস নিতে অসুবিধা হচ্ছে।</text>
      <i18nText>I am having difficulty with breathing.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1de653ea-b8ba-445f-99fd-39666f65512b}</id>
      <foreignId>{128eb6bc-f971-4cb0-bfe0-d4e6872189d5}</foreignId>
-     <text>Do you have any allergies?</text>
+     <text>আপনার কোন এলার্জি আছে?</text>
      <i18nText>Do you have any allergies?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7bd9e678-15e3-473e-bb97-1e0e5a37144f}</id>
      <foreignId>{5a1a34fa-f19e-4b82-ba55-32b99038c292}</foreignId>
-     <text>You need to loose some weight.</text>
+     <text>আপনার ওজন কমানো উচিত।</text>
      <i18nText>You need to loose some weight.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{72e3fdce-a8a3-4e53-98c4-05a6cecd970f}</id>
      <foreignId>{7e30c1e7-c7b6-4321-b5c5-24ec5d71d0bb}</foreignId>
-     <text>Take three of these pills a day.</text>
+     <text>দিনে এই তিনটে করে বড়ি খাবেন।</text>
      <i18nText>Take three of these pills a day.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d4628d0b-3777-4ac6-bf57-9f5d1e7aae55}</id>
      <foreignId>{69dbc8cf-1dd6-4835-a3c7-3099c6929b65}</foreignId>
-     <text>A nurse needs to take your blood sample.</text>
+     <text>একজন নার্সের এসে আপনার রক্তের নমুনা নিয়ে যাওয়া প্রয়োজন।</text>
      <i18nText>A nurse needs to take your blood sample.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>ie</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{afb46cc7-ef0f-4a88-9f5b-221c35c11429}</id>
      <foreignId>{49e587dd-a8c2-4155-ba30-a63cd85c6391}</foreignId>
-     <text>Are you on any sort of medication?</text>
+     <text>আপনি কি কোনো ওষুধ খান?</text>
      <i18nText>Are you on any sort of medication?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>kh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{2d433fe5-9ae0-45c5-a9d3-420996ddb603}</id>
      <foreignId>{3e297d69-18d3-47ee-a676-75608f5e5f0e}</foreignId>
-     <text>I am going to prescribe you some strong antibiotics.</text>
+     <text>আমি আপনাকে কিছু শক্তিশালী অ্যান্টিবায়োটিক নির্ধারণ করে দিচ্ছি।</text>
      <i18nText>I am going to prescribe you some strong antibiotics.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{dd8f8e2c-8354-4089-8127-f5335534fa93}</id>
      <foreignId>{88ea6e83-482f-4861-99d1-e22606668568}</foreignId>
-     <text>My temperature is a little bit high.</text>
+     <text>আমার তাপমাত্রা সামান্য বেশী আছে।</text>
      <i18nText>My temperature is a little bit high.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{2792e997-f7d4-4f10-a375-ed18c9daafd9}</id>
      <foreignId>{11871be1-c4ba-4d6d-9302-d693b89c86ee}</foreignId>
-     <text>Does it hurt when I press here?</text>
+     <text>আমি এখানে টিপলে কি ব্যাথা লাগে?</text>
      <i18nText>Does it hurt when I press here?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>g</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{861492ed-0105-4c4b-8b92-7b53055eb545}</id>
      <foreignId>{c5987882-f550-43cd-8487-d58f0c1c3e97}</foreignId>
-     <text>Open your mouth, please.</text>
+     <text>আপনার মুখ খুলুন দয়া করে।</text>
      <i18nText>Open your mouth, please.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c7c1f89c-4c46-402f-8037-86bdc1a81c95}</id>
      <foreignId>{d5f91e4c-ef33-43c8-bda4-e614ef7810c1}</foreignId>
-     <text>Do you have any doctors who speak English?</text>
+     <text>ইংরেজী বলতে পারেন এমন কোন ডাক্তার আছেন এখানে?</text>
      <i18nText>Do you have any doctors who speak English?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>kh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{96147b86-9d0d-4349-ad77-5d4fdb6e4dbd}</id>
      <foreignId>{fd391f4e-9c52-4c2a-9284-a5fe42b4527c}</foreignId>
-     <text>I am diabetic.</text>
+     <text>আমার ডায়াবেটিস আছে৷</text>
      <i18nText>I am diabetic.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{877902ce-f38d-406c-b40d-a68dd7a9c9f9}</id>
      <foreignId>{1d85facc-2ddf-41e9-b6c6-668834000f1f}</foreignId>
-     <text>We are going to put a plaster on you knee.</text>
+     <text>আমরা আপনার হাঁটুটা প্লাস্টার করে দেব।</text>
      <i18nText>We are going to put a plaster on you knee.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>b</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6c70edd0-de0b-4c5f-85a0-e4e9abfca545}</id>
      <foreignId>{0059416d-8c54-45dc-b507-47130a0331f7}</foreignId>
-     <text>You should give up smoking.</text>
+     <text>আপনার ধূমপান ছেড়ে দেওয়া উচিত।</text>
      <i18nText>You should give up smoking.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5dd3b4b0-9b8c-41ea-8d7b-dab8bf6ad717}</id>
      <foreignId>{ebf60531-1caf-4e00-8b2f-a07eff8e868e}</foreignId>
-     <text>There is a possibility you might be pregnant.</text>
+     <text>আপনার গর্ভবতী হওয়ার একটি সম্ভাবনা আছে।</text>
      <i18nText>There is a possibility you might be pregnant.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d012f613-2c99-4a79-b570-6ddc196c5744}</id>
      <foreignId>{a80f87ab-be88-4a07-9bc8-84d2209f3139}</foreignId>
-     <text>I do not fell very well. I think I need to see a doctor.</text>
+     <text>আমার শরীর খুব একটা ভাল লাগছে না। আমার মনে হয় আমার ডাক্তার দেখানো উচিত।</text>
      <i18nText>I do not fell very well. I think I need to see a doctor.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>c</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{99cfa42d-f88c-49a7-b300-6d15ed01288d}</id>
      <foreignId>{be62ccf5-b7e8-4758-90bd-8976d5a2f9c3}</foreignId>
-     <text>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</text>
+     <text>আমি বিষণ্নতা ও অনিদ্রায় ভুগছি। আপনি কি আমাকে পরবর্তী কয়েক দিনের মধ্যে একটি বিশেষজ্ঞের সঙ্গে একটা এপয়েন্টমেন্ট দিতে পারেন?</text>
      <i18nText>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>æ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{07930e93-0b08-4abf-a0b1-a6878d726769}</id>
      <foreignId>{adb8fa13-592c-4637-80c1-1051254655f9}</foreignId>
-     <text>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</text>
+     <text>এই ওষুধের কোন পার্শ্বপ্রতিক্রিয়া আছে কি? আমার পেনিসিলিন্ -এ এলার্জি  আছে যে সেটা উল্লেখ করতে ভুলে গেছি।</text>
      <i18nText>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>g</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{241b9725-ec85-43fe-92a5-7bf176eb37ec}</id>
      <foreignId>{a7f8f39f-40db-4d65-af85-71d8365846d8}</foreignId>
-     <text>There are several patients in the lobby waiting for medical exams. Hopefully the doctor will be able to see you in about an hour.</text>
+     <text>মেডিকেল পরীক্ষার জন্য বেশ কয়েকজন রোগী লবিতে অপেক্ষা করছেন। আশা করছি আর এক ঘন্টার মধ্যে ডাক্তারবাবু আপনাকে দেখতে সক্ষম হবেন।</text>
      <i18nText>There are several patients in the lobby waiting for medical exams. Hopefully the doctor will be able to see you in about an hour.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>gh</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>h</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{2e9a716f-c17d-4a3c-8d1f-da5e26d206f2}</id>
      <foreignId>{eae50b0c-2924-47e1-a9e1-8e4d3653c0b3}</foreignId>
-     <text>After asking a few questions, the doctor's diagnosis was that I had a bacterial infection. She wrote me out a prescription.</text>
+     <text>কিছু প্রশ্ন জিজ্ঞাসা করার পর, ডাক্তার-এর নির্ণয়ে আমার ব্যাকটেরিয়ার সংক্রমণ হয়েছে। তিনি আমাকে একটি প্রেসক্রিপশন লিখে দেন।</text>
      <i18nText>After asking a few questions, the doctor's diagnosis was that I had a bacterial infection. She wrote me out a prescription.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b14503e3-29bc-47b3-9e22-02961922d952}</id>
      <foreignId>{dd4539d6-e3fd-4ba3-baf3-1847f213084b}</foreignId>
-     <text>My grandmother suggested that I need to eat chicken soup. I will try this tomorrow and if it does not help I will see a specialist.</text>
+     <text>আমার দিদার মতে আমার চিকেন স্যুপ খাওয়া প্রয়োজন। আমি আগামীকাল সেটা চেষ্টা করব আর এটা যদি সাহায্য না করে তাহলে একজন বিশেষজ্ঞকে দেখাতে যাব।</text>
      <i18nText>My grandmother suggested that I need to eat chicken soup. I will try this tomorrow and if it does not help I will see a specialist.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>b</phonemeID>
+     </phonemes>
     </phrase>
    </phrases>
   </unit>
