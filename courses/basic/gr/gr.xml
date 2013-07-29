@@ -1189,7 +1189,7 @@
      <i18nText>mother</i18nText>
      <soundFile>{811c3c78-d5d0-4c91-9b7e-243f8f86e6fa}.ogg</soundFile>
      <type>word</type>
-     <editState>completed</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1207,9 +1207,9 @@
      <foreignId>{7cef4738-6d85-4685-a781-46a5a52d1af7}</foreignId>
      <text>θείος</text>
      <i18nText>uncle</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cb67f937-506f-42c4-b0d6-b3f1fad2737c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1227,9 +1227,9 @@
      <foreignId>{b81fd88c-bc00-4aea-a9cc-9489e566a00a}</foreignId>
      <text>αδερφός</text>
      <i18nText>brother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d446d864-5760-4343-a045-37e78ce652fd}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1285,611 +1285,612 @@
     <phrase>
      <id>{3fb6f150-4c37-4f84-8972-e4240980f78c}</id>
      <foreignId>{4a17e0b5-117f-4123-aa09-699debeb26d5}</foreignId>
-     <text>siblings</text>
+     <text>αδέρφια</text>
      <i18nText>siblings</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3c15e1b2-6c7c-4d17-9c2c-b93a15d15101}</id>
      <foreignId>{3da7d5bb-73a4-4a15-92e7-b28f08fec585}</foreignId>
-     <text>grandson</text>
+     <text>εγγονός</text>
      <i18nText>grandson</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{73e46940-c859-4f34-a979-25b52656b78d}</id>
      <foreignId>{ff3ca9c7-09fc-42f8-bd91-807ef443acea}</foreignId>
-     <text>granddaughter</text>
+     <text>εγγονή</text>
      <i18nText>granddaughter</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{73e46940-c859-4f34-a979-25b52656b78d}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5eca9a79-8b9e-49da-828c-857c62fae07a}</id>
      <foreignId>{56ff75ed-c079-467a-b702-d83e2aa940ec}</foreignId>
-     <text>wife</text>
+     <text>σύζυγος</text>
      <i18nText>wife</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{22ae06c3-0dd7-4fc7-bddd-c23971075f2e}</id>
      <foreignId>{e9d6f3c9-2adc-44da-b376-c47033d941dc}</foreignId>
-     <text>husband</text>
+     <text>σύζυγος</text>
      <i18nText>husband</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{22ae06c3-0dd7-4fc7-bddd-c23971075f2e}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2bbc71d2-6a8f-401b-9236-2e55c12a2d6e}</id>
      <foreignId>{650e213c-3aa1-4c00-89d3-ae708208c742}</foreignId>
-     <text>niece</text>
+     <text>ανιψιά</text>
      <i18nText>niece</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{31c4e525-b79f-492a-8213-46882ff6e012}</id>
      <foreignId>{6a867158-3c7f-48b7-9161-ea7317efe3f9}</foreignId>
-     <text>nephew</text>
+     <text>ανιψιός</text>
      <i18nText>nephew</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{31c4e525-b79f-492a-8213-46882ff6e012}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{94fabeef-8bd0-4219-8de8-6ad396bfd4fa}</id>
      <foreignId>{89a5acb9-f4c3-44ec-abde-a2eb538f9eec}</foreignId>
-     <text>spouse</text>
+     <text>σύζυγος</text>
      <i18nText>spouse</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{94fabeef-8bd0-4219-8de8-6ad396bfd4fa}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{df31d450-d456-40cf-b23a-cccc0ade88fa}</id>
      <foreignId>{8862489f-7972-497b-be5d-b4afead9b4cd}</foreignId>
-     <text>marriage</text>
+     <text>γάμος</text>
      <i18nText>marriage</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{df31d450-d456-40cf-b23a-cccc0ade88fa}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a57502a9-8e50-4944-8714-63f369b8a936}</id>
      <foreignId>{226d188f-054e-48bc-8d66-342b14286a7a}</foreignId>
-     <text>couple</text>
+     <text>ζευγάρι</text>
      <i18nText>couple</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8ba5de52-7f94-4f34-9007-dd1787b1b04e}</id>
      <foreignId>{65b33bbd-a5ba-45df-9b96-292e493220d5}</foreignId>
-     <text>cousin</text>
+     <text>ξαδέρφι</text>
      <i18nText>cousin</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8ba5de52-7f94-4f34-9007-dd1787b1b04e}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7eb4d85-bf6f-4f9c-9aa3-c236c070b6b6}</id>
      <foreignId>{337596af-ef04-4d45-b73f-22bbf477447d}</foreignId>
-     <text>godson</text>
+     <text>βαφτιστήρι</text>
      <i18nText>godson</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5ef66863-25ef-42b6-ac7d-21473d3afeed}</id>
      <foreignId>{51a09dd3-ac20-4bd0-a571-ab8e6384b769}</foreignId>
-     <text>children</text>
+     <text>παιδιά</text>
      <i18nText>children</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5ef66863-25ef-42b6-ac7d-21473d3afeed}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f3fc9ded-73d0-41a4-8bd2-da714183d85d}</id>
      <foreignId>{5cab4a17-e261-460e-83b9-7219cbaac107}</foreignId>
-     <text>babe</text>
+     <text>μωρό</text>
      <i18nText>babe</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{aad56436-d660-4195-99bb-d7998c5baf28}</id>
      <foreignId>{3bedbf55-a0b4-4b77-a037-ba8f5f3348d7}</foreignId>
-     <text>adopt</text>
+     <text>υιοθετώ</text>
      <i18nText>adopt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{aad56436-d660-4195-99bb-d7998c5baf28}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{59238af6-7106-4b96-981f-e79db8025d56}</id>
      <foreignId>{b8751e3b-fa9e-4f9c-970c-2dbff5e212b9}</foreignId>
-     <text>relative</text>
+     <text>συγγενής</text>
      <i18nText>relative</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bc50943f-5565-4873-8182-1b8e991b3ebb}</id>
      <foreignId>{f0ff8f87-6998-4186-82b0-a5195c3cd2e6}</foreignId>
-     <text>orphan</text>
+     <text>ορφανό</text>
      <i18nText>orphan</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bc50943f-5565-4873-8182-1b8e991b3ebb}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8e6d4618-21d0-4f69-acea-69e0d44897a3}</id>
      <foreignId>{89ae77b7-1653-4510-824e-12ad53d77951}</foreignId>
-     <text>disinherit</text>
+     <text>αποκληρώνω</text>
      <i18nText>disinherit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{172ae74c-b253-4106-af7d-43316980b675}</id>
      <foreignId>{13a560b9-0217-48bb-ace9-68606c7c260b}</foreignId>
-     <text>single</text>
+     <text>εργένης</text>
      <i18nText>single</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{172ae74c-b253-4106-af7d-43316980b675}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{11f7bcd2-dad8-4fc4-acc6-769cc9a8da38}</id>
      <foreignId>{0fb64cac-9f4b-48c6-84b9-5363acd8363b}</foreignId>
-     <text>family</text>
+     <text>οικογένεια</text>
      <i18nText>family</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5713a159-1c57-4007-a953-6ec38a50163b}</id>
      <foreignId>{d9b61e3c-7ed8-4b23-b940-f95143b3a4b8}</foreignId>
-     <text>great grandfather</text>
+     <text>προπάππος</text>
      <i18nText>great grandfather</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5713a159-1c57-4007-a953-6ec38a50163b}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f8f05c20-c003-420f-a3a2-a8aa581ec46d}</id>
      <foreignId>{98afb7b3-0977-49d9-a445-6fe26ae08397}</foreignId>
-     <text>great grandmother</text>
+     <text>προγιαγιά</text>
      <i18nText>great grandmother</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{48787e68-36ff-47b7-a6bc-0b3b349ff99e}</id>
      <foreignId>{6fecb201-d3dc-4f22-81cf-de7fcdfde111}</foreignId>
-     <text>twin brothers</text>
+     <text>δίδυμοι αδελφοί</text>
      <i18nText>twin brothers</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{48787e68-36ff-47b7-a6bc-0b3b349ff99e}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{65e022eb-6284-4bb0-82b8-90fc4748a077}</id>
      <foreignId>{5642138b-8ebe-4a69-9dd9-3596ab757a56}</foreignId>
-     <text>twin sisters</text>
+     <text>δίδυμες αδελφές</text>
      <i18nText>twin sisters</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{03745524-3ad0-44f5-ad4d-3075bc3c721c}</id>
      <foreignId>{f3e4fae7-4c2e-4228-858d-004b85489a37}</foreignId>
-     <text>step-father</text>
+     <text>πατριός</text>
      <i18nText>step-father</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{03745524-3ad0-44f5-ad4d-3075bc3c721c}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1c1a3c73-16c1-463d-b632-c0fa354c9b3e}</id>
      <foreignId>{bc83b5cc-90d3-4bb7-b4f6-b8ac53d4e504}</foreignId>
-     <text>step-mother</text>
+     <text>μητριά</text>
      <i18nText>step-mother</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{11b486cc-15e7-440e-8e36-d1bcb158b3eb}</id>
      <foreignId>{08bd9966-4282-4fdb-82d1-4d8f21bf29e4}</foreignId>
-     <text>ex-husband</text>
+     <text>πρώην σύζυγός</text>
      <i18nText>ex-husband</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{11b486cc-15e7-440e-8e36-d1bcb158b3eb}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a86407a3-3a23-4b2b-8552-95d9ea5e09b3}</id>
      <foreignId>{df2d2387-2712-4e6d-9bb2-bcf7b5960be5}</foreignId>
-     <text>ex-wife</text>
+     <text>πρώην σύζυγός</text>
      <i18nText>ex-wife</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d73b4c7e-2bce-4531-b579-b62aab31ca2d}</id>
      <foreignId>{17e9b72d-f2c2-4e92-9b06-7dcecc76262d}</foreignId>
-     <text>bring up</text>
+     <text>ανατρέφω</text>
      <i18nText>bring up</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d73b4c7e-2bce-4531-b579-b62aab31ca2d}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3699dc4a-5f06-4210-bccd-50e149ae2f3a}</id>
      <foreignId>{fbf42837-2a51-4882-a5fb-2a40c6d444cc}</foreignId>
-     <text>foster child</text>
+     <text>θετό παιδί</text>
      <i18nText>foster child</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f699c0b0-fec0-4f50-82d0-57797f7adc23}</id>
      <foreignId>{6cbc3c63-65a5-4892-8e56-2a2e663b6d65}</foreignId>
-     <text>be divorced</text>
+     <text>είμαι χωρισμένος</text>
      <i18nText>be divorced</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f699c0b0-fec0-4f50-82d0-57797f7adc23}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{787d3d13-aaca-4c5a-9730-9dad3bd83050}</id>
      <foreignId>{bc4e9420-0424-4206-9d4f-7dfbd2878730}</foreignId>
-     <text>elder sister</text>
+     <text>μεγάλη αδερφή</text>
      <i18nText>elder sister</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{935ad8b7-fdaf-4ccf-a8cd-d4deac1b4bca}</id>
      <foreignId>{0fa0a6cf-01e1-4ae1-9313-b85d4639b348}</foreignId>
-     <text>be married</text>
+     <text>είμαι παντρεμένος</text>
      <i18nText>be married</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{935ad8b7-fdaf-4ccf-a8cd-d4deac1b4bca}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{35a34e8b-d575-4ebe-8331-d37f3a3b1e11}</id>
      <foreignId>{a2746154-d49f-4e1f-aa5e-708d2b76f8f2}</foreignId>
-     <text>be engaged</text>
+     <text>είμαι αρραβωνιασμένος</text>
      <i18nText>be engaged</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eaace3f3-b51b-4857-a2bd-b7e5eea54059}</id>
      <foreignId>{fc9a8359-3689-481f-8708-c725f8309537}</foreignId>
-     <text>get on well</text>
+     <text>τα πάω καλά</text>
      <i18nText>get on well</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{eaace3f3-b51b-4857-a2bd-b7e5eea54059}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{379e1bab-3760-41fe-9dfc-dd43dfc86e87}</id>
      <foreignId>{bb315977-2a75-4355-b1f2-eefbaa357a03}</foreignId>
-     <text>black sheep</text>
+     <text>μαύρο πρόβατο</text>
      <i18nText>black sheep</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{761c73f4-657b-4cf7-b907-6d806072906d}</id>
      <foreignId>{a162d6d7-55d3-474c-bd77-e4062a7903a8}</foreignId>
-     <text>family gathering</text>
+     <text>οικογενειακή συγκέντρωση</text>
      <i18nText>family gathering</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{761c73f4-657b-4cf7-b907-6d806072906d}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fed06aea-f63f-4642-a847-a7286d080c5f}</id>
      <foreignId>{b60de9ba-53fb-4df4-8893-31e67d022646}</foreignId>
-     <text>family name</text>
+     <text>επώνυμο</text>
      <i18nText>family name</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b3c99031-9813-4207-a0ae-89cacd98fa55}</id>
      <foreignId>{71fb26a0-a8b4-4926-bbde-3e67d508c295}</foreignId>
-     <text>biological brother</text>
+     <text>αδελφός εξ αίματος</text>
      <i18nText>biological brother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b3c99031-9813-4207-a0ae-89cacd98fa55}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eb4f0a9a-a8c0-407d-9261-859cf5c6f9be}</id>
      <foreignId>{368dabbd-e453-4104-ba9b-673048767000}</foreignId>
-     <text>be separated</text>
+     <text>σε διάσταση</text>
      <i18nText>be separated</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4be75e2e-b518-4b6b-8021-f4b77fdf35ce}</id>
      <foreignId>{28ea7f77-900f-4836-887c-7ebba9a00e0d}</foreignId>
-     <text>I have one younger brother and two sisters.</text>
+     <text>Έχω έναν μικρότερο αδερφό και δύο αδερφές.</text>
      <i18nText>I have one younger brother and two sisters.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8253de1e-a698-49df-8674-89390b298032}</id>
      <foreignId>{8a74340e-5f78-48df-80ff-de6e94e416c0}</foreignId>
-     <text>My parents got divorced two years ago.</text>
+     <text>Οι γονείς μου χώρισαν πριν από δύο χρόνια.</text>
      <i18nText>My parents got divorced two years ago.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8253de1e-a698-49df-8674-89390b298032}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{81e688bd-7774-4ea4-b886-3135aa7e189d}</id>
      <foreignId>{2a3c6479-3d24-4d3f-a3ba-dfd367b9680e}</foreignId>
-     <text>My sister-in-law just got pregnant and she is expecting a babe.</text>
+     <text>Η κουνιάδα μου μόλις έμεινε έγκυος και περιμένει παιδί.</text>
      <i18nText>My sister-in-law just got pregnant and she is expecting a babe.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a0b75aca-b724-48cf-a9f4-0aa153c9e604}</id>
      <foreignId>{a0a49252-3009-4c0a-86f4-0bab74ec379f}</foreignId>
-     <text>My family lives in New York.</text>
+     <text>Η οικογένειά μου ζει στη Νέα Υόρκη.</text>
      <i18nText>My family lives in New York.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a0b75aca-b724-48cf-a9f4-0aa153c9e604}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3976b470-a47f-4242-8f3d-f706b747c75c}</id>
      <foreignId>{eda7da2b-520e-44c6-b2ae-928b27af2db8}</foreignId>
-     <text>We have been married for 10 years and we have two children.</text>
+     <text>Είμαστε παντρεμένοι εδώ και 10 χρόνια και έχουμε δύο παιδιά.</text>
      <i18nText>We have been married for 10 years and we have two children.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{10926228-e800-44d9-a32c-f49b92f346d5}</id>
      <foreignId>{70ed088d-d131-442d-b07e-531776d2c9d8}</foreignId>
-     <text>They are twins.</text>
+     <text>Είναι δίδυμα.</text>
      <i18nText>They are twins.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{10926228-e800-44d9-a32c-f49b92f346d5}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{73c1ced5-7db1-4eaf-8881-5097f70b0eae}</id>
      <foreignId>{ef982491-0319-41cb-93ff-c99a4adb6cf0}</foreignId>
-     <text>George is Robert's and Susan's father.</text>
+     <text>Ο George είναι ο πατέρας του Robert και της Susan.</text>
      <i18nText>George is Robert's and Susan's father.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{901a2608-652b-4926-a4e8-9a7c5fb87911}</id>
      <foreignId>{b86467c0-f354-45f0-ada0-9f9d81c65d77}</foreignId>
-     <text>Are you married?</text>
+     <text>Είστε παντρεμένος;</text>
      <i18nText>Are you married?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{901a2608-652b-4926-a4e8-9a7c5fb87911}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{15a111a6-5374-4b09-99e9-0c1416d0b61e}</id>
      <foreignId>{b8f8243f-b323-4359-bbfd-7ad8ddc3ad00}</foreignId>
-     <text>Anne is the youngest child in our family.</text>
+     <text>Η
+Anne είναι το μικρότερο παιδί στην οικογένειά μας.</text>
      <i18nText>Anne is the youngest child in our family.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1907f059-a982-40e7-af97-1ffc449d7c01}</id>
      <foreignId>{843e46b9-d6c2-4bc9-9f23-4af732aaff57}</foreignId>
-     <text>Carol and Michael are Robert's grandparents.</text>
+     <text>Η Carol και ο Michael είναι η γιαγιά και ο παππούς του Robert.</text>
      <i18nText>Carol and Michael are Robert's grandparents.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1907f059-a982-40e7-af97-1ffc449d7c01}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{04b3571d-a4dc-49db-8976-22111cc92227}</id>
      <foreignId>{a76df398-1e68-442e-8944-d4ca0c17aaaf}</foreignId>
-     <text>The modern nuclear family consists of dad the breadwinner, mum the housewife and several children.</text>
+     <text>Η σύγχρονη πυρηνική οικογένεια αποτελείται από τον πατέρα - κουβαλητή, τη μητέρα - νοικοκυρά και αρκετά παιδιά.</text>
      <i18nText>The modern nuclear family consists of dad the breadwinner, mum the housewife and several children.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b028bedf-eb16-43d1-aaea-8b99e55b249b}</id>
      <foreignId>{5af079ba-7415-42e6-ab66-805ca279808f}</foreignId>
-     <text>My mother died last year.</text>
+     <text>Η μητέρα μου πέθανε πέρυσι.</text>
      <i18nText>My mother died last year.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b028bedf-eb16-43d1-aaea-8b99e55b249b}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e2f3835f-b3b3-46b5-af44-340982accb62}</id>
      <foreignId>{c6ef1ec6-0c36-45bd-888a-3fc7a6d75157}</foreignId>
-     <text>My father is an engineer.</text>
+     <text>Ο πατέρας μου είναι μηχανικός.</text>
      <i18nText>My father is an engineer.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{551b7d55-2192-4479-bd8b-17801ace19c9}</id>
      <foreignId>{383e2b89-9c86-4b6c-a7d1-2ab688625ef4}</foreignId>
-     <text>How big is your family?</text>
+     <text>Πόσο μεγάλη είναι η οικογένειά σας;</text>
      <i18nText>How big is your family?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{551b7d55-2192-4479-bd8b-17801ace19c9}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{537aadde-460b-4a8c-9810-9430d909c6fa}</id>
      <foreignId>{c8e812e6-d98e-4154-972a-acbd051e42cd}</foreignId>
-     <text>Do you have any siblings?</text>
+     <text>Έχετε αδέρφια;</text>
      <i18nText>Do you have any siblings?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f26b41a0-dedf-49f2-a5a3-3de60e61d3aa}</id>
      <foreignId>{801eeb35-50d2-4377-9bcf-0a2e9729ac0d}</foreignId>
-     <text>What is your family name?</text>
+     <text>Ποιο είναι το επώνυμό σας;</text>
      <i18nText>What is your family name?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f26b41a0-dedf-49f2-a5a3-3de60e61d3aa}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f161d2a8-88ca-4022-8bd3-ed9319f01c80}</id>
      <foreignId>{d715af37-b8c2-4f68-a8f0-fb1940717027}</foreignId>
-     <text>Are your parents separated or they still live together?</text>
+     <text>Οι γονείς σας έχουν χωρίσει ή εξακολουθούν να ζουν μαζί;</text>
      <i18nText>Are your parents separated or they still live together?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{29d5b603-1753-4f2d-b735-b7e8f69b15a8}</id>
      <foreignId>{9fe9aead-cfdd-4106-b6fe-3b9ff70607ca}</foreignId>
-     <text>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</text>
+     <text>Η οικογένειά μας είναι πολύ μεγάλη. Έχω δύο αδελφούς και τρεις αδελφές. Έχουμε, επίσης, είκοσι ένα ξαδέλφια: δεκατέσσερα από την πλευρά του πατέρα μου και επτά από την πλευρά της μητέρας μου.</text>
      <i18nText>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{29d5b603-1753-4f2d-b735-b7e8f69b15a8}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b21b6d68-31e0-4c15-966a-462cfe653a3f}</id>
      <foreignId>{a45ad81d-c749-49e7-a752-25e8b358f093}</foreignId>
-     <text>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</text>
+     <text>Η Julia και η Holy είναι δίδυμες και φαίνονται ακριβώς ίδιες. Έχουν μεγαλώσει μαζί και από τότε που ήταν παιδιά η μητέρα τους προσπαθούσε να τις ντύνει τον ίδιο τρόπο. Υπάρχουν πολλές φωτογραφίες στο άλμπουμ της οικογένειας, όπου τα κορίτσια είναι ολόιδια.</text>
      <i18nText>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</i18nText>
      <soundFile></soundFile>
-     <type>paragraph</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{69c0bd63-ea74-406d-94d8-8666f738c0c7}</id>
      <foreignId>{b4691fce-fcef-4d07-a854-b4378014e66a}</foreignId>
-     <text>My family is a rather small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</text>
+     <text>Η οικογένειά μου είναι σχετικά μικρή, με μόνο τρία άτομα, τον πατέρα μου, τη μητέρα μου κι εμένα. Η μητέρα μου είναι γιατρός και ο πατέρας μου είναι δικηγόρος.</text>
      <i18nText>My family is a rather small one, with only three people, my father, my mother and me. My mother is a doctor and my father is a lawyer.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{69c0bd63-ea74-406d-94d8-8666f738c0c7}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{94c13ae7-be2a-4b7c-9f5c-db532d6ca159}</id>
      <foreignId>{e6ad70f5-ff48-4ccb-a6ba-54ea6d8a3995}</foreignId>
-     <text>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</text>
+     <text>Οι γονείς μου χώρισαν πριν από έναν χρόνο. Μετά το διαζύγιο η μητέρα μου παντρεύτηκε έναν καναδό μηχανικό και μετακόμισε στο Τορόντο. Ο πατέρας μου έμεινε στην Ουάσιγκτον και αποφάσισα να ζήσω μαζί του.</text>
      <i18nText>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -1902,11 +1903,11 @@
     <phrase>
      <id>{06712d09-93f5-4fc7-a22e-fe5711a4e4b0}</id>
      <foreignId>{b0ad1fd6-e767-4653-8283-64cd3fe2b391}</foreignId>
-     <text>volleyball</text>
+     <text>βόλεϊ</text>
      <i18nText>volleyball</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1930,241 +1931,241 @@
     <phrase>
      <id>{5bb28e4b-aba8-4e7d-82a3-e8e7496c1285}</id>
      <foreignId>{b86133c9-610b-48a3-890c-191e1b9381b8}</foreignId>
-     <text>basketball</text>
+     <text>μπάσκετ</text>
      <i18nText>basketball</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3a877ab4-b097-45b4-ac01-f758a17297d6}</id>
      <foreignId>{49f57de6-c935-4e91-bff6-b54b4a3ba716}</foreignId>
-     <text>tennis</text>
+     <text>τένις</text>
      <i18nText>tennis</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3a877ab4-b097-45b4-ac01-f758a17297d6}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d5e3322f-c2c5-42ba-bd71-123191c317c1}</id>
      <foreignId>{4754b1fc-dc0f-43e9-8871-1e823a00ece4}</foreignId>
-     <text>karate</text>
+     <text>καράτε</text>
      <i18nText>karate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c6be6766-cb27-4e33-9244-75061c072f9e}</id>
      <foreignId>{3f03356b-d8a1-4415-a290-13cfb28fb58b}</foreignId>
-     <text>squash</text>
+     <text>σκουός</text>
      <i18nText>squash</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c6be6766-cb27-4e33-9244-75061c072f9e}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f10c29dc-2dd1-42a1-9c27-940c4e274a3b}</id>
      <foreignId>{8e81d815-2754-4d25-a296-6d4e1d8e5b85}</foreignId>
-     <text>athletics</text>
+     <text>αθλητισμός</text>
      <i18nText>athletics</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{545bc1a2-901d-4404-acb3-88ae5f810da1}</id>
      <foreignId>{bcb3b2af-f897-4223-b6e6-6bb6da0b72a9}</foreignId>
-     <text>swimming</text>
+     <text>κολύμβηση</text>
      <i18nText>swimming</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{545bc1a2-901d-4404-acb3-88ae5f810da1}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fb556546-aa34-483c-a399-cf351130aa95}</id>
      <foreignId>{da3cca9e-4d87-4790-9f1c-abfaeef2ed99}</foreignId>
-     <text>hockey</text>
+     <text>χόκεϊ</text>
      <i18nText>hockey</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{57e701fa-a654-4680-8ff0-26ca79eaabea}</id>
      <foreignId>{c6d05914-189d-4a83-ac58-6ba705420ab1}</foreignId>
-     <text>rugby</text>
+     <text>ράγκμπι</text>
      <i18nText>rugby</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{57e701fa-a654-4680-8ff0-26ca79eaabea}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c1908a8-9bf0-4c65-8954-0dec45ffbef0}</id>
      <foreignId>{75c9d101-0e32-40aa-9f89-b00277713458}</foreignId>
-     <text>skiing</text>
+     <text>σκι</text>
      <i18nText>skiing</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b46d5ca5-11ed-4e06-99c9-8a1c269e1f52}</id>
      <foreignId>{50c0411a-153b-4106-8c31-a84ebf09efe6}</foreignId>
-     <text>snowboarding</text>
+     <text>σνόουμπορντ</text>
      <i18nText>snowboarding</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b46d5ca5-11ed-4e06-99c9-8a1c269e1f52}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f46aee5a-20d9-406b-a785-a4aa0138812b}</id>
      <foreignId>{77c3c5ae-7366-425a-8ad0-7d13d4963adf}</foreignId>
-     <text>fitness</text>
+     <text>φόρμα</text>
      <i18nText>fitness</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{349b6f28-347e-415a-b46b-dfe5d1e02f55}</id>
      <foreignId>{d5c92520-4251-4ba2-bba6-1ba49165b160}</foreignId>
-     <text>opponent</text>
+     <text>αντίπαλος</text>
      <i18nText>opponent</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{349b6f28-347e-415a-b46b-dfe5d1e02f55}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{da99bb5b-df36-4e3a-802f-0db8ea076b4a}</id>
      <foreignId>{eb51a170-01ac-4dbe-b2c8-7338995128c6}</foreignId>
-     <text>record</text>
+     <text>ρεκόρ</text>
      <i18nText>record</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{48f34542-ddfe-479b-aaa7-3d866a00d1cf}</id>
      <foreignId>{a84f81ac-fd16-4bea-913c-a4f0ceb2908a}</foreignId>
-     <text>spectator</text>
+     <text>θεατής</text>
      <i18nText>spectator</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{48f34542-ddfe-479b-aaa7-3d866a00d1cf}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2f1bd80f-0094-4af6-ab10-25f5f46ba790}</id>
      <foreignId>{80e12978-fefc-462d-ac97-80a3ee7b03dc}</foreignId>
-     <text>stadium</text>
+     <text>στάδιο</text>
      <i18nText>stadium</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{022038cc-c7f0-4f86-b2f1-527088bd6666}</id>
      <foreignId>{0a0419bd-8408-4467-a36c-da04144664a7}</foreignId>
-     <text>score</text>
+     <text>αποτέλεσμα</text>
      <i18nText>score</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{022038cc-c7f0-4f86-b2f1-527088bd6666}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{48f2b217-2317-4904-abb1-cd7a4ebb14b5}</id>
      <foreignId>{590c37a6-6674-4b70-90a9-aaa3841a660c}</foreignId>
-     <text>referee</text>
+     <text>διαιτητής</text>
      <i18nText>referee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a0c6c15f-0e1a-4df1-8ac9-f9e091248c87}</id>
      <foreignId>{db779dea-1cb4-4693-a59c-f3cde5585ce7}</foreignId>
-     <text>pitch</text>
+     <text>γήπεδο</text>
      <i18nText>pitch</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a0c6c15f-0e1a-4df1-8ac9-f9e091248c87}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e220426b-53b7-49aa-9287-c2d605cb1c62}</id>
      <foreignId>{a41476b7-58f5-4504-9bd4-febeebf74040}</foreignId>
-     <text>coach</text>
+     <text>προπονητής</text>
      <i18nText>coach</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3b0d1a1d-9534-48c0-90c5-4c519a9203f3}</id>
      <foreignId>{b35a79e3-d6c6-40cd-a483-a836441874a4}</foreignId>
-     <text>athlete</text>
+     <text>αθλητής</text>
      <i18nText>athlete</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3b0d1a1d-9534-48c0-90c5-4c519a9203f3}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ca73b6fc-6e48-4421-9370-feb13cf29dcf}</id>
      <foreignId>{fd6a1c16-d676-4d30-a0d0-6e46550e888d}</foreignId>
-     <text>cycling</text>
+     <text>ποδηλασία</text>
      <i18nText>cycling</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5cbc0a3b-4b85-4fb2-956b-b5cc81215807}</id>
      <foreignId>{7f60b129-c130-4b41-a584-ee16031ca4bf}</foreignId>
-     <text>boxing</text>
+     <text>πυγμαχία</text>
      <i18nText>boxing</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5cbc0a3b-4b85-4fb2-956b-b5cc81215807}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{56705492-f88f-404b-a9b2-e9e11fa80c16}</id>
      <foreignId>{8e46076f-85b9-4782-bd2c-521ae488fc73}</foreignId>
-     <text>winter sports</text>
+     <text>χειμερινά αθλήματα</text>
      <i18nText>winter sports</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5f5bd6ea-e67f-4450-8977-d73adb8ffad0}</id>
      <foreignId>{5d041d55-48fe-469c-8ce7-b0821bc4d85a}</foreignId>
-     <text>Olympic Games</text>
+     <text>Ολυμπιακοί Αγώνες</text>
      <i18nText>Olympic Games</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5f5bd6ea-e67f-4450-8977-d73adb8ffad0}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2180,431 +2181,431 @@
     <phrase>
      <id>{db66f938-bbfb-412f-9269-e1b83dcd8d57}</id>
      <foreignId>{7be6d279-52aa-4173-a704-a5e6f9d0121f}</foreignId>
-     <text>play basketball</text>
+     <text>παίζω μπάσκετ</text>
      <i18nText>play basketball</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{db66f938-bbfb-412f-9269-e1b83dcd8d57}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a0d6ba41-1f7d-4865-8de2-44115e7b9b95}</id>
      <foreignId>{02aeb29b-933b-46b8-a04a-8d0e42a81c8d}</foreignId>
-     <text>tennis court</text>
+     <text>γήπεδο τένις</text>
      <i18nText>tennis court</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a9dd3b12-85d1-497a-9571-d3c5d483e249}</id>
      <foreignId>{00f4b510-b27f-4dd3-8ddd-0d7ac8cbab16}</foreignId>
-     <text>football field</text>
+     <text>γήπεδο ποδοσφαίρου</text>
      <i18nText>football field</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a9dd3b12-85d1-497a-9571-d3c5d483e249}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1b334267-bfb6-4382-9e61-0a25a23b775d}</id>
      <foreignId>{0e3679e7-e2ac-4dec-93fa-aa066b42f532}</foreignId>
-     <text>do jogging</text>
+     <text>κάνω τζόκινγκ</text>
      <i18nText>do jogging</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{63363f13-f6a6-4d9f-bd0e-0cc4658c9c77}</id>
      <foreignId>{b062ce57-98fa-4643-b335-33f3de03c2d1}</foreignId>
-     <text>ride a bike</text>
+     <text>πηγαίνω βόλτα με το ποδήλατο</text>
      <i18nText>ride a bike</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{63363f13-f6a6-4d9f-bd0e-0cc4658c9c77}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a9a3fc3e-1e72-4882-bcdc-b936c691064d}</id>
      <foreignId>{80fef4e7-36fa-49d9-b01e-527e2ae44b8f}</foreignId>
-     <text>beach volleyball</text>
+     <text>μπιτς βόλεϊ</text>
      <i18nText>beach volleyball</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a0db9c21-fd77-42bc-a9c2-c86789c7e435}</id>
      <foreignId>{7507bde1-5f41-4836-baea-db108477def1}</foreignId>
-     <text>Australian rules football</text>
+     <text>Αυστραλιανό ποδόσφαιρο</text>
      <i18nText>Australian rules football</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a0db9c21-fd77-42bc-a9c2-c86789c7e435}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ed8098cb-c06c-4ef6-a674-8914f0d74207}</id>
      <foreignId>{4b9b8449-ae55-4e47-8969-ae91983d1650}</foreignId>
-     <text>rugby match</text>
+     <text>αγώνας ράγκμπι</text>
      <i18nText>rugby match</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{efaf0465-483d-4421-a2f6-c0da4ed689f9}</id>
      <foreignId>{506cfec9-6489-4bf4-8e9e-c655a49b1447}</foreignId>
-     <text>martial arts</text>
+     <text>πολεμικές τέχνες</text>
      <i18nText>martial arts</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{efaf0465-483d-4421-a2f6-c0da4ed689f9}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bbb59584-fdd4-46f2-a6dc-242a83c7e79d}</id>
      <foreignId>{4a6f39cc-aa7a-4047-94d0-c783d2e4358c}</foreignId>
-     <text>golf club</text>
+     <text>όμιλος γκολφ</text>
      <i18nText>golf club</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1aca94ca-e268-4dbf-a03f-b8549c3e555c}</id>
      <foreignId>{da93b103-6a30-4eb9-9070-9b96fd4e8cb0}</foreignId>
-     <text>horse racing event</text>
+     <text>αγώνας ιπποδρομίας</text>
      <i18nText>horse racing event</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1aca94ca-e268-4dbf-a03f-b8549c3e555c}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{607e8cbb-c81e-47d3-b379-64518ad76f45}</id>
      <foreignId>{b977ff67-7f24-43a5-9fb7-5a7aac60e286}</foreignId>
-     <text>competitive player</text>
+     <text>ανταγωνιστικός παίκτης</text>
      <i18nText>competitive player</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{80e8fdf8-4d56-4586-b6f2-add9fb7be22c}</id>
      <foreignId>{f7f97587-e141-4f32-9b50-20929ae4efec}</foreignId>
-     <text>national sport</text>
+     <text>εθνικό άθλημα</text>
      <i18nText>national sport</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{80e8fdf8-4d56-4586-b6f2-add9fb7be22c}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{542a2626-ad98-4b1b-b276-06454015796b}</id>
      <foreignId>{d8133ce4-14a8-4d82-9241-af0718f05d4b}</foreignId>
-     <text>outdoor sport</text>
+     <text>υπαίθριο άθλημα</text>
      <i18nText>outdoor sport</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2018d53e-8655-4bbc-9c12-9896dcef31f6}</id>
      <foreignId>{6e3becd5-d8eb-46d9-b6fa-a9ce364a8b84}</foreignId>
-     <text>be fit</text>
+     <text>σε φόρμα</text>
      <i18nText>be fit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2018d53e-8655-4bbc-9c12-9896dcef31f6}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d6aeafe3-88e6-4b80-8c1d-23e81d073fb3}</id>
      <foreignId>{14a12df4-c6e6-4b80-a9ab-c042e7ce7d7f}</foreignId>
-     <text>aerobic exercise</text>
+     <text>αεροβική άσκηση</text>
      <i18nText>aerobic exercise</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a0c7812e-7b2e-46b3-90a5-769d480f9012}</id>
      <foreignId>{d0b3978e-f7e3-4233-acb2-a1e7df110e84}</foreignId>
-     <text>healthy weight</text>
+     <text>υγιές βάρος</text>
      <i18nText>healthy weight</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a0c7812e-7b2e-46b3-90a5-769d480f9012}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b3600837-7f39-4e52-b8ce-3b59e4576920}</id>
      <foreignId>{0e5f8f40-5329-45e0-a191-63e745927919}</foreignId>
-     <text>team sport</text>
+     <text>ομαδικό άθλημα</text>
      <i18nText>team sport</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0440ee63-c8eb-4ae3-af7a-f23fd0404a81}</id>
      <foreignId>{4dce30f2-5298-477a-8468-e3b36ca6e354}</foreignId>
-     <text>I play tennis twice a week.</text>
+     <text>Παίζω τένις δύο φορές την εβδομάδα.</text>
      <i18nText>I play tennis twice a week.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0440ee63-c8eb-4ae3-af7a-f23fd0404a81}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{35743d97-df64-4de8-be50-89b80907aa3e}</id>
      <foreignId>{82669d0f-31ff-4bf8-85db-ac1fe0be0a8c}</foreignId>
-     <text>What sports do you like?</text>
+     <text>Ποια αθλήματα σας αρέσουν;</text>
      <i18nText>What sports do you like?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ff369ecc-bdcc-4319-a5bc-1c86925bc7a0}</id>
      <foreignId>{b1dd77b4-636e-4cf3-b5ea-3549e62fd829}</foreignId>
-     <text>Last night we went to a live basketball game.</text>
+     <text>Χθες το βράδυ πήγαμε σε έναν ζωντανό αγώνα μπάσκετ.</text>
      <i18nText>Last night we went to a live basketball game.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ff369ecc-bdcc-4319-a5bc-1c86925bc7a0}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d656c1b5-b074-4d72-ac1b-aae4837d4c2d}</id>
      <foreignId>{ad8c4d73-1f0a-4e1c-a601-957840786770}</foreignId>
-     <text>My grandfather was university boxing champion.</text>
+     <text>Ο παππούς μου ήταν πρωταθλητής πυγμαχίας στο πανεπιστήμιο</text>
      <i18nText>My grandfather was university boxing champion.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0d38e3f5-4871-49de-8888-a5a506bc2f87}</id>
      <foreignId>{bc4f163c-bd0f-421a-b1f4-ed50baced348}</foreignId>
-     <text>The Philadelphia Marathon is a popular athletic event.</text>
+     <text>Ο Μαραθώνιος της Φιλαδέλφειας είναι ένα δημοφιλές αθλητικό γεγονός.</text>
      <i18nText>The Philadelphia Marathon is a popular athletic event.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0d38e3f5-4871-49de-8888-a5a506bc2f87}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ad94fe0c-c369-489f-a180-497bc7a5234b}</id>
      <foreignId>{431526fb-25bc-434b-91a4-698b5e218d6b}</foreignId>
-     <text>Some people consider martial arts to be dangerous.</text>
+     <text>Μερικοί άνθρωποι θεωρούν τις πολεμικές τέχνες επικίνδυνες.</text>
      <i18nText>Some people consider martial arts to be dangerous.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3a7aca29-7927-46b4-91bb-6f2ff300aebf}</id>
      <foreignId>{4c5cef55-e0d6-4e98-8a38-5d941a66dc0f}</foreignId>
-     <text>Do you like watching football on TV?</text>
+     <text>Σας αρέσει να παρακολουθείτε ποδόσφαιρο στην τηλεόραση;</text>
      <i18nText>Do you like watching football on TV?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3a7aca29-7927-46b4-91bb-6f2ff300aebf}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1af6112c-fc31-47d4-9a9f-4ec7d0cf7d00}</id>
      <foreignId>{e9d451ab-9ccd-4152-8aaa-9376b4e54763}</foreignId>
-     <text>People often take up swimming to improve their fitness.</text>
+     <text>Οι άνθρωποι συχνά ξεκινούν κολύμβηση για να βελτιώσουν τη φόρμα τους.</text>
      <i18nText>People often take up swimming to improve their fitness.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e771fc83-4a3b-4a0e-ae8c-40158b6b1c8b}</id>
      <foreignId>{c9c402ad-9f57-41c6-8842-9c4867a3e17a}</foreignId>
-     <text>Darts is a popular pub game.</text>
+     <text>Τα βελάκια είναι ένα δημοφιλές παιχνίδι στις παμπ.</text>
      <i18nText>Darts is a popular pub game.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e771fc83-4a3b-4a0e-ae8c-40158b6b1c8b}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{53eaa2d6-9355-4cfb-8dc9-07fa7d2b2c93}</id>
      <foreignId>{aaa6c5cc-0e72-4b15-abc4-c4d003bad926}</foreignId>
-     <text>Do you think this team will go to the finals?</text>
+     <text>Πιστεύετε ότι αυτή η ομάδα θα πάει στα τελικά;</text>
      <i18nText>Do you think this team will go to the finals?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2c7f826a-93cc-497c-9830-197637a1811c}</id>
      <foreignId>{9897c4f3-a2e9-4a21-9f53-828585a5a914}</foreignId>
-     <text>London hosted 2012 Olympic Games.</text>
+     <text>Το Λονδίνο φιλοξένησε τους Ολυμπιακούς Αγώνες του 2012.</text>
      <i18nText>London hosted 2012 Olympic Games.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2c7f826a-93cc-497c-9830-197637a1811c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5a0812a7-f2c2-4f58-b10b-bce7a3fab097}</id>
      <foreignId>{a7b4f177-3daa-48a5-8cbe-523e8c28a4d0}</foreignId>
-     <text>Chess is a sport that requires skills and intelligence.</text>
+     <text>Το σκάκι είναι ένα άθλημα που απαιτεί ικανότητες και εξυπνάδα.</text>
      <i18nText>Chess is a sport that requires skills and intelligence.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e340527a-5ff6-4959-b709-7aadeeaebc56}</id>
      <foreignId>{85e28aaa-bf38-49be-8fa9-6c6ecfb8f2cc}</foreignId>
-     <text>Basketball is a team sport that was invented in USA.</text>
+     <text>Το μπάσκετ είναι ένα ομαδικό άθλημα που επινοήθηκε στις ΗΠΑ.</text>
      <i18nText>Basketball is a team sport that was invented in USA.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e340527a-5ff6-4959-b709-7aadeeaebc56}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{51b63ce0-0337-4513-bd1a-7d37aed81131}</id>
      <foreignId>{e6ef007f-47ff-4fc4-b7a0-ea356bad5c59}</foreignId>
-     <text>Many families take their children and go ice skating in the evenings.</text>
+     <text>Πολλές οικογένειες παίρνουν τα παιδιά τους και να πάνε για πατινάζ στον πάγο το βράδυ.</text>
      <i18nText>Many families take their children and go ice skating in the evenings.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d9ef5118-d0c3-4cda-9c42-c757445a8e9e}</id>
      <foreignId>{3717bd9a-f51f-4b4f-8cef-d17d588ca2a7}</foreignId>
-     <text>Baseball is very popular in United States.</text>
+     <text>Το μπέιζμπολ είναι πολύ δημοφιλές στις Ηνωμένες Πολιτείες.</text>
      <i18nText>Baseball is very popular in United States.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d9ef5118-d0c3-4cda-9c42-c757445a8e9e}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{189adead-d3af-4444-a759-818947655da3}</id>
      <foreignId>{f0adfacc-4566-4d29-8a77-6a8830f3538e}</foreignId>
-     <text>He did not pass the ball to the other player.</text>
+     <text>Δεν πάσαρε την μπάλα στον άλλο παίκτη.</text>
      <i18nText>He did not pass the ball to the other player.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3f0c6bb2-4922-4791-957c-0c69f9aa12f1}</id>
      <foreignId>{fa039182-42e9-4ec2-ab58-387707689fdb}</foreignId>
-     <text>Today we are going to win.</text>
+     <text>Σήμερα θα κερδίσουμε.</text>
      <i18nText>Today we are going to win.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3f0c6bb2-4922-4791-957c-0c69f9aa12f1}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{42b71264-975f-4616-8279-a011cf4daf58}</id>
      <foreignId>{33073916-636d-48d7-9e82-9ddb7ab2e66a}</foreignId>
-     <text>This is the best football magazine.</text>
+     <text>Αυτό είναι το καλύτερο περιοδικό ποδοσφαίρου.</text>
      <i18nText>This is the best football magazine.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4b2cdf5a-d258-4f01-baa0-3a77b0806fd9}</id>
      <foreignId>{ada0b7be-ba0d-44a5-9b4b-e99456fd8bc7}</foreignId>
-     <text>Paula's father reads sports news everyday.</text>
+     <text>Ο πατέρας της Paula διαβάζει αθλητικές ειδήσεις καθημερινά.</text>
      <i18nText>Paula's father reads sports news everyday.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4b2cdf5a-d258-4f01-baa0-3a77b0806fd9}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ff8534f1-41dc-4939-9a57-7f1c94ea926b}</id>
      <foreignId>{b6369b8b-17df-478b-af81-b7f0edabd3cd}</foreignId>
-     <text>Let's celebrate the victory.</text>
+     <text>Ας γιορτάσουμε τη νίκη.</text>
      <i18nText>Let's celebrate the victory.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dfe2b364-861b-4165-b0be-ad3327e02b15}</id>
      <foreignId>{93b45a67-97b7-47f3-b331-c01b7c57c153}</foreignId>
-     <text>My father goes jogging every day. He is very fit.</text>
+     <text>Ο πατέρας μου πηγαίνει για τζόκινγκ κάθε μέρα. Είναι σε πολύ καλή φόρμα.</text>
      <i18nText>My father goes jogging every day. He is very fit.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dfe2b364-861b-4165-b0be-ad3327e02b15}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{539722ef-808c-4dbd-9d5e-481b8f7b5d09}</id>
      <foreignId>{6df53553-810b-44ff-a722-a01728b5c6e7}</foreignId>
-     <text>I like to play sports. My favourite is badminton.</text>
+     <text>Μου αρέσει να αθλούμαι. Το αγαπημένο μου είναι το μπάντμιντον.</text>
      <i18nText>I like to play sports. My favourite is badminton.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9bcdb16b-96c1-4201-92e6-01b72b8e2615}</id>
      <foreignId>{8867d861-0e56-4f93-8bb2-d58f76f5353c}</foreignId>
-     <text>Ian Thorpe is a famous Australian swimmer. He has won three gold medals in Sydney Summer Olympic Games.</text>
+     <text>Ο Ian Thorpe είναι ένας διάσημος Αυστραλός κολυμβητής. Έχει κερδίσει τρία χρυσά μετάλλια στους θερινούς Ολυμπιακούς Αγώνες του Σίδνεϊ.</text>
      <i18nText>Ian Thorpe is a famous Australian swimmer. He has won three gold medals in Sydney Summer Olympic Games.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9bcdb16b-96c1-4201-92e6-01b72b8e2615}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3acc3bfe-d73b-4230-b9b9-6cafbcb2c241}</id>
      <foreignId>{cdb98274-36af-406f-afcd-7f0ed3dddf2a}</foreignId>
-     <text>I have been thinking about exchanging our tennis tickets. Instead of going on Friday, we should go on Saturday. What do you think?</text>
+     <text>Σκέφτομαι να αλλάξουμε τα εισιτήριά μας για το τένις. Αντί να πάμε την Παρασκευή, να πηγαίναμε το Σάββατο. Πώς σου φαίνεται;</text>
      <i18nText>I have been thinking about exchanging our tennis tickets. Instead of going on Friday, we should go on Saturday. What do you think?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{829f9e62-3e8b-462c-93ef-98ae8a064981}</id>
      <foreignId>{bca3de0e-252c-410a-bbad-88ecbb3f8fc1}</foreignId>
-     <text>In football game there are two teams playing. Each team consist of ten field players and a goalie.</text>
+     <text>Σε ένα παιχνίδι ποδοσφαίρου παίζουν δύο ομάδες. Κάθε ομάδα αποτελείται από δέκα παίκτες μέσα στο γήπεδο και έναν τερματοφύλακα.</text>
      <i18nText>In football game there are two teams playing. Each team consist of ten field players and a goalie.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{829f9e62-3e8b-462c-93ef-98ae8a064981}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -2617,641 +2618,641 @@
     <phrase>
      <id>{10a7d21f-e779-420d-b727-2580fbb0bdb8}</id>
      <foreignId>{565a4bc9-884b-4104-a96e-fb5830792bb8}</foreignId>
-     <text>Greece</text>
+     <text>Ελλάδα</text>
      <i18nText>Greece</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{10a7d21f-e779-420d-b727-2580fbb0bdb8}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f21867e1-8fdc-4d08-b314-876df3e3caf2}</id>
      <foreignId>{7005dad7-79e4-49de-9636-c6a72689b5ea}</foreignId>
-     <text>Germany</text>
+     <text>Γερμανία</text>
      <i18nText>Germany</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{570d4717-5f68-4275-a5cc-5f9b16a6f608}</id>
      <foreignId>{39ec664c-fb90-4e44-b3fe-5f4c0c5cf809}</foreignId>
-     <text>United States of America</text>
+     <text>Ηνωμένες Πολιτείες της Αμερικής</text>
      <i18nText>United States of America</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{570d4717-5f68-4275-a5cc-5f9b16a6f608}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ea9ca8fe-df22-427d-b150-de33fa4febc3}</id>
      <foreignId>{f3be58dc-59f0-46af-aaf8-d4fac7f39f35}</foreignId>
-     <text>Spain</text>
+     <text>Ισπανία</text>
      <i18nText>Spain</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b0a4d56a-ea0a-4a80-a86f-a6db22d8e7d3}</id>
      <foreignId>{3da04216-0700-4fd4-b1bc-9f7b8fb03be8}</foreignId>
-     <text>France</text>
+     <text>Γαλλία</text>
      <i18nText>France</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b0a4d56a-ea0a-4a80-a86f-a6db22d8e7d3}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{07e45dcb-e961-412b-b419-3ae4f637d25d}</id>
      <foreignId>{67f07b95-e524-46a8-9f13-794559c7d47d}</foreignId>
-     <text>Great Britain</text>
+     <text>Μεγάλη Βρετανία</text>
      <i18nText>Great Britain</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e701ba7e-cc6d-46ab-a2d8-b9b84971b65e}</id>
      <foreignId>{37abb84a-0dcb-4087-a453-13ad455ed302}</foreignId>
-     <text>Brazil</text>
+     <text>Βραζιλία</text>
      <i18nText>Brazil</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e701ba7e-cc6d-46ab-a2d8-b9b84971b65e}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b4f83ca3-7efd-49b2-be33-95d9446e4031}</id>
      <foreignId>{f70b0692-8a4d-4642-8533-93213d7a9d86}</foreignId>
-     <text>Argentina</text>
+     <text>Αργεντινή</text>
      <i18nText>Argentina</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c0165a9e-2c8f-41f9-a5c6-dc186f044278}</id>
      <foreignId>{a096001d-a154-4d16-8950-ed749aecc48d}</foreignId>
-     <text>Russia</text>
+     <text>Ρωσία</text>
      <i18nText>Russia</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c0165a9e-2c8f-41f9-a5c6-dc186f044278}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{57c1defd-2c0d-43db-87a5-b6d05e34d386}</id>
      <foreignId>{3180c47c-69fe-411a-a5a8-295febff5ab1}</foreignId>
-     <text>Canada</text>
+     <text>Καναδάς</text>
      <i18nText>Canada</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d47949ad-bab1-48d6-b9c0-898a3bac64fb}</id>
      <foreignId>{b176862d-7684-4758-8f90-d5e273802d2a}</foreignId>
-     <text>Australia</text>
+     <text>Αυστραλία</text>
      <i18nText>Australia</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d47949ad-bab1-48d6-b9c0-898a3bac64fb}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ba4d680a-d1ae-421f-88f1-8c89e1b8feaa}</id>
      <foreignId>{27849b42-f31c-4da0-aeb3-0169a575e07d}</foreignId>
-     <text>New Zealand</text>
+     <text>Νέα Ζηλανδία</text>
      <i18nText>New Zealand</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e40a169-8cb0-4470-b4fb-4b999e50fd35}</id>
      <foreignId>{5f15704c-5772-4b39-aac1-8abaab761c70}</foreignId>
-     <text>China</text>
+     <text>Κίνα</text>
      <i18nText>China</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2e40a169-8cb0-4470-b4fb-4b999e50fd35}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7a6cd47a-620e-4dca-a7a2-bd749e02848c}</id>
      <foreignId>{b83341ef-7fe1-4566-b490-b5a69a54b1c5}</foreignId>
-     <text>India</text>
+     <text>Ινδία</text>
      <i18nText>India</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7c515ea9-bdf7-4074-b250-98eb64628e70}</id>
      <foreignId>{81e31083-47b5-4526-aa6c-ea975f813858}</foreignId>
-     <text>Japan</text>
+     <text>Ιαπωνία</text>
      <i18nText>Japan</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7c515ea9-bdf7-4074-b250-98eb64628e70}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{35bac1cf-67ef-4225-9811-13bfa3e95dc9}</id>
      <foreignId>{98903ca5-3a97-4600-8861-a0d94c5fb15d}</foreignId>
-     <text>American</text>
+     <text>Αμερικανός</text>
      <i18nText>American</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{80cf9611-d399-428d-bd00-ca7bcfdf5440}</id>
      <foreignId>{20ec9757-7a35-40f7-a389-6bddb0786702}</foreignId>
-     <text>English</text>
+     <text>'Αγγλος</text>
      <i18nText>English</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{80cf9611-d399-428d-bd00-ca7bcfdf5440}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{aa6fccf1-ad42-4a16-9ec1-0a999407858a}</id>
      <foreignId>{ef7e1122-90d9-4655-986d-c0fa69414bc4}</foreignId>
-     <text>Canadian</text>
+     <text>Καναδός</text>
      <i18nText>Canadian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fe933d39-3ba9-47df-98ad-000e6537eaab}</id>
      <foreignId>{1b755772-da58-4694-b482-ed812a0b1b12}</foreignId>
-     <text>Spanish</text>
+     <text>Ισπανός</text>
      <i18nText>Spanish</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fe933d39-3ba9-47df-98ad-000e6537eaab}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3c30246d-87be-42f9-912c-bad738ea1299}</id>
      <foreignId>{4c2f86d4-a09f-4175-ac70-ba23f826c0a6}</foreignId>
-     <text>Brazilian</text>
+     <text>Βραζιλιάνος</text>
      <i18nText>Brazilian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{27df37ab-6293-47b3-8f70-3353101e88ec}</id>
      <foreignId>{c2d8ac5c-3827-4be8-bfed-f687b816fb06}</foreignId>
-     <text>Argentinian</text>
+     <text>Αργεντίνος</text>
      <i18nText>Argentinian</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{27df37ab-6293-47b3-8f70-3353101e88ec}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f9432270-7e73-42d7-8711-bf48cc353683}</id>
      <foreignId>{5beab421-e04e-4d7b-b544-91d0f06f55f0}</foreignId>
-     <text>Japanese</text>
+     <text>Ιάπωνας</text>
      <i18nText>Japanese</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2cf59ba8-ea5b-4d2d-8313-2944418b0955}</id>
      <foreignId>{fdccc110-6d48-40d4-8e52-75bba6928881}</foreignId>
-     <text>Chinese</text>
+     <text>Κινέζος</text>
      <i18nText>Chinese</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2cf59ba8-ea5b-4d2d-8313-2944418b0955}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{55032ade-2407-41f1-beb5-1e59da32e8b6}</id>
      <foreignId>{638fdfe5-8b77-44fa-9402-978102fd638b}</foreignId>
-     <text>French</text>
+     <text>Γάλλος</text>
      <i18nText>French</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bb923b87-efe1-4b5a-97cf-aa4387526bf0}</id>
      <foreignId>{5726ba83-871f-4007-8f0f-b4ba6a8f8a56}</foreignId>
-     <text>currency</text>
+     <text>νόμισμα</text>
      <i18nText>currency</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bb923b87-efe1-4b5a-97cf-aa4387526bf0}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{071ce85d-5abd-43f9-a0bd-dff910fc3362}</id>
      <foreignId>{d3e44058-e136-45e5-9804-f1c86c9e6487}</foreignId>
-     <text>flag</text>
+     <text>σημαία</text>
      <i18nText>flag</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1576ab39-19e2-4aa8-9022-1e068b50c4ee}</id>
      <foreignId>{aa4d046a-55b2-4138-ac05-55f98efbb1bc}</foreignId>
-     <text>passport</text>
+     <text>διαβατήριο</text>
      <i18nText>passport</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1576ab39-19e2-4aa8-9022-1e068b50c4ee}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a42e4c4a-5f2e-4628-95f9-78909748b392}</id>
      <foreignId>{3527919b-8a7c-4880-a298-b98bc750fda2}</foreignId>
-     <text>speak a language</text>
+     <text>μιλώ μια γλώσσα</text>
      <i18nText>speak a language</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4fd47227-3e52-46ef-9d82-a0ac198a8ac3}</id>
      <foreignId>{335bb3a1-712a-42d5-8e4a-bd02b24ca651}</foreignId>
-     <text>come from</text>
+     <text>κατάγομαι</text>
      <i18nText>come from</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4fd47227-3e52-46ef-9d82-a0ac198a8ac3}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cc909528-07a7-47e6-a7bc-5fb7af06cc49}</id>
      <foreignId>{1b61b73e-a5db-4a80-86de-c9dc99827a9b}</foreignId>
-     <text>traditional dress</text>
+     <text>παραδοσιακή φορεσιά</text>
      <i18nText>traditional dress</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3d1a8ae3-7e9b-45f8-9f58-e4d2d73488c8}</id>
      <foreignId>{eec7bd1a-4944-47fb-be0c-873fe4c40100}</foreignId>
-     <text>be fluent</text>
+     <text>μιλώ με ευφράδεια</text>
      <i18nText>be fluent</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3d1a8ae3-7e9b-45f8-9f58-e4d2d73488c8}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f743f726-c803-4d89-a753-4ef6721569ea}</id>
      <foreignId>{b24165ba-6027-4e70-a0d3-2e46ad639c32}</foreignId>
-     <text>foreign country</text>
+     <text>ξένη χώρα</text>
      <i18nText>foreign country</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c674488a-e136-4428-accb-4a7695fdd4f9}</id>
      <foreignId>{efa99dc5-1498-4cbf-a2a8-3a5934a46f8a}</foreignId>
-     <text>regional outfit</text>
+     <text>τοπική φορεσιά</text>
      <i18nText>regional outfit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c674488a-e136-4428-accb-4a7695fdd4f9}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6461a34a-89cb-43da-a869-21e98c98285d}</id>
      <foreignId>{c27bde10-87fd-493d-9e93-e00f143b987d}</foreignId>
-     <text>official language</text>
+     <text>επίσημη γλώσσα</text>
      <i18nText>official language</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a9443969-45a0-40a6-84d6-3ae66beb6355}</id>
      <foreignId>{bb1b66bd-4af2-4029-92df-ed70278d50bf}</foreignId>
-     <text>national dish</text>
+     <text>εθνικό πιάτο</text>
      <i18nText>national dish</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a9443969-45a0-40a6-84d6-3ae66beb6355}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c27e5068-cd1b-4973-8577-491c516877c9}</id>
      <foreignId>{f27236b1-cd29-4008-93c5-7b08ef572cf8}</foreignId>
-     <text>capital city</text>
+     <text>πρωτεύουσα</text>
      <i18nText>capital city</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{095beb87-787e-4831-9eb1-d6762f665b5b}</id>
      <foreignId>{492aac48-4c49-40bd-90a0-e3bf0d8a99c1}</foreignId>
-     <text>European Union</text>
+     <text>Ευρωπαϊκή Ένωση</text>
      <i18nText>European Union</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{095beb87-787e-4831-9eb1-d6762f665b5b}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e8275f67-5515-4be4-97e5-ec316cb3da9c}</id>
      <foreignId>{9a0983a0-491c-4de6-9580-1664868f6b18}</foreignId>
-     <text>go abroad</text>
+     <text>πάω στο εξωτερικό</text>
      <i18nText>go abroad</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{600cc626-43ea-414a-9940-6f801dd2b857}</id>
      <foreignId>{a7c7eb74-d770-485e-b06e-890525ec927c}</foreignId>
-     <text>travel overseas</text>
+     <text>κάνω υπερπόντιο ταξίδι</text>
      <i18nText>travel overseas</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{600cc626-43ea-414a-9940-6f801dd2b857}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d77dd019-30c5-4df9-9793-be25d1501484}</id>
      <foreignId>{a9be6a5e-7979-41dd-ab74-575082a52efe}</foreignId>
-     <text>mother tongue</text>
+     <text>μητρική γλώσσα</text>
      <i18nText>mother tongue</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4ee31c5c-409d-4c82-b5d4-0a2b6470361e}</id>
      <foreignId>{af3a2074-66c1-4eb0-87b5-6234ce6d82cb}</foreignId>
-     <text>local dialect</text>
+     <text>τοπική διάλεκτος</text>
      <i18nText>local dialect</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4ee31c5c-409d-4c82-b5d4-0a2b6470361e}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f406ea5f-ff9a-4ce0-86bd-630e9f3b499e}</id>
      <foreignId>{d68b2825-e8a9-443b-9159-a4dfec6ff7e6}</foreignId>
-     <text>culture shock</text>
+     <text>πολιτισμικό σοκ</text>
      <i18nText>culture shock</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f3d97c62-5066-49c2-9467-5c026d4ebe19}</id>
      <foreignId>{fd8cbffa-3907-4d51-bcde-b7c20d4d1d77}</foreignId>
-     <text>cultural stereotype</text>
+     <text>πολιτιστικό στερεότυπο</text>
      <i18nText>cultural stereotype</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f3d97c62-5066-49c2-9467-5c026d4ebe19}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{032848b1-4de3-49c9-af6a-74f0b6598850}</id>
      <foreignId>{71c5bf98-fe19-45cb-9f2d-28a27056a001}</foreignId>
-     <text>Where are you from?</text>
+     <text>Από πού είστε;</text>
      <i18nText>Where are you from?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e34b9da0-182d-4229-88bd-755d36fef7cc}</id>
      <foreignId>{64be1424-598a-48fe-b0ee-7e075cdd8ff2}</foreignId>
-     <text>What is you nationality?</text>
+     <text>Ποια είναι η εθνικότητά σας;</text>
      <i18nText>What is you nationality?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e34b9da0-182d-4229-88bd-755d36fef7cc}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2f2f60d5-0ff7-4e4b-b35c-932228b9af64}</id>
      <foreignId>{53345892-f6f1-4c9f-ad05-45ec2290ca85}</foreignId>
-     <text>In Brazil people speak portuguese.</text>
+     <text>Στη Βραζιλία οι άνθρωποι μιλούν πορτογαλικά.</text>
      <i18nText>In Brazil people speak portuguese.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f9fc2139-c66c-431b-ba2c-2ac6add23f97}</id>
      <foreignId>{6d6335a1-d7a1-453d-9815-e3bc926e5872}</foreignId>
-     <text>I am French.</text>
+     <text>Είμαι Γάλλος.</text>
      <i18nText>I am French.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f9fc2139-c66c-431b-ba2c-2ac6add23f97}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{566114e8-1b8b-4b46-ba5f-502e9940f66f}</id>
      <foreignId>{fc0a450f-bcbc-4ea7-a127-d815d2646c60}</foreignId>
-     <text>Polish and Check are Slavic languages.</text>
+     <text>Τα πολωνικά και τα τσέχικα είναι σλαβικές γλώσσες.</text>
      <i18nText>Polish and Check are Slavic languages.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1d2656bd-4b2e-42f0-9c8c-c1bbd8968aa3}</id>
      <foreignId>{32a35a54-6b25-47bc-8ea7-7a2e05c39626}</foreignId>
-     <text>I live in Australia.</text>
+     <text>Ζω στην Αυστραλία.</text>
      <i18nText>I live in Australia.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1d2656bd-4b2e-42f0-9c8c-c1bbd8968aa3}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{802f4bb9-179e-4e8c-9e3c-10e8db5ab787}</id>
      <foreignId>{8ab66404-44a6-446e-96eb-0cb7745d7ac7}</foreignId>
-     <text>I can speak Spanish, German and a bit of Italian.</text>
+     <text>Μπορώ να μιλήσω ισπανικά, γερμανικά και λίγα ιταλικά.</text>
      <i18nText>I can speak Spanish, German and a bit of Italian.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{58cb1e53-e3bf-4c17-be9f-dc43a8dc00b8}</id>
      <foreignId>{7240079e-64ea-403a-9ec6-13e059b6d97b}</foreignId>
-     <text>Haggis is a Scottish national dish.</text>
+     <text>Το Haggis είναι ένα σκοτσέζικο εθνικό πιάτο.</text>
      <i18nText>Haggis is a Scottish national dish.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{58cb1e53-e3bf-4c17-be9f-dc43a8dc00b8}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f43c29a0-cf8c-41d8-9e35-f09e0fafe658}</id>
      <foreignId>{5ba2ee29-0342-46f7-a082-37d4452624fd}</foreignId>
-     <text>There are three colours on German flag: red, black and yellow.</text>
+     <text>Υπάρχουν τρία χρώματα στη γερμανική σημαία: κόκκινο, μαύρο και κίτρινο.</text>
      <i18nText>There are three colours on German flag: red, black and yellow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6c1e5ae6-52d1-43e8-ae03-0ed619f5c4b2}</id>
      <foreignId>{4916c445-b916-4afa-be27-f068247727d7}</foreignId>
-     <text>Warsaw is Poland's capital city.</text>
+     <text>Η Βαρσοβία είναι η πρωτεύουσα της Πολωνίας.</text>
      <i18nText>Warsaw is Poland's capital city.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6c1e5ae6-52d1-43e8-ae03-0ed619f5c4b2}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f936caa4-a046-42a8-bdbe-8a8937860faf}</id>
      <foreignId>{e4aa21fd-f647-45c5-98be-ffddba6111f4}</foreignId>
-     <text>What is a traditional Indian dish?</text>
+     <text>Ποιο είναι ένα παραδοσιακό ινδικό πιάτο;</text>
      <i18nText>What is a traditional Indian dish?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d7636a0d-e14a-48e3-9be0-d45e06e458b0}</id>
      <foreignId>{b3fe2864-42a5-4bc2-8349-d3baa7dfaa1c}</foreignId>
-     <text>I was born in a small village in Salvador.</text>
+     <text>Γεννήθηκα σε ένα μικρό χωριό στο Σαλβαδόρ.</text>
      <i18nText>I was born in a small village in Salvador.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d7636a0d-e14a-48e3-9be0-d45e06e458b0}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7c68a665-f3a6-4422-a4d8-28d19a33f2c3}</id>
      <foreignId>{758cb73e-7410-4708-9854-48f554248611}</foreignId>
-     <text>Italian dialect from south is very different from any other dialects spoken in the country.</text>
+     <text>Η Ιταλική διάλεκτος του νότου είναι πολύ διαφορετική από οποιαδήποτε άλλη διάλεκτο που μιλιέται στη χώρα.</text>
      <i18nText>Italian dialect from south is very different from any other dialects spoken in the country.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2ab95b78-8e7e-4e72-ab11-24f2e5c2c5b3}</id>
      <foreignId>{47d08943-2a92-45da-be63-f500d4b595b5}</foreignId>
-     <text>Los Angeles has a large amount of ethnic and cultural diversity.</text>
+     <text>Το Λος Άντζελες έχει μεγάλη εθνική και πολιτισμική ποικιλομορφία.</text>
      <i18nText>Los Angeles has a large amount of ethnic and cultural diversity.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2ab95b78-8e7e-4e72-ab11-24f2e5c2c5b3}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{14b4d85b-3a8a-46a7-904c-89a38eea8ba4}</id>
      <foreignId>{caebae74-e96a-4ced-9994-65d5e8c953a8}</foreignId>
-     <text>Eating turkey on Christmas Day in Australia is a tradition.</text>
+     <text>Το να τρως γαλοπούλα την ημέρα των Χριστουγέννων στην Αυστραλία αποτελεί παράδοση.</text>
      <i18nText>Eating turkey on Christmas Day in Australia is a tradition.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{84b38832-71d8-4c09-970b-0e6ec34bd079}</id>
      <foreignId>{f7e0fe37-846a-4190-b132-e5fba0461900}</foreignId>
-     <text>Russia is the largest country in the world.</text>
+     <text>Η Ρωσία είναι η μεγαλύτερη χώρα στον κόσμο.</text>
      <i18nText>Russia is the largest country in the world.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{84b38832-71d8-4c09-970b-0e6ec34bd079}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7258a672-2750-4403-a740-f58e8f08c88f}</id>
      <foreignId>{2a7ce4b0-8af9-429a-80b8-91f8fc341f92}</foreignId>
-     <text>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</text>
+     <text>Η Ελλάδα συνορεύει με την Αλβανία, την Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας, τη Βουλγαρία και την Τουρκία.</text>
      <i18nText>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8fdebefb-0743-4298-bd00-eec51ed5fa57}</id>
      <foreignId>{3d1444b2-ac16-4756-98ff-c4e5aea14234}</foreignId>
-     <text>Switzerland has four official languages. They speak Italian, French, German and Romansh.</text>
+     <text>Η Ελβετία έχει τέσσερις επίσημες γλώσσες. Μιλούν Ιταλικά, Γαλλικά, Γερμανικά και Ρομάνς.</text>
      <i18nText>Switzerland has four official languages. They speak Italian, French, German and Romansh.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8fdebefb-0743-4298-bd00-eec51ed5fa57}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7ef517b8-73fa-498a-8140-8850b0a778e8}</id>
      <foreignId>{58326819-3659-4317-b4ae-3b5ca03122e8}</foreignId>
-     <text>I have double nationality. I am a French citizen and I also have a British passport.</text>
+     <text>Έχω διπλή υπηκοότητα. Είμαι Γάλλος πολίτης και έχω επίσης βρετανικό διαβατήριο.</text>
      <i18nText>I have double nationality. I am a French citizen and I also have a British passport.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{16a0227f-f717-47ce-87a5-1499dc092692}</id>
      <foreignId>{3d4fb2ea-67ba-431f-9b28-209869c96d91}</foreignId>
-     <text>Egypt is a country in north Africa. Its capital is Cairo and it has a population of over 90 million people.</text>
+     <text>Η Αίγυπτος είναι μια χώρα στη Βόρεια Αφρική. Πρωτεύουσά της είναι το Κάιρο και έχει πληθυσμό πάνω από 90 εκατομμύρια.</text>
      <i18nText>Egypt is a country in north Africa. Its capital is Cairo and it has a population of over 90 million people.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{16a0227f-f717-47ce-87a5-1499dc092692}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{73b69891-7246-4639-821a-d609c5fefb8d}</id>
      <foreignId>{32794fd5-6247-4d13-a3eb-5c42d265d628}</foreignId>
-     <text>I come from Spain and I was born in Barcelona. When I was four years old my family emigrated to USA and we stayed there until now. I can speak both Spanish and English.</text>
+     <text>Κατάγομαι από την Ισπανία και γεννήθηκα στη Βαρκελώνη. Όταν ήμουν τεσσάρων χρονών η οικογένειά μου μετανάστευσε στις ΗΠΑ και μείναμε εκεί μέχρι σήμερα. Μπορώ να μιλώ και ισπανικά και αγγλικά.</text>
      <i18nText>I come from Spain and I was born in Barcelona. When I was four years old my family emigrated to USA and we stayed there until now. I can speak both Spanish and English.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -3264,681 +3265,681 @@
     <phrase>
      <id>{28ea4b66-003f-4ee0-86a7-15cf8c341a63}</id>
      <foreignId>{64e017d7-88cd-4f0a-92ba-94aa999bf208}</foreignId>
-     <text>thunderstorm</text>
+     <text>καταιγίδα</text>
      <i18nText>thunderstorm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{72c5fb1f-4135-4eb0-95b4-7e44d8c2e75d}</id>
      <foreignId>{3fb5bc95-16a8-48e4-95f1-6fafa8cf9606}</foreignId>
-     <text>sunny</text>
+     <text>ηλιόλουστος</text>
      <i18nText>sunny</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{72c5fb1f-4135-4eb0-95b4-7e44d8c2e75d}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fb1edee6-a541-40c7-a14e-80e5a1f7f982}</id>
      <foreignId>{a8a8b5f5-cbd5-4be1-a8e0-b130ff34d0ce}</foreignId>
-     <text>weather</text>
+     <text>καιρός</text>
      <i18nText>weather</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{68f0694c-add0-4b0e-924e-fc9dc52d76b5}</id>
      <foreignId>{dcc5c3f3-576b-49c2-b42d-b5e42531de59}</foreignId>
-     <text>rainy</text>
+     <text>βροχερός</text>
      <i18nText>rainy</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{68f0694c-add0-4b0e-924e-fc9dc52d76b5}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{af6020de-4bac-415c-9085-fcd849dca5ef}</id>
      <foreignId>{0f6d42af-f878-4887-9c85-eb4fa5ab6fb9}</foreignId>
-     <text>windy</text>
+     <text>ανεμώδης</text>
      <i18nText>windy</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7713058-ffcc-448c-9eb8-f3a68a5d38f5}</id>
      <foreignId>{52137abe-6cb0-426b-8825-c7d6367d21c2}</foreignId>
-     <text>snow</text>
+     <text>χιόνι</text>
      <i18nText>snow</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b7713058-ffcc-448c-9eb8-f3a68a5d38f5}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7a3be5dd-dc6f-460b-a211-e7be955d2577}</id>
      <foreignId>{3b71f855-e0c4-4e21-b604-8ad79de89773}</foreignId>
-     <text>temperature</text>
+     <text>θερμοκρασία</text>
      <i18nText>temperature</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6321b4f7-a795-4ca3-a676-037e197c7a12}</id>
      <foreignId>{e2e6e20b-a8e8-4a02-b5ff-da145fb03d07}</foreignId>
-     <text>cool</text>
+     <text>δροσερός</text>
      <i18nText>cool</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6321b4f7-a795-4ca3-a676-037e197c7a12}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{34673d9e-aed2-415a-a114-5d588431ba74}</id>
      <foreignId>{aaf37294-bc1c-47ad-80f8-24baa44117d9}</foreignId>
-     <text>warm</text>
+     <text>ζεστός</text>
      <i18nText>warm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dcaf9a20-aad7-405f-ae0c-fbe00a3a22a7}</id>
      <foreignId>{0df49aef-2874-4120-86e0-d1933279748a}</foreignId>
-     <text>flood</text>
+     <text>πλημμύρα</text>
      <i18nText>flood</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dcaf9a20-aad7-405f-ae0c-fbe00a3a22a7}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a02cb852-ef57-4dc8-9094-fbf34eb789c6}</id>
      <foreignId>{57fd2370-d302-48c4-811b-c239d8748c5f}</foreignId>
-     <text>drought</text>
+     <text>ξηρασία</text>
      <i18nText>drought</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{34cc7205-cf92-4d9f-b33e-332027b7a4ba}</id>
      <foreignId>{74b3353d-3cc9-495d-96a2-b7caf34effe1}</foreignId>
-     <text>hail</text>
+     <text>χαλάζι</text>
      <i18nText>hail</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{34cc7205-cf92-4d9f-b33e-332027b7a4ba}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c82fb8a2-9641-4c54-a8e6-4f8e323e9083}</id>
      <foreignId>{cee4b96a-ed08-4c24-af7a-b61ed432f769}</foreignId>
-     <text>rainbow</text>
+     <text>ουράνιο τόξο</text>
      <i18nText>rainbow</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{be81b72a-6212-4470-8622-7f24d14d5be7}</id>
      <foreignId>{40985c4e-648e-4b28-8c1b-b11438ed9b59}</foreignId>
-     <text>earthquake</text>
+     <text>σεισμός</text>
      <i18nText>earthquake</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{be81b72a-6212-4470-8622-7f24d14d5be7}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{92a81451-e649-4041-a49d-38ac9bf62f0f}</id>
      <foreignId>{543760ed-ed4e-438d-8d41-0c155441423f}</foreignId>
-     <text>cyclone</text>
+     <text>κυκλώνας</text>
      <i18nText>cyclone</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f7ec805f-d94b-4a3c-9647-dbbdf975aa3b}</id>
      <foreignId>{d91e0877-bbd6-42a0-a4e4-aba5cd8adf26}</foreignId>
-     <text>climate</text>
+     <text>κλίμα</text>
      <i18nText>climate</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f7ec805f-d94b-4a3c-9647-dbbdf975aa3b}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b17ec2c9-7c4d-4acd-849e-2ced2eb043de}</id>
      <foreignId>{dab75a11-12ca-470d-85bd-41b455bd0f13}</foreignId>
-     <text>ice</text>
+     <text>πάγος</text>
      <i18nText>ice</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{23a90420-acb6-4b87-8953-efdcdbf83fb1}</id>
      <foreignId>{25286749-936a-4b37-ab35-44f08ea5a973}</foreignId>
-     <text>summer</text>
+     <text>καλοκαίρι</text>
      <i18nText>summer</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{23a90420-acb6-4b87-8953-efdcdbf83fb1}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a41795fe-b45f-49c0-8d71-e930ffec4d48}</id>
      <foreignId>{924330a4-be39-48a9-9855-5497c2284965}</foreignId>
-     <text>winter</text>
+     <text>χειμώνας</text>
      <i18nText>winter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{964549ce-5b8e-4c00-85cf-cac25f332034}</id>
      <foreignId>{e5d41765-9299-4be3-9974-54cd85db4ca1}</foreignId>
-     <text>spring</text>
+     <text>άνοιξη</text>
      <i18nText>spring</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{964549ce-5b8e-4c00-85cf-cac25f332034}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6a59cf57-27d3-49b5-8de5-f94d20ad4ff3}</id>
      <foreignId>{2dc79256-0882-46c3-b801-511a28df022f}</foreignId>
-     <text>autumn</text>
+     <text>φθινόπωρο</text>
      <i18nText>autumn</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5858ba61-d612-4718-adbb-5dca8d53fd2d}</id>
      <foreignId>{b2d3865d-1e2e-4958-b2b1-f09d4050ef66}</foreignId>
-     <text>tsunami</text>
+     <text>τσουνάμι</text>
      <i18nText>tsunami</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5858ba61-d612-4718-adbb-5dca8d53fd2d}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d9c318fd-f67f-4135-8ae1-c44492720d34}</id>
      <foreignId>{cd3e98e3-ffa1-4b3a-8369-22951b8ca08e}</foreignId>
-     <text>sunrise</text>
+     <text>ανατολή</text>
      <i18nText>sunrise</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{58cd60ea-2c4e-4f1c-b592-faec4cb24623}</id>
      <foreignId>{23febf80-6508-4069-b9af-8f92ce733b33}</foreignId>
-     <text>humid</text>
+     <text>υγρός</text>
      <i18nText>humid</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{58cd60ea-2c4e-4f1c-b592-faec4cb24623}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{75967ea8-7e70-4112-907e-3ad98a67daf3}</id>
      <foreignId>{4c51b96e-e6d6-41e0-ad71-b17f8cc3a9da}</foreignId>
-     <text>meteorology</text>
+     <text>μετεωρολογία</text>
      <i18nText>meteorology</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{05a5e900-4c5f-4d97-acae-2bb9c1230ba5}</id>
      <foreignId>{01b7fd05-e376-4869-bb2a-711581fb4070}</foreignId>
-     <text>jungle</text>
+     <text>ζούγκλα</text>
      <i18nText>jungle</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{05a5e900-4c5f-4d97-acae-2bb9c1230ba5}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9d17796f-71d9-4e27-b704-3ef25ac4854a}</id>
      <foreignId>{9243d51f-43ae-43a3-94e4-bfd08d76cd65}</foreignId>
-     <text>degrees Celsius</text>
+     <text>βαθμοί Κελσίου</text>
      <i18nText>degrees Celsius</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6e756737-d3ec-41aa-af89-807b4759252d}</id>
      <foreignId>{c92a8688-5d39-4e86-bccb-1051b0fd64f6}</foreignId>
-     <text>degrees Fahrenheit</text>
+     <text>βαθμοί Φαρενάιτ</text>
      <i18nText>degrees Fahrenheit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6e756737-d3ec-41aa-af89-807b4759252d}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{63ccfc2b-fd45-4833-9a76-674c892eb5f9}</id>
      <foreignId>{8a26b497-b97a-4ac3-8fbf-d7fe3eef692a}</foreignId>
-     <text>heavy rain</text>
+     <text>δυνατή βροχή</text>
      <i18nText>heavy rain</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7e652510-07e6-4086-9c92-01d333a3fa7a}</id>
      <foreignId>{075f4420-6448-4dfd-9d8c-bc9f9c8dad01}</foreignId>
-     <text>clear sky</text>
+     <text>καθαρός ουρανός</text>
      <i18nText>clear sky</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7e652510-07e6-4086-9c92-01d333a3fa7a}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{568cc1dc-04d1-46cb-9d20-6b79286007c5}</id>
      <foreignId>{752428d8-b71f-4f2a-82bc-29a80ed450fa}</foreignId>
-     <text>water temperature</text>
+     <text>θερμοκρασία νερού</text>
      <i18nText>water temperature</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3539c6a1-8e03-4c9f-bc3e-cf940018b248}</id>
      <foreignId>{f38c8194-feb4-41dc-9af4-4e591df5f994}</foreignId>
-     <text>freezing cold</text>
+     <text>παγωνιά</text>
      <i18nText>freezing cold</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3539c6a1-8e03-4c9f-bc3e-cf940018b248}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b379c659-6c0a-4279-8e8e-258977df387b}</id>
      <foreignId>{a3760564-e07c-42fa-8f42-e50144cd68cf}</foreignId>
-     <text>partly cloudy</text>
+     <text>μερικώς συννεφιασμένος</text>
      <i18nText>partly cloudy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89a1f2b2-8ea0-445c-9e8e-defdaa03f522}</id>
      <foreignId>{560a5abd-3869-47fc-b594-1003af104da7}</foreignId>
-     <text>air pressure</text>
+     <text>ατμοσφαιρική πίεση</text>
      <i18nText>air pressure</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{89a1f2b2-8ea0-445c-9e8e-defdaa03f522}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{94e14862-3fd2-48cb-bc20-6bd0d881692a}</id>
      <foreignId>{dca2806c-5604-4f97-a76d-0679ebf318f0}</foreignId>
-     <text>global warming</text>
+     <text>υπερθέρμανση του πλανήτη</text>
      <i18nText>global warming</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{78a8ad3a-a6df-4640-8dfa-7fb8ebe03663}</id>
      <foreignId>{db835d85-86f7-4fea-8ebc-964b85e8a930}</foreignId>
-     <text>winter season</text>
+     <text>χειμερινή περίοδος</text>
      <i18nText>winter season</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{78a8ad3a-a6df-4640-8dfa-7fb8ebe03663}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{371f1b22-4ab0-441c-aeab-e5467a36484e}</id>
      <foreignId>{1b21362a-d75f-4d81-b8f5-d605b2a430bb}</foreignId>
-     <text>tropical storm</text>
+     <text>τροπική καταιγίδα</text>
      <i18nText>tropical storm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{870f2c03-6b93-421e-868d-7d22f4c8b8b3}</id>
      <foreignId>{b7a6905f-8661-4ccd-a9df-b706c3fbd3e6}</foreignId>
-     <text>heat wave</text>
+     <text>καύσωνας</text>
      <i18nText>heat wave</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{870f2c03-6b93-421e-868d-7d22f4c8b8b3}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bcc13ebc-6ec6-4ffc-9588-77858b245ac3}</id>
      <foreignId>{7cda5919-dbe3-4387-bdc9-5ca8a33e9049}</foreignId>
-     <text>sunny day</text>
+     <text>ηλιόλουστη μέρα</text>
      <i18nText>sunny day</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{232a18d6-bd49-47ff-9bf3-081f5197ac81}</id>
      <foreignId>{c171361b-7f1f-41d8-8419-43071b6e080d}</foreignId>
-     <text>coastal area</text>
+     <text>παράκτια περιοχή</text>
      <i18nText>coastal area</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{232a18d6-bd49-47ff-9bf3-081f5197ac81}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{29e63795-1eb1-48d2-8df5-5e70d5fdf60d}</id>
      <foreignId>{9d8246c3-d2f2-4e52-a457-95613ae59b46}</foreignId>
-     <text>scattered showers</text>
+     <text>σποραδικές βροχοπτώσεις</text>
      <i18nText>scattered showers</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1d6f96bd-fe79-4c4f-abad-538c168d38a5}</id>
      <foreignId>{9e952a0a-4a1c-4aea-9a3c-b16ed8522d33}</foreignId>
-     <text>gust of wind</text>
+     <text>φύσημα του ανέμου</text>
      <i18nText>gust of wind</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1d6f96bd-fe79-4c4f-abad-538c168d38a5}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3b562103-6778-4485-ac73-58019c1bfc1a}</id>
      <foreignId>{7b5e669b-a59e-4a08-8e06-e6de66bb8cd8}</foreignId>
-     <text>weather forecast</text>
+     <text>πρόγνωση καιρού</text>
      <i18nText>weather forecast</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{72841cf1-6fbe-43ad-8188-19cfcee6f3a3}</id>
      <foreignId>{d0072f79-dfce-4406-9be5-6af05caba26f}</foreignId>
-     <text>mediterranean climate</text>
+     <text>μεσογειακό κλίμα</text>
      <i18nText>mediterranean climate</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{72841cf1-6fbe-43ad-8188-19cfcee6f3a3}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{de872820-8994-4dd1-a43d-c5812c01bcf5}</id>
      <foreignId>{749a8a41-288e-44ea-b35e-6e01da3f99f5}</foreignId>
-     <text>polar ice cap</text>
+     <text>πολικοί πάγοι</text>
      <i18nText>polar ice cap</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5a008773-8072-4a25-9961-71aee097b2b6}</id>
      <foreignId>{b96bc1fb-a3a5-46d8-b423-c150eea67335}</foreignId>
-     <text>It is snowing.</text>
+     <text>Χιονίζει.</text>
      <i18nText>It is snowing.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5a008773-8072-4a25-9961-71aee097b2b6}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7cb86df-76a2-4a6e-941b-f8c08f9605ec}</id>
      <foreignId>{fab1ab80-ef00-4d3b-b4c4-0f61b528f7b6}</foreignId>
-     <text>What is the weather like?</text>
+     <text>Πώς είναι ο καιρός;</text>
      <i18nText>What is the weather like?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8f23b747-d155-4fdf-ad2f-12668277d030}</id>
      <foreignId>{15c7a201-aab1-4250-83e5-24cd8392bfa9}</foreignId>
-     <text>Is it raining outside?</text>
+     <text>Βρέχει έξω;</text>
      <i18nText>Is it raining outside?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8f23b747-d155-4fdf-ad2f-12668277d030}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f651c8b6-63b1-4af8-ac22-1a5fb9871397}</id>
      <foreignId>{86aaf64d-b399-4c29-86f8-d27707916b36}</foreignId>
-     <text>It look like it is going to be windy tomorrow.</text>
+     <text>Φαίνεται πως θα έχει αέρα αύριο.</text>
      <i18nText>It look like it is going to be windy tomorrow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3149e6d0-7ea1-400e-8e75-88642aab7890}</id>
      <foreignId>{9a9d0f51-7a1b-49bf-bcd7-454f35c13203}</foreignId>
-     <text>It is pouring down.</text>
+     <text>Βρέχει καταρρακτωδώς.</text>
      <i18nText>It is pouring down.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3149e6d0-7ea1-400e-8e75-88642aab7890}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f89397e3-a0e0-4f60-82ba-076b803e69c7}</id>
      <foreignId>{251b17ce-fb83-4036-af23-028eb8e445f8}</foreignId>
-     <text>Let’s hope the weather holds out.</text>
+     <text>Ας ελπίσουμε ο καιρός να διατηρηθεί.</text>
      <i18nText>Let’s hope the weather holds out.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b687378c-b411-40dc-a8f4-457b95a3f3af}</id>
      <foreignId>{e647765c-0ef9-4fc7-9b90-3a1b76d8749c}</foreignId>
-     <text>Yesterday it was hot and humid.</text>
+     <text>Χθες ήταν ζεστά και υγρά.</text>
      <i18nText>Yesterday it was hot and humid.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b687378c-b411-40dc-a8f4-457b95a3f3af}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a7be5f0d-df0b-4234-b88c-d94bdc14892b}</id>
      <foreignId>{14e81d70-8dcf-4c29-8fea-e88867a3d5c6}</foreignId>
-     <text>Take an umbrella, it’s raining.</text>
+     <text>Πάρτε ομπρέλα, βρέχει.</text>
      <i18nText>Take an umbrella, it’s raining.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{35532531-7001-4cea-88e6-caa500cb711f}</id>
      <foreignId>{8343e98c-688f-4624-9e43-ea5a115ae8b8}</foreignId>
-     <text>A lot of the crops dried up because of the drought.</text>
+     <text>Πολλές από τις καλλιέργειες ξεράθηκαν λόγω της ξηρασίας.</text>
      <i18nText>A lot of the crops dried up because of the drought.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{35532531-7001-4cea-88e6-caa500cb711f}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{588f064e-e5e6-4f55-aa10-36e10a75a1e9}</id>
      <foreignId>{6b4dc159-7699-4c9c-bf5c-fbde86d5f3ad}</foreignId>
-     <text>It is chilly today.</text>
+     <text>Έχει ψύχρα σήμερα.</text>
      <i18nText>It is chilly today.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9c1d922f-f65c-47ec-8358-f20c1abd051f}</id>
      <foreignId>{f60c5550-328f-4df4-9025-399119d72084}</foreignId>
-     <text>I can feel the warm sunshine on my arms.</text>
+     <text>Μπορώ να νιώσω τον ζεστό ήλιο στα χέρια μου.</text>
      <i18nText>I can feel the warm sunshine on my arms.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9c1d922f-f65c-47ec-8358-f20c1abd051f}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ba7c9a01-81bc-4be1-9076-7bd672d70486}</id>
      <foreignId>{ffa2d311-3daf-40d3-b314-9abd386a76d7}</foreignId>
-     <text>The wind is blowing.</text>
+     <text>Ο άνεμος φυσά.</text>
      <i18nText>The wind is blowing.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{edbbbd1d-0b9c-48fc-84c7-28b60bec6035}</id>
      <foreignId>{8eb069fc-0316-43c7-b6c6-521529ebce6b}</foreignId>
-     <text>You get better weather on the east cost.</text>
+     <text>Θα συναντήσετε καλύτερες καιρικές συνθήκες στην ανατολική ακτή.</text>
      <i18nText>You get better weather on the east cost.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{edbbbd1d-0b9c-48fc-84c7-28b60bec6035}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9301024d-b877-4e4e-90be-170a4dd6a8a1}</id>
      <foreignId>{43679199-c006-4405-88f7-d0a8f68dc993}</foreignId>
-     <text>Last night we saw a beautiful sunset.</text>
+     <text>Χθες το βράδυ είδαμε ένα υπέροχο ηλιοβασίλεμα.</text>
      <i18nText>Last night we saw a beautiful sunset.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1f187055-1a94-4b01-8df7-0ae3e9294fae}</id>
      <foreignId>{233842c1-3c29-4fad-91a1-beada64fe040}</foreignId>
-     <text>A desert is a landscape form or region that receives very little precipitation.</text>
+     <text>Η έρημος αποτελεί μορφολογία τοπίου ή περιοχή που δέχεται πολύ λίγη ατμοσφαιρική κατακρήμνιση.</text>
      <i18nText>A desert is a landscape form or region that receives very little precipitation.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1f187055-1a94-4b01-8df7-0ae3e9294fae}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{65df5e34-f6bf-4705-851c-523269951677}</id>
      <foreignId>{9c720f3f-8a98-4a56-8eb7-f7b2ea77a982}</foreignId>
-     <text>The bad weather spoiled our plans for the weekend.</text>
+     <text>Η κακοκαιρία χάλασε τα σχέδιά μας για το Σαββατοκύριακο.</text>
      <i18nText>The bad weather spoiled our plans for the weekend.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fadb14b2-2948-48fc-8861-298a6414a773}</id>
      <foreignId>{e32a4fc3-3285-4fa9-89b9-304fa8ade0fc}</foreignId>
-     <text>In savanna climate we can distinguish to main seasons: wet and dry.</text>
+     <text>Στο κλίμα της σαβάνας μπορούμε να διακρίνουμε δυο βασικές εποχές: την υγρή και την ξηρή.</text>
      <i18nText>In savanna climate we can distinguish to main seasons: wet and dry.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fadb14b2-2948-48fc-8861-298a6414a773}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cda0c23f-628a-4402-a474-5a0d97aa3ff3}</id>
      <foreignId>{b7e7842b-c462-4130-a980-39b2ecbcea6c}</foreignId>
-     <text>The alpine area  has in general a much harsher climate than the rest of the country.</text>
+     <text>Η περιοχή των Άλπεων έχει σε γενικές γραμμές πολύ πιο ψυχρό κλίμα από ό, τι η υπόλοιπη χώρα.</text>
      <i18nText>The alpine area  has in general a much harsher climate than the rest of the country.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9616fcb0-fbc7-4758-b7d5-318145a98213}</id>
      <foreignId>{7c2fad53-f0c7-418c-a3e2-4bd20e646a8b}</foreignId>
-     <text>We had a drought in our area last summer. It did not rain for two months.</text>
+     <text>Είχαμε ξηρασία στην περιοχή μας το περασμένο καλοκαίρι. Δεν έβρεξε για δύο μήνες.</text>
      <i18nText>We had a drought in our area last summer. It did not rain for two months.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9616fcb0-fbc7-4758-b7d5-318145a98213}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{da85899c-896d-409b-8994-208ab7dedba6}</id>
      <foreignId>{1f5d20d4-7386-492f-99a8-32e8d12c521b}</foreignId>
-     <text>It is usually cold in winter. The temperatures are often below zero.</text>
+     <text>Τον χειμώνα έχει συνήθως κρύο. Οι θερμοκρασίες είναι συχνά κάτω από το μηδέν.</text>
      <i18nText>It is usually cold in winter. The temperatures are often below zero.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dbb650ba-4cbb-499d-91df-9e8374e00e58}</id>
      <foreignId>{be9e6e8e-5446-4ad2-8929-b392f70ed7ce}</foreignId>
-     <text>Tropical rainforests are found close to the equator. These areas are characterized by high humidity and heavy rains.</text>
+     <text>Τα τροπικά δάση βρίσκονται κοντά στον ισημερινό. Οι περιοχές αυτές χαρακτηρίζονται από υψηλή υγρασία και καταρρακτώδεις βροχές.</text>
      <i18nText>Tropical rainforests are found close to the equator. These areas are characterized by high humidity and heavy rains.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dbb650ba-4cbb-499d-91df-9e8374e00e58}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0d08f87c-915a-48eb-9f42-9095cc3c4509}</id>
      <foreignId>{d36df743-452d-4edf-b72d-b4b0f34e2012}</foreignId>
-     <text>It is pretty warm. What is the temperature?</text>
+     <text>Κάνει πολύ ζέστη. Τι θερμοκρασία έχουμε;</text>
      <i18nText>It is pretty warm. What is the temperature?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6ad8fb93-f460-4d28-b49b-1eca75ac1991}</id>
      <foreignId>{2fd8d252-622b-43fa-9a71-479447165d38}</foreignId>
-     <text>Summers are warm with occasional showers and cool nights. Winter temperatures range between 2°C and 5°C.</text>
+     <text>Τα καλοκαίρια είναι ζεστά με σποραδικές βροχές και δροσερές νύχτες. Το χειμώνα η θερμοκρασία κυμαίνεται μεταξύ 2° C και 5° C.</text>
      <i18nText>Summers are warm with occasional showers and cool nights. Winter temperatures range between 2°C and 5°C.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6ad8fb93-f460-4d28-b49b-1eca75ac1991}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
