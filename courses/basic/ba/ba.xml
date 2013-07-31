@@ -2090,9 +2090,9 @@
      <foreignId>{a45209f9-2797-4b21-9e5f-cd2f65417515}</foreignId>
      <text>মা</text>
      <i18nText>mother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{124932cf-421b-41f8-9eca-dcf0f4dd3995}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>m</phonemeID>
       <phonemeID>a</phonemeID>
@@ -2116,9 +2116,9 @@
      <foreignId>{7cef4738-6d85-4685-a781-46a5a52d1af7}</foreignId>
      <text>কাকা</text>
      <i18nText>uncle</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{75f21787-4a21-4275-ac07-a6d87e21487a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>a</phonemeID>
@@ -2144,9 +2144,9 @@
      <foreignId>{b81fd88c-bc00-4aea-a9cc-9489e566a00a}</foreignId>
      <text>ভাই</text>
      <i18nText>brother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9518b11d-9dde-4048-9d35-e2b247eb454d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>bh</phonemeID>
       <phonemeID>ɑi</phonemeID>
@@ -2171,9 +2171,9 @@
      <foreignId>{65f2a6bd-5be6-4169-afb5-3581f8e06078}</foreignId>
      <text>দিদা</text>
      <i18nText>grandmother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{40f04df6-49a5-4839-b740-41d482ff8cb7}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>d-labial</phonemeID>
       <phonemeID>i</phonemeID>
@@ -2199,9 +2199,9 @@
      <foreignId>{5c475011-d85f-47fa-9dd5-d83b230145f9}</foreignId>
      <text>মেয়ে</text>
      <i18nText>daughter</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f44cd1d3-df24-4a69-babc-793352e3c524}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>e</phonemeID>
@@ -2222,9 +2222,9 @@
      <foreignId>{4a17e0b5-117f-4123-aa09-699debeb26d5}</foreignId>
      <text>সহোদর</text>
      <i18nText>siblings</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fe927641-53d8-4b1a-84ca-ad03c360f5df}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -2254,9 +2254,9 @@
      <foreignId>{ff3ca9c7-09fc-42f8-bd91-807ef443acea}</foreignId>
      <text>নাতনী</text>
      <i18nText>granddaughter</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f6bb1c26-e3b9-4e88-8546-f01210e3239b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>n</phonemeID>
       <phonemeID>a</phonemeID>
@@ -2284,9 +2284,9 @@
      <foreignId>{e9d6f3c9-2adc-44da-b376-c47033d941dc}</foreignId>
      <text>স্বামী</text>
      <i18nText>husband</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d6750876-a59f-4814-af57-27d17f14a053}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>a</phonemeID>
@@ -2314,9 +2314,9 @@
      <foreignId>{6a867158-3c7f-48b7-9161-ea7317efe3f9}</foreignId>
      <text>ভাইপো</text>
      <i18nText>nephew</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{48bbd6a6-fb7e-4aa7-94fd-88b3b5574c8d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>bh</phonemeID>
       <phonemeID>ɑi</phonemeID>
@@ -2348,9 +2348,9 @@
      <foreignId>{8862489f-7972-497b-be5d-b4afead9b4cd}</foreignId>
      <text>বিবাহ</text>
      <i18nText>marriage</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{282b1bfa-b9e5-41cd-95bd-5e9e97beba38}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>i</phonemeID>
@@ -2381,9 +2381,9 @@
      <foreignId>{65b33bbd-a5ba-45df-9b96-292e493220d5}</foreignId>
      <text>খুড়তুত ভাই</text>
      <i18nText>cousin</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ab06583f-f8a8-4555-a25b-84fb29df1c5e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>kh</phonemeID>
       <phonemeID>u</phonemeID>
@@ -2418,9 +2418,9 @@
      <foreignId>{51a09dd3-ac20-4bd0-a571-ab8e6384b769}</foreignId>
      <text>সন্তান</text>
      <i18nText>children</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c0400141-eac9-4678-9b03-9874bd3069af}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -2448,9 +2448,9 @@
      <foreignId>{3bedbf55-a0b4-4b77-a037-ba8f5f3348d7}</foreignId>
      <text>দত্তক নেওয়া</text>
      <i18nText>adopt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{be6a7006-5e0e-44c8-86db-3c70450fab4b}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>d-labial</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -2481,9 +2481,9 @@
      <foreignId>{f0ff8f87-6998-4186-82b0-a5195c3cd2e6}</foreignId>
      <text>অনাথ</text>
      <i18nText>orphan</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5ec1950c-80b1-4b90-934e-c140a1c587cf}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>o-half</phonemeID>
       <phonemeID>n</phonemeID>
@@ -2521,9 +2521,9 @@
      <foreignId>{13a560b9-0217-48bb-ace9-68606c7c260b}</foreignId>
      <text>একক</text>
      <i18nText>single</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{266f27f8-bedc-49ca-a2c0-68a1626653fa}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>e</phonemeID>
       <phonemeID>k</phonemeID>
@@ -2552,9 +2552,9 @@
      <foreignId>{d9b61e3c-7ed8-4b23-b940-f95143b3a4b8}</foreignId>
      <text>প্রপিতামহ</text>
      <i18nText>great grandfather</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7b522fb7-4646-4f69-add3-5da9cdca074d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>r</phonemeID>
@@ -2591,9 +2591,9 @@
      <foreignId>{6fecb201-d3dc-4f22-81cf-de7fcdfde111}</foreignId>
      <text>যমজ ভাই</text>
      <i18nText>twin brothers</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f1d98d00-fb22-4174-adb8-18c9da1ad30b}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -2625,9 +2625,9 @@
      <foreignId>{f3e4fae7-4c2e-4228-858d-004b85489a37}</foreignId>
      <text>বিপিতা</text>
      <i18nText>step-father</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{992ec82a-f19d-42c6-baba-1e2962b97106}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>i</phonemeID>
@@ -2656,9 +2656,9 @@
      <foreignId>{08bd9966-4282-4fdb-82d1-4d8f21bf29e4}</foreignId>
      <text>প্রাক্তন স্বামী</text>
      <i18nText>ex-husband</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3cc6ae8e-473a-417f-8592-f47b583e4f00}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>r</phonemeID>
@@ -2697,9 +2697,9 @@
      <foreignId>{17e9b72d-f2c2-4e92-9b06-7dcecc76262d}</foreignId>
      <text>লালনপালন করা</text>
      <i18nText>bring up</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ef29c3d1-87b7-4101-971f-2d0748c375af}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>l</phonemeID>
       <phonemeID>a</phonemeID>
@@ -2736,9 +2736,9 @@
      <foreignId>{6cbc3c63-65a5-4892-8e56-2a2e663b6d65}</foreignId>
      <text>বিবাহবিচ্ছেদ ঘটা</text>
      <i18nText>be divorced</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c2be77fd-0e8f-4cdb-af53-575a0bcb50db}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>i</phonemeID>
@@ -2771,9 +2771,9 @@
      <foreignId>{0fa0a6cf-01e1-4ae1-9313-b85d4639b348}</foreignId>
      <text>বিবাহিত হত্তয়া</text>
      <i18nText>be married</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0b5c3b11-2d08-4482-958a-bebfe1dafedf}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>i</phonemeID>
@@ -2802,9 +2802,9 @@
      <foreignId>{fc9a8359-3689-481f-8708-c725f8309537}</foreignId>
      <text>ভালো লেগে যাত্তয়া</text>
      <i18nText>get on well</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6d99fb36-138b-4f54-93e7-0b3676adb536}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>bh</phonemeID>
       <phonemeID>a</phonemeID>
@@ -2845,9 +2845,9 @@
      <foreignId>{a162d6d7-55d3-474c-bd77-e4062a7903a8}</foreignId>
      <text>পারিবারিক সমাবেশ</text>
      <i18nText>family gathering</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{99694baa-76da-4c18-8b3e-48bade3dea82}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>a</phonemeID>
@@ -2883,9 +2883,9 @@
      <foreignId>{71fb26a0-a8b4-4926-bbde-3e67d508c295}</foreignId>
      <text>নিজের ভাই</text>
      <i18nText>biological brother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f89f7291-c99b-40fa-b4da-7d105f9215ec}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>n</phonemeID>
       <phonemeID>i</phonemeID>
@@ -2917,9 +2917,9 @@
      <foreignId>{28ea7f77-900f-4836-887c-7ebba9a00e0d}</foreignId>
      <text>আমার একটি ছোট ভাই এবং দুটি বোন আছে।</text>
      <i18nText>I have one younger brother and two sisters.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3d75e3b9-5405-43e2-91ce-9394dd265ae5}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -2970,9 +2970,9 @@
      <foreignId>{2a3c6479-3d24-4d3f-a3ba-dfd367b9680e}</foreignId>
      <text>আমার ননদ কিছুদিন আগে গর্ভবতী হয়েছে।</text>
      <i18nText>My sister-in-law just got pregnant and she is expecting a babe.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9386c8c1-2ae1-45d1-b635-7a3e05e09ad4}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -3022,9 +3022,9 @@
      <foreignId>{eda7da2b-520e-44c6-b2ae-928b27af2db8}</foreignId>
      <text>আমরা দশ বছর ধরে বিবাহিত এবং আমাদের দুটি সন্তান আছে।</text>
      <i18nText>We have been married for 10 years and we have two children.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{87d35a51-b64f-4bad-9fd9-defe846c3568}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -3069,9 +3069,9 @@
      <foreignId>{ef982491-0319-41cb-93ff-c99a4adb6cf0}</foreignId>
      <text>জর্জ রবার্ট এবং সুসান-এর বাবা।</text>
      <i18nText>George is Robert's and Susan's father.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e3a92acb-8bfb-4258-bf1c-fd71532f95ce}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -3111,9 +3111,9 @@
      <foreignId>{b8f8243f-b323-4359-bbfd-7ad8ddc3ad00}</foreignId>
      <text>অ্যানা আমাদের পরিবারের কনিষ্ঠতম সন্তান।</text>
      <i18nText>Anne is the youngest child in our family.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ee498166-c068-49d1-a09e-8cd6f4695fc9}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>æ</phonemeID>
       <phonemeID>n</phonemeID>
@@ -3164,9 +3164,9 @@
      <foreignId>{a76df398-1e68-442e-8944-d4ca0c17aaaf}</foreignId>
      <text>আধুনিক দম্পতি-কেন্দ্রিক পরিবার পরিবারের জীবিকার্জক পিতা, গৃহিনী মাতা ও কয়েকটি সন্তান দ্বারা গঠিত।</text>
      <i18nText>The modern nuclear family consists of dad the breadwinner, mum the housewife and several children.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b809f583-164c-4db1-b4ef-6c76c4bca089}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>dh-labial</phonemeID>
@@ -3219,9 +3219,9 @@
      <foreignId>{c6ef1ec6-0c36-45bd-888a-3fc7a6d75157}</foreignId>
      <text>আমার বাবা একজন ইঞ্জিনিয়ার।</text>
      <i18nText>My father is an engineer.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{20dea4f4-17ff-46ce-9484-45dd2533315f}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -3261,9 +3261,9 @@
      <foreignId>{c8e812e6-d98e-4154-972a-acbd051e42cd}</foreignId>
      <text>আপনার কোন ভাইবোন আছে?</text>
      <i18nText>Do you have any siblings?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a47c863f-5b3e-4afa-8426-68371465ce12}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>p</phonemeID>
@@ -3304,9 +3304,9 @@
      <foreignId>{d715af37-b8c2-4f68-a8f0-fb1940717027}</foreignId>
      <text>তোমার বাবা-মা কি আলাদা থাকেন নাকি এখনও একসঙ্গে থাকেন?</text>
      <i18nText>Are your parents separated or they still live together?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b0b17d71-3764-4041-b125-36e443c9358b}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>t-labial</phonemeID>
       <phonemeID>o</phonemeID>
@@ -3370,9 +3370,9 @@
      <foreignId>{a45ad81d-c749-49e7-a752-25e8b358f093}</foreignId>
      <text>জুলিয়া ও হলি যমজ এবং তাদের পুরোপুরি এক দেখতে। তারা একসাথে বড় হয়েছে এবং ছোটবেলা থেকেই তাদের মা তাদেরকে একরকমের পোষাক পরাতেন। পারিবারিক অ্যালবামে অনেক ছবি আছে যেখানে তাদের হুবহু একই রকম দেখতে লাগে।</text>
      <i18nText>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8ae1b982-b28b-4b29-b710-a8c9606bda39}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>u</phonemeID>
@@ -3440,9 +3440,9 @@
      <foreignId>{e6ad70f5-ff48-4ccb-a6ba-54ea6d8a3995}</foreignId>
      <text>প্রায় এক বছর আগে আমার মা-বাবার বিবাহবিচ্ছেদ ঘটে। তারপর আমার মা একজন কানাডিয়ান ইঞ্জিনিয়ারকে বিয়ে করে টরন্টো চলে যান। আমার বাবা ওয়াশিংটনে থেকে যান এবং আমি তাঁর সঙ্গে থাকার সিদ্ধান্ত নিই।</text>
      <i18nText>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{57fbaa60-166f-4336-ba31-9a925ae92ddb}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>r</phonemeID>
