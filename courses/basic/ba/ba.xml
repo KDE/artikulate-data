@@ -6422,9 +6422,9 @@
      <foreignId>{64e017d7-88cd-4f0a-92ba-94aa999bf208}</foreignId>
      <text>বজ্র সহ ঝড়</text>
      <i18nText>thunderstorm</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5e760a41-bdc6-4fd9-89ea-8c6e95fa2c82}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -6459,9 +6459,9 @@
      <foreignId>{a8a8b5f5-cbd5-4be1-a8e0-b130ff34d0ce}</foreignId>
      <text>আবহাওয়া</text>
      <i18nText>weather</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7adaf5a4-33d7-4533-a648-d2cfb3e138b2}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>b</phonemeID>
@@ -6491,9 +6491,9 @@
      <foreignId>{0f6d42af-f878-4887-9c85-eb4fa5ab6fb9}</foreignId>
      <text>ঝড়ো</text>
      <i18nText>windy</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e924478c-14f0-4f16-9e35-f2b7a52e5349}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>jh</phonemeID>
       <phonemeID>r</phonemeID>
@@ -6522,9 +6522,9 @@
      <foreignId>{3b71f855-e0c4-4e21-b604-8ad79de89773}</foreignId>
      <text>তাপমাত্রা</text>
      <i18nText>temperature</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{48ad5d85-1553-4e01-bca6-c7fa7ae3a461}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>t-labial</phonemeID>
       <phonemeID>a</phonemeID>
@@ -6554,9 +6554,9 @@
      <foreignId>{aaf37294-bc1c-47ad-80f8-24baa44117d9}</foreignId>
      <text>উষ্ণ</text>
      <i18nText>warm</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3be24f7b-39f2-4685-bfae-c2b3176abd80}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>u</phonemeID>
       <phonemeID>sh</phonemeID>
@@ -6584,9 +6584,9 @@
      <foreignId>{57fd2370-d302-48c4-811b-c239d8748c5f}</foreignId>
      <text>খরা</text>
      <i18nText>drought</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{837b8b60-15b9-4ac3-b05f-cf3d24ea4c53}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>kh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -6617,9 +6617,9 @@
      <foreignId>{cee4b96a-ed08-4c24-af7a-b61ed432f769}</foreignId>
      <text>রামধনু</text>
      <i18nText>rainbow</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{506f23da-a3ba-4a48-bf32-73dfed0054ef}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>r</phonemeID>
       <phonemeID>a</phonemeID>
@@ -6654,9 +6654,9 @@
      <foreignId>{543760ed-ed4e-438d-8d41-0c155441423f}</foreignId>
      <text>ঘূর্ণিঝড়</text>
      <i18nText>cyclone</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{125062ed-bd42-495d-abf4-100cb4b51dd8}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>gh</phonemeID>
       <phonemeID>u</phonemeID>
@@ -6691,9 +6691,9 @@
      <foreignId>{dab75a11-12ca-470d-85bd-41b455bd0f13}</foreignId>
      <text>বরফ</text>
      <i18nText>ice</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{41e0c780-1349-4e85-854f-0d7c9f9fc082}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -6723,9 +6723,9 @@
      <foreignId>{924330a4-be39-48a9-9855-5497c2284965}</foreignId>
      <text>শীতকাল</text>
      <i18nText>winter</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{514bdcdc-c6a2-468d-a09b-dd96fd221cab}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>i</phonemeID>
@@ -6757,9 +6757,9 @@
      <foreignId>{2dc79256-0882-46c3-b801-511a28df022f}</foreignId>
      <text>শরৎ</text>
      <i18nText>autumn</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e2f28e41-c397-4c9d-bb38-dd559dd52ea1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -6790,9 +6790,9 @@
      <foreignId>{cd3e98e3-ffa1-4b3a-8369-22951b8ca08e}</foreignId>
      <text>সূর্যোদয়</text>
      <i18nText>sunrise</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f4551678-04a6-49b4-bcac-031a806004cf}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>u</phonemeID>
@@ -6824,9 +6824,9 @@
      <foreignId>{4c51b96e-e6d6-41e0-ad71-b17f8cc3a9da}</foreignId>
      <text>আবহবিদ্যা</text>
      <i18nText>meteorology</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e0a01cc1-b15e-49a4-b7ba-9d9be96dbd9f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>b</phonemeID>
@@ -6859,9 +6859,9 @@
      <foreignId>{9243d51f-43ae-43a3-94e4-bfd08d76cd65}</foreignId>
      <text>ডিগ্রী সেলসিয়াস</text>
      <i18nText>degrees Celsius</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f920838c-fd3f-411d-841a-e4395d6ec4b2}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>d</phonemeID>
       <phonemeID>i</phonemeID>
@@ -6901,9 +6901,9 @@
      <foreignId>{8a26b497-b97a-4ac3-8fbf-d7fe3eef692a}</foreignId>
      <text>প্রবল বৃষ্টি</text>
      <i18nText>heavy rain</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1797ab05-0c1f-44b1-8201-feea132e04cc}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>r</phonemeID>
@@ -6938,9 +6938,9 @@
      <foreignId>{752428d8-b71f-4f2a-82bc-29a80ed450fa}</foreignId>
      <text>জলের তাপমাত্রা</text>
      <i18nText>water temperature</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6b175207-e581-48ba-91c0-7568357b1fe4}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -6981,9 +6981,9 @@
      <foreignId>{a3760564-e07c-42fa-8f42-e50144cd68cf}</foreignId>
      <text>আংশিক মেঘলা</text>
      <i18nText>partly cloudy</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c59ae998-24c8-46ee-9e09-f1d3b306ff1d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>N</phonemeID>
@@ -7019,9 +7019,9 @@
      <foreignId>{dca2806c-5604-4f97-a76d-0679ebf318f0}</foreignId>
      <text>বিশ্ব উষ্ণায়ন</text>
      <i18nText>global warming</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9f18419c-64f8-4843-8385-7a3ba5252af8}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>i</phonemeID>
@@ -7055,9 +7055,9 @@
      <foreignId>{1b21362a-d75f-4d81-b8f5-d605b2a430bb}</foreignId>
      <text>উষ্ণমন্ডলীয় ঝড়</text>
      <i18nText>tropical storm</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a4978032-6698-4da2-ba7b-c9746a507e31}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>u</phonemeID>
       <phonemeID>sh</phonemeID>
@@ -7095,9 +7095,9 @@
      <foreignId>{7cda5919-dbe3-4387-bdc9-5ca8a33e9049}</foreignId>
      <text>রৌদ্রোজ্জ্বল দিন</text>
      <i18nText>sunny day</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{35aa79e7-f3b7-4890-b102-5910bd7ea520}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>r</phonemeID>
       <phonemeID>ɔu</phonemeID>
@@ -7133,9 +7133,9 @@
      <foreignId>{9d8246c3-d2f2-4e52-a457-95613ae59b46}</foreignId>
      <text>বিক্ষিপ্ত বর্ষণ</text>
      <i18nText>scattered showers</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bc1a41a8-e670-45f9-82c2-e7ede79e8a84}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>i</phonemeID>
@@ -7172,9 +7172,9 @@
      <foreignId>{7b5e669b-a59e-4a08-8e06-e6de66bb8cd8}</foreignId>
      <text>আবহাত্তয়া সন্বন্ধে পূর্বাভাস</text>
      <i18nText>weather forecast</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{df39c48e-1cc5-487b-9e05-f81b4fe6296d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>b</phonemeID>
@@ -7220,9 +7220,9 @@
      <foreignId>{749a8a41-288e-44ea-b35e-6e01da3f99f5}</foreignId>
      <text>পোলার আইস ক্যাপ</text>
      <i18nText>polar ice cap</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{76885056-1ceb-4ddf-9e7c-6064f49b0cb0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>o</phonemeID>
@@ -7261,9 +7261,9 @@
      <foreignId>{fab1ab80-ef00-4d3b-b4c4-0f61b528f7b6}</foreignId>
      <text>আবহাওয়াটি কেমন?</text>
      <i18nText>What is the weather like?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6be22407-257d-4284-b1ba-97f5e1544939}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>b</phonemeID>
@@ -7305,9 +7305,9 @@
      <foreignId>{86aaf64d-b399-4c29-86f8-d27707916b36}</foreignId>
      <text>দেখে মনে হচ্ছে আগামীকাল ঝড়ো হাত্তয়া বইবে।</text>
      <i18nText>It look like it is going to be windy tomorrow.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b50e6a67-a790-483c-9a49-a96d3517780d}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>d-labial</phonemeID>
       <phonemeID>e</phonemeID>
@@ -7354,9 +7354,9 @@
      <foreignId>{251b17ce-fb83-4036-af23-028eb8e445f8}</foreignId>
      <text>আশা করি আবহাওয়াটা যেন ঠিক থাকে।</text>
      <i18nText>Let’s hope the weather holds out.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{885acc62-5a66-4730-8717-135b81c8f7cf}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>sh</phonemeID>
@@ -7374,6 +7374,7 @@
       <phonemeID>th</phonemeID>
       <phonemeID>th-labial</phonemeID>
       <phonemeID>e</phonemeID>
+      <phonemeID>oɑ</phonemeID>
      </phonemes>
     </phrase>
     <phrase>
@@ -7409,9 +7410,9 @@
      <foreignId>{14e81d70-8dcf-4c29-8fea-e88867a3d5c6}</foreignId>
      <text>বৃষ্টি হচ্ছে, ছাতা নাও।</text>
      <i18nText>Take an umbrella, it’s raining.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{be1d927a-e1b2-4fcf-8d3c-b0524f45da94}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>r</phonemeID>
@@ -7462,9 +7463,9 @@
      <foreignId>{6b4dc159-7699-4c9c-bf5c-fbde86d5f3ad}</foreignId>
      <text>আজ বেশ ঠাণ্ডা পরেছে।</text>
      <i18nText>It is chilly today.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{36a446f0-6066-46c4-9ba2-d69a8aa524e0}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>j</phonemeID>
@@ -7515,9 +7516,9 @@
      <foreignId>{ffa2d311-3daf-40d3-b314-9abd386a76d7}</foreignId>
      <text>বাতাস বইছে।</text>
      <i18nText>The wind is blowing.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{167c6384-3dd2-4ae0-a57b-b30dea85ca1e}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>a</phonemeID>
@@ -7561,9 +7562,9 @@
      <foreignId>{43679199-c006-4405-88f7-d0a8f68dc993}</foreignId>
      <text>গত রাতে আমরা একটি মনোরম সূর্যাস্ত দেখেছি।</text>
      <i18nText>Last night we saw a beautiful sunset.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6ad345f3-ef87-4df3-8ac5-312d0fd9166e}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>g</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -7624,9 +7625,9 @@
      <foreignId>{9c720f3f-8a98-4a56-8eb7-f7b2ea77a982}</foreignId>
      <text>খারাপ আবহাওয়ার জন্য আমাদের সপ্তাহান্তের পরিকল্পনা ভেস্তে গেল।</text>
      <i18nText>The bad weather spoiled our plans for the weekend.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{15ffb9fa-4d42-46c0-9a69-9a15057970f5}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>kh</phonemeID>
       <phonemeID>a</phonemeID>
@@ -7689,9 +7690,9 @@
      <foreignId>{b7e7842b-c462-4130-a980-39b2ecbcea6c}</foreignId>
      <text>আলপাইন এলাকার জলবায়ু তুলনামূলকভাবে দেশের বাকি জায়গাগুলির থেকে কঠোর।</text>
      <i18nText>The alpine area  has in general a much harsher climate than the rest of the country.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{44dac2ae-65c7-436d-b431-0e23e926e6f2}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>l</phonemeID>
@@ -7755,9 +7756,9 @@
      <foreignId>{1f5d20d4-7386-492f-99a8-32e8d12c521b}</foreignId>
      <text>এখানে শীতকালে সাধারণত খুব ঠান্ডা থাকে। তাপমাত্রা প্রায়শ শূন্য ডিগ্রী সেলসিয়াস-এর নিচে চলে যায়।</text>
      <i18nText>It is usually cold in winter. The temperatures are often below zero.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{915930b2-159f-4f9f-b119-7c82180fa1b1}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>e</phonemeID>
       <phonemeID>kh</phonemeID>
@@ -7829,9 +7830,9 @@
      <foreignId>{d36df743-452d-4edf-b72d-b4b0f34e2012}</foreignId>
      <text>এখানে বেশ গরম। তাপমাত্রা কত?</text>
      <i18nText>It is pretty warm. What is the temperature?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b0e9ea06-5452-4275-b8db-196258ad471d}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>e</phonemeID>
       <phonemeID>kh</phonemeID>
