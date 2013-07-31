@@ -7900,9 +7900,9 @@
      <foreignId>{ae35c2ce-2c62-4c8a-847b-5b7320e16ef4}</foreignId>
      <text>ঘন্টা</text>
      <i18nText>hour</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1d0700f5-c3c2-4511-9651-6c2d210eb881}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>gh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -7931,9 +7931,9 @@
      <foreignId>{6e53d461-1b6e-45ec-8ce8-93c6deb0c85b}</foreignId>
      <text>সেকেন্ড</text>
      <i18nText>second</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a15d41de-f172-4663-b70b-3d167aecdd26}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>a</phonemeID>
@@ -7963,9 +7963,9 @@
      <foreignId>{94fb6368-3554-499a-ac67-074a84cb95a0}</foreignId>
      <text>বিকেল</text>
      <i18nText>afternoon</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d743152f-26e1-49bc-b737-cb43f9bad8d4}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>i</phonemeID>
@@ -7995,9 +7995,9 @@
      <foreignId>{f8c2706c-675d-4d2b-ac86-34b10743a318}</foreignId>
      <text>দিন</text>
      <i18nText>day</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2a73cd1e-24a4-405e-a72e-a7c2f20a57b6}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>d-labial</phonemeID>
       <phonemeID>i</phonemeID>
@@ -8023,9 +8023,9 @@
      <foreignId>{1532e66f-a0e1-4cd7-8763-d42e651379bb}</foreignId>
      <text>অর্ধেক</text>
      <i18nText>half</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cc877d78-7bf9-4340-90f8-1115b39e4a69}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>o-half</phonemeID>
       <phonemeID>r</phonemeID>
@@ -8059,9 +8059,9 @@
      <foreignId>{465f47c1-6e2e-4b0f-9e09-e035c4b4ff8e}</foreignId>
      <text>সপ্তাহ</text>
      <i18nText>week</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{11e648d6-f57f-46a1-bf72-bc4c8144c66d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -8092,11 +8092,11 @@
     <phrase>
      <id>{c9d752ed-17e0-4e32-a0af-1478897cff4b}</id>
      <foreignId>{277f067d-a046-49db-9ad2-d65c5a66525a}</foreignId>
-     <text>মঙ্গলবা</text>
+     <text>মঙ্গলবার</text>
      <i18nText>Tuesday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c9d752ed-17e0-4e32-a0af-1478897cff4b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>m</phonemeID>
       <phonemeID>o</phonemeID>
@@ -8129,9 +8129,9 @@
      <foreignId>{1a4b48b7-56a9-491f-bb6c-0e0cd9c43cde}</foreignId>
      <text>বৃহস্পতিবার</text>
      <i18nText>Thursday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c143f9d8-271b-4f4c-bcd2-643b9bf81ea1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>r</phonemeID>
@@ -8167,9 +8167,9 @@
      <foreignId>{c8579df1-7426-49b1-9eff-1d5d504cd7a1}</foreignId>
      <text>শনিবার</text>
      <i18nText>Saturday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fccdccae-4716-492e-862b-ad5371d035a3}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o</phonemeID>
@@ -8201,9 +8201,9 @@
      <foreignId>{e4419e87-85c5-44f7-9b04-2b00e023a326}</foreignId>
      <text>মাস</text>
      <i18nText>month</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{506487ba-fe21-4397-832d-997722d5f724}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>m</phonemeID>
       <phonemeID>a</phonemeID>
@@ -8232,9 +8232,9 @@
      <foreignId>{00bada29-0cd1-49c7-b738-f26a800647d7}</foreignId>
      <text>ফেব্রুয়ারী</text>
      <i18nText>February</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{99a76944-d90b-412d-9fdc-c593fac7fed1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>ph</phonemeID>
       <phonemeID>e</phonemeID>
@@ -8265,9 +8265,9 @@
      <foreignId>{8ca1a0c4-e70e-4d27-808e-63b74f243c12}</foreignId>
      <text>এপ্রিল</text>
      <i18nText>April</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{46595d29-2bed-498c-b12b-e46325766be8}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>e</phonemeID>
       <phonemeID>p</phonemeID>
@@ -8294,9 +8294,9 @@
      <foreignId>{7507cab0-4fd2-49f1-808d-862e145d2a76}</foreignId>
      <text>জুন</text>
      <i18nText>June</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{20be812f-e11d-4007-ad50-49748bc68934}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>u</phonemeID>
@@ -8323,9 +8323,9 @@
      <foreignId>{5b280d4a-c342-4a65-b5f2-2f96130766ee}</foreignId>
      <text>আগস্ট</text>
      <i18nText>August</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{11d8ce6e-6378-4ebd-8fea-af2c416a3a1f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>g</phonemeID>
@@ -8357,9 +8357,9 @@
      <foreignId>{d1d31fb1-d8e7-488e-b958-1a5f55fe9517}</foreignId>
      <text>অক্টোবর</text>
      <i18nText>October</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c6f2f370-94d0-4dbf-925a-081018c705b0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>o-half</phonemeID>
       <phonemeID>k</phonemeID>
@@ -8392,9 +8392,9 @@
      <foreignId>{69dd0405-d468-40e8-aa9e-864230543a34}</foreignId>
      <text>ডিসেম্বর</text>
      <i18nText>December</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6dcf6641-5bfd-47c6-be9e-75ddad56c26e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>d</phonemeID>
       <phonemeID>i</phonemeID>
@@ -8427,9 +8427,9 @@
      <foreignId>{36335b54-7f72-43ce-9b0f-6dbab028f30c}</foreignId>
      <text>দশক</text>
      <i18nText>decade</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{57180428-b45f-490a-ac30-d4ae9ec43c51}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>d-labial</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -8462,9 +8462,9 @@
      <foreignId>{38f4481a-44b8-425d-9241-549f06c418e5}</foreignId>
      <text>সপ্তাহান্ত</text>
      <i18nText>weekend</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{98976260-56ce-48f8-9dd1-1f6bbc0b3649}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -8501,9 +8501,9 @@
      <foreignId>{efed04e6-9959-488a-a977-e851f4384b20}</foreignId>
      <text>সাড়ে আটটা</text>
      <i18nText>half past eight</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{da418f17-5f82-4eb5-ac36-4fc8ff96804d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>a</phonemeID>
@@ -8537,9 +8537,9 @@
      <foreignId>{de680210-fa6b-49e6-a41d-fa50ed506d4c}</foreignId>
      <text>পঁচিশে ডিসেম্বর</text>
      <i18nText>25th of December</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1cd1c8c0-a6a9-44ed-90bb-f97ab0124d29}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>o</phonemeID>
@@ -8582,9 +8582,9 @@
      <foreignId>{93e3b0b8-b500-4305-90d9-2a371aedfbc3}</foreignId>
      <text>বড়দিন</text>
      <i18nText>Christmas Day</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7697ed1d-9c63-406a-9ede-0be500a1d191}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -8620,9 +8620,9 @@
      <foreignId>{a0632227-3977-492e-b1c8-0f9bf672372a}</foreignId>
      <text>রাত একটা</text>
      <i18nText>1 am</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0681fde2-c359-43b2-8c4a-e916825aa6b0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>r</phonemeID>
       <phonemeID>a</phonemeID>
@@ -8657,9 +8657,9 @@
      <foreignId>{825884b6-0644-4cd9-a7c3-2d4462fc25a4}</foreignId>
      <text>একবিংশ শতাব্দী</text>
      <i18nText>XXI century</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3140501b-f2aa-4fce-9a52-5c1c4f5c64f5}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>e</phonemeID>
       <phonemeID>k</phonemeID>
@@ -8696,9 +8696,9 @@
      <foreignId>{5feee433-1ad9-44a4-95e7-2b971e946ada}</foreignId>
      <text>সরকারী ছুটির দিন</text>
      <i18nText>public holiday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bf4b59e5-6435-4190-9e01-6d20c8b70df2}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -8739,9 +8739,9 @@
      <foreignId>{fc671988-937e-4787-97b2-bf26da11ff4f}</foreignId>
      <text>কুড়ির গোড়ার দিকে</text>
      <i18nText>early twenties</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{77c4fc53-e69e-4681-984b-871a5b889f48}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>u</phonemeID>
@@ -8779,9 +8779,9 @@
      <foreignId>{3e2bc2c7-0725-429c-8859-657baff94a43}</foreignId>
      <text>কয়েক মিনিট আগে</text>
      <i18nText>few minutes ago</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e9fc8bfb-0852-40e9-8ae6-1dbecb40925d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -8818,9 +8818,9 @@
      <foreignId>{c9f1c2a8-029b-4be2-bafb-dc728d653b2b}</foreignId>
      <text>ভবিষ্যতে</text>
      <i18nText>in the future</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{07b34f9b-6d9d-4dcb-8198-a543fef1d139}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>bh</phonemeID>
       <phonemeID>o</phonemeID>
@@ -8855,9 +8855,9 @@
      <foreignId>{9ddc1d37-151f-46ca-83fb-ff521d399606}</foreignId>
      <text>৪ঠা আগস্ট ১৯৭২</text>
      <i18nText>4th August 1972</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d6e4d415-f02f-4ba8-ba93-1b1b7332d1d7}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>ɔu</phonemeID>
@@ -8902,9 +8902,9 @@
      <foreignId>{c2abd6f8-633b-4d15-ad49-b362c89225ab}</foreignId>
      <text>আজ ১লা জুলাই ২০১২।</text>
      <i18nText>It is first of July 2012.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bda7d6fa-4658-4ad9-aa5b-351ab4938f06}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>j</phonemeID>
@@ -8949,9 +8949,9 @@
      <foreignId>{baafc251-1b2c-43c6-82ea-fce70e9a03a9}</foreignId>
      <text>বাইশে নভেম্বর আমার জন্মদিন।</text>
      <i18nText>My birthday is on the 22nd of November.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{56dfcabf-0d25-408e-9fd5-6276123b2258}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>ɑi</phonemeID>
@@ -8990,11 +8990,11 @@
     <phrase>
      <id>{19ecfe88-2122-4406-a2b6-a1c23784a411}</id>
      <foreignId>{119ebe92-16e8-4c35-85c4-7a704fd3ce20}</foreignId>
-     <text>তিনি ১৯৮৮ সালে জন্মে ছিলেন।</text>
+     <text>তিনি ১৯৮৮ সালে জন্মেছিলেন।</text>
      <i18nText>He was born in 1988.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{19ecfe88-2122-4406-a2b6-a1c23784a411}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>t-labial</phonemeID>
       <phonemeID>i</phonemeID>
@@ -9035,9 +9035,9 @@
      <foreignId>{be0a5a95-f9ec-41e2-b76f-b796cedb2458}</foreignId>
      <text>আমি শনিবার এবং রবিবার ছাড়া সারা সপ্তাহ কাজ করি।</text>
      <i18nText>I work through all week except Saturdays and Sundays.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e5927a08-6896-4bba-86ac-12702618e72c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -9092,9 +9092,9 @@
      <foreignId>{e53a316a-4758-46d5-aeca-9e72506ce7af}</foreignId>
      <text>আপনার জন্মদিন কবে?</text>
      <i18nText>When is your birthday?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ec319406-27e9-40e9-8dea-32331513b187}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>p</phonemeID>
@@ -9142,9 +9142,9 @@
      <foreignId>{ee5e1777-62a8-4854-8239-9150e5633039}</foreignId>
      <text>১৫ই এপ্রিল থেকে ১১ই মে অবধি আমার প্রশিক্ষণ চলবে।</text>
      <i18nText>My training period is from April 15 to May 11.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bec3d8bd-0ebd-478c-ad1e-16998e7da109}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>o</phonemeID>
@@ -9203,9 +9203,9 @@
      <foreignId>{9683bd47-1071-4337-82b9-cbead8b662b6}</foreignId>
      <text>ফ্রান্সের অধিকাংশ মানুষ জুলাই মাসে ছুটিতে যান।</text>
      <i18nText>Most people in France go on holiday in July.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{511e0ca6-9088-44a4-b821-c8c335a1ef80}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>ph</phonemeID>
       <phonemeID>r</phonemeID>
@@ -9261,9 +9261,9 @@
      <foreignId>{db36973e-59fc-4ad9-ac82-7066a9c7269f}</foreignId>
      <text>কনসার্টটা কখন শুরু হবে?</text>
      <i18nText>When does the concert begin?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{baa92f92-f2e1-416d-b101-3dfcb583df1e}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -9320,9 +9320,9 @@
      <foreignId>{229e2379-9afe-4b1c-8174-4c51d79891eb}</foreignId>
      <text>ইস্টার-এর উত্সব এক এক বছর এক এক তারিখে অনুষ্ঠিত হয়। গত বছর ইস্টার সানডে এপ্রিল-এর প্রথম সপ্তাহে উদযাপিত হয়েছিল।</text>
      <i18nText>Easter is a movable feast. Last year Easter Sunday was in first week of April.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2f6de684-dc22-465c-a1c0-5d1ae91721ab}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>i</phonemeID>
       <phonemeID>s</phonemeID>
@@ -9398,11 +9398,11 @@
     <phrase>
      <id>{b7c75974-787f-46b2-a315-9a1b8a91e0ce}</id>
      <foreignId>{768f6a4a-ef4d-4e7b-9ad9-adef38a3fcca}</foreignId>
-     <text>ক্রিস্টোফার কলম্বাস ৩১এ অক্টোবর ১৪৫১ সালে জন্মে ছিলেন। তিনি আমেরিকা আবিষ্কার করেছিলেন বলে বিখ্যাত হন। তিনি ১৫০৬ সালে ৫৪ বছর বয়সে মারা যান।</text>
+     <text>ক্রিস্টোফার কলম্বাস ৩১এ অক্টোবর ১৪৫১ সালে জন্মেছিলেন। তিনি আমেরিকা আবিষ্কার করেছিলেন বলে বিখ্যাত হন। তিনি ১৫০৬ সালে ৫৪ বছর বয়সে মারা যান।</text>
      <i18nText>Christopher Columbus was born on 31 October 1451. He become famous for discovering America. He died in 1506 at the age of 54.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b7c75974-787f-46b2-a315-9a1b8a91e0ce}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>r</phonemeID>
@@ -9469,9 +9469,9 @@
      <foreignId>{a85b5b1e-5722-4c4d-97f5-ba203356f3e0}</foreignId>
      <text>আমরা ছটার সময়ে বেরোবো। দয়া করে পনের মিনিট আগে পৌঁছে যাবেন।</text>
      <i18nText>We are going to depart at 6 o'clock. Please arrive at least 15 minutes earlier.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0a71f004-ad69-438c-8358-d59f7ceb88f2}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
