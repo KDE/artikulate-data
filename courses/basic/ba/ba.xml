@@ -16,9 +16,9 @@
      <foreignId>{24e8ef0c-9234-4da5-a6fe-dbd5104f57d5}</foreignId>
      <text>০</text>
      <i18nText>0</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a93b607a-cba0-4140-827e-8a5a7e20a9a5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>u</phonemeID>
@@ -44,9 +44,9 @@
      <foreignId>{8d7b65c2-e8f2-4153-86cc-9ed3293959d5}</foreignId>
      <text>২</text>
      <i18nText>2</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c37b6896-018c-450d-b162-8bac171366fc}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>d-labial</phonemeID>
       <phonemeID>ui</phonemeID>
@@ -71,9 +71,9 @@
      <foreignId>{9718cb32-b05d-4f99-9f3a-e5e3973cfe2a}</foreignId>
      <text>৪</text>
      <i18nText>4</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{187a067d-d142-44f4-9230-e82092bb810a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>a</phonemeID>
@@ -99,9 +99,9 @@
      <foreignId>{eafc05e9-0bb4-4c54-ae0c-990d2610b68b}</foreignId>
      <text>৬</text>
      <i18nText>6</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f4ae7f19-f148-41a5-88a8-bf9aa79b891f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>ch</phonemeID>
      </phonemes>
@@ -125,9 +125,9 @@
      <foreignId>{8178c10f-1204-4cc3-9023-69935eea0c1e}</foreignId>
      <text>৮</text>
      <i18nText>8</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e318b9c2-8e1b-469b-89d9-9c1621d2454c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>t</phonemeID>
@@ -150,9 +150,9 @@
      <foreignId>{83a9943b-1d34-45a0-a446-b6388784b2de}</foreignId>
      <text>১০</text>
      <i18nText>10</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8e5233e1-ed9c-46ff-bfcf-6119e8bbf715}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>d-labial</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -180,9 +180,9 @@
      <foreignId>{c1c55dc8-cfac-43df-bf61-f15d9d65cd17}</foreignId>
      <text>১২</text>
      <i18nText>12</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4a967904-af42-4995-9965-13be9c750e1e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>a</phonemeID>
@@ -210,9 +210,9 @@
      <foreignId>{b88e772d-5311-45f5-8628-259df44fafbe}</foreignId>
      <text>১৪</text>
      <i18nText>14</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5bb23429-37a1-4b6f-9434-41aa31f9a88b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>o</phonemeID>
@@ -240,9 +240,9 @@
      <foreignId>{efd24631-c719-44e9-a5d5-bccfe4a32c10}</foreignId>
      <text>১৬</text>
      <i18nText>16</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4e2476f7-5074-441a-bf3a-c326653c243e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o</phonemeID>
@@ -270,9 +270,9 @@
      <foreignId>{a8119748-2dd9-4833-9bc7-956f3229b2be}</foreignId>
      <text>১৮</text>
      <i18nText>18</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e2d082ec-952a-4273-9d51-8971cbc5e3bd}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>th</phonemeID>
@@ -301,9 +301,9 @@
      <foreignId>{f71d08ef-5349-4bdf-b934-f45711ad4f88}</foreignId>
      <text>২০</text>
      <i18nText>20</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{83bb7e7b-c6ca-4e36-876f-ee46e3029886}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>u</phonemeID>
