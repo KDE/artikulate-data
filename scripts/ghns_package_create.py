@@ -108,8 +108,9 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 			field3.set("e-mail", authors_mail)
 			field3.text = author
 
-			# licence
-			field4 = ET.SubElement(stuff, "license")
+			# license
+			# the spec has a typo and really uses "licence"
+			field4 = ET.SubElement(stuff, "licence")
 			field4.text =  "CC-BY-SA-3.0"
 
 			# summary
@@ -122,8 +123,9 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 			field5.text = str(datetime.fromtimestamp(os.stat(DOWNLOAD_TARS + "/" + tar).st_mtime))[0:10]
 
 			# release
+			# must be an integer, increasing by every release
 			field6 = ET.SubElement(stuff, "release")
-			field6.text = "1.0"
+			field6.text = "1"
 
 			# releasedate
 			field7 = ET.SubElement(stuff, "releasedate")
