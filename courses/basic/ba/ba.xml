@@ -5055,9 +5055,9 @@
      <foreignId>{565a4bc9-884b-4104-a96e-fb5830792bb8}</foreignId>
      <text>গ্রীস</text>
      <i18nText>Greece</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c65b11e2-246b-42e1-8b05-67e0bd62c4a5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>g</phonemeID>
       <phonemeID>r</phonemeID>
@@ -5087,9 +5087,9 @@
      <foreignId>{39ec664c-fb90-4e44-b3fe-5f4c0c5cf809}</foreignId>
      <text>মার্কিন যুক্তরাষ্ট্র</text>
      <i18nText>United States of America</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{01a0e4af-6a45-4ae4-8bbf-97fb6302dccf}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>m</phonemeID>
       <phonemeID>a</phonemeID>
@@ -5125,9 +5125,9 @@
      <foreignId>{3da04216-0700-4fd4-b1bc-9f7b8fb03be8}</foreignId>
      <text>ফ্রান্স</text>
      <i18nText>France</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6acda368-0602-4f20-8ae8-4f7eccc0af58}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>ph</phonemeID>
       <phonemeID>r</phonemeID>
@@ -5159,9 +5159,9 @@
      <foreignId>{37abb84a-0dcb-4087-a453-13ad455ed302}</foreignId>
      <text>ব্রাজিল</text>
      <i18nText>Brazil</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7bc321cb-b2a7-4705-a3f7-94bf2ab05e26}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>r</phonemeID>
@@ -5194,9 +5194,9 @@
      <foreignId>{a096001d-a154-4d16-8950-ed749aecc48d}</foreignId>
      <text>রাশিয়া</text>
      <i18nText>Russia</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{28cd1675-a8a3-4b66-b020-95c1f7cd6013}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>r</phonemeID>
       <phonemeID>a</phonemeID>
@@ -5224,9 +5224,9 @@
      <foreignId>{b176862d-7684-4758-8f90-d5e273802d2a}</foreignId>
      <text>অস্ট্রেলিয়া</text>
      <i18nText>Australia</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2379adae-7be4-4e4c-9ba6-4f55ff6c5c74}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>o-half</phonemeID>
       <phonemeID>s</phonemeID>
@@ -5261,9 +5261,9 @@
      <foreignId>{5f15704c-5772-4b39-aac1-8abaab761c70}</foreignId>
      <text>চীন</text>
      <i18nText>China</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ffc42c9e-5190-4f74-a713-2c80daa1b172}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>i</phonemeID>
@@ -5291,9 +5291,9 @@
      <foreignId>{81e31083-47b5-4526-aa6c-ea975f813858}</foreignId>
      <text>জাপান</text>
      <i18nText>Japan</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9f73e65c-60bb-4f7f-83ce-8c561a9c5914}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>a</phonemeID>
@@ -5324,9 +5324,9 @@
      <foreignId>{20ec9757-7a35-40f7-a389-6bddb0786702}</foreignId>
      <text>ইংরেজ</text>
      <i18nText>English</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a3cd5bdd-3f6f-45b4-a85d-d889f15beeb9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>i</phonemeID>
       <phonemeID>N</phonemeID>
@@ -5356,9 +5356,9 @@
      <foreignId>{1b755772-da58-4694-b482-ed812a0b1b12}</foreignId>
      <text>স্প্যানিশ</text>
      <i18nText>Spanish</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{12051359-c938-4b6a-8d04-7c52ffb093d6}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>p</phonemeID>
@@ -5390,9 +5390,9 @@
      <foreignId>{c2d8ac5c-3827-4be8-bfed-f687b816fb06}</foreignId>
      <text>আর্জেন্টিনিয়</text>
      <i18nText>Argentinian</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{89d7c161-04f5-4703-9819-800c6d9bb9e1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>r</phonemeID>
@@ -5425,9 +5425,9 @@
      <foreignId>{fdccc110-6d48-40d4-8e52-75bba6928881}</foreignId>
      <text>চীনা</text>
      <i18nText>Chinese</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{245b67be-1cee-4fa6-9e01-cbf8eb199cae}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>i</phonemeID>
@@ -5457,9 +5457,9 @@
      <foreignId>{5726ba83-871f-4007-8f0f-b4ba6a8f8a56}</foreignId>
      <text>মুদ্রা</text>
      <i18nText>currency</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4c288990-d50e-44b3-80be-b08fe836a121}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>m</phonemeID>
       <phonemeID>u</phonemeID>
@@ -5489,9 +5489,9 @@
      <foreignId>{aa4d046a-55b2-4138-ac05-55f98efbb1bc}</foreignId>
      <text>পাসপোর্ট</text>
      <i18nText>passport</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1fdd43d7-48ba-4f8b-abe9-9ec06fc526ab}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>a</phonemeID>
@@ -5528,9 +5528,9 @@
      <foreignId>{335bb3a1-712a-42d5-8e4a-bd02b24ca651}</foreignId>
      <text>উদ্ভূত হত্তয়া</text>
      <i18nText>come from</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{35362a2b-5849-4766-a73b-b66b1c06a7a2}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>u</phonemeID>
       <phonemeID>d-labial</phonemeID>
@@ -5568,9 +5568,9 @@
      <foreignId>{eec7bd1a-4944-47fb-be0c-873fe4c40100}</foreignId>
      <text>অনর্গল হওয়া</text>
      <i18nText>be fluent</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{38702a8c-77d4-4501-ac00-036eb5a32fd8}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>o-half</phonemeID>
       <phonemeID>n</phonemeID>
@@ -5603,9 +5603,9 @@
      <foreignId>{efa99dc5-1498-4cbf-a2a8-3a5934a46f8a}</foreignId>
      <text>আঞ্চলিক পোষাক</text>
      <i18nText>regional outfit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{68684366-9a9c-4ec1-952b-b4edd783f439}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>n</phonemeID>
@@ -5641,9 +5641,9 @@
      <foreignId>{bb1b66bd-4af2-4029-92df-ed70278d50bf}</foreignId>
      <text>জাতীয় খাবার</text>
      <i18nText>national dish</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4d7577d8-53f3-4069-acd0-ed0313278ee3}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>a</phonemeID>
@@ -5676,9 +5676,9 @@
      <foreignId>{492aac48-4c49-40bd-90a0-e3bf0d8a99c1}</foreignId>
      <text>ইউরোপীয় ইউনিয়ন</text>
      <i18nText>European Union</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ad8d5ecf-e54c-44a1-8692-e9fae5e3e0bc}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>iu</phonemeID>
       <phonemeID>r</phonemeID>
@@ -5714,9 +5714,9 @@
      <foreignId>{a7c7eb74-d770-485e-b06e-890525ec927c}</foreignId>
      <text>বৈদেশিক ভ্রমণ</text>
      <i18nText>travel overseas</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{56d5e461-60b2-4bf0-9773-e99a5f3a4527}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>oi</phonemeID>
@@ -5755,9 +5755,9 @@
      <foreignId>{af3a2074-66c1-4eb0-87b5-6234ce6d82cb}</foreignId>
      <text>স্থানীয় উপভাষা</text>
      <i18nText>local dialect</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4e152be4-8b30-4e05-8792-9e34a822a806}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>th-labial</phonemeID>
@@ -5794,9 +5794,9 @@
      <foreignId>{fd8cbffa-3907-4d51-bcde-b7c20d4d1d77}</foreignId>
      <text>কালচার স্টিরিওটাইপ</text>
      <i18nText>cultural stereotype</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{19147bc5-6a61-4794-b85b-3f06b045dd28}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>a</phonemeID>
@@ -5837,9 +5837,9 @@
      <foreignId>{64be1424-598a-48fe-b0ee-7e075cdd8ff2}</foreignId>
      <text>আপনার জাতীয়তা কি?</text>
      <i18nText>What is you nationality?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e3448099-9817-478c-9e02-5b895eb72b66}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>p</phonemeID>
@@ -5886,9 +5886,9 @@
      <foreignId>{6d6335a1-d7a1-453d-9815-e3bc926e5872}</foreignId>
      <text>আমি ফরাসি।</text>
      <i18nText>I am French.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7d68c5ad-3045-4ce0-abd8-e1366cd0233f}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -5929,9 +5929,9 @@
      <foreignId>{32a35a54-6b25-47bc-8ea7-7a2e05c39626}</foreignId>
      <text>আমি অস্ট্রেলিয়ায় থাকি।</text>
      <i18nText>I live in Australia.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b73775eb-ef73-45ae-a406-eae78ba3bfb3}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -5978,11 +5978,11 @@
     <phrase>
      <id>{12781240-cf32-462d-83c1-4ea48a361463}</id>
      <foreignId>{7240079e-64ea-403a-9ec6-13e059b6d97b}</foreignId>
-     <text>হ্যাগিস হচ্ছে স্কটল্যান্ডের জাতীয় খাদ্য।</text>
+     <text>হ্যাগিস স্কটল্যান্ডের জাতীয় খাদ্য।</text>
      <i18nText>Haggis is a Scottish national dish.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{12781240-cf32-462d-83c1-4ea48a361463}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>h</phonemeID>
       <phonemeID>æ</phonemeID>
@@ -5990,7 +5990,6 @@
       <phonemeID>i</phonemeID>
       <phonemeID>s</phonemeID>
       <phonemeID>o</phonemeID>
-      <phonemeID>ch</phonemeID>
       <phonemeID>e</phonemeID>
       <phonemeID>k</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -6043,9 +6042,9 @@
      <foreignId>{4916c445-b916-4afa-be27-f068247727d7}</foreignId>
      <text>ওয়ারশ পোল্যান্ডের রাজধানী।</text>
      <i18nText>Warsaw is Poland's capital city.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{78d1ac51-331c-4177-a6d1-93e8e753a9fa}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>oɑ</phonemeID>
       <phonemeID>r</phonemeID>
@@ -6093,11 +6092,11 @@
     <phrase>
      <id>{2e4c3bb2-c64c-4bcb-910f-d5b81379507a}</id>
      <foreignId>{b3fe2864-42a5-4bc2-8349-d3baa7dfaa1c}</foreignId>
-     <text>আমি স্যালভেডর-এর একটি ছোট গ্রামে জন্মগ্রহণ করেছিলাম।</text>
+     <text>আমি স্যালভেডর-এর একটি ছোট গ্রামে জন্মেছিলাম।</text>
      <i18nText>I was born in a small village in Salvador.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2e4c3bb2-c64c-4bcb-910f-d5b81379507a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -6157,9 +6156,9 @@
      <foreignId>{47d08943-2a92-45da-be63-f500d4b595b5}</foreignId>
      <text>লস এঞ্জেলেস-এ প্রচুর পরিমাণে জাতিগত ও সাংস্কৃতিক বৈচিত্র আছে।</text>
      <i18nText>Los Angeles has a large amount of ethnic and cultural diversity.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{acf78d71-a445-4d91-ae1b-9e88b5200928}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>l</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -6221,9 +6220,9 @@
      <foreignId>{f7e0fe37-846a-4190-b132-e5fba0461900}</foreignId>
      <text>রাশিয়া বিশ্বের বৃহত্তম দেশ।</text>
      <i18nText>Russia is the largest country in the world.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0653e179-d6d6-4675-b919-7d8b6f27cd36}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>r</phonemeID>
       <phonemeID>a</phonemeID>
@@ -6275,9 +6274,9 @@
      <foreignId>{3d1444b2-ac16-4756-98ff-c4e5aea14234}</foreignId>
      <text>সুইজারল্যান্ডে চারটি সরকারি ভাষা আছে। তারা ইতালীয়, ফরাসি, জার্মান এবং রোমানীয় ভাষায় কথা বলে।</text>
      <i18nText>Switzerland has four official languages. They speak Italian, French, German and Romansh.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{03fb3e68-a5d6-4598-8b8e-4bed76422821}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>ui</phonemeID>
@@ -6346,9 +6345,9 @@
      <foreignId>{3d4fb2ea-67ba-431f-9b28-209869c96d91}</foreignId>
      <text>মিশর উত্তর আফ্রিকার একটি দেশ। তার রাজধানী কায়রো এবং সেখানকার জনসংখ্যা ন-কোটির বেশি।</text>
      <i18nText>Egypt is a country in north Africa. Its capital is Cairo and it has a population of over 90 million people.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{aac40139-8a3f-46ec-adb9-76824269bf84}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>m</phonemeID>
       <phonemeID>i</phonemeID>
@@ -6375,7 +6374,7 @@
     <phrase>
      <id>{96e96f52-f172-40bd-8f2e-69021e4b7cc3}</id>
      <foreignId>{32794fd5-6247-4d13-a3eb-5c42d265d628}</foreignId>
-     <text>আমি স্প্যানিশ এবং আমি বার্সেলোনায় জন্মগ্রহণ করেছিলাম। আমার যখন চার বছর বয়স, আমার পরিবার তখন মার্কিন যুক্তরাষ্ট্রে দেশান্তর করে এবং আমরা এখন পর্যন্ত সেখানেই থাকি। আমি স্প্যানিশ ও ইংরেজি উভয় ভাষায় কথা বলতে পারি।</text>
+     <text>আমি স্প্যানিশ এবং আমি বার্সেলোনায় জন্মেছিলাম। আমার যখন চার বছর বয়স, আমার পরিবার তখন মার্কিন যুক্তরাষ্ট্রে দেশান্তর করে এবং আমরা এখন পর্যন্ত সেখানেই থাকি। আমি স্প্যানিশ ও ইংরেজি উভয় ভাষায় কথা বলতে পারি।</text>
      <i18nText>I come from Spain and I was born in Barcelona. When I was four years old my family emigrated to USA and we stayed there until now. I can speak both Spanish and English.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
