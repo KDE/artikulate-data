@@ -9506,9 +9506,9 @@
      <foreignId>{00cd82f1-c7dc-4261-b4a0-f3bb958265fe}</foreignId>
      <text>শার্ট</text>
      <i18nText>shirt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3bc0763f-e66a-4acd-bc78-f43c8881f673}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>a</phonemeID>
@@ -9539,9 +9539,9 @@
      <foreignId>{30428966-1334-4fea-bcdb-4a592956698d}</foreignId>
      <text>জিন্স</text>
      <i18nText>jeans</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7bc4f468-654f-4cdb-b2c9-fda1d2b41698}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>i</phonemeID>
@@ -9578,9 +9578,9 @@
      <foreignId>{773efcc7-b491-4a3c-9161-e4200dc810f7}</foreignId>
      <text>গ্লাভস</text>
      <i18nText>gloves</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5b774090-3d83-40a4-b7df-7bcea6286aa5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>g</phonemeID>
       <phonemeID>l</phonemeID>
@@ -9609,9 +9609,9 @@
      <foreignId>{07d33486-9ce3-4032-92e1-094a69385e05}</foreignId>
      <text>টিশার্ট</text>
      <i18nText>T-shirt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{af3c00bb-b118-4555-9176-2d10e02d6717}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>t</phonemeID>
       <phonemeID>i</phonemeID>
@@ -9640,9 +9640,9 @@
      <foreignId>{31b05cfe-4819-4ffc-93d8-823dbec24c6b}</foreignId>
      <text>হাফপ্যান্ট</text>
      <i18nText>shorts</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3c526e5c-532c-4549-8d62-6d80aea1806e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>h</phonemeID>
       <phonemeID>a</phonemeID>
@@ -9673,9 +9673,9 @@
      <foreignId>{216ad380-0e3b-4efb-8c27-ae861c194954}</foreignId>
      <text>ট্রেনারস্</text>
      <i18nText>trainers</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{20926ae8-beba-4843-9f29-fcbcda8a9072}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>t</phonemeID>
       <phonemeID>r</phonemeID>
@@ -9707,9 +9707,9 @@
      <foreignId>{1ce2163d-77bb-4f44-9e13-239c9a227e90}</foreignId>
      <text>বিকিনি</text>
      <i18nText>bikini</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d635dcde-efdf-4c3b-958c-a93259d1444c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>i</phonemeID>
@@ -9739,9 +9739,9 @@
      <foreignId>{84717073-8207-4c10-a226-fc31f4842093}</foreignId>
      <text>স্কার্ট</text>
      <i18nText>skirt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f5ada470-bfa2-4964-ac9b-28106b21df96}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>k</phonemeID>
@@ -9769,9 +9769,9 @@
      <foreignId>{42a4e86b-0c69-44e3-823e-74cae0dd1f0f}</foreignId>
      <text>জ্যাকেট</text>
      <i18nText>jacket</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3f4e6ec1-8b7a-405a-b213-ed18c9b6b233}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>æ</phonemeID>
@@ -9800,9 +9800,9 @@
      <foreignId>{8242df90-5393-4296-a128-288fd9123193}</foreignId>
      <text>হলুদ</text>
      <i18nText>yellow</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{49eaf02c-6a1f-4272-bcac-75e464a05220}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>h</phonemeID>
       <phonemeID>o</phonemeID>
@@ -9829,9 +9829,9 @@
      <foreignId>{0f9db6cf-ac9e-495f-8c86-1d3617503c1d}</foreignId>
      <text>সবুজ</text>
      <i18nText>green</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{45bd46d5-8c42-41e1-befb-7daf97912c60}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o</phonemeID>
@@ -9859,9 +9859,9 @@
      <foreignId>{ec172453-46fe-4e88-90f5-67aaa961aba8}</foreignId>
      <text>সাদা</text>
      <i18nText>white</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{93eeb6d0-99e8-4dcb-bb18-c3114b4db0e8}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>a</phonemeID>
@@ -9888,9 +9888,9 @@
      <foreignId>{3a24f03a-6e12-4164-bf49-4768c771bfe2}</foreignId>
      <text>স্ট্রাইপ</text>
      <i18nText>stripes</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e10b356c-7ce8-4b4e-a705-46a837233882}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>t</phonemeID>
@@ -9918,9 +9918,9 @@
      <foreignId>{1d0c9113-f6ec-415d-a68b-28a1564b9a69}</foreignId>
      <text>বড়</text>
      <i18nText>big</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dda2deba-354b-4da2-90b3-77571fbe3b78}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -9948,9 +9948,9 @@
      <foreignId>{e8221ab1-9e13-4c73-8ef4-cd7576358836}</foreignId>
      <text>ছোট</text>
      <i18nText>short</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{67bfa4b5-579f-49bc-8205-f98ca10cf582}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>ch</phonemeID>
       <phonemeID>o</phonemeID>
@@ -9978,9 +9978,9 @@
      <foreignId>{6170f45a-4d87-4958-9fb7-81757d95f8f4}</foreignId>
      <text>গোলাপী গ্লাভস</text>
      <i18nText>pink gloves</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9c29a12b-24f0-4aa7-b4ae-f0f0bd3ab03e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>g</phonemeID>
       <phonemeID>o</phonemeID>
@@ -10017,9 +10017,9 @@
      <foreignId>{5be9dad4-ee22-4a46-afb3-b44ad0f9f8ba}</foreignId>
      <text>চশমা পরা</text>
      <i18nText>wear glasses</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f05a2e06-f8d8-4917-84b3-ce042e1c93ad}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -10053,9 +10053,9 @@
      <foreignId>{18d390df-61af-4ab9-99ba-fe6ffaad26d0}</foreignId>
      <text>খুব সরু</text>
      <i18nText>too narrow</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{78d90060-634b-4c16-93be-16ddc740261c}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>kh</phonemeID>
       <phonemeID>u</phonemeID>
@@ -10084,9 +10084,9 @@
      <foreignId>{36564d95-dc09-4328-8741-e91c3e2f4adc}</foreignId>
      <text>সাজঘর</text>
      <i18nText>changing room</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e6699ef5-e141-4f34-bb7a-c833505686c9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>a</phonemeID>
@@ -10122,9 +10122,9 @@
      <foreignId>{bc84522b-244f-4793-876e-f38252888cad}</foreignId>
      <text>সুন্দর কানের দুল</text>
      <i18nText>beautiful earrings</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{521e8cf0-a471-4afd-8f2b-9d722089bd19}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>u</phonemeID>
@@ -10165,9 +10165,9 @@
      <foreignId>{60bad8c7-0925-4ceb-be3a-f08a443c4fd7}</foreignId>
      <text>একজোড়া চপ্পল</text>
      <i18nText>pair of sleepers</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a3ba7118-164e-4c14-ab52-43bdd0900650}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>æ</phonemeID>
       <phonemeID>k</phonemeID>
@@ -10204,9 +10204,9 @@
      <foreignId>{7068dcdd-2097-469c-83ad-9a66def8c3d9}</foreignId>
      <text>জামাকাপড় কেনাকাটা করতে যাওয়া</text>
      <i18nText>go clothes shopping</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b1af33e6-4b7d-4984-86fd-65d10da023a8}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>a</phonemeID>
@@ -10242,9 +10242,9 @@
      <foreignId>{7e968523-df55-4e2c-b87a-dd56470fcf7a}</foreignId>
      <text>বিখ্যাত ব্র্যান্ড</text>
      <i18nText>famous brand</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{68cfbd3f-4ba4-4153-9e26-ae76ce379cc8}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>i</phonemeID>
@@ -10284,9 +10284,9 @@
      <foreignId>{4d95f00e-19ab-443d-bfa2-0b0ddfa1a9b8}</foreignId>
      <text>এই লাল জামাটা তোমায় বেশ মানাচ্ছে।</text>
      <i18nText>This red dress suits you well.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{46ef21ff-eac0-449f-a90f-5c655ecd2c0c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>ei</phonemeID>
       <phonemeID>l</phonemeID>
@@ -10328,9 +10328,9 @@
      <foreignId>{882def05-077a-4ee6-9267-91084e4abbe5}</foreignId>
      <text>আজ রাতে কি পরবেন?</text>
      <i18nText>What are you going to wear tonight?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b11c09bf-d401-487c-8a49-fbb747efc1ed}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>j</phonemeID>
@@ -10373,9 +10373,9 @@
      <foreignId>{4bc955a9-6952-436f-8848-3600ebfcf256}</foreignId>
      <text>স্যুটের সাথে ট্রেনারস্ পরা যায় না।</text>
      <i18nText>You cannot wear trainers with a suit.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{306847b5-f544-45a6-abcf-d253b8d41a62}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>u</phonemeID>
@@ -10429,9 +10429,9 @@
      <foreignId>{0a2052e3-0143-461e-9011-10a5af2ff2f3}</foreignId>
      <text>এটা মানাচ্ছে না।</text>
      <i18nText>It does not fit.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{81fe4d99-82f5-4bc9-95ff-c5346c811885}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>e</phonemeID>
       <phonemeID>t</phonemeID>
@@ -10471,9 +10471,9 @@
      <foreignId>{e45f0d16-e888-4c0f-8679-a723e88ec31e}</foreignId>
      <text>আমাকে একটা নতুন শীতকালীন জ্যাকেট কিনতে হবে।</text>
      <i18nText>I need to buy a new winter jacket.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{384abfa8-5f73-4dfa-bf12-7ef816fb994b}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -10524,9 +10524,9 @@
      <foreignId>{28e6e787-ae9d-41d9-b52c-bbf64154e952}</foreignId>
      <text>আপনি কি আমার সাদা গ্রীষ্মকালীন পোশাকটি ধুয়ে দিয়েছেন?</text>
      <i18nText>Did you wash my white summer dress?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ddaa3b18-098e-45cd-9b6d-0e599c911834}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>p</phonemeID>
@@ -10578,9 +10578,9 @@
      <foreignId>{af8bc51f-c740-49dc-94fa-d2fb78c8485a}</foreignId>
      <text>তিনি আজ একটি লাল টিশার্ট এবং কালো ফুল প্যান্ট পরেছেন।</text>
      <i18nText>He is wearing a red T-shirt and black trousers today.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{42460881-4ef0-419e-8911-71663f937c53}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>t-labial</phonemeID>
       <phonemeID>i</phonemeID>
@@ -10635,9 +10635,9 @@
      <foreignId>{e56c8862-4e3c-49ae-9423-57a1a521ea86}</foreignId>
      <text>তাকে দেখতে খুব সুরুচিপূর্ণ।</text>
      <i18nText>She looks very elegant.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d0769886-a031-4263-ae2f-a4fa20c81b59}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>t-labial</phonemeID>
       <phonemeID>a</phonemeID>
@@ -10687,9 +10687,9 @@
      <foreignId>{a4f0fee7-038e-46b9-8c83-8c8757390c11}</foreignId>
      <text>টুপি এবং সানগ্লাস নিও। বাইরে খুব রোদ।</text>
      <i18nText>Take a hat and sunglasses. It is very sunny.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{27cd37e3-db3d-43b8-b203-9d04e5e50b3b}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>t</phonemeID>
       <phonemeID>u</phonemeID>
@@ -10750,9 +10750,9 @@
      <foreignId>{270db466-be79-4c4b-b615-4c7be3139c83}</foreignId>
      <text>জিমের নতুন কোটটা দেখেছো? ওটা খুবই সুরুচিসম্মত।</text>
      <i18nText>Did you see Jim's new coat? It is very fashionable.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2e26fbbd-d5b0-45a3-bcd4-4eabeda2905e}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>i</phonemeID>
@@ -10809,9 +10809,9 @@
      <foreignId>{3fabd9f5-b36b-4113-957c-ac2b3dd50a15}</foreignId>
      <text>আমি হাই-হিল জুতো পরতে অপছন্দ করি। সেগুলি সর্বদাই অত্যন্ত অস্বস্তিকর লাগে।</text>
      <i18nText>I hate wearing high-heel shoes. They are always so uncomfortable.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8974bb9c-8391-453f-be11-6563f9e64a04}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
