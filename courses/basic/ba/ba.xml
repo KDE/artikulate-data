@@ -15275,842 +15275,1750 @@
     <phrase>
      <id>{938c74e4-950b-4c2b-b125-f14a682e7281}</id>
      <foreignId>{50c5544e-6696-4c78-8aaf-6a6339592255}</foreignId>
-     <text>buffet</text>
+     <text>বুফে</text>
      <i18nText>buffet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1ceb9e04-900a-4ba8-8209-99540e2171ea}</id>
      <foreignId>{56905efa-bed0-4cfe-aa89-769872071377}</foreignId>
-     <text>breakfast</text>
+     <text>ব্রেকফাস্ট</text>
      <i18nText>breakfast</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{95681f5e-0a3a-4e89-a863-1756f9c2f12a}</id>
      <foreignId>{3703bc1b-15a6-4b5f-84c6-5a28645a9e42}</foreignId>
-     <text>lunch</text>
+     <text>মধ্যাহ্নভোজ</text>
      <i18nText>lunch</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{26756863-f878-4828-80bf-8c9e72b1226a}</id>
      <foreignId>{cda476df-132b-4ec6-b536-42598f7c5ba6}</foreignId>
-     <text>dinner</text>
+     <text>সান্ধ্যভোজন</text>
      <i18nText>dinner</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1ffc1af2-0e98-430c-847c-944b8c7613ad}</id>
      <foreignId>{fc5803d2-c867-4046-a331-61b76b589c34}</foreignId>
-     <text>supper</text>
+     <text>নৈশভোজ</text>
      <i18nText>supper</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a79a595f-b027-46d4-afac-62caaa8cc703}</id>
      <foreignId>{2d51a90b-5c51-4573-809c-c49709def9a7}</foreignId>
-     <text>delicious</text>
+     <text>সুস্বাদু</text>
      <i18nText>delicious</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{13c40a73-aaac-434b-8c81-dbf7ef765058}</id>
      <foreignId>{fccb742b-4086-4dbd-bb55-39639416b791}</foreignId>
-     <text>plate</text>
+     <text>প্লেট</text>
      <i18nText>plate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{38f70758-41a0-4191-abbb-76fbe9c4354e}</id>
      <foreignId>{1719da47-5ef9-4daa-91bb-41833cc5e3ed}</foreignId>
-     <text>glass</text>
+     <text>গ্লাস</text>
      <i18nText>glass</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>g</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0c06e5ad-beb1-4c20-a6cc-395696a10224}</id>
      <foreignId>{38f02cb6-aa21-4628-86d8-110af13eadb7}</foreignId>
-     <text>bowl</text>
+     <text>বাটি</text>
      <i18nText>bowl</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c49fef51-dbd9-47b8-b591-147a142cb114}</id>
      <foreignId>{4ae20f25-9d04-407e-ae5f-e5814ac920c4}</foreignId>
-     <text>spoon</text>
+     <text>চামচ</text>
      <i18nText>spoon</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{73a1df40-53f8-4027-bf26-bef30a5f0f8b}</id>
      <foreignId>{9194d179-3cab-473c-9848-82f12359656b}</foreignId>
-     <text>fork</text>
+     <text>কাঁটাচামচ</text>
      <i18nText>fork</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7dd925a4-e199-4d15-9041-de02a8e463d6}</id>
      <foreignId>{7c05da6a-3d59-454f-9f7a-4fdcfad98bbb}</foreignId>
-     <text>knife</text>
+     <text>ছুরি</text>
      <i18nText>knife</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{de03e9a4-1bfa-4767-822d-e1d9f752cc00}</id>
      <foreignId>{cab92063-c028-42d7-8b82-bdc2ca898692}</foreignId>
-     <text>eat</text>
+     <text>খাওয়া</text>
      <i18nText>eat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e8f71c02-522e-4478-a0c0-ec6672a7e238}</id>
      <foreignId>{268abbbd-7866-46f1-a064-e572f6c0c02f}</foreignId>
-     <text>drink</text>
+     <text>পান করা</text>
      <i18nText>drink</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{2bff8220-3fb5-4ab0-83f3-972ac1687231}</id>
      <foreignId>{9573c463-ac99-45b6-96c8-b96c3d7e4d80}</foreignId>
-     <text>starter</text>
+     <text>স্টার্টার</text>
      <i18nText>starter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{05988cb1-43f1-4fec-b499-cea4ebb94915}</id>
      <foreignId>{52ffef0c-9b3d-4d3d-be4b-3dd52646ff55}</foreignId>
-     <text>soup</text>
+     <text>স্যুপ</text>
      <i18nText>soup</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>u</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>s</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ada8922e-cf34-4437-9d96-ef2306d39354}</id>
      <foreignId>{8351f0e4-9e8f-4c73-8615-39627e8f53aa}</foreignId>
-     <text>appetizer</text>
+     <text>এপেটাইজার</text>
      <i18nText>appetizer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7642e41b-a96e-4597-8035-17c2f68a42df}</id>
      <foreignId>{1577f309-b200-40a1-aeee-46786e1d1fb1}</foreignId>
-     <text>dessert</text>
+     <text>ডেজার্ট</text>
      <i18nText>dessert</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{2ed9de9b-b58f-435e-a018-003ab8dc53d9}</id>
      <foreignId>{1038f99d-7e52-4cb6-acbd-89670620be89}</foreignId>
-     <text>meat</text>
+     <text>মাংস</text>
      <i18nText>meat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a6716b36-5a25-4261-97b7-a8f89ece1d7e}</id>
      <foreignId>{9e0cc554-23d3-4908-a3ea-0cdd80ef2925}</foreignId>
-     <text>water</text>
+     <text>জল</text>
      <i18nText>water</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{249d3a65-1890-4eb6-910b-c35a1fd71fcd}</id>
      <foreignId>{103de1ce-4d20-400f-a932-b744c55aec38}</foreignId>
-     <text>wine</text>
+     <text>ওয়াইন</text>
      <i18nText>wine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>o</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{13ee78d2-3998-4aca-9e03-eef8df8628ce}</id>
      <foreignId>{bc92a356-8676-4fb2-8a86-0e4f7083b4f9}</foreignId>
-     <text>juice</text>
+     <text>রস</text>
      <i18nText>juice</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{72a7fc6f-a0b1-4c08-bdea-60f35ae18302}</id>
      <foreignId>{01e45ffb-3241-4735-b904-97c066d877f6}</foreignId>
-     <text>menu</text>
+     <text>মেনু</text>
      <i18nText>menu</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{bb993ad9-40ad-4264-a5bd-8a3bb1490abf}</id>
      <foreignId>{14992d30-aedc-4da0-82cf-96093f89591f}</foreignId>
-     <text>recipe</text>
+     <text>রেসিপি</text>
      <i18nText>recipe</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>p</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5c3b7b53-a347-4653-ad85-72f6a6a31705}</id>
      <foreignId>{bb4526a2-4275-4b4a-b951-912e6f2b97b1}</foreignId>
-     <text>bill</text>
+     <text>বিল</text>
      <i18nText>bill</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{99ef0540-66e8-4f50-8acb-0f97019e11e9}</id>
      <foreignId>{aabd497c-a812-4716-9aba-d8314da7998d}</foreignId>
-     <text>pastry</text>
+     <text>পেস্ট্রি</text>
      <i18nText>pastry</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3b73bc51-0235-4a0a-ae06-e55d66a02653}</id>
      <foreignId>{90fa8f90-8f11-4ef6-bc7f-ada03b924fe5}</foreignId>
-     <text>cake</text>
+     <text>কেক</text>
      <i18nText>cake</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{09bddb43-77b5-459f-847b-b32f241e4129}</id>
      <foreignId>{d2e402dc-805d-4f87-9658-23471c721315}</foreignId>
-     <text>waiter</text>
+     <text>ওয়েটার</text>
      <i18nText>waiter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>o</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1eeead32-611b-4966-a53c-ac0f72322590}</id>
      <foreignId>{7c36fb4e-245c-4f89-9104-1d71e9880bd1}</foreignId>
-     <text>restaurant</text>
+     <text>রেস্তোরা</text>
      <i18nText>restaurant</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5e62a9e4-2c2f-4f96-b4a8-58f2bf746067}</id>
      <foreignId>{ff8667f7-8461-443a-b553-eb9b2c0c2d4b}</foreignId>
-     <text>order</text>
+     <text>আদেশ</text>
      <i18nText>order</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{03fb3c71-9439-485f-ba44-5f9c805f6455}</id>
      <foreignId>{f94be4c4-d053-4b2c-a56b-128c7640223b}</foreignId>
-     <text>taste</text>
+     <text>স্বাদ</text>
      <i18nText>taste</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{91d55908-5d44-464b-9937-3d480a90878d}</id>
      <foreignId>{42903866-560a-4c0d-9080-777e1e2de225}</foreignId>
-     <text>sweet</text>
+     <text>মিষ্টি</text>
      <i18nText>sweet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{437f289f-6b2c-4292-af24-6cf742974c33}</id>
      <foreignId>{56393e31-fefe-465c-9d8b-9cb041cd1dcd}</foreignId>
-     <text>sour</text>
+     <text>টক</text>
      <i18nText>sour</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3c0459c3-6f1b-4020-a179-531ef6247faa}</id>
      <foreignId>{9c18a212-115f-4b23-9e0c-28742847ebd3}</foreignId>
-     <text>bitter</text>
+     <text>তেতো</text>
      <i18nText>bitter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a1ac54f5-beae-4b84-bf5c-be10ebcff96e}</id>
      <foreignId>{e99b1727-b8c4-4898-b152-e11336356cc0}</foreignId>
-     <text>salt</text>
+     <text>নুন</text>
      <i18nText>salt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c7eb20f1-3987-4efd-b6ea-6d04d27a5a5a}</id>
      <foreignId>{bb51c933-5446-4720-a42f-d500deac7830}</foreignId>
-     <text>pepper</text>
+     <text>মরিচ</text>
      <i18nText>pepper</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>c</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b89e02b1-e6e5-4f8f-969f-2eb1a75c9e87}</id>
      <foreignId>{d14a8c3f-7b72-4e88-bdab-38141b1868f6}</foreignId>
-     <text>cuisine</text>
+     <text>রন্ধনপ্রণালী</text>
      <i18nText>cuisine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{fbcab4e8-63e1-4537-814e-2ea42fd8eea8}</id>
      <foreignId>{5b212204-05f4-4371-9216-4ded09f1f718}</foreignId>
-     <text>serve</text>
+     <text>পরিবেশন করা</text>
      <i18nText>serve</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1d95926e-79d4-42e3-997f-f2360482967d}</id>
      <foreignId>{bdb8eb20-615f-49fd-83a4-207c73ecc951}</foreignId>
-     <text>button mushroom soup</text>
+     <text>বাটন মাশরুম স্যুপ</text>
      <i18nText>button mushroom soup</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>p</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{edc0ae3a-b5b9-45d1-8b08-55bd956ee4c5}</id>
      <foreignId>{126b6f28-1bb3-436d-b253-5a16cb05a44c}</foreignId>
-     <text>tossed baby corn</text>
+     <text>হালকা ভাজা কচি ভূট্টা</text>
      <i18nText>tossed baby corn</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{99f0c67f-6f01-4022-b249-eeb1ec48a515}</id>
      <foreignId>{d0769f05-2b43-4408-8708-6395faf328ab}</foreignId>
-     <text>main course</text>
+     <text>মেইন কোর্স</text>
      <i18nText>main course</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>s</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{571a9f09-557f-4935-a549-ef55d32bb917}</id>
      <foreignId>{4d2f0e84-91d9-43d1-93a1-8e80c2995c31}</foreignId>
-     <text>sea food</text>
+     <text>সীফুড</text>
      <i18nText>sea food</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>d</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5af0eaac-05bb-4b98-a0c1-d3f2e5c8dbc7}</id>
      <foreignId>{3dc28fa0-cb4a-4445-8ef6-0cc4a065f4c9}</foreignId>
-     <text>stir fried vegetables</text>
+     <text>ভাজা সবজি</text>
      <i18nText>stir fried vegetables</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0baefcae-4890-479d-9758-77ca4bafb757}</id>
      <foreignId>{687b23e1-1f2f-4e11-a58e-7fc6172505ab}</foreignId>
-     <text>fresh fruit salad</text>
+     <text>তাজা ফলের সালাদ</text>
      <i18nText>fresh fruit salad</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5b111678-6e10-4c1b-94fe-7fb3bad6257e}</id>
      <foreignId>{df560c02-2f80-4499-b3ca-60fcf25bcb7b}</foreignId>
-     <text>roasted turkey</text>
+     <text>টার্কির রোস্ট</text>
      <i18nText>roasted turkey</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>s</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3722262c-d60a-4489-9f9d-8a52f5d0561d}</id>
      <foreignId>{9ca4e50e-cfae-4d97-90a7-f4d4e7245f81}</foreignId>
-     <text>lamb chops</text>
+     <text>ভেড়ার মাংসের বড়া</text>
      <i18nText>lamb chops</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e875be8d-919c-40f8-9de0-62a04e7da0bd}</id>
      <foreignId>{04472858-f61f-4794-bd8e-529abde5778f}</foreignId>
-     <text>fried chicken wings</text>
+     <text>চিকেন উইংস ভাজা</text>
      <i18nText>fried chicken wings</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>ui</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8442e7a9-18b2-4feb-9498-13300ca2fd55}</id>
      <foreignId>{1b2d9856-6aca-4783-bd8d-08cc387a9e51}</foreignId>
-     <text>shell fish</text>
+     <text>গুগলি</text>
      <i18nText>shell fish</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>g</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5f5ca392-dd45-49ea-9c63-5751b0068af4}</id>
      <foreignId>{da6bb090-e125-4b74-978a-3f21f8e10c42}</foreignId>
-     <text>mashed potato</text>
+     <text>আলুর ভর্তা</text>
      <i18nText>mashed potato</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{72ae802f-773b-4990-b5e7-48046728e188}</id>
      <foreignId>{2f6d027a-5c42-497d-a9ac-00796a3392b6}</foreignId>
-     <text>fine dining</text>
+     <text>ফাইন ডাইনিং</text>
      <i18nText>fine dining</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{729db947-ab28-4543-b018-247a5939465a}</id>
      <foreignId>{e6ebfa79-30ef-4c19-8e26-511bd87a038e}</foreignId>
-     <text>table manners</text>
+     <text>খাওয়ার আদবকায়দা</text>
      <i18nText>table manners</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{540e574d-08cb-45af-97b1-d807235fdf1a}</id>
      <foreignId>{35770ccc-7d36-4fa9-83b6-0ac4a61f3283}</foreignId>
-     <text>over cooked</text>
+     <text>অত্যধিক সিদ্ধ করে ফেলা</text>
      <i18nText>over cooked</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e8d70e89-b570-4cb7-a224-d1a03afed6eb}</id>
      <foreignId>{fa261d83-be13-42db-98cb-f919d95a34ab}</foreignId>
-     <text>chocolate sauce</text>
+     <text>চকলেট সস</text>
      <i18nText>chocolate sauce</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>s</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3d8e0e40-1045-4766-869b-51a37b87edda}</id>
      <foreignId>{caa0c881-084d-4952-bae1-ddd0079f7500}</foreignId>
-     <text>brownie with ice cream</text>
+     <text>ব্রাউনির সঙ্গে আইসক্রীম</text>
      <i18nText>brownie with ice cream</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>m</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c86abac4-ebe5-485b-b20d-ae3be8292df0}</id>
      <foreignId>{332f4442-004c-493f-ab5e-7503d4b4cbe8}</foreignId>
-     <text>scrambled eggs</text>
+     <text>ডিম ভাজা</text>
      <i18nText>scrambled eggs</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{67ff14f3-6987-44a4-9111-b2526cbe7169}</id>
      <foreignId>{732460df-2296-4930-b035-2346ccd62d0b}</foreignId>
-     <text>cheese sandwich</text>
+     <text>চিজ স্যান্ডউইচ</text>
      <i18nText>cheese sandwich</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>ui</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ca843231-b347-436b-a691-2dc33fc22aaf}</id>
      <foreignId>{a1a46d68-f5ec-4f62-9436-226f664fabbc}</foreignId>
-     <text>beef steak</text>
+     <text>গরুর মাংসের স্টেক</text>
      <i18nText>beef steak</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{52d9b047-7636-4482-845f-e94b4c8e85b7}</id>
      <foreignId>{09919257-0303-48cc-a84c-6ff1221c8ed5}</foreignId>
-     <text>fettuccine carbonara</text>
+     <text>ফেটুচিনি কার্বোনারা</text>
      <i18nText>fettuccine carbonara</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{bee8f4d3-54a9-406a-8307-73fe6f66ec62}</id>
      <foreignId>{e8c3f3ba-3734-4c22-82ad-ab8cfb2c287f}</foreignId>
-     <text>Thank you</text>
+     <text>ধন্যবাদ</text>
      <i18nText>Thank you</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a4d553a4-343a-42fd-a8ac-e14ce7421bd0}</id>
      <foreignId>{f395ad17-ce04-4ab4-aa61-b2b4230b07ac}</foreignId>
-     <text>Excuse me</text>
+     <text>মাফ করবেন</text>
      <i18nText>Excuse me</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{affa7cfb-75bb-42c4-8230-8083e1455842}</id>
      <foreignId>{fa1ba1b4-de99-471a-8144-d0d8a6a6e5ff}</foreignId>
-     <text>I would like to book a table for two for Thursday night.</text>
+     <text>আমি বৃহস্পতিবার রাতে দু জনের জন্য একটা টেবিল বুক করতে চাই।</text>
      <i18nText>I would like to book a table for two for Thursday night.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c50c3daf-550f-4aa5-93f2-9e3c0687fda3}</id>
      <foreignId>{e9f5701d-7979-411e-85c7-02ccd0ab0b7c}</foreignId>
-     <text>Can I get a glass of water, please?</text>
+     <text>আমি এক গ্লাস জল পেতে পারি, দয়া করে?</text>
      <i18nText>Can I get a glass of water, please?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5483d0b5-bb9c-4d38-982b-743bdba17a8d}</id>
      <foreignId>{5dab17c1-a25a-4ccd-8c48-88e0dcb76893}</foreignId>
-     <text>The veal they serve here is the best in town.</text>
+     <text>তারা এখানে শহরের সবচেয়ে ভালো বাছুরের মাংস পরিবেশন করে।</text>
      <i18nText>The veal they serve here is the best in town.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c29feba5-0d45-4614-b933-0384d1ba19c8}</id>
      <foreignId>{7f17f60a-800a-4273-beab-192816cc0437}</foreignId>
-     <text>Mixed noodles with sliced chilli pork is an all time favourite of mine.</text>
+     <text>নুডলসের সঙ্গে স্লাইসড চিলি পর্ক আমার সব সময়ের প্রিয় খাবার।</text>
      <i18nText>Mixed noodles with sliced chilli pork is an all time favourite of mine.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>io</phonemeID>
+      <phonemeID>kh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ab60c6bc-6510-4fa1-a8df-a7a2193af710}</id>
      <foreignId>{4b835386-3b59-4580-829f-19f4f8287910}</foreignId>
-     <text>Where is the washroom?</text>
+     <text>সাজঘরটি কোথায়?</text>
      <i18nText>Where is the washroom?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>gh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{87374870-3bec-483b-b158-296719e18a70}</id>
      <foreignId>{fa616cc5-4b65-41ef-9bde-bf78928327e4}</foreignId>
-     <text>I absolutely love desserts.</text>
+     <text>আমি ডেজার্ট অত্যন্ত ভালোবাসি।</text>
      <i18nText>I absolutely love desserts.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f3131fca-acf9-42d2-b0e4-786fa9cff2f2}</id>
      <foreignId>{67c4ca5c-6303-44b3-8f3a-9fd53e936b66}</foreignId>
-     <text>Would you like to have some more?</text>
+     <text>আপনি আরো কিছু খেতে চান?</text>
      <i18nText>Would you like to have some more?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>c</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{68b93d6b-35aa-4366-bf57-240eedf385da}</id>
      <foreignId>{d32ed725-255b-4bb9-97f5-0d10ceecdc16}</foreignId>
-     <text>I am quite full.</text>
+     <text>আমার পেট ভরে গেছে।</text>
      <i18nText>I am quite full.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{30d3cc10-d255-4748-8bce-f7251a097353}</id>
      <foreignId>{e45c7ce5-ad53-4cd5-bfc8-8ed8c59a4d08}</foreignId>
-     <text>I am on a strict low fat diet plan.</text>
+     <text>আমি একটি কঠোর কম তৈলাক্ত খাদ্য পরিকল্পনা পালন করছি।</text>
      <i18nText>I am on a strict low fat diet plan.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>th</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>oi</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{61a12a3e-21db-4a20-88ac-baac2a1f3e91}</id>
      <foreignId>{cffb13e7-9d23-4bc9-9212-e0dd0743c19a}</foreignId>
-     <text>One prawn salad for me, please.</text>
+     <text>আমার জন্য এক প্লেট চিংড়ি মাছের সালাদ দেবেন, দয়া করে।</text>
      <i18nText>One prawn salad for me, please.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d90b9dbc-f917-488b-bb6d-598be7900487}</id>
      <foreignId>{aa1bd985-7a79-4d2d-8901-4f34cfc496c6}</foreignId>
-     <text>I quit non vegetarian food a couple of months ago.</text>
+     <text>আমি কয়েক মাস আগে আমিষ খাদ্য ত্যাগ করেছি।</text>
      <i18nText>I quit non vegetarian food a couple of months ago.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e0671634-e531-4baf-850d-cd39dece7d4c}</id>
      <foreignId>{04a11123-9ab1-469d-9edc-c9e3fff43786}</foreignId>
-     <text>Would you like to go out for dinner tonight?</text>
+     <text>আপনি আজ রাতে ডিনারের জন্য বাইরে যেতে চান?</text>
      <i18nText>Would you like to go out for dinner tonight?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>c</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f19a3cfd-afb5-4c3c-a3f8-0d0962d6d8f7}</id>
      <foreignId>{7fac8016-ce35-4398-90b4-86878de67e0b}</foreignId>
-     <text>I think you should definitely try the chicken clear soup.</text>
+     <text>আমার মতে আপনার চিকেন ক্লিয়ার স্যুপ অবশ্যই খেয়ে দেখা উচিত।</text>
      <i18nText>I think you should definitely try the chicken clear soup.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>ɔi</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>æ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0f1b4c5f-9ecc-4a2d-82a3-a8297b71f493}</id>
      <foreignId>{11c27987-5428-4842-811c-b1d5b0f4b395}</foreignId>
-     <text>I enjoyed the meal very much.</text>
+     <text>আমি খুব ভাল খেলাম।</text>
      <i18nText>I enjoyed the meal very much.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{57f0176d-e86e-44ce-bc44-479c85b94b9b}</id>
      <foreignId>{01fcd2a7-5a00-41d3-9239-77da4aa5b11d}</foreignId>
-     <text>I like my meat to be cooked medium rare.</text>
+     <text>আমি হাল্কা মাঝারি সিদ্ধ মাংস খেতে পছন্দ করি।</text>
      <i18nText>I like my meat to be cooked medium rare.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>jh</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b8252009-370a-462e-9d65-aa4d32851da6}</id>
      <foreignId>{b3d021d9-5cf9-4139-8e74-0e0d2b4382c7}</foreignId>
-     <text>A reservation was made for four guests for lunch.</text>
+     <text>চারজন অতিথির জন্য একটি লাঞ্চের রিজার্ভেশন করা হয়েছিল।</text>
      <i18nText>A reservation was made for four guests for lunch.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>ch</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c0aaa6dd-4843-4690-8967-013d03747c21}</id>
      <foreignId>{ddb954f9-aca5-41ba-a9bf-369e1e6d1ea9}</foreignId>
-     <text>Is the food very expensive here?</text>
+     <text>এখানকার খাবার কি খুব ব্যয়বহুল?</text>
      <i18nText>Is the food very expensive here?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>e</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{cc505924-30d7-403e-82e4-65c364effa5e}</id>
      <foreignId>{0f620ee3-60ef-4f9a-bb7e-d2fe12e3ea40}</foreignId>
-     <text>I hope the food is hyegenic in here.</text>
+     <text>আমি আশা করি এখানকার খাবার স্বাস্থ্যকর।</text>
      <i18nText>I hope the food is hyegenic in here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{dacbb8ac-681c-4cb5-bc6d-00e1c27133cf}</id>
      <foreignId>{47b4d378-7d7d-4e66-88ea-fa3f71353bcd}</foreignId>
-     <text>I would like to get a double cheeseburger with some french fries.</text>
+     <text>আমার একটি ডবল চিজ বার্গার এবং কিছু ফ্রেঞ্চ ফ্রাই চাই।</text>
      <i18nText>I would like to get a double cheeseburger with some french fries.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{95a00375-ca3b-40c0-b1ff-3674a5609bf5}</id>
      <foreignId>{2efc1ec3-487f-4314-bd1b-c908a57e0184}</foreignId>
-     <text>I would advice you to try the steamed shrimp wontons here. Its like nothing you have ever had. They look beautiful as well as taste delicious and have the thinnest wrappers I ever came across.</text>
+     <text>আমার মতে আপনার এখানে ভাপে রাঁধা চিংড়ি মাছের মোমো অবশ্যই খেয়ে দেখা উচিত। আপনি আগে কখনও এইরকম কিছু খান নি। এগুলি যেমন দেখতে সুন্দর তেমনই খেতে সুস্বাদু। আমি কখনও এত পাতলা চামড়ার মোমো খাই নি।</text>
      <i18nText>I would advice you to try the steamed shrimp wontons here. Its like nothing you have ever had. They look beautiful as well as taste delicious and have the thinnest wrappers I ever came across.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>ɔi</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0683e9c7-4e27-48de-bdae-822ad1d78521}</id>
      <foreignId>{9ded98a2-2c35-4070-968e-e64993455707}</foreignId>
-     <text>I’d like to have the chef’s salad, please. Balsamic Vinaigrette would be fine for the dressing. Also, I’d like some bottled water please.</text>
+     <text>আমি বালসামিক ভিনেগ্রেট সসের সাথে শেফস সালাদ নিতে চাই। এছাড়া একটু পানীয় জল পেতে পারি, দয়া করে?</text>
      <i18nText>I’d like to have the chef’s salad, please. Balsamic Vinaigrette would be fine for the dressing. Also, I’d like some bottled water please.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>io</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ce7bb986-6aca-4f53-91b7-a8f1187defb0}</id>
      <foreignId>{378566da-72cb-43d0-87c8-0e5265ff821d}</foreignId>
-     <text>Excuse me, we are ready to make the order. For the starter, we would like to have one coarse country duck terrine and one goat's cheese and asparagus terrine. One salmon fishcake and one slow cooked blade of beef for the main course and two hot chocolate souffles for the dessert.</text>
+     <text>আমরা অর্ডার করতে প্রস্তুত। স্টার্টারের জন্য, আমরা একটি মোটা দেশি হাঁসের টেরিন এবং একটি পনির এবং শতমূলী টেরিন নেব। মেইন কোর্সে একটি স্যামন ফিশকেক ও একটি বিফের টুকরা এবং ডেজার্ট-এ দুটি হট চকলেট সুফলে নেব।</text>
      <i18nText>Excuse me, we are ready to make the order. For the starter, we would like to have one coarse country duck terrine and one goat's cheese and asparagus terrine. One salmon fishcake and one slow cooked blade of beef for the main course and two hot chocolate souffles for the dessert.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>c</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0f11a3a6-ad42-4091-9003-35140bffe09d}</id>
      <foreignId>{a4a0d063-cf06-4236-9ad9-08edc7ce8e33}</foreignId>
-     <text>We are done for tonight. The food was very satisfying, thank you. The molten chocolate lava cake tasted absolutely divine and was a great way to end the meal.</text>
+     <text>আমাদের খাওয়া হয়ে গেছে। ধন্যবাদ, খাবার খুবই সুস্বাদু ছিল। মোলটেন চকলেট লাভা কেকটি একেবারে ঐশ্বরিক খেতে ছিল এবং শেষ পাতে খাওয়ার জন্য দুর্দান্ত।</text>
      <i18nText>We are done for tonight. The food was very satisfying, thank you. The molten chocolate lava cake tasted absolutely divine and was a great way to end the meal.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>oi</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{67f00e5b-1fe0-429b-bed8-b8cf56ef2a05}</id>
      <foreignId>{ada3cd95-5264-4d8a-9434-670c9af9b177}</foreignId>
-     <text>We are in a bit of a hurry. So, can you get us the bill please. Also, as we am running short on cash, I would like to make the payment using my Credit Card. I hope that is acceptable here. If not, then can you please give me the address of a nearby ATM counter.</text>
+     <text>আমাদের একটু তাড়া আছে। সুতরাং, দয়া করে আপনি আমাদের বিলটা এনে দেবেন। এছাড়া যেহেতু আমাদের কাছে নগদ টাকা খুব বেশি নেই, সেহেতু আমি আমার ক্রেডিট কার্ড ব্যবহার করে পেমেন্ট করতে চাই। আমি আশা করি সেটা এখানে গ্রহণযোগ্য। নয়ত আপনি কি দয়া করে আমাকে একটা কাছাকাছি এটিএম কাউন্টারের ঠিকানা দিতে পারেন?</text>
      <i18nText>We are in a bit of a hurry. So, can you get us the bill please. Also, as we am running short on cash, I would like to make the payment using my Credit Card. I hope that is acceptable here. If not, then can you please give me the address of a nearby ATM counter.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>th</phonemeID>
+     </phonemes>
     </phrase>
    </phrases>
   </unit>
