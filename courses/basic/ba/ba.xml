@@ -10849,9 +10849,9 @@
      <foreignId>{427d8e09-01c1-4990-bafe-5ce6deff55e9}</foreignId>
      <text>চলচ্চিত্র</text>
      <i18nText>film</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0d78cdb3-dae5-42c2-a83e-7dfd5cef27ab}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -10884,9 +10884,9 @@
      <foreignId>{8aba1ba2-46fa-48f5-8230-3936d511238a}</foreignId>
      <text>রোমাঞ্চকর</text>
      <i18nText>thriller</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{47ec2a1c-8428-4248-826e-51e1e059f817}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>r</phonemeID>
       <phonemeID>o</phonemeID>
@@ -10919,9 +10919,9 @@
      <foreignId>{349feb8f-4c0e-4365-aef1-1be4035e5eac}</foreignId>
      <text>কমেডি</text>
      <i18nText>comedy</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{30e15670-9f12-46fd-a484-ec59b1795b85}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -10952,9 +10952,9 @@
      <foreignId>{f30e3ceb-c032-4549-b9e6-e766a4924437}</foreignId>
      <text>সঙ্গীত</text>
      <i18nText>music</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9c7dbd03-b105-4223-9552-e983dbe2c1e7}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o</phonemeID>
@@ -10983,9 +10983,9 @@
      <foreignId>{69dc9b0d-4848-4f53-987b-c7aff70bd0ca}</foreignId>
      <text>পপ</text>
      <i18nText>pop</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1c4d2b74-f385-4f61-a273-a28bf840ef68}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -11009,9 +11009,9 @@
      <foreignId>{311b06b6-8102-4da6-bfa2-549aee014468}</foreignId>
      <text>উপন্যাস</text>
      <i18nText>novel</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7b5fdcc0-2974-423f-b8b7-59adb42e7b58}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>u</phonemeID>
       <phonemeID>p</phonemeID>
@@ -11042,9 +11042,9 @@
      <foreignId>{bfacf17d-8122-45cb-aa27-d4bacd75b132}</foreignId>
      <text>পরিচালক</text>
      <i18nText>director</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9a975de0-a01b-41a3-9bdc-01e2475fee3c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>o</phonemeID>
@@ -11077,9 +11077,9 @@
      <foreignId>{e170dc17-d24c-43de-b202-8258917ada18}</foreignId>
      <text>পড়া</text>
      <i18nText>read</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e2060fb7-2225-44b9-9077-557be57bb138}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -11107,9 +11107,9 @@
      <foreignId>{dbf84dc0-92b0-45c2-a20e-1b014bdb3252}</foreignId>
      <text>অভিনেতা</text>
      <i18nText>actor</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{37d56b15-152f-4e3b-bf6a-cca7e1de185b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>o</phonemeID>
       <phonemeID>bh</phonemeID>
@@ -11143,9 +11143,9 @@
      <foreignId>{2f613a60-5036-4304-a64e-4e61933f3ccc}</foreignId>
      <text>সার্কাস</text>
      <i18nText>circus</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{022840f1-a4c2-4cbb-b0ef-36a14cc548eb}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>a</phonemeID>
@@ -11174,9 +11174,9 @@
      <foreignId>{9c9aa673-2851-4840-9ae1-13b01bb02628}</foreignId>
      <text>সুরকার</text>
      <i18nText>composer</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1347040e-31c8-4652-ba08-5223ded1f0bb}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>u</phonemeID>
@@ -11208,9 +11208,9 @@
      <foreignId>{84b4be1f-9f8e-47c0-a8c9-c81e06576a73}</foreignId>
      <text>হেভি মেটাল</text>
      <i18nText>heavy metal</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8a7d4aba-027f-4c78-94f0-56dfcdd634f3}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>h</phonemeID>
       <phonemeID>e</phonemeID>
@@ -11243,9 +11243,9 @@
      <foreignId>{713e0a62-c5df-4858-89d5-8d3d4cc7e09f}</foreignId>
      <text>সিনেমা দেখতে যাওয়া</text>
      <i18nText>go to the cinema</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5dd97c91-f4df-4eb2-817c-c31fe36fcd81}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>i</phonemeID>
@@ -11287,9 +11287,9 @@
      <foreignId>{8e8b1fed-8aee-4fe9-85ad-60bfab1ab2a0}</foreignId>
      <text>ক্লাবে যাওয়া</text>
      <i18nText>go clubbing</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{73d59c43-f188-4445-befb-3e69a9accde0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>l</phonemeID>
@@ -11332,9 +11332,9 @@
      <foreignId>{51cf771c-1691-49d7-a135-f096e2284d7f}</foreignId>
      <text>পান করা</text>
      <i18nText>have drinks</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{de17d022-2d6d-48bb-871d-c1ad984c1e77}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>a</phonemeID>
@@ -11367,9 +11367,9 @@
      <foreignId>{d86ef931-ff7a-420f-8a20-d7efc768784f}</foreignId>
      <text>ভিডিও গেম খেলা</text>
      <i18nText>play video games</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d0a85e91-8147-43f2-9008-0d41b9f3039f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>bh</phonemeID>
       <phonemeID>i</phonemeID>
@@ -11408,9 +11408,9 @@
      <foreignId>{928a6958-184b-429c-9f57-7407753534cb}</foreignId>
      <text>চলচ্চিত্র তারকা</text>
      <i18nText>film star</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4335f3e2-9099-4806-bdb2-b68100bd14ba}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -11451,9 +11451,9 @@
      <foreignId>{e6407930-3461-43dd-a4dc-ce235d036617}</foreignId>
      <text>কল্প বিজ্ঞান বিষয়ক সিনেমা</text>
      <i18nText>science fiction movie</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8621298e-b8d2-4b60-80af-f22903f422bf}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -11501,9 +11501,9 @@
      <foreignId>{f7f6bb7c-2fa1-4ca2-9697-d818679e08f5}</foreignId>
      <text>গিটার বাজানো</text>
      <i18nText>play the guitar</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9acecb7d-31b8-4e44-b99c-41245c8d637d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>g</phonemeID>
       <phonemeID>i</phonemeID>
@@ -11541,9 +11541,9 @@
      <foreignId>{8838e047-6749-443c-8e3b-ebc07b5d364f}</foreignId>
      <text>একশন সিনেমা</text>
      <i18nText>action movie</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{82ad6191-ad75-4b86-869f-246398c3d357}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>æ</phonemeID>
       <phonemeID>k</phonemeID>
@@ -11586,9 +11586,9 @@
      <foreignId>{fea2b2d2-d084-4446-8dfe-68739f775218}</foreignId>
      <text>আমরা আগামী কাল একটা সিনেমা দেখতে যাচ্ছি।</text>
      <i18nText>We are going to the cinema tomorrow.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5b30b2c0-b6fe-4c72-a1b0-f9e52a0d0d93}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -11643,9 +11643,9 @@
      <foreignId>{b226b063-4388-44db-bffa-2044c19a31e4}</foreignId>
      <text>আমি শাস্ত্রীয় সঙ্গীত পছন্দ করি।</text>
      <i18nText>I like classical music.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{345e08cb-9be1-4f37-92bb-f8989acdd192}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -11708,9 +11708,9 @@
      <foreignId>{b9234c78-3726-40ed-98ed-05ea93c9fe75}</foreignId>
      <text>এই চলচ্চিত্রটি উপন্যাসটির উপর ভিত্তি করে তৈরি হয়েছে।</text>
      <i18nText>This movie is based on the novel.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{03f9ab6b-c77c-4780-96a3-39644ae2ad05}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>ei</phonemeID>
       <phonemeID>c</phonemeID>
@@ -11769,9 +11769,9 @@
      <foreignId>{063e8b2f-5be3-4b5f-9d89-da387f4275a2}</foreignId>
      <text>চলো, আজ রাতে বেরোই।</text>
      <i18nText>Let's go out tonight.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c92d0c8a-af9e-43e5-89d9-d11067dc55ed}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -11818,9 +11818,9 @@
      <foreignId>{46ccb2ef-0d02-499b-b795-0a1c10afe2ac}</foreignId>
      <text>শাকিরা একজন কলম্বিয়ান পপ গায়িকা।</text>
      <i18nText>Shakira is a Colombian pop singer.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{40c1c75f-56d3-4e92-9422-5203f61d283d}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>a</phonemeID>
@@ -11876,9 +11876,9 @@
      <foreignId>{47301ecc-12b0-4b6e-b4d0-0b728a7fe81b}</foreignId>
      <text>আজকাল অধিকাংশ শহরগুলোতে মাল্টিপ্লেক্স সিনেমা হল আছে।</text>
      <i18nText>Nowadays most towns have multiplex cinemas.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ca808b7c-bd2e-4bca-a1c9-439f68d80020}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>j</phonemeID>
@@ -11940,9 +11940,9 @@
      <foreignId>{4e7dbcaa-2b19-4721-b169-a9ccbd005257}</foreignId>
      <text>বহু মানুষ স্থানীয় পাবগুলিতে যান যেখানে তারা ডার্ট বা পুল খেলতে পারেন।</text>
      <i18nText>Many people go to their local pub where they can play darts or pool.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{03f039d6-d2b1-4ef1-90f8-db1e9e3613c0}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>o</phonemeID>
@@ -12003,9 +12003,9 @@
      <foreignId>{5f03c6eb-e1de-476a-8feb-aeb8a417ca77}</foreignId>
      <text>সপ্তাহান্তে অল্পবয়সী ছেলেমেয়েরা প্রায়ই স্থানীয় ডিস্কোতে যায়।</text>
      <i18nText>At the weekend, younger people often go to a local disco.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{79ddd2df-1662-41bb-90f3-68e3c573e572}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -12067,9 +12067,9 @@
      <foreignId>{062656a3-e80d-47f4-8591-ad24650aad1e}</foreignId>
      <text>আপনি থিয়েটার দেখতে যেতে পছন্দ করেন কি?</text>
      <i18nText>Do you like going to the theatre?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{faf51afd-85ba-4459-b7ba-9db7e577abb3}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>p</phonemeID>
@@ -12123,9 +12123,9 @@
      <foreignId>{6b9226a1-7b40-41c2-a8e7-57c00f1e9ee7}</foreignId>
      <text>আপনি কোন সারিতে বসতে পছন্দ করেন?</text>
      <i18nText>What row do you like to sit in?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cffeb8e2-f42c-4773-89b5-c5a2f3ba76be}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>p</phonemeID>
@@ -12179,9 +12179,9 @@
      <foreignId>{fb82b0b1-49de-4b40-82d4-3566d18a6b2c}</foreignId>
      <text>সার্কাসটি শ্রেষ্ঠ জাদুকরদের এবং বিদূষকদের আনে।</text>
      <i18nText>The circus brings the best magicians and clowns.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8e20aa6e-eabd-44e7-9337-920e2087be03}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>a</phonemeID>
@@ -12232,9 +12232,9 @@
      <foreignId>{d2795df4-4fe5-4bf4-a265-be2ca10a98d6}</foreignId>
      <text>আমি পরিশ্রান্ত। আমি এখন বাড়িতে থেকে একটা সিনেমা দেখবো।</text>
      <i18nText>I'm exhausted. I'm going to stay at home and watch a movie.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c87932b6-dc82-4289-8330-e10e8c5080ee}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>m</phonemeID>
@@ -12296,9 +12296,9 @@
      <foreignId>{31a71925-8837-4df9-be1c-7d7de8e244e5}</foreignId>
      <text>প্রতি বছর রিও বিশ্বের বৃহত্তম কার্নিভালের আয়োজন করে। ঐতিহ্যটি ১৮২৩ সাল থেকে চলে আসছে।</text>
      <i18nText>Each year Rio de Janeiro hosts the biggest carnival in the world. The tradition dates back to 1823.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1facbac0-3484-4189-874a-3a4743d68beb}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>r</phonemeID>
