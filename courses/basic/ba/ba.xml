@@ -624,9 +624,9 @@
      <foreignId>{6320b3db-cefc-4abf-be0d-3cb1a790b53c}</foreignId>
      <text>বাহির</text>
      <i18nText>exit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3cb5302c-7ddb-4fc6-95f5-2fe97fafea88}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>a</phonemeID>
@@ -657,9 +657,9 @@
      <foreignId>{31533327-aa7e-45c6-875c-dea4ab78c945}</foreignId>
      <text>রেস্তোরা</text>
      <i18nText>restaurant</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e684dd7d-4dd3-496e-b496-7e2ef2a5239a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>r</phonemeID>
       <phonemeID>e</phonemeID>
@@ -693,9 +693,9 @@
      <foreignId>{0a30c392-eaba-4d6f-83ab-ea503bc8e872}</foreignId>
      <text>রাস্তা</text>
      <i18nText>street</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{70e2cc5d-76c3-41be-bedf-7f02c2c2dece}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>r</phonemeID>
       <phonemeID>a</phonemeID>
@@ -722,9 +722,9 @@
      <foreignId>{50632f8c-002a-429e-9020-3b2189d2571b}</foreignId>
      <text>বিমানবন্দর</text>
      <i18nText>airport</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{53a646b6-75ff-49e8-9c94-19dfa3f090f9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>i</phonemeID>
@@ -760,9 +760,9 @@
      <foreignId>{ef9b98e2-43c6-4196-83f6-576fc45f7240}</foreignId>
      <text>সুপারমার্কেট</text>
      <i18nText>supermarket</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{174a0fdd-51b0-416f-8904-f313c81fbee5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>u</phonemeID>
@@ -796,9 +796,9 @@
      <foreignId>{869eacc5-48bc-4808-926d-aa02db9744a9}</foreignId>
      <text>সংযোগস্থল</text>
      <i18nText>junction</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{933ddb23-ec09-4027-a431-fc71e3e91da1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>N</phonemeID>
@@ -832,9 +832,9 @@
      <foreignId>{9ecc4cd8-035d-4a89-a2dc-5c09f01f7faa}</foreignId>
      <text>গির্জা</text>
      <i18nText>church</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a3e41bce-c13a-4134-9fda-d141f7599710}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>g</phonemeID>
       <phonemeID>i</phonemeID>
@@ -866,9 +866,9 @@
      <foreignId>{97913d0b-b56d-435f-9b82-7b467819a58d}</foreignId>
      <text>হোটেল</text>
      <i18nText>hotel</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{38550b9f-ee6f-4c43-a1b7-205f7e56fb71}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>h</phonemeID>
       <phonemeID>o</phonemeID>
@@ -898,9 +898,9 @@
      <foreignId>{ca54934b-b6d6-4ba7-bff6-7236521bf207}</foreignId>
      <text>খেয়া</text>
      <i18nText>ferry</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fc790621-8479-4e66-887e-1e0451b16d29}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>kh</phonemeID>
       <phonemeID>eɑ</phonemeID>
@@ -928,9 +928,9 @@
      <foreignId>{5ac09060-6657-4c62-8aa5-e80625fc3a4e}</foreignId>
      <text>ভাস্কর্য</text>
      <i18nText>sculpture</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{792af588-88f4-4bc0-82b2-6fc9e8631e8a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>bh</phonemeID>
       <phonemeID>a</phonemeID>
@@ -964,9 +964,9 @@
      <foreignId>{e4d6bb09-3bd7-4775-9fb3-891db9a0c650}</foreignId>
      <text>কোচ</text>
      <i18nText>coach</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cef57d7d-22be-429d-85ac-7862e3b8d4f9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>o</phonemeID>
@@ -997,9 +997,9 @@
      <foreignId>{644caa37-926f-4257-b423-34dcf183ae89}</foreignId>
      <text>রাজধানী</text>
      <i18nText>capital</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{45f4ac49-9dee-45d8-ba4e-8a16b2e8e475}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>r</phonemeID>
       <phonemeID>a</phonemeID>
@@ -1032,9 +1032,9 @@
      <foreignId>{3410833e-aca1-407f-8c17-deab07da0cb8}</foreignId>
      <text>ক্যাথেড্রাল</text>
      <i18nText>cathedral</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3f22a715-3706-42ec-9420-84e520d1c3ad}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>k</phonemeID>
       <phonemeID>æ</phonemeID>
@@ -1070,9 +1070,9 @@
      <foreignId>{2c28962d-cd9d-468b-b5b8-6d902b61fdba}</foreignId>
      <text>স্যুভেনির শপ</text>
      <i18nText>souvenir shop</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{da6d418b-37ab-4374-8a85-a44b8f0d1ab4}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>s</phonemeID>
       <phonemeID>u</phonemeID>
@@ -1107,9 +1107,9 @@
      <foreignId>{7f0823ae-fc6b-4a36-9ee3-00164f4168aa}</foreignId>
      <text>শত গজ</text>
      <i18nText>hundred yards</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5890ec2f-00f6-4970-b05d-7952af86ba2f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -1143,9 +1143,9 @@
      <foreignId>{724064ae-fb35-4b00-b077-b6e58e39b0fc}</foreignId>
      <text>বেড এবং ব্রেকফাস্ট</text>
      <i18nText>bed and breakfast (B&amp;B)</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c103e92e-334e-4ce6-8b09-f9302d4a0e8c}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>e</phonemeID>
@@ -1181,9 +1181,9 @@
      <foreignId>{87c58bf2-d6b5-4d7c-b186-d5afe5c48b9b}</foreignId>
      <text>যুব আবাস</text>
      <i18nText>youth hostel</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8569292f-c2b7-4c95-8119-8b5996129f16}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>u</phonemeID>
@@ -1216,9 +1216,9 @@
      <foreignId>{17e2fb23-63b5-4d4e-a066-0037e7a5afb6}</foreignId>
      <text>দর্শনীয় স্থানাদিদর্শন করতে যাত্তয়া</text>
      <i18nText>go sightseeing</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{88e36901-b865-4e76-9ae4-be88211f2bc6}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>d-labial</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -1262,9 +1262,9 @@
      <foreignId>{1073c6d5-338d-4537-9a7b-a7589b16586f}</foreignId>
      <text>পুরাতন শহর</text>
      <i18nText>old town</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9b37e3da-3680-4ece-8de5-adbf3f2525e7}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>u</phonemeID>
@@ -1302,9 +1302,9 @@
      <foreignId>{da804619-a060-48ad-83c0-7989b3279ee3}</foreignId>
      <text>খোলার সময়</text>
      <i18nText>opening times</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6298772f-aec8-4a48-bd2f-9702edcc2f68}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>kh</phonemeID>
       <phonemeID>o</phonemeID>
@@ -1341,9 +1341,9 @@
      <foreignId>{4cee20bb-363b-44bb-901c-021d6108dcd8}</foreignId>
      <text>ছবি তোলা</text>
      <i18nText>take a photo</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{56f718b8-0745-43a0-8ebc-a8443dca2020}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>ch</phonemeID>
       <phonemeID>o</phonemeID>
@@ -1380,9 +1380,9 @@
      <foreignId>{68dfe7bb-4f64-4995-b194-af299d59f162}</foreignId>
      <text>বাসে যাত্তয়া</text>
      <i18nText>go by bus</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e3378817-eed4-416d-ae3a-5a85cddc390a}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>b</phonemeID>
       <phonemeID>a</phonemeID>
@@ -1422,9 +1422,9 @@
      <foreignId>{eb292974-a18e-4e48-8237-bb480c7e5f0f}</foreignId>
      <text>চৌমাথা থেকে ডানদিকে ঘুরে যাবেন।</text>
      <i18nText>Turn right at the crossroads.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{803b107b-beb7-4246-9d58-5b5c9ddf5ccd}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>ɔu</phonemeID>
@@ -1467,11 +1467,11 @@
     <phrase>
      <id>{9dc6595c-c5d1-4e3e-9fc5-ab6bac4192b4}</id>
      <foreignId>{50102ee1-d95c-4c33-ad1d-ca57de2bbc66}</foreignId>
-     <text>ক্ষমা করবেন! কিন্তু, ডাকঘরে কিভাবে যেতে হয় বলতে পারেন?</text>
+     <text>ক্ষমা করবেন, ডাকঘরে কিভাবে যেতে হয় বলতে পারেন?</text>
      <i18nText>Excuse me, could you tell me how to get to the post office?</i18nText>
-     <soundFile></soundFile>
-     <type>paragraph</type>
-     <editState>translated</editState>
+     <soundFile>{9dc6595c-c5d1-4e3e-9fc5-ab6bac4192b4}.ogg</soundFile>
+     <type>sentence</type>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>kh</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -1485,7 +1485,6 @@
       <phonemeID>n</phonemeID>
       <phonemeID>i</phonemeID>
       <phonemeID>t-labial</phonemeID>
-      <phonemeID>u</phonemeID>
       <phonemeID>d</phonemeID>
       <phonemeID>gh</phonemeID>
       <phonemeID>bh</phonemeID>
@@ -1528,9 +1527,9 @@
      <foreignId>{a983071c-0522-4055-aee7-f164f5f70334}</foreignId>
      <text>জাদুঘরটি শনিবারে খোলা থাকে কি?</text>
      <i18nText>Is the museum open on Saturdays?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0ccce300-9caa-4a5c-aabe-21af83acedf6}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>j</phonemeID>
       <phonemeID>a</phonemeID>
@@ -1584,9 +1583,9 @@
      <foreignId>{86d1143d-556d-4d75-925b-0e1f618cb297}</foreignId>
      <text>আগামী বাস স্টপেজটি এই রাস্তাটির শেষে।</text>
      <i18nText>The next bus stop is at the end of the street.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3f551c5d-92d6-4ab0-a992-2435741458b3}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>a</phonemeID>
       <phonemeID>g</phonemeID>
@@ -1637,9 +1636,9 @@
      <foreignId>{205bd4d4-3315-4ba0-beba-e76cb4d5d821}</foreignId>
      <text>চলো, সিটি সেন্টার যাত্তয়া যাক।</text>
      <i18nText>Let's go to the city centre.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9d17b4e5-67a4-4850-afc2-9832706fa6c4}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>c</phonemeID>
       <phonemeID>o-half</phonemeID>
@@ -1684,9 +1683,9 @@
      <foreignId>{91c058c1-7d53-4ec3-a822-756212ee254b}</foreignId>
      <text>সেখানে কি পায়ে হেঁটে যাত্তয়া সম্ভব?</text>
      <i18nText>Can we get there by foot?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d1d134a8-2efe-4a5f-9019-dda3a7f522ae}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>sh</phonemeID>
       <phonemeID>e</phonemeID>
@@ -1739,9 +1738,9 @@
      <foreignId>{de0f3a0e-e42b-417b-b1ea-3c2c81eaedad}</foreignId>
      <text>ভর্তির ফি কত?</text>
      <i18nText>How much is the admission fee?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ae90d10e-4004-47b2-b72b-54a0b7e272b8}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>bh</phonemeID>
       <phonemeID>o</phonemeID>
@@ -1787,9 +1786,9 @@
      <foreignId>{6becb819-6669-4f88-9fb8-b7ccba61bec7}</foreignId>
      <text>ন্যাশনাল গ্যালারি দেখতে যাবেন?</text>
      <i18nText>Would you like to visit National Gallery?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{96db46df-0529-41d4-bc23-c240e8ef2d7d}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>n</phonemeID>
       <phonemeID>æ</phonemeID>
@@ -1845,9 +1844,9 @@
      <foreignId>{4713c077-5ed2-4a49-95db-ee32fdfe2ce0}</foreignId>
      <text>পুরানো কেল্লাটি আপনার অবশ্যই দেখতে যাত্তয়া উচিত।</text>
      <i18nText>You must visit the old castle.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4d5aa483-8288-4a06-84b9-96378760f5db}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>p</phonemeID>
       <phonemeID>u</phonemeID>
@@ -1914,9 +1913,9 @@
      <foreignId>{e20e8a6a-c9af-4f31-998e-a9d5e9561c0a}</foreignId>
      <text>লন্ডন ইংল্যান্ডের রাজধানী। এটি একটি বৈচিত্র্যময় এবং রোমাঞ্চকর শহর ও বহু আকর্ষণে ভরা। পর্যটক আকর্ষণগুলির মধ্যে 'লন্ডন আই', ন্যাশনাল গ্যালারি এবং 'টাওয়ার অফ লন্ডন' সর্বাধিক পরিদর্শিত। শহরের কেন্দ্রে অবস্থিত 'বাকিংহাম প্যালেস' অত্যন্ত জনপ্রিয় কারণ সেটি ব্রিটিশ মহারাণীর সরকারি আবাস। প্রাসাদের সামনে প্রতিদিন প্রহরী পরিবর্তনের অনুষ্ঠান সঞ্চালিত হয়। সাধারণত এই অনুষ্ঠানের সাক্ষী থাকতে বহু মানুষ ভিড় করে। লন্ডনে থাকাকালীন এই দৃশ্য দেখার যোগ্য।</text>
      <i18nText>London is a capital of England. It is a diverse and exciting city with many attractions. The most visited tourist attractions are London Eye, the National Gallery and Tower of London. Also Buckingham Palace situated is in the city centre is a popular sight as it is the official residence of the British Queen. Every day in front of the palace Changing the Guard ceremony takes place. This is worth seeing while you are visiting London and it is usually witnessed by large crowds.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a0f3bf7b-d36f-4a9e-a2dc-fbf37f1404b6}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>l</phonemeID>
       <phonemeID>n</phonemeID>
@@ -2003,9 +2002,9 @@
      <foreignId>{e970e556-5028-47d2-b130-774abe6fd3df}</foreignId>
      <text>গত বছর আমরা একটি সপ্তাহান্তের ছুটিতে এডিনবরা গিয়েছিলাম। ট্রিপটার অধিকাংশ সময় আমরা দর্শনীয় স্থানগুলি ঘুরে বেরিয়েছি। কেল্লাটি এবং পুরোনো শহরটি আমাদের দেখা।</text>
      <i18nText>Last year we went for a weekend break to Edinburgh. We spent most of the trip sightseeing. We have visited the castle and the old town.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3d623a42-33ba-4bc0-9a12-e731ee890f8c}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>e</phonemeID>
       <phonemeID>k</phonemeID>
