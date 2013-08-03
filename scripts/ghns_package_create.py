@@ -10,6 +10,7 @@ from xml.dom import minidom
 import glob
 from datetime import datetime
 import shutil
+from lxml import etree
 
 DESTINATION = "/tmp/artikulateCoursePackaging"
 COURSES = "/tmp/artikulateCoursePackaging/courses"
@@ -72,23 +73,24 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 
 	for tar in os.listdir(DOWNLOAD_TARS):
 		if tar.endswith(".tar.bz2"):
-	
-			stuff = ET.SubElement(root, "stuff")
 
-			# name
-			field1 = ET.SubElement(stuff, "name")
-			field1.text = tar[0:len(tar)-4]
-
-			# type
-			field2 = ET.SubElement(stuff, "type")
-			field2.text = "artikulate/language"
-
-			# author
-			author= "unknown"
-			authors_mail="unknown"
+		 	# read xml file and fetch title/name and description/summary
+			name_title = "unkown"
+			summary = "unknown"
 			tar_file = tarfile.open(DOWNLOAD_TARS + "/" + tar)
+			for name in tar_file.getnames():
+				if name.endswith(".xml"):
+					source_xml_file = etree.parse(tar_file.extractfile(tar_file.getmember(name)))
+
+					nameElem = source_xml_file.find('title')
+					name_title = nameElem.text   
+
+					summaryElem = source_xml_file.find('description')
+					summary = summaryElem.text   
 
 			# get author's details from coresponding AUTHORS file
+			author= "unknown"
+			authors_mail="unknown"
 			for name in tar_file.getnames():
 				if "AUTHORS" in name:
 					author_file = tar_file.extractfile(tar_file.getmember(name)).read().split()
@@ -102,8 +104,19 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 
 					# parse author's mail
 					authors_mail = author_file[len(author_file)-1][1:len(author_file[len(author_file)-1])-1]
-			tar_file.close()
+			tar_file.close()    
+	
+			stuff = ET.SubElement(root, "stuff")
 
+			# name
+			field1 = ET.SubElement(stuff, "name")
+			field1.text = name_title
+
+			# type
+			field2 = ET.SubElement(stuff, "type")
+			field2.text = "artikulate/language"
+
+			# author
 			field3 = ET.SubElement(stuff, "author")
 			field3.set("e-mail", authors_mail)
 			field3.text = author
@@ -116,7 +129,7 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 			# summary
 			field4 = ET.SubElement(stuff, "summary")
 			field4.set("lang", "en")
-			field4.text = tar + " - " + sizeof_fmt((os.path.getsize(DOWNLOAD_TARS + "/" + tar)))
+			field4.text = summary
 
 			# version
 			field5 = ET.SubElement(stuff, "version")
