@@ -11,10 +11,10 @@ import glob
 from datetime import datetime
 import shutil
 
-DESTINATION = "/tmp/DATA"
-COURSES = "/tmp/DATA/courses"
-DOWNLOAD_TARS = "Artikulate_tars"
-SKELETONS ="/tmp/DATA/skeletons/"
+DESTINATION = "/tmp/artikulateCoursePackaging"
+COURSES = "/tmp/artikulateCoursePackaging/courses"
+DOWNLOAD_TARS = "upload"
+SKELETONS ="/tmp/artikulateCoursePackaging/skeletons/"
 HTML = "http://files.kde.org/edu/artikulate/"
 PERCENTAGE = 0.01 # uncomment to create tars only for courses with more then 90 percent of the phrases 
 # PERCENTAGE = 0 # uncomment to create tars for all the phrases regardless of number of recordings
@@ -150,9 +150,4 @@ if os.listdir(DOWNLOAD_TARS)!=[] :
 	
 	# remove DATA from tmp folder
 	shutil.rmtree(DESTINATION)
-
-
-
-
-
 
