@@ -17031,842 +17031,1769 @@
     <phrase>
      <id>{ddf61ed5-921c-4d66-9ec7-203b643b6bfb}</id>
      <foreignId>{a5e681b7-dc07-48b5-8662-2416d4fac4b6}</foreignId>
-     <text>money</text>
+     <text>টাকা</text>
      <i18nText>money</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8f786f32-8974-4518-9352-6a0690ef0807}</id>
      <foreignId>{79a199f5-878c-4ae4-b548-566862785616}</foreignId>
-     <text>cash</text>
+     <text>নগদ টাকা</text>
      <i18nText>cash</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{34150907-2d49-430f-945c-c8a46cc7eb03}</id>
      <foreignId>{251e6077-72fa-4fd2-a93d-281ddf696bf0}</foreignId>
-     <text>cheque</text>
+     <text>চেক</text>
      <i18nText>cheque</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ba7f6c1f-a2c3-4517-975b-65a689a76a81}</id>
      <foreignId>{b3a9ba1d-ee1f-4511-9628-5df53758a9ac}</foreignId>
-     <text>bank</text>
+     <text>ব্যাংক</text>
      <i18nText>bank</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f051831d-ea94-4a5a-b73f-6b83c63ac6b2}</id>
      <foreignId>{f63b1515-e14d-4634-95ce-f273c1eff345}</foreignId>
-     <text>account</text>
+     <text>অ্যাকাউন্ট</text>
      <i18nText>account</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c8084120-b4ce-48e0-a1cd-0777b979ccf6}</id>
      <foreignId>{7ede60ae-baa2-4b16-98c2-f467df526ab7}</foreignId>
-     <text>deposit</text>
+     <text>জমা করা</text>
      <i18nText>deposit</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{fdbe99f0-4588-4b91-b9be-a1d1d7250fad}</id>
      <foreignId>{415b158e-5812-48e8-b8b4-716da9c9a4a1}</foreignId>
-     <text>withdraw</text>
+     <text>প্রত্যাহার করা</text>
      <i18nText>withdraw</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{110d138d-8c98-4dad-985e-6140da4fe5f7}</id>
      <foreignId>{90e4fe27-4dbd-4aff-89a3-ad12b31eb6b9}</foreignId>
-     <text>debit</text>
+     <text>ডেবিট</text>
      <i18nText>debit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c8954f23-98ab-492e-b5ae-d1df58ac881c}</id>
      <foreignId>{e6fbc4e8-9e87-463d-817a-a511dba7d403}</foreignId>
-     <text>credit</text>
+     <text>ধার</text>
      <i18nText>credit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d7edcc32-25be-4326-978c-4d5224d28de8}</id>
      <foreignId>{874b259b-0be9-4180-9a98-81681b5387f8}</foreignId>
-     <text>savings</text>
+     <text>সঞ্চয়</text>
      <i18nText>savings</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6cfef387-bff3-4d16-9a65-3fa1b9b30d1f}</id>
      <foreignId>{ecb7391a-bc46-4f19-9619-98baf561a3e9}</foreignId>
-     <text>current</text>
+     <text>বর্তমান</text>
      <i18nText>current</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4feeb5a2-1d0e-4144-a5c9-4e123b55d695}</id>
      <foreignId>{b3a26b4f-7219-4999-9891-56b992431af6}</foreignId>
-     <text>recurring</text>
+     <text>আবর্তক</text>
      <i18nText>recurring</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{82e6a7dc-77b6-4e97-8c27-04e0d271e381}</id>
      <foreignId>{c4c20156-4482-4cea-943b-2aaeab5e7efe}</foreignId>
-     <text>interest</text>
+     <text>সুদ</text>
      <i18nText>interest</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3c5c2061-3689-4526-a338-e7776db2c5a5}</id>
      <foreignId>{bba23296-7c9f-4064-902e-579c66ea7a19}</foreignId>
-     <text>percentage</text>
+     <text>শতাংশ</text>
      <i18nText>percentage</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a17c4fad-23d9-434e-ab4f-086c6ee43499}</id>
      <foreignId>{2fa731b5-f8ff-4161-b42e-db1d5665070b}</foreignId>
-     <text>loan</text>
+     <text>ঋণ</text>
      <i18nText>loan</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4c2104a2-fa6d-4bf8-a2e2-4f324c10a1e2}</id>
      <foreignId>{2b0bea63-f249-4d3d-8073-69cbd0728b04}</foreignId>
-     <text>amount</text>
+     <text>পরিমাণ</text>
      <i18nText>amount</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{fea52253-799f-4237-8e8e-579ca9c01109}</id>
      <foreignId>{73f7d9ad-d55f-4a32-8e2d-b8c84c111953}</foreignId>
-     <text>transfer</text>
+     <text>হস্তান্তর</text>
      <i18nText>transfer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f1462477-25b8-41f7-9b8f-10c0b96af0e4}</id>
      <foreignId>{230a55ae-412c-441d-b34f-ccca0061c325}</foreignId>
-     <text>secure</text>
+     <text>নিরাপদ্</text>
      <i18nText>secure</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1fa8e61f-20d2-4b85-a9b5-33c74ce92f47}</id>
      <foreignId>{2b0a0c99-d54c-4aba-a67c-f3a9c429a246}</foreignId>
-     <text>manager</text>
+     <text>ম্যানেজার</text>
      <i18nText>manager</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7740c017-b122-446b-b7e6-30849b8a7228}</id>
      <foreignId>{76dac0af-f540-44bd-963e-7e315db564f5}</foreignId>
-     <text>cashier</text>
+     <text>ক্যাশিয়ার</text>
      <i18nText>cashier</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6b6e240e-b0c6-4e13-bcf9-d14a18eda35c}</id>
      <foreignId>{b9228a20-08a9-4053-beb3-153025e3c24d}</foreignId>
-     <text>deduction</text>
+     <text>বাদ</text>
      <i18nText>deduction</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d52a112f-b71a-4671-b9bf-e374711d192c}</id>
      <foreignId>{3d3cffde-84bd-4e97-bf3b-0cc7b611860f}</foreignId>
-     <text>transaction</text>
+     <text>লেনদেন</text>
      <i18nText>transaction</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>l</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5fea1762-ba90-44b5-b337-506bbc1b0161}</id>
      <foreignId>{8981f543-e007-4690-83cd-99e035d217f7}</foreignId>
-     <text>term</text>
+     <text>মেয়াদ</text>
      <i18nText>term</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>eɑ</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0eefb87b-3963-494e-8579-912341f3595c}</id>
      <foreignId>{c72756ea-8bea-4734-8d40-8e35c969e4ca}</foreignId>
-     <text>scheme</text>
+     <text>প্রকল্প</text>
      <i18nText>scheme</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a0b1745c-4fdc-404d-a2e0-eab04901d671}</id>
      <foreignId>{8a60a601-606a-48cb-8c2f-0114aeeba0f9}</foreignId>
-     <text>annum</text>
+     <text>বার্ষিক</text>
      <i18nText>annum</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9cb0709f-5481-40d1-8e87-94cc00eb0c03}</id>
      <foreignId>{0ddc147b-ae79-42f9-8c6d-ea4d0da9cb3b}</foreignId>
-     <text>mortgage</text>
+     <text>বন্ধক</text>
      <i18nText>mortgage</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4962a9d9-1898-4b6a-8d5a-733140c6b6c3}</id>
      <foreignId>{882bb7bf-1890-495c-ab60-e183e293b4dd}</foreignId>
-     <text>form</text>
+     <text>ফর্ম</text>
      <i18nText>form</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>m</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3c922522-dd73-49fc-8526-2ed5a542e08a}</id>
      <foreignId>{ccece622-a24e-4bce-9bac-31534ce75823}</foreignId>
-     <text>charge</text>
+     <text>চার্জ</text>
      <i18nText>charge</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{cb55f5f1-a14f-4889-b754-4902a36bd654}</id>
      <foreignId>{4908658d-65af-4077-bdf5-1bc69b9b8604}</foreignId>
-     <text>capital</text>
+     <text>মূলধন</text>
      <i18nText>capital</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6b97650d-bad7-4401-933c-9f6a39098e33}</id>
      <foreignId>{96550de0-612c-4087-a2bd-b48f7c4cfdce}</foreignId>
-     <text>corporate</text>
+     <text>কর্পোরেট</text>
      <i18nText>corporate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{bd2c0625-5be0-4da1-abe4-43be68d5c601}</id>
      <foreignId>{0da09af5-e4bd-4723-b913-d0e39eee124b}</foreignId>
-     <text>business</text>
+     <text>ব্যবসা</text>
      <i18nText>business</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{27c85ac2-5a6f-4c2b-87e2-aec6f086c8cb}</id>
      <foreignId>{4a6e8dd4-5917-4dee-af85-73af41e315d8}</foreignId>
-     <text>finance</text>
+     <text>মূলধন যোগান</text>
      <i18nText>finance</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f82db04d-164e-4223-a4b7-aa04251996ef}</id>
      <foreignId>{661057a4-a95c-4545-953b-a7b43aa1d6dd}</foreignId>
-     <text>locker</text>
+     <text>লকার</text>
      <i18nText>locker</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f45b4c51-9770-4fc5-89fc-00e767dd0314}</id>
      <foreignId>{c3d8cf0a-6e4e-4a3e-8819-76743a7d1b0c}</foreignId>
-     <text>currency</text>
+     <text>মুদ্রা</text>
      <i18nText>currency</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{469e22f9-0565-4198-91a3-e399fac8860c}</id>
      <foreignId>{e621db05-f183-4d1d-ac34-a751e2403c1a}</foreignId>
-     <text>rupee</text>
+     <text>রুপী</text>
      <i18nText>rupee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f4c3f376-a963-42f4-ae95-e5fcca0d97db}</id>
      <foreignId>{c5362768-b5b2-4973-af7c-f1565747a1ff}</foreignId>
-     <text>dollar</text>
+     <text>ডলার</text>
      <i18nText>dollar</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e3a6ae48-5604-48e8-92f2-70b08d597df9}</id>
      <foreignId>{d6b1d2c4-c9c0-409b-a65a-97ad78dd85dd}</foreignId>
-     <text>euro</text>
+     <text>ইউরো</text>
      <i18nText>euro</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>iu</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{366f9749-85c4-426a-aa0b-53bc7abed6fd}</id>
      <foreignId>{70050825-3a8f-46a2-ada0-321bbc690eb1}</foreignId>
-     <text>pound</text>
+     <text>পাউন্ড</text>
      <i18nText>pound</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0f26d4d2-4474-40dc-b06b-deaa757fcc26}</id>
      <foreignId>{9c51053b-3a74-4cf7-8244-053b048be61c}</foreignId>
-     <text>demand draft</text>
+     <text>ডিমান্ড ড্রাফট</text>
      <i18nText>demand draft</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{2e611855-0cf4-4929-bc8e-b54e42512d05}</id>
      <foreignId>{6807a68c-3ba0-49f7-a6cf-9253f99cee26}</foreignId>
-     <text>pay slip</text>
+     <text>পে স্লিপ</text>
      <i18nText>pay slip</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6328424c-9333-444d-809c-a14e1ffea473}</id>
      <foreignId>{0ae32780-ed28-45b4-894f-17602b646444}</foreignId>
-     <text>income tax</text>
+     <text>আয়কর</text>
      <i18nText>income tax</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5c7460f4-10e4-4da8-ba92-5dc26e3c5603}</id>
      <foreignId>{3c366ac6-2df3-4878-b1a4-ee47bdf90b32}</foreignId>
-     <text>fund transfer</text>
+     <text>ফান্ড ট্রান্সফার</text>
      <i18nText>fund transfer</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>s</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{44d7df47-91e2-4330-a764-a6fe0605e747}</id>
      <foreignId>{5322849b-4cfa-428c-92bd-23aedc6ff3d1}</foreignId>
-     <text>bank statement</text>
+     <text>ব্যাঙ্কের স্টেটমেন্ট</text>
      <i18nText>bank statement</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{58628ced-4d9d-4e35-ad66-5d07238fab9c}</id>
      <foreignId>{9f098f51-d2f8-4d80-ac14-107403feb67c}</foreignId>
-     <text>real time gross settlement</text>
+     <text>রিয়েল টাইম গ্রস সেটেলমেন্ট</text>
      <i18nText>real time gross settlement</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>r</phonemeID>
+      <phonemeID>ie</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b54a7364-7b3b-487a-abf1-9812f14417d4}</id>
      <foreignId>{da202901-4e27-4bb2-899d-1dc3e218c3d8}</foreignId>
-     <text>monthly income certificate</text>
+     <text>মাসিক আয় শংসাপত্র</text>
      <i18nText>monthly income certificate</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a667e482-d0d7-4c3a-8543-475752ea95f1}</id>
      <foreignId>{11dfa23b-0662-480e-9eb0-0659cffa7d06}</foreignId>
-     <text>housing loan</text>
+     <text>হাউজিং লোন</text>
      <i18nText>housing loan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{25d61893-1bf8-445c-8439-cd4e67a22a17}</id>
      <foreignId>{7f052629-2b5e-448c-b139-d2024f2f91fa}</foreignId>
-     <text>personal loan</text>
+     <text>ব্যক্তিগত ঋণ</text>
      <i18nText>personal loan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{60a46c99-e6bf-4343-a84b-ddc4b4c8a02f}</id>
      <foreignId>{d41df197-45c5-4370-8c07-74ee905510e0}</foreignId>
-     <text>cash credit loan</text>
+     <text>ক্যাশ ক্রেডিট লোন</text>
      <i18nText>cash credit loan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{112dd774-8c6b-4e72-9603-491dc97416bb}</id>
      <foreignId>{724d5b9b-fe0e-4c9f-ad88-7dba798780de}</foreignId>
-     <text>banker's cheque</text>
+     <text>ব্যাঙ্কারস চেক</text>
      <i18nText>banker's cheque</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ef8edaf1-299e-41af-b878-609c5f6bda9f}</id>
      <foreignId>{d95f1ffe-3cf2-4f91-a7fb-a86014e8525f}</foreignId>
-     <text>bank draft</text>
+     <text>ব্যাংক ড্রাফট</text>
      <i18nText>bank draft</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{92175423-094e-4eaa-81d7-4d65d28ee1a5}</id>
      <foreignId>{60a476a6-b7cf-40cf-bfba-d22da61bd185}</foreignId>
-     <text>gift cheque</text>
+     <text>গিফট চেক</text>
      <i18nText>gift cheque</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>g</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ae13fd51-9293-4509-85fd-aa82605c2740}</id>
      <foreignId>{b1ad6bbd-51e8-4bd3-8286-31b9683684af}</foreignId>
-     <text>collateral security</text>
+     <text>অনুষাঙ্গিক জামিন</text>
      <i18nText>collateral security</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>o</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>m</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7eac1a14-3ef7-4c47-96a8-b559b9a9f430}</id>
      <foreignId>{b63835ec-9739-44cf-a380-1ec0c066d900}</foreignId>
-     <text>internet banking</text>
+     <text>ইন্টারনেট ব্যাংকিং</text>
      <i18nText>internet banking</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>k</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{de0b5846-226b-490b-8c68-5747e7f99bc3}</id>
      <foreignId>{63911e62-ddf9-4aa4-a8d3-24db384c0826}</foreignId>
-     <text>ATM counter</text>
+     <text>এটিএম কাউন্টার</text>
      <i18nText>ATM counter</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{67ec306d-82ec-4bae-ac9c-3455a890a1e1}</id>
      <foreignId>{fda10976-fbe7-418a-be1d-595e5bd6814c}</foreignId>
-     <text>Master card</text>
+     <text>মাস্টার কার্ড</text>
      <i18nText>Master card</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>d</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{aa261083-baa3-4136-bc74-7daad3b04916}</id>
      <foreignId>{2323a03a-0aae-4fcb-932a-9454e421926a}</foreignId>
-     <text>VISA debit card</text>
+     <text>ভিসা ডেবিট কার্ড</text>
      <i18nText>VISA debit card</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{d9f9a7eb-6312-4af6-8a20-5377e429a9e9}</id>
      <foreignId>{1b0c0858-b895-4d38-b0c6-96f10cd4ef8a}</foreignId>
-     <text>account payee</text>
+     <text>অ্যাকাউন্ট পেয়ী</text>
      <i18nText>account payee</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>ei</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{317caba6-65c0-4c63-ab0a-cb5bd5c90f83}</id>
      <foreignId>{4dc5fb82-363e-4d30-8f83-f096da50a02b}</foreignId>
-     <text>fixed deposit</text>
+     <text>ফিক্সড ডিপোজিট</text>
      <i18nText>fixed deposit</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>t</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{be810329-0351-4e5d-adfa-d94b43feeec7}</id>
      <foreignId>{d171e2bc-bbb8-44c9-8529-3eb03a5c01cc}</foreignId>
-     <text>clearing house</text>
+     <text>নিকাশ-ঘর</text>
      <i18nText>clearing house</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>gh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{37c62cc1-4680-49f9-91ba-9c4003a9568f}</id>
      <foreignId>{2025236d-f4c1-41ad-acf3-4157f928036c}</foreignId>
-     <text>I want to open an account.</text>
+     <text>আমি একটা অ্যাকাউন্ট খুলতে চাই।</text>
      <i18nText>I want to open an account.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{62dd81ac-fafb-49fa-b018-2180f3df6610}</id>
      <foreignId>{451473d0-40d4-43f1-a3e5-424d70163eb3}</foreignId>
-     <text>Can you please help me with opening a savings account?</text>
+     <text>আপনি আমাকে একটা সেভিংস অ্যাকাউন্ট খুলতে সাহায্য করতে পারেন?</text>
      <i18nText>Can you please help me with opening a savings account?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0736ab84-03c1-4602-8296-ba203346f177}</id>
      <foreignId>{8ad29dfc-dc40-45dc-8d3f-efd4cf3fabba}</foreignId>
-     <text>I would like to update my passbook.</text>
+     <text>আমি আমার পাস-বই আপডেট করতে চাই।</text>
      <i18nText>I would like to update my passbook.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>ɔi</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9f48816c-bab9-47cb-837e-4f54a9824faf}</id>
      <foreignId>{a48db0eb-bd6c-40c6-a1b4-72d9d913d4cc}</foreignId>
-     <text>I would like to open a joint account with my wife.</text>
+     <text>আমি আমার স্ত্রীর সাথে একটি যৌথ অ্যাকাউন্ট খুলতে চাই।</text>
      <i18nText>I would like to open a joint account with my wife.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>ɔu</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{5ba9ad61-e8df-4a10-b1f7-4ee4776832c3}</id>
      <foreignId>{eb836c24-3b03-4649-a7bf-e60f8ee40c4f}</foreignId>
-     <text>Please sign here.</text>
+     <text>দয়া করে এখানে সই করুন।</text>
      <i18nText>Please sign here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>ɔi</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{795d6183-be94-4a5e-9733-13a644cffc4f}</id>
      <foreignId>{eea76c1b-3733-4142-92de-4f32f5fc8177}</foreignId>
-     <text>How many specimen signatures do you need?</text>
+     <text>আপনার কটা নমুনা স্বাক্ষর প্রয়োজন?</text>
      <i18nText>How many specimen signatures do you need?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{324ff4c6-467b-4281-9f02-13a4b79cb8b6}</id>
      <foreignId>{95c3f7ad-07ba-48c6-bacf-ca14061551e6}</foreignId>
-     <text>How much do I have to deposit to open a current account?</text>
+     <text>একটি কারেন্ট অ্যাকাউন্ট খোলার জন্য কত টাকা জমা দিতে হবে?</text>
      <i18nText>How much do I have to deposit to open a current account?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>b</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{fbce2395-e2ba-43e8-a7d1-e0f0b95be75a}</id>
      <foreignId>{cd4d149b-866e-4bd8-b7d0-76a06cef66a1}</foreignId>
-     <text>I want a cheque book.</text>
+     <text>আমার একটি চেক বই চাই।</text>
      <i18nText>I want a cheque book.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>ɔi</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9cd03da8-dead-4b49-a679-4996f5235af1}</id>
      <foreignId>{ecb4ce53-45da-4c8b-a076-d2867b3fe62f}</foreignId>
-     <text>I want to encash this cheque.</text>
+     <text>আমি এই চেকটা ভাঙ্গাতে চাই।</text>
      <i18nText>I want to encash this cheque.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{2ffc0d18-3c5d-4c3c-83f9-5cadb65c91ac}</id>
      <foreignId>{cc8de27a-e399-4377-867c-5de052abc222}</foreignId>
-     <text>Are you a customer of this bank?</text>
+     <text>আপনি কি এই ব্যাংকের গ্রাহক?</text>
      <i18nText>Are you a customer of this bank?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8609f348-f6d2-4d07-af19-44d275fe85da}</id>
      <foreignId>{513aaba4-e4ce-4d99-80d0-16ac24869b4b}</foreignId>
-     <text>Would you like to deposit the cheque for clearance?</text>
+     <text>আপনি ক্লিয়ারেন্সের জন্য চেক জমা দিতে চান?</text>
      <i18nText>Would you like to deposit the cheque for clearance?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{bd8a19c4-b211-43e2-9903-e035c3a7d174}</id>
      <foreignId>{3c4e430f-cf97-4416-89c5-ca9f23777882}</foreignId>
-     <text>I need the money urgently.</text>
+     <text>আমার টাকাটা তারাতারি প্রয়োজন।</text>
      <i18nText>I need the money urgently.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{be53d562-659e-4b7e-b9a9-bf4f1bbadd47}</id>
      <foreignId>{cde12205-3f37-4859-ba2a-0f8b5b317332}</foreignId>
-     <text>Will they give me the money today?</text>
+     <text>তারা কি আজ আমাকে টাকাটা দেবে?</text>
      <i18nText>Will they give me the money today?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>b</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{0f2380b9-d00a-4d72-9acb-9e0fbf184920}</id>
      <foreignId>{6dd45b9b-6e71-47a3-a9b9-7618973cf786}</foreignId>
-     <text>It will take about two days, since it is a local cheque.</text>
+     <text>দু দিন সময় লাগবে, যেহেতু এটি একটি স্থানীয় চেক।</text>
      <i18nText>It will take about two days, since it is a local cheque.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>io</phonemeID>
+      <phonemeID>c</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{77063228-08a3-456b-8271-93da88c8d53c}</id>
      <foreignId>{3877cfda-28ed-4ecf-91c8-ac3c01624cd6}</foreignId>
-     <text>Which way is counter number 7?</text>
+     <text>সাত নম্বর কাউন্টারটি কোন দিকে?</text>
      <i18nText>Which way is counter number 7?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4ab76ba4-e791-4669-a94c-0408b884f753}</id>
      <foreignId>{58937831-5c5f-4653-88e9-9885cfde49b7}</foreignId>
-     <text>I would like to meet the bank manager immediately.</text>
+     <text>আমি অবিলম্বে ব্যাংকের ম্যানেজারের সাথে দেখা করতে চাই।</text>
      <i18nText>I would like to meet the bank manager immediately.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{39148475-4aa5-4793-a2c0-3c1f054d87b6}</id>
      <foreignId>{eb9d7064-ed30-4c0b-998d-aed4b77c24f2}</foreignId>
-     <text>Please sign on the back of the cheque.</text>
+     <text>দয়া করে চেকের পিছনে সই করুন।</text>
      <i18nText>Please sign on the back of the cheque.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>ɔi</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{733d1801-69b3-427b-a4ce-eeb0bf576e8b}</id>
      <foreignId>{350c36d8-5647-4d78-9eaf-6854e61351f2}</foreignId>
-     <text>I need thousand rupees notes only.</text>
+     <text>আমার শুধুমাত্র হাজার টাকার নোট প্রয়োজন।</text>
      <i18nText>I need thousand rupees notes only.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>p</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{aaf9522e-0792-46a4-af37-5dc5f657039f}</id>
      <foreignId>{591bb58d-04f3-420d-a83d-62f2ad2dfb6f}</foreignId>
-     <text>I want to deposit $300.</text>
+     <text>আমি তিনশো ডলার জমা করতে চাই।</text>
      <i18nText>I want to deposit $300.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8639c998-43dd-447a-916f-b834c7a2617f}</id>
      <foreignId>{4fa49978-d3d9-4ba1-8350-bfbfa22d2ab5}</foreignId>
-     <text>Please fill out this application.</text>
+     <text>দয়া করে এই আবেদনপত্রটি ভরুন।</text>
      <i18nText>Please fill out this application.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1e52cb9e-8c9a-4b7f-ae78-a6e1f7f702e5}</id>
      <foreignId>{c5edb42d-d187-4f3d-b1f5-a5255a8f825b}</foreignId>
-     <text>It is advisable that you open both a checking account as well as a savings account. To open these accounts, you will need to make a deposit of at least $50.</text>
+     <text>আপনার উভয় একটি কারেন্ট অ্যাকাউন্ট সেইসাথে একটা সেভিংস অ্যাকাউন্ট খোলা উচিত। এই অ্যাকাউন্টগুলি খুলতে, আপনাকে অন্তত পঁচাশ টাকা জমা রাখতে হবে।</text>
      <i18nText>It is advisable that you open both a checking account as well as a savings account. To open these accounts, you will need to make a deposit of at least $50.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>b</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e7cd881f-100e-48bf-8fc8-b4884f8f6e13}</id>
      <foreignId>{89851a94-8aa6-4f18-8579-df00c7baab7f}</foreignId>
-     <text>If you would like to order cheques, you can do that right away. All you need to do is fill out this application. Give it about five to seven business days, and you should receive them in the mail.</text>
+     <text>আপনি চেক অর্ডার করতে চাইলে, আপনি তা তখনই করতে পারেন। আপনাকে কেবল এই আবেদনপত্রটি ভরতে হবে। পাঁচ থেকে সাত দিনের মধ্যে আপনার সেগুলি মেইলের মাধ্যমে পেয়ে যাওয়া উচিত।</text>
      <i18nText>If you would like to order cheques, you can do that right away. All you need to do is fill out this application. Give it about five to seven business days, and you should receive them in the mail.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>ei</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>dh-labial</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>ɑo</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{a7b4e137-7d2d-4f0a-afb7-faaebab8883a}</id>
      <foreignId>{e8349074-1a2b-4d49-913b-bd30a5013809}</foreignId>
-     <text>Hi, I need some help. I wrote a cheque of $100 which bounced. I am quite sure that there is sufficient money in my account. My account number is 30773933648. Can you please look into it?</text>
+     <text>আমার একটু সাহায্য প্রয়োজন। আমি একটি একশ ডলারের চেক লিখেছিলাম যেটি বাউন্স করেছে। আমি নিশ্চিত আমার অ্যাকাউন্টে যথেষ্ট টাকা আছে। আমার অ্যাকাউন্ট নম্বর ৩০৭৭৩৯৩৩৬৪৮। আপনি একটু দেখবেন দয়া করে?</text>
      <i18nText>Hi, I need some help. I wrote a cheque of $100 which bounced. I am quite sure that there is sufficient money in my account. My account number is 30773933648. Can you please look into it?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e2074581-b631-451a-8eef-70b891661994}</id>
      <foreignId>{bb305347-44a3-4759-a8fc-13a19bc2e79c}</foreignId>
-     <text>I need to file a complaint. Yesterday while I was making an online payment using my VISA debit card, I lost my internet connection right at the end of the transaction. As a result, my transaction failed but strangely enough, the exact amount of money got debited from my account.</text>
+     <text>আমি একটি অভিযোগ দায়ের করতে চাই। গতকাল আমি আমার ভিসা ডেবিট কার্ড ব্যবহার করে অনলাইন পেমেন্ট করার সময়, লেনদেনের শেষে আমার ইন্টারনেট সংযোগ হারিয়ে গেছিল। ফলস্বরূপ, আমার আদানপ্রদান ব্যর্থ হয়েছে কিন্তু আশ্চর্যের ব্যাপার হচ্ছে যে, পুরো পরিমাণ টাকাটা আমার অ্যাকাউন্ট থেকে ডেবিট হয়ে গেছে।</text>
      <i18nText>I need to file a complaint. Yesterday while I was making an online payment using my VISA debit card, I lost my internet connection right at the end of the transaction. As a result, my transaction failed but strangely enough, the exact amount of money got debited from my account.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>ie</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{00dfd5bc-6212-4715-a124-8b194a698dc9}</id>
      <foreignId>{a1172857-8c30-4276-a0ab-8dbe187e8af7}</foreignId>
-     <text>Hello. I’d like, some information on the telephone banking services offered by you. Can you tell me how the telephone banking services work? My account number is 855678900089548 at the MG Road Branch.</text>
+     <text>হ্যালো, আমি আপনাদের টেলিফোন ব্যাঙ্কিং পরিষেবার বিষয়ে কিছু তথ্য চাই। আপনি কি বলতে পারেন টেলিফোন ব্যাংকিং পরিষেবাটি কীভাবে কাজ করে? আমার এম জি রোড শাখার অ্যাকাউন্ট নম্বর হচ্ছে ৮৫৫৬৭৮৯০০০৮৯৫৪৮।</text>
      <i18nText>Hello. I’d like, some information on the telephone banking services offered by you. Can you tell me how the telephone banking services work? My account number is 855678900089548 at the MG Road Branch.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>ph</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>ɑu</phonemeID>
+     </phonemes>
     </phrase>
    </phrases>
   </unit>
