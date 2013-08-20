@@ -1189,7 +1189,7 @@
      <i18nText>mother</i18nText>
      <soundFile>{811c3c78-d5d0-4c91-9b7e-243f8f86e6fa}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1197,9 +1197,9 @@
      <foreignId>{f13aa413-12db-4ac4-970f-a049a02b7e30}</foreignId>
      <text>πατέρας</text>
      <i18nText>father</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5756e564-4d62-4262-97f1-a58b392b56f7}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1217,9 +1217,9 @@
      <foreignId>{bcfd006d-c3e8-49ef-bc08-0768c18c9cbe}</foreignId>
      <text>θεία</text>
      <i18nText>aunt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{17c287fb-ff1e-4ade-844d-7eda9f9540c6}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1267,9 +1267,9 @@
      <foreignId>{5c475011-d85f-47fa-9dd5-d83b230145f9}</foreignId>
      <text>κόρη</text>
      <i18nText>daughter</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dd4d9629-5c2e-4416-8607-3c477acb144c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1277,9 +1277,9 @@
      <foreignId>{c5ac8139-5acc-4c5e-b458-7cccdffa7105}</foreignId>
      <text>γιος</text>
      <i18nText>son</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b7a8c52b-e49e-4989-82de-1acd53a7a64c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1287,9 +1287,9 @@
      <foreignId>{4a17e0b5-117f-4123-aa09-699debeb26d5}</foreignId>
      <text>αδέρφια</text>
      <i18nText>siblings</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3fb6f150-4c37-4f84-8972-e4240980f78c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1297,9 +1297,9 @@
      <foreignId>{3da7d5bb-73a4-4a15-92e7-b28f08fec585}</foreignId>
      <text>εγγονός</text>
      <i18nText>grandson</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3c15e1b2-6c7c-4d17-9c2c-b93a15d15101}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1317,9 +1317,9 @@
      <foreignId>{56ff75ed-c079-467a-b702-d83e2aa940ec}</foreignId>
      <text>σύζυγος</text>
      <i18nText>wife</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5eca9a79-8b9e-49da-828c-857c62fae07a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1337,9 +1337,9 @@
      <foreignId>{650e213c-3aa1-4c00-89d3-ae708208c742}</foreignId>
      <text>ανιψιά</text>
      <i18nText>niece</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2bbc71d2-6a8f-401b-9236-2e55c12a2d6e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1359,7 +1359,7 @@
      <i18nText>spouse</i18nText>
      <soundFile>{94fabeef-8bd0-4219-8de8-6ad396bfd4fa}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1377,9 +1377,9 @@
      <foreignId>{226d188f-054e-48bc-8d66-342b14286a7a}</foreignId>
      <text>ζευγάρι</text>
      <i18nText>couple</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a57502a9-8e50-4944-8714-63f369b8a936}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1397,9 +1397,9 @@
      <foreignId>{337596af-ef04-4d45-b73f-22bbf477447d}</foreignId>
      <text>βαφτιστήρι</text>
      <i18nText>godson</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b7eb4d85-bf6f-4f9c-9aa3-c236c070b6b6}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1417,9 +1417,9 @@
      <foreignId>{5cab4a17-e261-460e-83b9-7219cbaac107}</foreignId>
      <text>μωρό</text>
      <i18nText>babe</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f3fc9ded-73d0-41a4-8bd2-da714183d85d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1437,9 +1437,9 @@
      <foreignId>{b8751e3b-fa9e-4f9c-970c-2dbff5e212b9}</foreignId>
      <text>συγγενής</text>
      <i18nText>relative</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{59238af6-7106-4b96-981f-e79db8025d56}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1457,9 +1457,9 @@
      <foreignId>{89ae77b7-1653-4510-824e-12ad53d77951}</foreignId>
      <text>αποκληρώνω</text>
      <i18nText>disinherit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8e6d4618-21d0-4f69-acea-69e0d44897a3}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1477,9 +1477,9 @@
      <foreignId>{0fb64cac-9f4b-48c6-84b9-5363acd8363b}</foreignId>
      <text>οικογένεια</text>
      <i18nText>family</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{11f7bcd2-dad8-4fc4-acc6-769cc9a8da38}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1497,9 +1497,9 @@
      <foreignId>{98afb7b3-0977-49d9-a445-6fe26ae08397}</foreignId>
      <text>προγιαγιά</text>
      <i18nText>great grandmother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f8f05c20-c003-420f-a3a2-a8aa581ec46d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1517,9 +1517,9 @@
      <foreignId>{5642138b-8ebe-4a69-9dd9-3596ab757a56}</foreignId>
      <text>δίδυμες αδελφές</text>
      <i18nText>twin sisters</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{65e022eb-6284-4bb0-82b8-90fc4748a077}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1537,9 +1537,9 @@
      <foreignId>{bc83b5cc-90d3-4bb7-b4f6-b8ac53d4e504}</foreignId>
      <text>μητριά</text>
      <i18nText>step-mother</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1c1a3c73-16c1-463d-b632-c0fa354c9b3e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1557,9 +1557,9 @@
      <foreignId>{df2d2387-2712-4e6d-9bb2-bcf7b5960be5}</foreignId>
      <text>πρώην σύζυγός</text>
      <i18nText>ex-wife</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a86407a3-3a23-4b2b-8552-95d9ea5e09b3}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1577,9 +1577,9 @@
      <foreignId>{fbf42837-2a51-4882-a5fb-2a40c6d444cc}</foreignId>
      <text>θετό παιδί</text>
      <i18nText>foster child</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3699dc4a-5f06-4210-bccd-50e149ae2f3a}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1597,9 +1597,9 @@
      <foreignId>{bc4e9420-0424-4206-9d4f-7dfbd2878730}</foreignId>
      <text>μεγάλη αδερφή</text>
      <i18nText>elder sister</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{787d3d13-aaca-4c5a-9730-9dad3bd83050}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1617,9 +1617,9 @@
      <foreignId>{a2746154-d49f-4e1f-aa5e-708d2b76f8f2}</foreignId>
      <text>είμαι αρραβωνιασμένος</text>
      <i18nText>be engaged</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{35a34e8b-d575-4ebe-8331-d37f3a3b1e11}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1637,9 +1637,9 @@
      <foreignId>{bb315977-2a75-4355-b1f2-eefbaa357a03}</foreignId>
      <text>μαύρο πρόβατο</text>
      <i18nText>black sheep</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{379e1bab-3760-41fe-9dfc-dd43dfc86e87}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1657,9 +1657,9 @@
      <foreignId>{b60de9ba-53fb-4df4-8893-31e67d022646}</foreignId>
      <text>επώνυμο</text>
      <i18nText>family name</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fed06aea-f63f-4642-a847-a7286d080c5f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1677,9 +1677,9 @@
      <foreignId>{368dabbd-e453-4104-ba9b-673048767000}</foreignId>
      <text>σε διάσταση</text>
      <i18nText>be separated</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{eb4f0a9a-a8c0-407d-9261-859cf5c6f9be}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1687,9 +1687,9 @@
      <foreignId>{28ea7f77-900f-4836-887c-7ebba9a00e0d}</foreignId>
      <text>Έχω έναν μικρότερο αδερφό και δύο αδερφές.</text>
      <i18nText>I have one younger brother and two sisters.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4be75e2e-b518-4b6b-8021-f4b77fdf35ce}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1707,9 +1707,9 @@
      <foreignId>{2a3c6479-3d24-4d3f-a3ba-dfd367b9680e}</foreignId>
      <text>Η κουνιάδα μου μόλις έμεινε έγκυος και περιμένει παιδί.</text>
      <i18nText>My sister-in-law just got pregnant and she is expecting a babe.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{81e688bd-7774-4ea4-b886-3135aa7e189d}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1727,9 +1727,9 @@
      <foreignId>{eda7da2b-520e-44c6-b2ae-928b27af2db8}</foreignId>
      <text>Είμαστε παντρεμένοι εδώ και 10 χρόνια και έχουμε δύο παιδιά.</text>
      <i18nText>We have been married for 10 years and we have two children.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3976b470-a47f-4242-8f3d-f706b747c75c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1747,9 +1747,9 @@
      <foreignId>{ef982491-0319-41cb-93ff-c99a4adb6cf0}</foreignId>
      <text>Ο George είναι ο πατέρας του Robert και της Susan.</text>
      <i18nText>George is Robert's and Susan's father.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{73c1ced5-7db1-4eaf-8881-5097f70b0eae}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1768,9 +1768,9 @@
      <text>Η
 Anne είναι το μικρότερο παιδί στην οικογένειά μας.</text>
      <i18nText>Anne is the youngest child in our family.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{15a111a6-5374-4b09-99e9-0c1416d0b61e}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1788,9 +1788,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{a76df398-1e68-442e-8944-d4ca0c17aaaf}</foreignId>
      <text>Η σύγχρονη πυρηνική οικογένεια αποτελείται από τον πατέρα - κουβαλητή, τη μητέρα - νοικοκυρά και αρκετά παιδιά.</text>
      <i18nText>The modern nuclear family consists of dad the breadwinner, mum the housewife and several children.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{04b3571d-a4dc-49db-8976-22111cc92227}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1808,9 +1808,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{c6ef1ec6-0c36-45bd-888a-3fc7a6d75157}</foreignId>
      <text>Ο πατέρας μου είναι μηχανικός.</text>
      <i18nText>My father is an engineer.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e2f3835f-b3b3-46b5-af44-340982accb62}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1828,9 +1828,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{c8e812e6-d98e-4154-972a-acbd051e42cd}</foreignId>
      <text>Έχετε αδέρφια;</text>
      <i18nText>Do you have any siblings?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{537aadde-460b-4a8c-9810-9430d909c6fa}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1848,9 +1848,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{d715af37-b8c2-4f68-a8f0-fb1940717027}</foreignId>
      <text>Οι γονείς σας έχουν χωρίσει ή εξακολουθούν να ζουν μαζί;</text>
      <i18nText>Are your parents separated or they still live together?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f161d2a8-88ca-4022-8bd3-ed9319f01c80}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1866,11 +1866,11 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{b21b6d68-31e0-4c15-966a-462cfe653a3f}</id>
      <foreignId>{a45ad81d-c749-49e7-a752-25e8b358f093}</foreignId>
-     <text>Η Julia και η Holy είναι δίδυμες και φαίνονται ακριβώς ίδιες. Έχουν μεγαλώσει μαζί και από τότε που ήταν παιδιά η μητέρα τους προσπαθούσε να τις ντύνει τον ίδιο τρόπο. Υπάρχουν πολλές φωτογραφίες στο άλμπουμ της οικογένειας, όπου τα κορίτσια είναι ολόιδια.</text>
+     <text>Η Julia και η Holy είναι δίδυμες και φαίνονται ακριβώς ίδιες. Έχουν μεγαλώσει μαζί και από τότε που ήταν παιδιά η μητέρα τους προσπαθούσε να τις ντύνει με τον ίδιο τρόπο. Υπάρχουν πολλές φωτογραφίες στο άλμπουμ της οικογένειας, όπου τα κορίτσια είναι ολόιδια.</text>
      <i18nText>Julia and Holy are twins and they look exactly the same. They have been brought up together and since they were kids their mother tried to dress them identically. There are many pictures in the family album where the girls are indistinguishable.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b21b6d68-31e0-4c15-966a-462cfe653a3f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1888,9 +1888,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{e6ad70f5-ff48-4ccb-a6ba-54ea6d8a3995}</foreignId>
      <text>Οι γονείς μου χώρισαν πριν από έναν χρόνο. Μετά το διαζύγιο η μητέρα μου παντρεύτηκε έναν καναδό μηχανικό και μετακόμισε στο Τορόντο. Ο πατέρας μου έμεινε στην Ουάσιγκτον και αποφάσισα να ζήσω μαζί του.</text>
      <i18nText>My parents got divorced a year ago. After the divorce my mother married a Canadian engineer and moved to Toronto. My father stayed in Washington and I decided to live with him.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{94c13ae7-be2a-4b7c-9f5c-db532d6ca159}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -3952,771 +3952,773 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{c8eb7b5f-03a9-4ead-86af-b67822d6c7e2}</id>
      <foreignId>{ae35c2ce-2c62-4c8a-847b-5b7320e16ef4}</foreignId>
-     <text>hour</text>
+     <text>ώρα</text>
      <i18nText>hour</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c8eb7b5f-03a9-4ead-86af-b67822d6c7e2}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60c3ceca-8ac8-41e9-b821-7af55f4d086e}</id>
      <foreignId>{c5b3d17e-929a-457b-addf-b308b563ea2d}</foreignId>
-     <text>minute</text>
+     <text>λεπτό</text>
      <i18nText>minute</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5ab49703-15d0-43d2-912f-faad6285b967}</id>
      <foreignId>{6e53d461-1b6e-45ec-8ce8-93c6deb0c85b}</foreignId>
-     <text>second</text>
+     <text>δευτερόλεπτο</text>
      <i18nText>second</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5ab49703-15d0-43d2-912f-faad6285b967}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a0786808-f378-4eef-b1a7-3464a142b2b2}</id>
      <foreignId>{00a2ab96-367b-4ee9-bcb2-0e21dd30ec12}</foreignId>
-     <text>morning</text>
+     <text>πρωί</text>
      <i18nText>morning</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4046add3-3358-4744-a58f-186762b44096}</id>
      <foreignId>{94fb6368-3554-499a-ac67-074a84cb95a0}</foreignId>
-     <text>afternoon</text>
+     <text>απόγευμα</text>
      <i18nText>afternoon</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4046add3-3358-4744-a58f-186762b44096}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d728be2e-37a4-4677-bfd7-df5d296c7a28}</id>
      <foreignId>{91c15fee-4501-4501-a9cf-b1ffbb5fbdf9}</foreignId>
-     <text>evening</text>
+     <text>βράδυ</text>
      <i18nText>evening</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6c50eb9f-e1f6-4ca8-88e0-4ad317459aa3}</id>
      <foreignId>{f8c2706c-675d-4d2b-ac86-34b10743a318}</foreignId>
-     <text>day</text>
+     <text>μέρα</text>
      <i18nText>day</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6c50eb9f-e1f6-4ca8-88e0-4ad317459aa3}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9883247c-8382-4c2c-8bb3-3c301600d420}</id>
      <foreignId>{035bfa88-a2de-4b70-898a-84d31ee7b9ba}</foreignId>
-     <text>night</text>
+     <text>νύχτα</text>
      <i18nText>night</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a3ef0cee-f86c-4cdf-93b3-ccae045cac1f}</id>
      <foreignId>{1532e66f-a0e1-4cd7-8763-d42e651379bb}</foreignId>
-     <text>half</text>
+     <text>μισή</text>
      <i18nText>half</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a3ef0cee-f86c-4cdf-93b3-ccae045cac1f}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>completed</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{00a50e21-c29c-4fc8-9627-8d8f82e58dac}</id>
      <foreignId>{b236085a-b33c-41f8-9558-b0906d6ca8cb}</foreignId>
-     <text>quarter</text>
+     <text>τέταρτο</text>
      <i18nText>quarter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{083f68bc-3606-40b8-9b62-66d65f0651d3}</id>
      <foreignId>{465f47c1-6e2e-4b0f-9e09-e035c4b4ff8e}</foreignId>
-     <text>week</text>
+     <text>εβδομάδα</text>
      <i18nText>week</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{083f68bc-3606-40b8-9b62-66d65f0651d3}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{73b0b54d-b379-457a-a4a9-80d90e5b17db}</id>
      <foreignId>{9822a8a9-a5bc-4f29-92a3-99d159113d03}</foreignId>
-     <text>Monday</text>
+     <text>Δευτέρα</text>
      <i18nText>Monday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{81d3fb1b-3591-4111-a069-11376c90467e}</id>
      <foreignId>{277f067d-a046-49db-9ad2-d65c5a66525a}</foreignId>
-     <text>Tuesday</text>
+     <text>Τρίτη</text>
      <i18nText>Tuesday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{81d3fb1b-3591-4111-a069-11376c90467e}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e7f26a97-7caa-4e96-9686-37661fe26320}</id>
      <foreignId>{6e7a38a5-3fe2-42b4-a218-94e96eea1c0f}</foreignId>
-     <text>Wednesday</text>
+     <text>Τετάρτη</text>
      <i18nText>Wednesday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{42bdee7b-d4dc-4cb5-8cc4-1f58bc7dd06d}</id>
      <foreignId>{1a4b48b7-56a9-491f-bb6c-0e0cd9c43cde}</foreignId>
-     <text>Thursday</text>
+     <text>Πέμπτη</text>
      <i18nText>Thursday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{42bdee7b-d4dc-4cb5-8cc4-1f58bc7dd06d}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{011454b3-cbf1-49b3-897a-4e913ce2e78a}</id>
      <foreignId>{74fa92a1-19d0-453a-9536-561516f19ceb}</foreignId>
-     <text>Friday</text>
+     <text>Παρασκευή</text>
      <i18nText>Friday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2bef4224-0c5c-418c-93af-f30eff1e8d27}</id>
      <foreignId>{c8579df1-7426-49b1-9eff-1d5d504cd7a1}</foreignId>
-     <text>Saturday</text>
+     <text>Σάββατο</text>
      <i18nText>Saturday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2bef4224-0c5c-418c-93af-f30eff1e8d27}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{86d637e7-51dc-4f1a-9097-9b6d856c5b43}</id>
      <foreignId>{1d2dad26-790a-4385-986e-a7709c151487}</foreignId>
-     <text>Sunday</text>
+     <text>Κυριακή</text>
      <i18nText>Sunday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{378a15cd-8bfb-462a-a8d9-7abd4bb7b8cc}</id>
      <foreignId>{e4419e87-85c5-44f7-9b04-2b00e023a326}</foreignId>
-     <text>month</text>
+     <text>μήνας</text>
      <i18nText>month</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{378a15cd-8bfb-462a-a8d9-7abd4bb7b8cc}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{622d182f-cdab-4616-b10e-77ce58921ade}</id>
      <foreignId>{c04a9c01-e56e-4cff-9e59-a9fcbfbe0823}</foreignId>
-     <text>January</text>
+     <text>Ιανουάριος</text>
      <i18nText>January</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b0225e19-9d0b-42cb-b3af-0e17afe689ab}</id>
      <foreignId>{00bada29-0cd1-49c7-b738-f26a800647d7}</foreignId>
-     <text>February</text>
+     <text>Φεβρουάριος</text>
      <i18nText>February</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b0225e19-9d0b-42cb-b3af-0e17afe689ab}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e101954-6f91-42ab-b9bf-d9083f42f947}</id>
      <foreignId>{4faed864-c6bc-4186-8501-8c5b91fef5a3}</foreignId>
-     <text>March</text>
+     <text>Μάρτιος</text>
      <i18nText>March</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{892d1bc6-caee-4d91-9821-2a316e2d46e1}</id>
      <foreignId>{8ca1a0c4-e70e-4d27-808e-63b74f243c12}</foreignId>
-     <text>April</text>
+     <text>Απρίλιος</text>
      <i18nText>April</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{892d1bc6-caee-4d91-9821-2a316e2d46e1}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{684093b2-ae91-4843-9da2-b8ca906a6c34}</id>
      <foreignId>{c6ebefad-4dde-45d4-b887-8ffacbd902e2}</foreignId>
-     <text>May</text>
+     <text>Μάιος</text>
      <i18nText>May</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9462fa4d-ff26-4b73-be2c-ea491314355a}</id>
      <foreignId>{7507cab0-4fd2-49f1-808d-862e145d2a76}</foreignId>
-     <text>June</text>
+     <text>Ιούνιος</text>
      <i18nText>June</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9462fa4d-ff26-4b73-be2c-ea491314355a}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{590153d4-7314-435a-9189-cd12180c9cdf}</id>
      <foreignId>{666a5101-fd4a-487c-8223-157c120e20eb}</foreignId>
-     <text>July</text>
+     <text>Ιούλιος</text>
      <i18nText>July</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{94eea3c6-041d-42d6-a4e7-e546aec6e390}</id>
      <foreignId>{5b280d4a-c342-4a65-b5f2-2f96130766ee}</foreignId>
-     <text>August</text>
+     <text>Αύγουστος</text>
      <i18nText>August</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{94eea3c6-041d-42d6-a4e7-e546aec6e390}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a7821445-e8e1-42b9-8b33-b1ff1d506f1f}</id>
      <foreignId>{c7cbf0a6-69ac-41b8-b9fb-c7a6b9cf6ea5}</foreignId>
-     <text>September</text>
+     <text>Σεπτέμβριος</text>
      <i18nText>September</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2a0656c3-e533-43d3-90be-0e8e8507f573}</id>
      <foreignId>{d1d31fb1-d8e7-488e-b958-1a5f55fe9517}</foreignId>
-     <text>October</text>
+     <text>Οκώβριος</text>
      <i18nText>October</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2a0656c3-e533-43d3-90be-0e8e8507f573}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4500fd28-535d-4cbe-afe7-571a1d3cf2fb}</id>
      <foreignId>{35abad03-516a-42b1-95ed-3668ffac7aeb}</foreignId>
-     <text>November</text>
+     <text>Νοέμβριος</text>
      <i18nText>November</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{34e3a986-58f0-47a5-b2eb-3f77ae53605e}</id>
      <foreignId>{69dd0405-d468-40e8-aa9e-864230543a34}</foreignId>
-     <text>December</text>
+     <text>Δεκέμβριος</text>
      <i18nText>December</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{34e3a986-58f0-47a5-b2eb-3f77ae53605e}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{69000663-218a-4da9-8213-12aa28f08c4c}</id>
      <foreignId>{5204eb4d-7da4-461a-a7b3-bdcd6b6887a2}</foreignId>
-     <text>year</text>
+     <text>έτος</text>
      <i18nText>year</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{96281dd3-d3bc-45b5-bce6-61f3109a57de}</id>
      <foreignId>{36335b54-7f72-43ce-9b0f-6dbab028f30c}</foreignId>
-     <text>decade</text>
+     <text>δεκαετία</text>
      <i18nText>decade</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{96281dd3-d3bc-45b5-bce6-61f3109a57de}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6a9d5ea2-2959-4150-b9f8-4f22b8c1ffda}</id>
      <foreignId>{7f99d382-d61e-44e5-a375-4b3f2cbb6b10}</foreignId>
-     <text>calendar</text>
+     <text>ημερολόγιο</text>
      <i18nText>calendar</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2ff90c44-4683-4048-9346-0ab4151e0c06}</id>
      <foreignId>{38f4481a-44b8-425d-9241-549f06c418e5}</foreignId>
-     <text>weekend</text>
+     <text>σαββατοκύριακο</text>
      <i18nText>weekend</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2ff90c44-4683-4048-9346-0ab4151e0c06}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2fbdf48d-68ea-4f34-af73-b68495bc73dd}</id>
      <foreignId>{5858fbef-9663-4ad4-bb88-aa274444181d}</foreignId>
-     <text>quarter to twelve</text>
+     <text>δώδεκα παρα τέταρτο</text>
      <i18nText>quarter to twelve</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{63967aca-7058-4599-b94b-9cece4b675a3}</id>
      <foreignId>{efed04e6-9959-488a-a977-e851f4384b20}</foreignId>
-     <text>half past eight</text>
+     <text>οχτώμιση</text>
      <i18nText>half past eight</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{63967aca-7058-4599-b94b-9cece4b675a3}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bfdd6151-84cb-4112-a168-599bd3315af4}</id>
      <foreignId>{d9845eb7-1801-4f4e-8e80-b04bdcbd0e8e}</foreignId>
-     <text>10 minutes past midnight</text>
+     <text>δέκα λεπτά μετά τα μεσάνυχτα</text>
      <i18nText>10 minutes past midnight</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{adbf218a-c4d7-4175-9e44-a372a34051b3}</id>
      <foreignId>{de680210-fa6b-49e6-a41d-fa50ed506d4c}</foreignId>
-     <text>25th of December</text>
+     <text>εικοστή πέμπτη Δεκεμβρίου</text>
      <i18nText>25th of December</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{adbf218a-c4d7-4175-9e44-a372a34051b3}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{13536f57-0c64-4f96-b446-0ff611d2ffe1}</id>
      <foreignId>{f9185dc8-c4f0-4b37-80b8-a83a7ef8df83}</foreignId>
-     <text>New Year's Eve</text>
+     <text>παραμονή πρωτοχρονιάς</text>
      <i18nText>New Year's Eve</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4186b7d1-1179-4219-8921-7400af71c22a}</id>
      <foreignId>{93e3b0b8-b500-4305-90d9-2a371aedfbc3}</foreignId>
-     <text>Christmas Day</text>
+     <text>Χριστούγεννα</text>
      <i18nText>Christmas Day</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4186b7d1-1179-4219-8921-7400af71c22a}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9b3a25c8-cf0b-4927-b57f-246cbf8a0857}</id>
      <foreignId>{e2557b04-4951-4140-9be6-4ac6f31a3f62}</foreignId>
-     <text>5 pm</text>
+     <text>πέντε μετά μεσημβρίαν</text>
      <i18nText>5 pm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89479fcc-8f9a-4c9a-bcc3-a25eb1dfe258}</id>
      <foreignId>{a0632227-3977-492e-b1c8-0f9bf672372a}</foreignId>
-     <text>1 am</text>
+     <text>μία προ μεσημβρίας</text>
      <i18nText>1 am</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{89479fcc-8f9a-4c9a-bcc3-a25eb1dfe258}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1324bcff-3564-4151-b624-d4b30cd6e1b7}</id>
      <foreignId>{f0adbbcd-e92c-48d2-a1de-4b27eb448db2}</foreignId>
-     <text>Before Christ</text>
+     <text>Προ Χριστού</text>
      <i18nText>Before Christ</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2ae46817-c80f-40e3-92c8-dd1c81040631}</id>
      <foreignId>{825884b6-0644-4cd9-a7c3-2d4462fc25a4}</foreignId>
-     <text>XXI century</text>
+     <text>εικοστός πρώτος αιώνας</text>
      <i18nText>XXI century</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2ae46817-c80f-40e3-92c8-dd1c81040631}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5cb5c1bd-f86a-4545-8e88-f5a8536ff6bb}</id>
      <foreignId>{0346bda3-8f3c-4487-860c-3b8c0def5ae9}</foreignId>
-     <text>around 10 o'clock</text>
+     <text>γύρω στις δέκα</text>
      <i18nText>around 10 o'clock</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{628b302e-036b-4e8c-9ab4-0a7022f30322}</id>
      <foreignId>{5feee433-1ad9-44a4-95e7-2b971e946ada}</foreignId>
-     <text>public holiday</text>
+     <text>αργία</text>
      <i18nText>public holiday</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89e70129-4700-46e9-a761-2a81a809db80}</id>
      <foreignId>{d71a5ab4-511a-47e4-a78b-f60884e0ac46}</foreignId>
-     <text>working week</text>
+     <text>εργάσιμη εβδομάδα</text>
      <i18nText>working week</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5691def4-2bfc-491f-af6f-02df94b0cf9f}</id>
      <foreignId>{fc671988-937e-4787-97b2-bf26da11ff4f}</foreignId>
-     <text>early twenties</text>
+     <text>στις αρχές του εικοστού</text>
      <i18nText>early twenties</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{22ed82ca-bf97-41b4-99c1-776e618edc08}</id>
      <foreignId>{3baea57e-8dda-4463-92ee-54003c50a085}</foreignId>
-     <text>100 hours</text>
+     <text>εκατό ώρες</text>
      <i18nText>100 hours</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{10cff57e-4418-49ec-8206-06c0baa4e472}</id>
      <foreignId>{3e2bc2c7-0725-429c-8859-657baff94a43}</foreignId>
-     <text>few minutes ago</text>
+     <text>λίγα λεπτά πριν</text>
      <i18nText>few minutes ago</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3343f99c-e1a3-4126-9e59-71ac164702f6}</id>
      <foreignId>{3a501153-1290-4910-869a-019b135baf67}</foreignId>
-     <text>last week</text>
+     <text>την περασμένη εβδομάδα</text>
      <i18nText>last week</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{38e3d2bf-cb91-4a69-b9c7-a3efb6fcdf92}</id>
      <foreignId>{c9f1c2a8-029b-4be2-bafb-dc728d653b2b}</foreignId>
-     <text>in the future</text>
+     <text>στο μέλλον</text>
      <i18nText>in the future</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d05fd658-1a8c-4de8-b0a2-9b3bce30ec87}</id>
      <foreignId>{0bb615c9-e50a-4713-9d8b-9beedde1c861}</foreignId>
-     <text>following year</text>
+     <text>του χρόνου</text>
      <i18nText>following year</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1074e673-2086-46fd-8f30-f603c1afd007}</id>
      <foreignId>{9ddc1d37-151f-46ca-83fb-ff521d399606}</foreignId>
-     <text>4th August 1972</text>
+     <text>τέσσερις Αυγούστου του 1972</text>
      <i18nText>4th August 1972</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f5dd9358-fa1c-412b-a651-72cf448c8ee6}</id>
      <foreignId>{cd8628d8-444f-4d88-8791-bb31743a6ec6}</foreignId>
-     <text>time zone</text>
+     <text>ζώνη ώρας</text>
      <i18nText>time zone</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b4c6e5d3-d8e3-4dd1-b10d-4bffcd4db11e}</id>
      <foreignId>{c2abd6f8-633b-4d15-ad49-b362c89225ab}</foreignId>
-     <text>It is first of July 2012.</text>
+     <text>Είναι η πρώτη Ιουλίου του 2012.</text>
      <i18nText>It is first of July 2012.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{abcb9dda-12d2-4eb7-a4c0-de9975133d4d}</id>
      <foreignId>{4eca4f60-dccd-4f39-876b-68ae2610be5b}</foreignId>
-     <text>We are meeting on Monday.</text>
+     <text>Συναντιόμαστε τη Δευτέρα.</text>
      <i18nText>We are meeting on Monday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7e83045c-e1ae-4afb-939f-238438ceb67e}</id>
      <foreignId>{baafc251-1b2c-43c6-82ea-fce70e9a03a9}</foreignId>
-     <text>My birthday is on the 22nd of November.</text>
+     <text>Τα γενέθλιά μου είναι στις 22 Νοεμβρίου.</text>
      <i18nText>My birthday is on the 22nd of November.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{db963018-1e43-4a4b-872a-9bb2cfb7e2c1}</id>
      <foreignId>{beea2ec5-ae82-4249-816d-fbb81fc0277a}</foreignId>
-     <text>It is 12 o'clock.</text>
+     <text>Είναι δώδεκα.</text>
      <i18nText>It is 12 o'clock.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c6f54ddc-5f06-4a3a-9036-d0a1cb5a250c}</id>
      <foreignId>{119ebe92-16e8-4c35-85c4-7a704fd3ce20}</foreignId>
-     <text>He was born in 1988.</text>
+     <text>Γεννήθηκε το 1988.</text>
      <i18nText>He was born in 1988.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{04946bb6-6bb8-48ac-8c56-4e7f7238ba8c}</id>
      <foreignId>{237ce4bc-264c-4950-bb5c-01626bee84eb}</foreignId>
-     <text>What time is it?</text>
+     <text>Τι ώρα είναι;</text>
      <i18nText>What time is it?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3e9ea07d-22e5-4d09-b94c-ece475d0d510}</id>
      <foreignId>{be0a5a95-f9ec-41e2-b76f-b796cedb2458}</foreignId>
-     <text>I work through all week except Saturdays and Sundays.</text>
+     <text>Δουλεύω όλη την εβδομάδα εκτός Σαββάτου και Κυριακής.</text>
      <i18nText>I work through all week except Saturdays and Sundays.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5f5ad225-e0fb-42f4-ac66-5d6abb72c49a}</id>
      <foreignId>{a4a1a498-a12f-41e6-96fa-da5026bf64b0}</foreignId>
-     <text>1st of October is Chinese National Day.</text>
+     <text>Η πρώτη Οκτωβρίου είναι η κινεζική Εθνική Επέτειος.</text>
      <i18nText>1st of October is Chinese National Day.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b8d24bbb-75b5-4ff3-af28-a175116a59da}</id>
      <foreignId>{e53a316a-4758-46d5-aeca-9e72506ce7af}</foreignId>
-     <text>When is your birthday?</text>
+     <text>Πότε είναι τα γενέθλιά σας;</text>
      <i18nText>When is your birthday?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9e30b25f-815e-4db2-8a0e-8555d2e32f95}</id>
      <foreignId>{13f445de-ba11-4bd0-bd8c-e1f23e5d930c}</foreignId>
-     <text>A millennium is a period of one thousand years.</text>
+     <text>Μια χιλιετία είναι μια περίοδος χιλίων χρόνων.</text>
      <i18nText>A millennium is a period of one thousand years.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{097f3340-ccff-4e10-add6-59e983765ba1}</id>
      <foreignId>{ee5e1777-62a8-4854-8239-9150e5633039}</foreignId>
-     <text>My training period is from April 15 to May 11.</text>
+     <text>Η περίοδος εκπαίδευσής μου είναι από τις 15 Απριλίου έως τις 11 Μαΐου.</text>
      <i18nText>My training period is from April 15 to May 11.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{09f5a67a-e123-489d-9846-975140d380fc}</id>
      <foreignId>{f7673017-5562-4d37-b2b3-1490971353c7}</foreignId>
-     <text>Valentine's Day is 14th of February.</text>
+     <text>Η ημέρα του Αγίου Βαλεντίνου είναι η 14η Φεβρουαρίου.</text>
      <i18nText>Valentine's Day is 14th of February.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7cd821b4-0611-46df-a582-7082858c5942}</id>
      <foreignId>{9683bd47-1071-4337-82b9-cbead8b662b6}</foreignId>
-     <text>Most people in France go on holiday in July.</text>
+     <text>Οι περισσότεροι άνθρωποι στη Γαλλία πάνε διακοπές τον Ιούλιο.</text>
      <i18nText>Most people in France go on holiday in July.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5488f823-9cb2-433d-8180-6fabc032bde4}</id>
      <foreignId>{d0053de5-1270-46cb-83b2-656a97e7b3f3}</foreignId>
-     <text>I am going to a party next Friday.</text>
+     <text>Θα πάω σε ένα πάρτι την επόμενη Παρασκευή.</text>
      <i18nText>I am going to a party next Friday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5abd0191-8d41-47a4-935d-602559432e5e}</id>
      <foreignId>{db36973e-59fc-4ad9-ac82-7066a9c7269f}</foreignId>
-     <text>When does the concert begin?</text>
+     <text>Πότε αρχίζει η συναυλία;</text>
      <i18nText>When does the concert begin?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0b9000a2-0710-479b-a561-ccb4baf93658}</id>
      <foreignId>{fa1dd8f7-08d0-4883-87f2-d0ce44cc676f}</foreignId>
-     <text>We land at 5.30 pm local time.</text>
+     <text>Προσγειωνόμαστε στις 5.30 μ.μ. τοπική ώρα.</text>
      <i18nText>We land at 5.30 pm local time.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ede3a99d-8514-43ab-93f5-87c46d0d7f29}</id>
      <foreignId>{229e2379-9afe-4b1c-8174-4c51d79891eb}</foreignId>
-     <text>Easter is a movable feast. Last year Easter Sunday was in first week of April.</text>
+     <text>Το Πάσχα είναι κινητή γιορτή. Πέρυσι η Κυριακή του Πάσχα ήταν στην πρώτη εβδομάδα του Απριλίου.</text>
      <i18nText>Easter is a movable feast. Last year Easter Sunday was in first week of April.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{03955303-5cb4-4047-856f-770cd57229d1}</id>
      <foreignId>{f94d3270-cf6c-486e-9ec1-c0f8fc757151}</foreignId>
-     <text>4th of July is an important date in American history. On this day in 1776 America declared independence from Great Britain. After this it became a national holiday.</text>
+     <text>Η 4η Ιουλίου είναι μια σημαντική ημερομηνία στην ιστορία της Αμερικής. Την ημέρα αυτή το 1776 η Αμερική διακήρυξε την ανεξαρτησία της από τη Μεγάλη Βρετανία. Μετά από αυτό καθιερώθηκε ως εθνική γιορτή.</text>
      <i18nText>4th of July is an important date in American history. On this day in 1776 America declared independence from Great Britain. After this it became a national holiday.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{add27908-fd36-41ed-8fee-d069aeee8db3}</id>
      <foreignId>{768f6a4a-ef4d-4e7b-9ad9-adef38a3fcca}</foreignId>
-     <text>Christopher Columbus was born on 31 October 1451. He become famous for discovering America. He died in 1506 at the age of 54.</text>
+     <text>Ο Χριστόφορος Κολόμβος γεννήθηκε στις 31 Οκτωβρίου του 1451. Έχει γίνει διάσημος για την ανακάλυψη της Αμερικής. Πέθανε το 1506 στην ηλικία των 54 ετών.</text>
      <i18nText>Christopher Columbus was born on 31 October 1451. He become famous for discovering America. He died in 1506 at the age of 54.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1e9b7b1c-7b08-4aeb-8aa7-9a8d366611ab}</id>
      <foreignId>{2a75e701-f615-4af3-9217-795afc8d0193}</foreignId>
-     <text>The meeting is going to be at 1 pm. It is going to last for 1 hour and 30 minutes.</text>
+     <text>Η συνάντηση θα είναι στις 13:00. Πρόκειται να διαρκέσει 1 ώρα και 30 λεπτά.</text>
      <i18nText>The meeting is going to be at 1 pm. It is going to last for 1 hour and 30 minutes.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{751f348a-a1c7-46f4-a77a-c5dca301e140}</id>
      <foreignId>{a85b5b1e-5722-4c4d-97f5-ba203356f3e0}</foreignId>
-     <text>We are going to depart at 6 o'clock. Please arrive at least 15 minutes earlier.</text>
+     <text>Θα αναχωρήσουμε στις 6:00. Παρακαλούμε να φτάσετε τουλάχιστον 15 λεπτά νωρίτερα.</text>
      <i18nText>We are going to depart at 6 o'clock. Please arrive at least 15 minutes earlier.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
