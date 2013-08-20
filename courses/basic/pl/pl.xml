@@ -1202,10 +1202,10 @@
      <id>{cb221d47-ff12-42e8-9afc-86c59ea22478}</id>
      <foreignId>{e20e8a6a-c9af-4f31-998e-a9d5e9561c0a}</foreignId>
      <text>Londyn jest stolicą Anglii. Jest to różnorodne miasto z wieloma atrakcjami. Najbardziej znane atrakcje turystyczne to London Eye, National Gallery and Tower of London. Także pałac Buckingham w centrum miasta jest często odwiedzany przez turystów gdyż jest rezydencją brytyjskiej królowej. Codziennie przed pałcem odbywa się zmiana warty co warto zobaczyć.</text>
-     <i18nText>London is a capital of England. It is a diverse and exciting city with many attractions. The most visited tourist attractions are London Eye, the National Gallery and Tower of London. Also Buckingham Palace situated is in the city centre is a popular sight as it is the official residence of the British Queen. Every day in front of the palace Changing the Guard ceremony takes place. This is worth seeing while you are visiting London and it is usually witnessed by large crowds.</i18nText>
+     <i18nText>London is the capital of England. It is a diverse and exciting city with many attractions. The most visited tourist attractions are London Eye, the National Gallery and Tower of London. Also Buckingham Palace, situated is in the city center, is a popular sight as it is the official residence of the British Queen. Every day in front of the palace Changing the Guard ceremony takes place. This is worth seeing while you are visiting London and it is usually witnessed by large crowds.</i18nText>
      <soundFile>{cb221d47-ff12-42e8-9afc-86c59ea22478}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1232,10 +1232,10 @@
      <id>{44e95cd8-38c5-440b-86c6-6f50d716eea9}</id>
      <foreignId>{e7864b6c-dd16-4141-8752-6a42124ff5c6}</foreignId>
      <text>Galeria jest otwarta od poniedziałku do piątku między dziesiątą a siedemnastą. Wejście dla dorosłych kosztuje dziesięć dolarów, a dla dzieci poniżej dwunastu lat pięć dolarów. Robienie zdjęć jest zabronione i aparaty fotograficzne należy zostawić w szatni.</text>
-     <i18nText>The gallery is open Monday-Friday from 10 am until 5 pm.  Entrance fee is 10$ for adults and 5$ for children under 12 years of age. Photographing is strictly prohibited in the whole building and all cameras must be left in the cloakroom.</i18nText>
+     <i18nText>The gallery is open Monday-Friday from 10 am until 5 pm. Entrance fee is 10$ for adults and 5$ for children under 12 years of age. Photographing is strictly prohibited in the whole building and all cameras must be left in the cloakroom.</i18nText>
      <soundFile>{44e95cd8-38c5-440b-86c6-6f50d716eea9}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -1479,10 +1479,10 @@
      <id>{a8632590-0386-4f3a-a1a4-533c211ab065}</id>
      <foreignId>{5cab4a17-e261-460e-83b9-7219cbaac107}</foreignId>
      <text>niemowlę</text>
-     <i18nText>babe</i18nText>
+     <i18nText>baby</i18nText>
      <soundFile>{a8632590-0386-4f3a-a1a4-533c211ab065}.ogg</soundFile>
      <type>word</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1769,10 +1769,10 @@
      <id>{8091e9eb-7b17-4908-920e-1461e7b35216}</id>
      <foreignId>{2a3c6479-3d24-4d3f-a3ba-dfd367b9680e}</foreignId>
      <text>Moja bratowa niedawno zaszła w ciążę i będzie miała dziecko.</text>
-     <i18nText>My sister-in-law just got pregnant and she is expecting a babe.</i18nText>
+     <i18nText>My sister-in-law just got pregnant and she is expecting a baby.</i18nText>
      <soundFile>{8091e9eb-7b17-4908-920e-1461e7b35216}.ogg</soundFile>
      <type>sentence</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1919,10 +1919,10 @@
      <id>{bfb9e666-8be2-4f3f-ad1c-0373c1228dc6}</id>
      <foreignId>{9fe9aead-cfdd-4106-b6fe-3b9ff70607ca}</foreignId>
      <text>Nasza rodzina jest duża. Ja mam dwoje braci i trzy siostry. Mamy także dwadzieścia jeden kuzynów i kuzynek: czternaście od strony taty i siedmioro od strony mamy.</text>
-     <i18nText>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and  seven from my mother's side.</i18nText>
+     <i18nText>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and seven from my mother's side.</i18nText>
      <soundFile>{bfb9e666-8be2-4f3f-ad1c-0373c1228dc6}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2626,10 +2626,10 @@
      <id>{3edfdd4f-25df-4ae4-8acd-90461891113e}</id>
      <foreignId>{6df53553-810b-44ff-a722-a01728b5c6e7}</foreignId>
      <text>Lubię uprawiać sporty. Mój ulubiony to badminton.</text>
-     <i18nText>I like to play sports. My favourite is badminton.</i18nText>
+     <i18nText>I like to play sports. My favorite is badminton.</i18nText>
      <soundFile>{3edfdd4f-25df-4ae4-8acd-90461891113e}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3123,10 +3123,10 @@
      <id>{43354223-c4d7-4158-9542-996f15f02a37}</id>
      <foreignId>{53345892-f6f1-4c9f-ad05-45ec2290ca85}</foreignId>
      <text>W Brazyli mówi się po portugalsku.</text>
-     <i18nText>In Brazil people speak portuguese.</i18nText>
+     <i18nText>In Brazil people speak Portuguese.</i18nText>
      <soundFile>{43354223-c4d7-4158-9542-996f15f02a37}.ogg</soundFile>
      <type>sentence</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3183,10 +3183,10 @@
      <id>{fbccdd35-669d-4cc3-b2f9-5cfc5e253709}</id>
      <foreignId>{5ba2ee29-0342-46f7-a082-37d4452624fd}</foreignId>
      <text>Niemiecka flaga składa się z trzech kolorów: czrewonego, czarngeo i żółtego.</text>
-     <i18nText>There are three colours on German flag: red, black and yellow.</i18nText>
+     <i18nText>There are three colors on German flag: red, black and yellow.</i18nText>
      <soundFile>{fbccdd35-669d-4cc3-b2f9-5cfc5e253709}.ogg</soundFile>
      <type>sentence</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3750,10 +3750,10 @@
      <id>{a3d23067-7807-4cb7-a726-d4fb71dc7f15}</id>
      <foreignId>{d0072f79-dfce-4406-9be5-6af05caba26f}</foreignId>
      <text>klimat śródziemnomorski</text>
-     <i18nText>mediterranean climate</i18nText>
+     <i18nText>Mediterranean climate</i18nText>
      <soundFile>{a3d23067-7807-4cb7-a726-d4fb71dc7f15}.ogg</soundFile>
      <type>expression</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3940,10 +3940,10 @@
      <id>{151bffb0-c6ce-4a12-b2b7-1d8c926cd556}</id>
      <foreignId>{b7e7842b-c462-4130-a980-39b2ecbcea6c}</foreignId>
      <text>Region alpejski ma dużo bardziej ostry kilmat niż reszta kraju.</text>
-     <i18nText>The alpine area  has in general a much harsher climate than the rest of the country.</i18nText>
+     <i18nText>The alpine area has in general a much harsher climate than the rest of the country.</i18nText>
      <soundFile>{151bffb0-c6ce-4a12-b2b7-1d8c926cd556}.ogg</soundFile>
      <type>sentence</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4954,10 +4954,10 @@
      <id>{14d89508-a849-4b8e-8fd3-e771db9581df}</id>
      <foreignId>{e85bc489-bef0-4cdc-aeab-579d2a4966a5}</foreignId>
      <text>piżama</text>
-     <i18nText>pyjama</i18nText>
+     <i18nText>pajamas</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5511,10 +5511,10 @@
      <id>{8ea8110a-fc33-4015-ba29-5a50db85591a}</id>
      <foreignId>{8975628f-e49d-427f-b58a-087e8153abf4}</foreignId>
      <text>teatr</text>
-     <i18nText>theatre</i18nText>
+     <i18nText>theater</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5971,10 +5971,10 @@
      <id>{034b5a1c-403d-4abc-ae87-d41cebb499f2}</id>
      <foreignId>{868d446a-b896-4ba4-952c-7be65f996e67}</foreignId>
      <text>W teatrze ogląda się przedstawienia, musicale i pantonimy.</text>
-     <i18nText>In theatres you can see plays, musicals or pantomimes.</i18nText>
+     <i18nText>In theaters you can see plays, musicals or pantomimes.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6021,10 +6021,10 @@
      <id>{723bc935-a1c1-469e-b38e-01e63cf4b2e1}</id>
      <foreignId>{062656a3-e80d-47f4-8591-ad24650aad1e}</foreignId>
      <text>Lubisz chodzić do teatru?</text>
-     <i18nText>Do you like going to the theatre?</i18nText>
+     <i18nText>Do you like going to the theater?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12700,6 +12700,773 @@
      <foreignId>{81f52b41-ab44-463d-9934-a7f997ed6381}</foreignId>
      <text>Jednym z zagrożeń związanych z posiadaniem zwierząt są upadki. Potykanie się o zwierzęta, w szczególności psy, jest przyczyną ponad osiemdziesięciu sześciu tysięcy poważnych wizyt na pogotowiu. Wśród osób starszych i niepełnosprawnych niektóre z tych wypadków były przyczyną złamania kości lub zagrażały życiu.</text>
      <i18nText>One of the health risks that is associated with pets is falling injuries. Tripping over pets, especially dogs, causes more than 86,000 falls serious enough to prompt a trip to the emergency room each year in the United States. Among elderly and disabled people, these falls have resulted in life-threatening injuries and broken bones.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+   </phrases>
+  </unit>
+  <unit>
+   <id>{86a56ce7-d167-44c5-b8d9-c38c6202e1b4}</id>
+   <foreignId>{59ea8b40-f531-4ffc-a73d-7677dcf6693a}</foreignId>
+   <title>Na imprezie</title>
+   <phrases>
+    <phrase>
+     <id>{a6bd19f5-1053-4817-8cf5-7e3511af8008}</id>
+     <foreignId>{512d4b47-95ee-4b9d-813d-204b6f60b61a}</foreignId>
+     <text>mówić</text>
+     <i18nText>talk</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ad88e6d0-30a1-4e7c-a04c-11034990e36e}</id>
+     <foreignId>{65934ab4-4411-46c8-8e43-fae733280db4}</foreignId>
+     <text>gawędzić</text>
+     <i18nText>chat</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e86cd201-dcd3-48d1-bc14-d986d7f6779d}</id>
+     <foreignId>{3ef417c6-ac7d-46de-a58f-80c6099e45a1}</foreignId>
+     <text>uspołecznić</text>
+     <i18nText>socialize</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{3641808a-3c39-4750-aa5f-486d9af92817}</id>
+     <foreignId>{b29ff080-bd90-403d-a4a7-f5b263b7ec34}</foreignId>
+     <text>spotkać</text>
+     <i18nText>meet</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e4dc687e-a9c8-4911-ab0f-8497d64b8422}</id>
+     <foreignId>{77f6de88-7c7f-4c26-861a-eea57a6281a0}</foreignId>
+     <text>powitać</text>
+     <i18nText>greet</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{36f27aa8-712c-474c-bf66-137300e9483b}</id>
+     <foreignId>{0fb3056f-737c-41f0-a3ef-2d39e5ad59b9}</foreignId>
+     <text>powitanie</text>
+     <i18nText>welcome</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{4153c412-c606-4890-b501-bce6c08e7cc8}</id>
+     <foreignId>{4fc1e04f-79d4-4f9c-8f77-623ed565175f}</foreignId>
+     <text>gratulować</text>
+     <i18nText>congratulate</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{29f56df1-ef41-4e6a-8861-4a716c18bb53}</id>
+     <foreignId>{857464e1-df5e-4fef-9737-f783097e0f34}</foreignId>
+     <text>rodzina</text>
+     <i18nText>family</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{30028ecc-0632-4089-bdf7-7d89d7be7b26}</id>
+     <foreignId>{6535b402-2cb6-4b28-bc5e-b3c7c0ce487e}</foreignId>
+     <text>przyjaciel</text>
+     <i18nText>friend</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{633254b6-3ae0-4112-8594-076e00ce53a8}</id>
+     <foreignId>{5e7b0287-0e95-473a-8264-665bff89fafa}</foreignId>
+     <text>krewny</text>
+     <i18nText>relative</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a96b7301-4add-4aab-992d-de43f8b9ed46}</id>
+     <foreignId>{ebb0c706-8798-463a-9ac2-ddfd237192b8}</foreignId>
+     <text>znajomy</text>
+     <i18nText>acquaintance</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5690fa1c-4dad-436b-b261-70910386a67d}</id>
+     <foreignId>{1b9a1392-697a-4097-8392-a2de48612bfc}</foreignId>
+     <text>mnie</text>
+     <i18nText>me</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{229f257a-8ab6-4903-8e32-19667d3737e0}</id>
+     <foreignId>{535f44a0-2fbe-456b-8d8d-9a247225d20b}</foreignId>
+     <text>mój</text>
+     <i18nText>my</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{23a33fa8-da75-44fd-bf51-40e36a032e20}</id>
+     <foreignId>{ae7385aa-fc33-41e6-a5c1-40f0cf37309b}</foreignId>
+     <text>on</text>
+     <i18nText>he</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ae5ed42e-aaa8-4e85-93e5-cb36367103dd}</id>
+     <foreignId>{63323223-e8d0-475d-8a41-cf71f22ea82c}</foreignId>
+     <text>jej</text>
+     <i18nText>her</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a1a668f9-9852-4660-b779-2f82d317b6a2}</id>
+     <foreignId>{77a02977-f74b-4048-a844-21416473a50d}</foreignId>
+     <text>oni</text>
+     <i18nText>they</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{7d746f9e-66c3-4a0e-9f3e-12ca1a93b0c1}</id>
+     <foreignId>{89e8724a-ac71-4127-8e1a-257b71e4b06e}</foreignId>
+     <text>ich</text>
+     <i18nText>their</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b1273087-4b33-41fb-8e7b-093d153924e7}</id>
+     <foreignId>{7a4b370a-ec24-48d7-9b5f-901e1a7fcb5a}</foreignId>
+     <text>my</text>
+     <i18nText>we</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{3a9e724e-0268-40ec-8c2c-1c9f1951d3f9}</id>
+     <foreignId>{56c0b6ce-b408-4b81-b510-125ffd1f8c30}</foreignId>
+     <text>nasz</text>
+     <i18nText>our</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{40959df4-1293-4131-a4bd-b86f981efc9f}</id>
+     <foreignId>{5522e00c-3549-46a1-828a-c3d080f9491f}</foreignId>
+     <text>śmiać się</text>
+     <i18nText>laugh</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{63bcaf3e-24c4-4db0-af8a-e1710d2f0ef6}</id>
+     <foreignId>{0b5a31f2-4419-45ab-87eb-31e523a75f49}</foreignId>
+     <text>uśmiech</text>
+     <i18nText>smile</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f8497c46-8f7e-48c6-a284-ebe1e8d49ed6}</id>
+     <foreignId>{f225d858-c600-489d-9b60-db3fb4440e5f}</foreignId>
+     <text>cześć</text>
+     <i18nText>Hello</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0f52725b-189d-438f-a136-97039b40ac3b}</id>
+     <foreignId>{a0ee16ed-19bd-4ac6-a079-f4e351366efe}</foreignId>
+     <text>przepraszam</text>
+     <i18nText>sorry</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{180c578b-2079-43ad-86ae-42c597b9466f}</id>
+     <foreignId>{d291e8ce-d3cf-4bb9-ad07-abf2064fd540}</foreignId>
+     <text>proszę</text>
+     <i18nText>please</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a4b5e27a-8797-4cf6-a9d2-5b514aa418f4}</id>
+     <foreignId>{32a5034b-1be4-4bce-9b55-d07016fdcc73}</foreignId>
+     <text>ślub</text>
+     <i18nText>marriage</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{c62aade5-5d9b-41a7-89dc-d674b767b8b1}</id>
+     <foreignId>{a11e3b50-bf65-4698-9563-85646a035366}</foreignId>
+     <text>rocznica</text>
+     <i18nText>anniversary</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{bd31f7a4-ca32-4547-987d-fcc5fc3f4a7d}</id>
+     <foreignId>{a3dc0d21-74cc-4868-9a86-e7e1b89e18ef}</foreignId>
+     <text>urodziny</text>
+     <i18nText>birthday</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{00edb4d3-ba92-4361-ae50-b1777db509e0}</id>
+     <foreignId>{c3901217-c499-4565-9ad8-9976be004035}</foreignId>
+     <text>uroczytość zakończenia studiów</text>
+     <i18nText>graduation</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e6aaea41-9120-473e-b1a9-ffb940f59cd5}</id>
+     <foreignId>{0ae5091f-e31e-465a-811b-562b06f097a9}</foreignId>
+     <text>pożegnanie</text>
+     <i18nText>farewell</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{6a2fd74f-5afc-48a9-a0fb-0454f61cbabe}</id>
+     <foreignId>{c0cd9026-2991-48d5-bd46-9b02f076aa5f}</foreignId>
+     <text>herbata</text>
+     <i18nText>tea</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f5127c19-41c9-4252-bbe3-d6611b4c68fe}</id>
+     <foreignId>{78b73e46-1b7d-4bf3-9f43-0deaf1e7d33a}</foreignId>
+     <text>kawa</text>
+     <i18nText>coffee</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0a7b3aa7-4285-4984-8b81-307cef6fc07d}</id>
+     <foreignId>{b580a41a-27d3-41cf-b150-8cef635248e0}</foreignId>
+     <text>wino</text>
+     <i18nText>wine</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{bc6d7bc5-539b-4a15-a89d-c4256855aa3a}</id>
+     <foreignId>{7a912314-4e29-44f7-9de6-f2c323814d0b}</foreignId>
+     <text>szampan</text>
+     <i18nText>champagne</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{9499f319-bfd2-4b3b-8420-dc1d3495388f}</id>
+     <foreignId>{f7a7e4f2-f357-445b-9251-8029bc8114f7}</foreignId>
+     <text>kolacja</text>
+     <i18nText>dinner</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{69c5e7c3-81f9-4330-979f-b6d6715bc4f6}</id>
+     <foreignId>{46f21a09-8947-4daa-b798-213cc266b992}</foreignId>
+     <text>formalny</text>
+     <i18nText>formal</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5eaa1164-8aca-4326-8aae-6afe516d7620}</id>
+     <foreignId>{995891bd-fd61-44fb-a838-c919f7a08f14}</foreignId>
+     <text>nieformalny</text>
+     <i18nText>casual</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{c0b29062-66cc-42b3-95e4-abb45dcc4511}</id>
+     <foreignId>{a8adf2fc-6385-4085-a543-9d577dbab7a5}</foreignId>
+     <text>dziękuję</text>
+     <i18nText>thank you</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{df864259-db3f-4223-9f7c-28cbcc4d16f9}</id>
+     <foreignId>{06533764-025c-493c-af0d-c0a6ecdd2bee}</foreignId>
+     <text>przepraszam</text>
+     <i18nText>excuse me</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ff8dd63d-07dd-494e-a26b-144469cc8861}</id>
+     <foreignId>{50b36fd6-4a79-4a48-8618-ccada807f78a}</foreignId>
+     <text>przyjemność po mojej stronie</text>
+     <i18nText>my pleasure</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{24f85ff1-a31f-43c2-8ba6-88a7ff3e99a8}</id>
+     <foreignId>{bab4a87e-cae8-4080-a017-a2533d37895a}</foreignId>
+     <text>jest w porządku</text>
+     <i18nText>It's okay</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{679573bd-1cb7-4357-98cc-f1a8cfce91c9}</id>
+     <foreignId>{6ecdec95-65a1-410c-81b9-27ed6ac3168c}</foreignId>
+     <text>tak samo tutaj</text>
+     <i18nText>same here</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{91c70b70-e535-41e9-87fa-87954b86532a}</id>
+     <foreignId>{ebe1f899-cbeb-4de5-ba23-8bb8322afc77}</foreignId>
+     <text>panie i panowie</text>
+     <i18nText>ladies and gentlemen</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{d0a916f2-6d8d-4344-a97d-9d65ce2306ed}</id>
+     <foreignId>{e8327fc2-a787-4e76-9c81-c91a4f8803f1}</foreignId>
+     <text>dobry wieczór</text>
+     <i18nText>good evening</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{c406166e-83db-429d-b0a2-9a33ce1f4637}</id>
+     <foreignId>{4b5dd1be-5998-437a-a583-4757a3ea9892}</foreignId>
+     <text>dobranoc</text>
+     <i18nText>good night</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{14a41e62-667b-4565-8331-758800b3807f}</id>
+     <foreignId>{31fc202a-f54e-4f0e-85d1-57f20e0f2e77}</foreignId>
+     <text>rozmowa</text>
+     <i18nText>small talk</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5e5b40d0-3d41-41cf-96d7-10661d7fdf63}</id>
+     <foreignId>{b7b4d122-720e-4edc-a24c-7456070bd01a}</foreignId>
+     <text>przyjęcie</text>
+     <i18nText>tea party</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{574491e0-7d6c-45fb-bd0c-c08422f2735e}</id>
+     <foreignId>{9a6dc3e3-86c7-41c2-ac8c-6505b72758d9}</foreignId>
+     <text>cocktail party</text>
+     <i18nText>cocktail party</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{157c31a0-6a78-4c5e-a731-492dfd401011}</id>
+     <foreignId>{3324a508-82e4-439b-8b8f-8855acac6da2}</foreignId>
+     <text>impreza niespodzianka</text>
+     <i18nText>surprise party</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e92888aa-7c28-45da-a6ff-4da8d8821b32}</id>
+     <foreignId>{64c4d159-8d14-43ed-acbe-7976b752cdbd}</foreignId>
+     <text>przyjęcie weselne</text>
+     <i18nText>wedding reception</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{09133f07-e072-4f6a-b17a-6af1452d67b1}</id>
+     <foreignId>{10b30e0a-af33-4ed3-8946-179c76c1d80d}</foreignId>
+     <text>przyjęcie dla nowonarodzonego dziecka</text>
+     <i18nText>baby shower</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{076f894a-603c-49c2-9f60-8bde0e1ddc77}</id>
+     <foreignId>{7e2d442b-8651-4b27-b6fe-078037dca343}</foreignId>
+     <text>uroczystosc charytatywna</text>
+     <i18nText>fundraising ceremony</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{10bc9947-c5fa-41c9-b8b6-cd21210acff4}</id>
+     <foreignId>{7fba0ec3-d24f-422a-94a3-ae28821b9cb8}</foreignId>
+     <text>bal przebierańców</text>
+     <i18nText>masquerade ball</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e1e21b4f-e1c4-4602-994e-a31629b92e9a}</id>
+     <foreignId>{88ea2fdb-d331-4e75-9f14-d2d6a4f17ff2}</foreignId>
+     <text>wygląda wspaniale</text>
+     <i18nText>looks gorgeous</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{0f1cad07-dda5-4a6a-95c2-7d35e5befc16}</id>
+     <foreignId>{f38da704-55e9-4c8b-b78b-6fa61c3f365f}</foreignId>
+     <text>słodka mała dziewczynka</text>
+     <i18nText>cute little girl</i18nText>
+     <soundFile></soundFile>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5bee9989-b479-4555-883f-e2bd3e566b3a}</id>
+     <foreignId>{ee9a8ce1-1332-4a83-a33b-d86d7b0b2d5a}</foreignId>
+     <text>parapetówka</text>
+     <i18nText>housewarming party</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ddf17fb4-9ee3-47b9-a175-59a7be33a629}</id>
+     <foreignId>{193738a4-abde-4e49-942f-b5e211dd20e5}</foreignId>
+     <text>dyskoteka</text>
+     <i18nText>dance party</i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f734957e-6d2b-4955-a878-f8898f21ef75}</id>
+     <foreignId>{ea291596-4a58-411f-9c1a-26ec21d11390}</foreignId>
+     <text>Chcesz iść ze mną na studniówkę?</text>
+     <i18nText>Would you like to go to the prom with me?</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{c10cdef4-80f8-404f-9f7d-bec180ea766b}</id>
+     <foreignId>{93662b29-0d33-4bd1-b74c-c5054276af37}</foreignId>
+     <text>Karolina wygląda oszałamiająco w tej purpurowej sukni.</text>
+     <i18nText>Carol looks stunning in that purple gown.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{102ca299-af22-4aba-8a86-3e394b23263e}</id>
+     <foreignId>{931a6942-d230-45f2-a812-c9bf19c9a0df}</foreignId>
+     <text>Będziemy organizować przyjęcie zaręczynowe wkrótce.</text>
+     <i18nText>We will be throwing our engagement party soon.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2327f92a-a435-4961-931c-2cf9d3929540}</id>
+     <foreignId>{48533d15-bb64-4999-9773-1fdb4a0b0e5b}</foreignId>
+     <text>Chciałbym, żebyś przyszedł na plażową imprezę w niedzielę.</text>
+     <i18nText>I'd like you to come to the beach party on Sunday.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f2c8d9ba-765e-4c0d-88c4-e891cbb22745}</id>
+     <foreignId>{bc0aaf07-5758-41a2-9a0a-0ca8642c7d7b}</foreignId>
+     <text>Czekałem na przyjęcie z okazji ukończenia studiów bardzo długo.</text>
+     <i18nText>I have been waiting for the graduation party for a very long time.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{78fc39d7-d84f-460d-ab36-bd574964525d}</id>
+     <foreignId>{b9dc533d-9ec6-45dd-aba1-4fce94afdbf5}</foreignId>
+     <text>Spotykamy się po pięciu latach.</text>
+     <i18nText>We are meeting after five years.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{893d39c1-7a43-4c17-84a4-f41dc55fc1a2}</id>
+     <foreignId>{3625945b-c191-47a4-b6d2-5d86aebc312b}</foreignId>
+     <text>Rodzice Pawła zorganizowali małą imprezę  poweselną dla nowo poślubionej pary.</text>
+     <i18nText>Phil's parents have arranged for a small post wedding reception party for the newly wed couple.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{d72719ac-7ae7-4c37-ad3b-704c606ddf75}</id>
+     <foreignId>{fd4044e8-c45c-4c65-8323-5faa78bbcd4a}</foreignId>
+     <text>Zuzanna zaprosiła mnie do siebie nocować.</text>
+     <i18nText>Susan invited me over to her place for a sleepover party.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f652830a-0d55-4f47-83a8-a529a4caf555}</id>
+     <foreignId>{1cd9aa1c-cb48-43e0-910c-16993c5746b2}</foreignId>
+     <text>Maria planuje swoje wesele od wieków.</text>
+     <i18nText>Marie has been planning for her marriage party since ages.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{5efbfc57-57ba-47b4-bae3-d9589573b3ab}</id>
+     <foreignId>{7f8094c9-abff-41f6-83af-e04dac2b2a7b}</foreignId>
+     <text>Myślę, że cię spotkałem wcześniej.</text>
+     <i18nText>I think I met you before.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{d4a196f4-71f1-4566-b968-866e4aa49f4c}</id>
+     <foreignId>{8494f4b0-75f4-46f5-94d7-702cf59cc7aa}</foreignId>
+     <text>Lily i George tworzą piękną parę.</text>
+     <i18nText>Lily and George make a beautiful couple.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{71ee646e-a235-49b2-ab52-249b8baac0f9}</id>
+     <foreignId>{fbeea374-74b0-4c58-ab2b-1dda04474502}</foreignId>
+     <text>Impreza z okzaji nowonarodzonego dziecka Julii jest w środę.</text>
+     <i18nText>Julie's baby shower party is on Wednesday.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{cda33548-7a3f-44ca-bab1-55e20fd4e5dd}</id>
+     <foreignId>{0e7c7d2d-7794-4dfb-bf42-d3572a6ab342}</foreignId>
+     <text>Dziękuję za przybycie.</text>
+     <i18nText>Thank you for coming.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{604692e5-69f7-498e-b596-7e2f58d2d291}</id>
+     <foreignId>{4ae40d80-e434-4f55-8cbf-427d60128c19}</foreignId>
+     <text>To przyjemność Ciebie gościć.</text>
+     <i18nText>It is a pleasure having you here.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{16cf0216-ea23-4346-8c5c-36d436d5a9bd}</id>
+     <foreignId>{4f22b469-c9ea-4477-86b8-4f93c5da4a9d}</foreignId>
+     <text>LAN party to impreza z grami komputerowymin na multi-playerze, która wykorzystuje sieć lokalną.</text>
+     <i18nText>A LAN party is a party that involves multi-player computer games and uses a Local Area Network.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ef980ae7-3b9d-46ad-8b51-239cd7c6fd72}</id>
+     <foreignId>{686bd5b1-cba1-4d49-a4cf-f2c5262aa8cc}</foreignId>
+     <text>Świetnie się bawilem.</text>
+     <i18nText>I had a great time.</i18nText>
+     <soundFile></soundFile>
+     <type>sentence</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{cdd2d592-d19d-4bc7-a341-e6a7f3218efb}</id>
+     <foreignId>{e183f7c3-11a6-4439-abfc-5d02bcf87466}</foreignId>
+     <text>Susan była wspaniałym orgaizatorem. Wszyscy jej goście wyglądali na zadowolonych.</text>
+     <i18nText>Susan hosted the party really well. All her guests looked very contended and happy.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{f414b499-fb64-4dcb-a137-d996a58254c9}</id>
+     <foreignId>{32538363-00c6-4ab8-99f8-0fba91cd9d40}</foreignId>
+     <text>W nastepnym miesiącu moi rodzice bedą obchodzić dwudziesto pięcio lecie małżeństwa. Od dłuższego czasu planuje zorganizować dla nich imprezę niespodziankę.</text>
+     <i18nText>Next month my parents will be completing their twenty-five years of marriage. I have been planning on throwing them a nice surprise party for a long time.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ca9c0827-ca8f-48db-bfe9-d7f57f4b684c}</id>
+     <foreignId>{1514a00a-85c2-475e-afc9-9ff8501c0af6}</foreignId>
+     <text>Richard i jego rodzina organizują parapetówkę w następną sobotę. Zaprosili wszystkich mieszkańców budynku. Na pewno będziemy się dobrze bawić.</text>
+     <i18nText>Richard and his family are throwing a housewarming party next Saturday. They have invited all the residents of the building. We will surely have fun.</i18nText>
+     <soundFile></soundFile>
+     <type>paragraph</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{18153352-b849-4094-8d9a-c8aed62cfe2d}</id>
+     <foreignId>{ba78a846-fd7c-496c-aa65-948f85dffd6e}</foreignId>
+     <text>Zorganizowaliśmy imprezę charytatywną na jutro. Odbędzie się u mnie. Na początku będzie obiad, a następnie przemówienia członków zarządu.</text>
+     <i18nText>We have organized a fundraising party tomorrow. I will be hosting it. There will be dinner followed by speeches by the board members.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
      <editState>translated</editState>
