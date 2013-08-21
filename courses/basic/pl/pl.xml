@@ -4785,9 +4785,9 @@
      <foreignId>{00cd82f1-c7dc-4261-b4a0-f3bb958265fe}</foreignId>
      <text>koszula</text>
      <i18nText>shirt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c9133182-ef93-42b3-abde-e03d37772047}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4805,9 +4805,9 @@
      <foreignId>{30428966-1334-4fea-bcdb-4a592956698d}</foreignId>
      <text>dżinsy</text>
      <i18nText>jeans</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9a2cbc7d-ceed-41e9-81aa-a64b2e2ece35}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4825,9 +4825,9 @@
      <foreignId>{773efcc7-b491-4a3c-9161-e4200dc810f7}</foreignId>
      <text>rękawiczki</text>
      <i18nText>gloves</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cb2a0c9f-9001-4226-853f-8b93e331c2cb}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4845,9 +4845,9 @@
      <foreignId>{07d33486-9ce3-4032-92e1-094a69385e05}</foreignId>
      <text>koszulka</text>
      <i18nText>T-shirt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{06c72c5b-1faa-4d84-b73c-635926303465}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4865,9 +4865,9 @@
      <foreignId>{31b05cfe-4819-4ffc-93d8-823dbec24c6b}</foreignId>
      <text>krótkie spodenki</text>
      <i18nText>shorts</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4c95d937-d99a-4752-b027-63dec3fc07e5}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4885,9 +4885,9 @@
      <foreignId>{216ad380-0e3b-4efb-8c27-ae861c194954}</foreignId>
      <text>adidasy</text>
      <i18nText>trainers</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fa1e1523-90f4-4958-8b50-3de0b80fbd20}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4905,9 +4905,9 @@
      <foreignId>{1ce2163d-77bb-4f44-9e13-239c9a227e90}</foreignId>
      <text>bikini</text>
      <i18nText>bikini</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3009fcbe-5883-4c6f-a9b2-1228f43258b7}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4925,9 +4925,9 @@
      <foreignId>{84717073-8207-4c10-a226-fc31f4842093}</foreignId>
      <text>spódniczka</text>
      <i18nText>skirt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ee9f9559-cbdc-45d5-af04-7b5102c7bf24}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4945,9 +4945,9 @@
      <foreignId>{42a4e86b-0c69-44e3-823e-74cae0dd1f0f}</foreignId>
      <text>kurtka</text>
      <i18nText>jacket</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{eb89d299-c72f-451f-bced-bf293f214881}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4957,7 +4957,7 @@
      <i18nText>pajamas</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4965,9 +4965,9 @@
      <foreignId>{8242df90-5393-4296-a128-288fd9123193}</foreignId>
      <text>żółty</text>
      <i18nText>yellow</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8261fa2b-f59f-47c5-bdbd-ac39d731489d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -4985,9 +4985,9 @@
      <foreignId>{0f9db6cf-ac9e-495f-8c86-1d3617503c1d}</foreignId>
      <text>zielony</text>
      <i18nText>green</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{21430257-71f8-4821-991f-9cde27819972}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5005,9 +5005,9 @@
      <foreignId>{ec172453-46fe-4e88-90f5-67aaa961aba8}</foreignId>
      <text>biały</text>
      <i18nText>white</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4245bef5-edfb-47be-ac7e-3cecc696121b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5025,9 +5025,9 @@
      <foreignId>{3a24f03a-6e12-4164-bf49-4768c771bfe2}</foreignId>
      <text>paski</text>
      <i18nText>stripes</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{415ae8fe-72ac-422f-99a4-a79b6bb2b6b2}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5045,9 +5045,9 @@
      <foreignId>{1d0c9113-f6ec-415d-a68b-28a1564b9a69}</foreignId>
      <text>duży</text>
      <i18nText>big</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9d5099e2-a836-47df-9276-95184a764339}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5065,9 +5065,9 @@
      <foreignId>{e8221ab1-9e13-4c73-8ef4-cd7576358836}</foreignId>
      <text>krótki</text>
      <i18nText>short</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6863b684-2cef-446b-a59c-5e5ac7e6109b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5085,9 +5085,9 @@
      <foreignId>{6170f45a-4d87-4958-9fb7-81757d95f8f4}</foreignId>
      <text>różowe rękawiczki</text>
      <i18nText>pink gloves</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6b92050d-20fa-4acc-834d-fdcf12431a4f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5105,9 +5105,9 @@
      <foreignId>{5be9dad4-ee22-4a46-afb3-b44ad0f9f8ba}</foreignId>
      <text>nosić okulary</text>
      <i18nText>wear glasses</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{56ea95c3-ed38-43c1-8957-e7a02cc2139c}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5125,9 +5125,9 @@
      <foreignId>{18d390df-61af-4ab9-99ba-fe6ffaad26d0}</foreignId>
      <text>zbyt wąski</text>
      <i18nText>too narrow</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{37899011-025d-482a-a649-ba4f095a5c2d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5145,9 +5145,9 @@
      <foreignId>{36564d95-dc09-4328-8741-e91c3e2f4adc}</foreignId>
      <text>przebieralnia</text>
      <i18nText>changing room</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0526afbf-0709-4436-9173-0e1354a9bb3c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5165,9 +5165,9 @@
      <foreignId>{bc84522b-244f-4793-876e-f38252888cad}</foreignId>
      <text>piękne kolczyki</text>
      <i18nText>beautiful earrings</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cda04aad-1241-450b-a071-b56dd1b5982d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5185,9 +5185,9 @@
      <foreignId>{60bad8c7-0925-4ceb-be3a-f08a443c4fd7}</foreignId>
      <text>para kapci</text>
      <i18nText>pair of sleepers</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b5174da0-94e4-4bad-b3b1-bfd0cc96fb42}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5205,9 +5205,9 @@
      <foreignId>{7068dcdd-2097-469c-83ad-9a66def8c3d9}</foreignId>
      <text>iść na zakupy</text>
      <i18nText>go clothes shopping</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{21d560cf-b7c8-41e2-81db-cbb8b6a6582e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5225,9 +5225,9 @@
      <foreignId>{7e968523-df55-4e2c-b87a-dd56470fcf7a}</foreignId>
      <text>znana marka</text>
      <i18nText>famous brand</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f0e89bbf-ebe0-45f8-89b8-ecd0baa21d74}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5247,7 +5247,7 @@
      <i18nText>This red dress suits you well.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5265,9 +5265,9 @@
      <foreignId>{882def05-077a-4ee6-9267-91084e4abbe5}</foreignId>
      <text>Co ubierasz wieczorem?</text>
      <i18nText>What are you going to wear tonight?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c0c25e90-77fc-4bb9-a215-452e0a51ecc1}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5285,9 +5285,9 @@
      <foreignId>{4bc955a9-6952-436f-8848-3600ebfcf256}</foreignId>
      <text>Nie możesz założyć adidasów do garnituru.</text>
      <i18nText>You cannot wear trainers with a suit.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d5995b90-52f2-4f0d-97ce-d2e551fd678c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5305,9 +5305,9 @@
      <foreignId>{0a2052e3-0143-461e-9011-10a5af2ff2f3}</foreignId>
      <text>Nie pasuje.</text>
      <i18nText>It does not fit.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{569dc658-ccab-4044-96e0-d6d204a8d30b}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5325,9 +5325,9 @@
      <foreignId>{e45f0d16-e888-4c0f-8679-a723e88ec31e}</foreignId>
      <text>Potrzebuję kupić nową kurtkę zimową.</text>
      <i18nText>I need to buy a new winter jacket.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{abc98126-893b-492f-844d-5894dfafb591}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5345,9 +5345,9 @@
      <foreignId>{28e6e787-ae9d-41d9-b52c-bbf64154e952}</foreignId>
      <text>Wyprałaś moją białą sukienkę letnią?</text>
      <i18nText>Did you wash my white summer dress?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6cd7c0d7-cfde-4598-8959-0496aff8b462}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5363,11 +5363,11 @@
     <phrase>
      <id>{e1245c23-7c8f-41b3-bcc8-638dcb18f625}</id>
      <foreignId>{af8bc51f-c740-49dc-94fa-d2fb78c8485a}</foreignId>
-     <text>Dzisiaj on ma na sobie koszulkę i czarne spodnie.</text>
+     <text>Dzisiaj  ma na sobie koszulkę i czarne spodnie.</text>
      <i18nText>He is wearing a red T-shirt and black trousers today.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e1245c23-7c8f-41b3-bcc8-638dcb18f625}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5385,9 +5385,9 @@
      <foreignId>{e56c8862-4e3c-49ae-9423-57a1a521ea86}</foreignId>
      <text>Ona wygląda bardzo elegancko.</text>
      <i18nText>She looks very elegant.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6e4cd735-fbc6-4cdc-a927-9ce45fea437f}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5405,9 +5405,9 @@
      <foreignId>{a4f0fee7-038e-46b9-8c83-8c8757390c11}</foreignId>
      <text>Weź czapkę i okulary przeciwsłoneczne. Słońce mocno świeci.</text>
      <i18nText>Take a hat and sunglasses. It is very sunny.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{58e17675-567f-4849-8043-5648aa75dfe1}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5425,9 +5425,9 @@
      <foreignId>{270db466-be79-4c4b-b615-4c7be3139c83}</foreignId>
      <text>Widziałeś nowy płaszcz Jacka? Jest super modny.</text>
      <i18nText>Did you see Jim's new coat? It is very fashionable.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9d989256-e602-41f8-ac04-5bd2960f98c5}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5447,7 +5447,7 @@
      <i18nText>I hate wearing high-heel shoes. They are always so uncomfortable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -5462,9 +5462,9 @@
      <foreignId>{427d8e09-01c1-4990-bafe-5ce6deff55e9}</foreignId>
      <text>film</text>
      <i18nText>film</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{82b14406-a24c-4da7-a4bf-9857ac322927}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5482,9 +5482,9 @@
      <foreignId>{8aba1ba2-46fa-48f5-8230-3936d511238a}</foreignId>
      <text>dreszczowiec</text>
      <i18nText>thriller</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{72b870c7-e12b-4daf-989d-d85bf733bfad}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5502,9 +5502,9 @@
      <foreignId>{349feb8f-4c0e-4365-aef1-1be4035e5eac}</foreignId>
      <text>komedia</text>
      <i18nText>comedy</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0e1556e1-bf4d-429b-a05f-1fcd9d52359b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5514,7 +5514,7 @@
      <i18nText>theater</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5522,9 +5522,9 @@
      <foreignId>{f30e3ceb-c032-4549-b9e6-e766a4924437}</foreignId>
      <text>muzyka</text>
      <i18nText>music</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{aac0776f-eb84-48d1-b853-f66097d040c8}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5542,9 +5542,9 @@
      <foreignId>{69dc9b0d-4848-4f53-987b-c7aff70bd0ca}</foreignId>
      <text>pop</text>
      <i18nText>pop</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9512b7f3-3baf-4c55-918c-530f3dbe2afa}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5562,9 +5562,9 @@
      <foreignId>{311b06b6-8102-4da6-bfa2-549aee014468}</foreignId>
      <text>powieść</text>
      <i18nText>novel</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8a4872fe-53f5-47f3-8ebb-c1abc0294858}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5582,9 +5582,9 @@
      <foreignId>{bfacf17d-8122-45cb-aa27-d4bacd75b132}</foreignId>
      <text>reżyser</text>
      <i18nText>director</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cf4d3041-01c8-480e-868e-a9e1589e791e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5602,9 +5602,9 @@
      <foreignId>{e170dc17-d24c-43de-b202-8258917ada18}</foreignId>
      <text>czytać</text>
      <i18nText>read</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4d61b34e-a76c-4acb-9d03-6b81ff6bfcab}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5622,9 +5622,9 @@
      <foreignId>{dbf84dc0-92b0-45c2-a20e-1b014bdb3252}</foreignId>
      <text>aktor</text>
      <i18nText>actor</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{11e15ec6-98ec-4168-8613-6b4719144fd5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5642,9 +5642,9 @@
      <foreignId>{2f613a60-5036-4304-a64e-4e61933f3ccc}</foreignId>
      <text>cyrk</text>
      <i18nText>circus</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6759a551-56aa-4e0e-bf5f-472cdbc99a27}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5662,9 +5662,9 @@
      <foreignId>{9c9aa673-2851-4840-9ae1-13b01bb02628}</foreignId>
      <text>kompozytor</text>
      <i18nText>composer</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5171e8ca-ed09-425f-b9d8-cd4f515fdb26}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5682,9 +5682,9 @@
      <foreignId>{84b4be1f-9f8e-47c0-a8c9-c81e06576a73}</foreignId>
      <text>heavy metal</text>
      <i18nText>heavy metal</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{99caee06-e077-49bb-abc6-c6f2b9a5bb29}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5702,9 +5702,9 @@
      <foreignId>{713e0a62-c5df-4858-89d5-8d3d4cc7e09f}</foreignId>
      <text>chodzić do kina</text>
      <i18nText>go to the cinema</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c75d1517-fcfc-403e-a676-a60202a0bd9e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5722,9 +5722,9 @@
      <foreignId>{8e8b1fed-8aee-4fe9-85ad-60bfab1ab2a0}</foreignId>
      <text>chodzić do klubów</text>
      <i18nText>go clubbing</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7088d340-a36f-4e72-949e-ddbecaeaad83}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5742,9 +5742,9 @@
      <foreignId>{51cf771c-1691-49d7-a135-f096e2284d7f}</foreignId>
      <text>iść na drinka</text>
      <i18nText>have drinks</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9d27dead-56ea-487a-bbec-b944d189d5dc}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5762,9 +5762,9 @@
      <foreignId>{d86ef931-ff7a-420f-8a20-d7efc768784f}</foreignId>
      <text>grać w gry komputerowe</text>
      <i18nText>play video games</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{29801849-9abf-4ac4-81f6-ce415112d5e2}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5782,9 +5782,9 @@
      <foreignId>{928a6958-184b-429c-9f57-7407753534cb}</foreignId>
      <text>gwiazda filmowa</text>
      <i18nText>film star</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4a075470-f68b-4446-8d9c-e2ce082b799e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5802,9 +5802,9 @@
      <foreignId>{e6407930-3461-43dd-a4dc-ce235d036617}</foreignId>
      <text>film science fiction</text>
      <i18nText>science fiction movie</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{229a1062-3cad-415f-9af9-2e4afae18d53}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5822,9 +5822,9 @@
      <foreignId>{f7f6bb7c-2fa1-4ca2-9697-d818679e08f5}</foreignId>
      <text>grać na gitarze</text>
      <i18nText>play the guitar</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4c3b2cdf-5689-4dfc-a63c-a32ea7e44e2e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5842,9 +5842,9 @@
      <foreignId>{8838e047-6749-443c-8e3b-ebc07b5d364f}</foreignId>
      <text>film akcji</text>
      <i18nText>action movie</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a712676a-5354-4b2b-b727-3c953063d029}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5862,9 +5862,9 @@
      <foreignId>{fea2b2d2-d084-4446-8dfe-68739f775218}</foreignId>
      <text>Jutro idziemy do kina.</text>
      <i18nText>We are going to the cinema tomorrow.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fa69085c-b497-413c-abae-5187b872ae3b}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5882,9 +5882,9 @@
      <foreignId>{b226b063-4388-44db-bffa-2044c19a31e4}</foreignId>
      <text>Lubię muzykę klasyczną.</text>
      <i18nText>I like classical music.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5227de84-7f2d-4025-b5e7-48344e9ecd9d}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5902,9 +5902,9 @@
      <foreignId>{b9234c78-3726-40ed-98ed-05ea93c9fe75}</foreignId>
      <text>Ten film jest oparty na powieści.</text>
      <i18nText>This movie is based on the novel.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4c2d5d0f-c2c5-479d-9753-645dccee3e01}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5922,9 +5922,9 @@
      <foreignId>{063e8b2f-5be3-4b5f-9d89-da387f4275a2}</foreignId>
      <text>Chodźmy na miasto wieczorem.</text>
      <i18nText>Let's go out tonight.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a92eee41-2267-4023-972c-a9f11793e304}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5942,9 +5942,9 @@
      <foreignId>{46ccb2ef-0d02-499b-b795-0a1c10afe2ac}</foreignId>
      <text>Shakira to kolumbijska piosenkarka.</text>
      <i18nText>Shakira is a Colombian pop singer.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a0533234-ad40-487b-982a-148f1c78eba1}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5962,9 +5962,9 @@
      <foreignId>{47301ecc-12b0-4b6e-b4d0-0b728a7fe81b}</foreignId>
      <text>W naszych czasach każde miasteczko ma duże kino.</text>
      <i18nText>Nowadays most towns have multiplex cinemas.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{68bf3e0a-19ec-45a5-88e2-fdde7f787504}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5974,7 +5974,7 @@
      <i18nText>In theaters you can see plays, musicals or pantomimes.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5982,9 +5982,9 @@
      <foreignId>{4e7dbcaa-2b19-4721-b169-a9ccbd005257}</foreignId>
      <text>Wiele ludzi chodzi do miejscowego pubu grać w rzutki lub bilard.</text>
      <i18nText>Many people go to their local pub where they can play darts or pool.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1956adbb-0d86-4898-afa6-e8e33aeefba6}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6002,9 +6002,9 @@
      <foreignId>{5f03c6eb-e1de-476a-8feb-aeb8a417ca77}</foreignId>
      <text>W weekendy młodzież zazwyczaj chodzi do miejescowej dyskoteki.</text>
      <i18nText>At the weekend, younger people often go to a local disco.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{48175ed2-8a25-4c4e-b95b-9e60f9219cca}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6022,9 +6022,9 @@
      <foreignId>{062656a3-e80d-47f4-8591-ad24650aad1e}</foreignId>
      <text>Lubisz chodzić do teatru?</text>
      <i18nText>Do you like going to the theater?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{723bc935-a1c1-469e-b38e-01e63cf4b2e1}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6042,9 +6042,9 @@
      <foreignId>{6b9226a1-7b40-41c2-a8e7-57c00f1e9ee7}</foreignId>
      <text>W którym rzędzie chcesz siedzieć?</text>
      <i18nText>What row do you like to sit in?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b9f87078-92cc-46c0-82de-0fa5d58d9ee9}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6062,9 +6062,9 @@
      <foreignId>{fb82b0b1-49de-4b40-82d4-3566d18a6b2c}</foreignId>
      <text>Ten cyrk ma najlepszych magików i klaunów.</text>
      <i18nText>The circus brings the best magicians and clowns.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c553c20b-4a56-48a4-ac56-473e869bc13f}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6082,9 +6082,9 @@
      <foreignId>{d2795df4-4fe5-4bf4-a265-be2ca10a98d6}</foreignId>
      <text>Jestem wykończony. Zostanę w domu i obejrzę film.</text>
      <i18nText>I'm exhausted. I'm going to stay at home and watch a movie.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b44349d1-953d-4eaa-bc22-5f9ed059a36e}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6102,9 +6102,9 @@
      <foreignId>{31a71925-8837-4df9-be1c-7d7de8e244e5}</foreignId>
      <text>Każdego roku w Rio de Janeiro odbywa się największy karnawał na świecie. Tradycja ta sięga tysiąć osiemset dwudziestego trzeciego roku.</text>
      <i18nText>Each year Rio de Janeiro hosts the biggest carnival in the world. The tradition dates back to 1823.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5b4c6b10-6eff-4812-a55c-0391ab568e16}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6129,9 +6129,9 @@
      <foreignId>{978ea2b2-bba3-4d3a-a075-b9b653573170}</foreignId>
      <text>głowa</text>
      <i18nText>head</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{98f28f64-7000-49c7-8d46-f100f3cf4957}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6149,9 +6149,9 @@
      <foreignId>{c276be5f-d8b3-4a62-a260-e1ae864a8864}</foreignId>
      <text>buzia</text>
      <i18nText>mouth</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{545fdeb2-1fa0-4a04-b932-543e168380d7}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6169,9 +6169,9 @@
      <foreignId>{6c71d1cd-df66-4d12-9107-3f7a8655407b}</foreignId>
      <text>ucho</text>
      <i18nText>ear</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6ecadf6e-3adc-4c41-bdf3-3923871ac10b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6189,9 +6189,9 @@
      <foreignId>{a17a067d-57c7-4f7b-b777-7a52ec2a28a3}</foreignId>
      <text>szyja</text>
      <i18nText>neck</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6ddff8d9-2f1f-4ee5-8ea9-3fb548ae03bf}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6209,9 +6209,9 @@
      <foreignId>{228bb20f-2d77-4350-bbb6-4456c9345306}</foreignId>
      <text>ręka</text>
      <i18nText>hand</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{72483de8-ae13-448c-b1bf-b9d95ba950f2}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6229,9 +6229,9 @@
      <foreignId>{421bfeb0-4b74-4fc7-a956-b61ef0bd54e6}</foreignId>
      <text>brzuch</text>
      <i18nText>stomach</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{393f74f0-2fbf-4ea3-b01a-1df2d92fc237}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6249,9 +6249,9 @@
      <foreignId>{4fb53603-4ffb-4716-8a71-8aeda31258a5}</foreignId>
      <text>klatka piersiowa</text>
      <i18nText>chest</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{aed7c424-5f26-4063-bb7e-a0cb11f50a4e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6269,9 +6269,9 @@
      <foreignId>{a29e6480-b689-43ac-b9bd-1589478476bc}</foreignId>
      <text>noga</text>
      <i18nText>leg</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c83fd1bc-61d4-4e20-99ef-029ae6c95d0d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6289,9 +6289,9 @@
      <foreignId>{f9c0d813-e3cd-48c3-938a-8e6b6299353c}</foreignId>
      <text>kostka</text>
      <i18nText>ankle</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a7475536-65a5-403c-ab20-ef25cb31c63e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6309,9 +6309,9 @@
      <foreignId>{6f9b3358-e758-4878-b308-2d60723d8e4e}</foreignId>
      <text>palec u nogi</text>
      <i18nText>toe</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ae182359-b907-4849-a3fc-c6c55de9eebf}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6329,9 +6329,9 @@
      <foreignId>{73c9762b-4ded-4c16-96b0-4348a212157b}</foreignId>
      <text>łokieć</text>
      <i18nText>elbow</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{453027f1-e1ce-4518-8df4-87c25cc89f41}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6349,9 +6349,9 @@
      <foreignId>{13fe6af4-66a2-4f2a-a33a-fd240d14c7b4}</foreignId>
      <text>przeciąć palec</text>
      <i18nText>cut a finger</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a18cd9e0-5bdf-4611-91bc-7bcea626b9be}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6369,9 +6369,9 @@
      <foreignId>{480eaaa7-8592-4a83-9579-4277bf21e196}</foreignId>
      <text>złamać rękę</text>
      <i18nText>break an arm</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{28184784-d6fe-4521-ac0d-e004659f799b}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6389,9 +6389,9 @@
      <foreignId>{5a0b73b0-d6ad-4019-bda5-0aa48c7ec8c7}</foreignId>
      <text>wziąć zastrzyk</text>
      <i18nText>get an injection</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{411bec36-8fa5-4a3f-b03a-a531647de1a6}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6409,9 +6409,9 @@
      <foreignId>{d5dc99e7-a458-4698-b947-bbee0b13a5bd}</foreignId>
      <text>mieć bolące kolano</text>
      <i18nText>have a soar knee</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4ff46a93-b31b-4cb5-a387-20e5c3f8dbb0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6429,9 +6429,9 @@
      <foreignId>{25f392c9-fa60-41ca-8e59-cfb72d759b30}</foreignId>
      <text>mieć ból brzucha</text>
      <i18nText>have a stomachache</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3334e9a7-6d82-44e9-b19e-5437129ce90d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6449,9 +6449,9 @@
      <foreignId>{74c66cf2-4b6c-41b8-b9e6-f87d21ed3c0d}</foreignId>
      <text>zmniejszyć spożycie alkoholu</text>
      <i18nText>cut down on drinking</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8030bbe0-24d7-4168-b3d2-b376b408859c}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6469,9 +6469,9 @@
      <foreignId>{33d6ed14-32c4-4b90-ba03-98e580847cf0}</foreignId>
      <text>mieć podbite oko</text>
      <i18nText>have a black eye</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ba9803d6-b069-49a6-8f77-8f6e8373ccce}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6489,9 +6489,9 @@
      <foreignId>{c15b2d06-1a3f-4137-9993-25334d2b79e2}</foreignId>
      <text>mieć zatwardzenie</text>
      <i18nText>be congested</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bd49c31f-99f2-45a0-ad48-0f0d0fc47f89}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6509,9 +6509,9 @@
      <foreignId>{04dd9571-8b9d-48d8-8eaf-47330b972473}</foreignId>
      <text>mieć rozwolnienie</text>
      <i18nText>have diarrhoea</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2be24e7f-4741-4cf6-9461-113f6194e2bc}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6529,9 +6529,9 @@
      <foreignId>{34df363f-3c78-4b3b-be35-738b0f96d48c}</foreignId>
      <text>zastrzyk insuliny</text>
      <i18nText>insulin injection</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{65522256-d5e7-4229-8261-4bd22f8f15eb}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6549,9 +6549,9 @@
      <foreignId>{c35f8724-1f65-4ced-9741-9cdb75a4999b}</foreignId>
      <text>Czy masz ubezpieczenie medyczne?</text>
      <i18nText>Do you have medical insurance?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bf7f1ef9-082a-4e6c-94f1-f6a22dc27b78}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6569,9 +6569,9 @@
      <foreignId>{33c96725-15cd-4fb7-beb8-9b15334efeff}</foreignId>
      <text>Bolą mnie plecy.</text>
      <i18nText>I have got a pain in my back.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{48cf162a-0ab2-42f0-a631-a5fc0c1380b6}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6589,9 +6589,9 @@
      <foreignId>{6c22be49-47a7-4d6b-a0e1-cef8be5bec90}</foreignId>
      <text>Mam trudności z oddychaniem.</text>
      <i18nText>I am having difficulty with breathing.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8bc226e8-09c8-436e-b073-ceba95e84201}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6609,9 +6609,9 @@
      <foreignId>{5a1a34fa-f19e-4b82-ba55-32b99038c292}</foreignId>
      <text>Musi Pan trochę schudnąć.</text>
      <i18nText>You need to loose some weight.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d4b86187-c7eb-4a17-9bda-7594bd8b8730}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6629,9 +6629,9 @@
      <foreignId>{69dbc8cf-1dd6-4835-a3c7-3099c6929b65}</foreignId>
      <text>Pielęgniarka pobierze próbkę krwi.</text>
      <i18nText>A nurse needs to take your blood sample.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{125762d2-07c4-403b-85e0-d6cbc09256c2}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6649,9 +6649,9 @@
      <foreignId>{3e297d69-18d3-47ee-a676-75608f5e5f0e}</foreignId>
      <text>Przepiszę Pani mocne antybiotyki.</text>
      <i18nText>I am going to prescribe you some strong antibiotics.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{21ff7b7e-1c0b-4e30-8adc-a4f96da50e58}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6669,9 +6669,9 @@
      <foreignId>{11871be1-c4ba-4d6d-9302-d693b89c86ee}</foreignId>
      <text>Boli jak tu naciskam?</text>
      <i18nText>Does it hurt when I press here?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{937d3791-d479-455a-9ce0-81f92ab2c02c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6689,9 +6689,9 @@
      <foreignId>{d5f91e4c-ef33-43c8-bda4-e614ef7810c1}</foreignId>
      <text>Czy są lekarze którzy mowią po angielsku?</text>
      <i18nText>Do you have any doctors who speak English?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ab6012f0-2faf-47d2-b0e6-08b994b96bd6}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6709,9 +6709,9 @@
      <foreignId>{1d85facc-2ddf-41e9-b6c6-668834000f1f}</foreignId>
      <text>Przykleimy plaster na kolanie.</text>
      <i18nText>We are going to put a plaster on you knee.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d8bd77b4-47cf-4968-9b97-643e673d1b73}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6729,9 +6729,9 @@
      <foreignId>{ebf60531-1caf-4e00-8b2f-a07eff8e868e}</foreignId>
      <text>Możliwe, że jest Pani w ciąży.</text>
      <i18nText>There is a possibility you might be pregnant.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{937dd30a-c6be-4ded-b1a6-1e89fd84df8a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6749,9 +6749,9 @@
      <foreignId>{be62ccf5-b7e8-4758-90bd-8976d5a2f9c3}</foreignId>
      <text>Czuję się jakbym miał depresję i mam trudności ze spaniem. Mogłaby Pani umówić mnie ze specjalistą w najbliższym czasie?</text>
      <i18nText>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{85a5453f-9641-4b13-8545-a9242b045139}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6769,9 +6769,9 @@
      <foreignId>{a7f8f39f-40db-4d65-af85-71d8365846d8}</foreignId>
      <text>W poczekalni jest kilkoro pacjentów czekających na wizytę. Miejmy nadzieję, że lekarz przyjmie Pana w ciągu godziny.</text>
      <i18nText>There are several patients in the lobby waiting for medical exams. Hopefully the doctor will be able to see you in about an hour.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{eaff9e09-d1df-4c8c-9afd-ed6d69fe4d2f}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6789,9 +6789,9 @@
      <foreignId>{dd4539d6-e3fd-4ba3-baf3-1847f213084b}</foreignId>
      <text>Moja babcia powiedziała, żebym jadł rosół. Spróbuje jutro i jeśli nie pomoże pójdę do lekarza.</text>
      <i18nText>My grandmother suggested that I need to eat chicken soup. I will try this tomorrow and if it does not help I will see a specialist.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6bc55556-a2b3-491d-9435-1e5087e74aef}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -6806,9 +6806,9 @@
      <foreignId>{887e994d-71c8-4599-b549-ff43d49b9312}</foreignId>
      <text>jedzenie</text>
      <i18nText>food</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{080ce9cc-3742-4cbe-a986-a7107eb648ef}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6826,9 +6826,9 @@
      <foreignId>{d544dfa7-6d3a-4d8a-ac5a-ea9191b2ca94}</foreignId>
      <text>ogórek</text>
      <i18nText>cucumber</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{92b3f637-956d-4dd4-968d-f8480fb9fe51}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6846,9 +6846,9 @@
      <foreignId>{11050d64-d888-481f-ac2d-49b8ec4e521c}</foreignId>
      <text>cebula</text>
      <i18nText>onion</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3ae5ebb2-8e9d-44bc-9cc3-3aa99496a50d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6866,9 +6866,9 @@
      <foreignId>{d643ba3d-f0cf-4aaf-bb7a-d123620f797f}</foreignId>
      <text>sałata</text>
      <i18nText>lettuce</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b6a189d1-0a67-4e37-8ffc-cbf29a41f588}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6886,9 +6886,9 @@
      <foreignId>{2e55b9d9-bc84-46c8-b457-498d6087e806}</foreignId>
      <text>pieprz</text>
      <i18nText>pepper</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c8315bd7-ffae-4d32-b8d7-d0ed993ee2f7}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6906,9 +6906,9 @@
      <foreignId>{e9620e31-f1df-444d-9c07-da02a78f5906}</foreignId>
      <text>jajko</text>
      <i18nText>egg</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{724861c1-7213-408d-a2e9-7b2d8a90ca16}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6926,9 +6926,9 @@
      <foreignId>{cb49e0cc-7e6c-4322-8f8b-011ef6f71c25}</foreignId>
      <text>ser</text>
      <i18nText>cheese</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2db89714-1af6-425a-99ff-4b08f7fa4a26}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6946,9 +6946,9 @@
      <foreignId>{29d3280b-0d1c-4aa4-8e63-8d0682ffd286}</foreignId>
      <text>chleb</text>
      <i18nText>bread</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{682ce477-ef4c-4613-b17d-f3f15569d092}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6966,9 +6966,9 @@
      <foreignId>{b79b6dbd-e5b2-4aa8-bfae-41f98babcbb3}</foreignId>
      <text>ciasto</text>
      <i18nText>cake</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e7de13a9-066d-4977-b12c-bd322b90ae15}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6986,9 +6986,9 @@
      <foreignId>{ee4e784a-7470-4fff-99a2-480b6944eecb}</foreignId>
      <text>majonez</text>
      <i18nText>mayonnaise</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fa715dac-be12-4781-82e5-9e5472d96e39}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7006,9 +7006,9 @@
      <foreignId>{964d7c8d-e889-482c-a5e2-b3f16a19c87e}</foreignId>
      <text>ryba</text>
      <i18nText>fish</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{70a4e6ba-68f9-4055-ade6-599d68f1311e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7026,9 +7026,9 @@
      <foreignId>{44e2cbae-f167-43f7-97ed-8170fd37eba3}</foreignId>
      <text>kilogram sera edam</text>
      <i18nText>one kilogram of edam cheese</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e64fe551-63e6-462a-84f0-0af444a079c0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7046,9 +7046,9 @@
      <foreignId>{132f567a-0449-4b4b-96b2-32856d468e40}</foreignId>
      <text>kawałek pizzy</text>
      <i18nText>slice of pizza</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4bc1b14e-ec79-48f6-9a69-e8950236051e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7066,9 +7066,9 @@
      <foreignId>{44898c95-748b-47a4-af81-016a7f8e8aa6}</foreignId>
      <text>bochenek chleba</text>
      <i18nText>loaf of bread</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4824350f-9264-4160-b826-ec7c41788a54}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7086,9 +7086,9 @@
      <foreignId>{8ab289d5-00f7-4968-81d9-e003a08820fe}</foreignId>
      <text>litr oleju</text>
      <i18nText>one litre of oil</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{07c2b324-14de-4d4b-b85d-3575e236498f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7106,9 +7106,9 @@
      <foreignId>{5127ea6e-1305-4dfb-a7c2-3181b0785e85}</foreignId>
      <text>produkty gospodarstwa domowego</text>
      <i18nText>household items</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0f143fd1-43e9-48c0-9563-03944560a9e1}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7126,9 +7126,9 @@
      <foreignId>{ab6c2ed3-eb9a-44b0-9abd-09742b85caf7}</foreignId>
      <text>produkty drogeryjne</text>
      <i18nText>health and beauty section</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4bfb7422-13a3-4ed9-87fe-1018bf328394}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7146,9 +7146,9 @@
      <foreignId>{0c826e85-5f34-4295-8e06-32d7e9da3bb2}</foreignId>
      <text>wypieki</text>
      <i18nText>baked goods</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f5377e85-9b05-4600-9480-61829efa34be}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7166,9 +7166,9 @@
      <foreignId>{add1ed91-5361-445e-9ff8-eb3db22038fa}</foreignId>
      <text>skanować produkt</text>
      <i18nText>scan an item</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dbf5d505-4874-4b39-805a-1e5d9727e504}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7186,9 +7186,9 @@
      <foreignId>{5bc90140-6312-415c-bf74-e637e1e969e1}</foreignId>
      <text>suszone owoce</text>
      <i18nText>dried fruits</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2038c14a-e198-4681-be4b-852c26dd2e9f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7206,9 +7206,9 @@
      <foreignId>{01833a12-cc43-4ce8-ada0-629fcd3a91cb}</foreignId>
      <text>napoje alkoholowe</text>
      <i18nText>alcoholic drinks</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{87b1588c-1725-495e-a5d3-a99cf0601d29}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7226,9 +7226,9 @@
      <foreignId>{7598bb90-4394-4975-a15d-d4d9cc115aad}</foreignId>
      <text>słoik dżemu</text>
      <i18nText>jar of jam</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e80334f5-b415-45c1-acd1-1391db8b5f7d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7246,9 +7246,9 @@
      <foreignId>{da62182e-9696-4852-a6f1-4686a6a0812d}</foreignId>
      <text>Czy ktoś już Pana obsługuje?</text>
      <i18nText>Are you being served?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ecefdc44-14e0-4e9a-9597-84305cc40c00}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7266,9 +7266,9 @@
      <foreignId>{286782c9-305f-4aaf-8d17-a40ea2e3250d}</foreignId>
      <text>Czy to jest na promocji?</text>
      <i18nText>Is this on sale?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ea6d9c80-440b-47fa-910f-12dc3ae8d226}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7286,9 +7286,9 @@
      <foreignId>{f040aa1d-95df-4777-b0fe-2fc5af92c83e}</foreignId>
      <text>Ma Pan kartę lojalnościową?</text>
      <i18nText>Do you have a loyalty card?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a6cfcb57-67ea-4087-ab28-6ec23bde2abe}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7306,9 +7306,9 @@
      <foreignId>{0ecde442-84d8-478a-a9bd-efc85f258e84}</foreignId>
      <text>Trzydzieści dwa dolary i czterdzieści siedem centów, proszę.</text>
      <i18nText>That is $32.47.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4886c0c5-cf98-4f9b-ad1b-32b58bbd4aeb}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7326,9 +7326,9 @@
      <foreignId>{094c93df-4092-45ea-8b81-4f6bcb911b11}</foreignId>
      <text>Czy mogę prosić reklamówkę?</text>
      <i18nText>Could I have a carrier bag, please?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c0d50ec8-a069-4c87-a8f4-93271a64a618}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7346,9 +7346,9 @@
      <foreignId>{965e6778-6192-4679-8774-fbf171de4fee}</foreignId>
      <text>Jak skończył Pan zakupy proszę iść do kasy.</text>
      <i18nText>When you done with the shopping, go to the cashier.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{baeac258-74b2-49d7-8014-4ca6c12c5b0b}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7366,9 +7366,9 @@
      <foreignId>{697f9e86-ce9e-4c0c-9814-e482104e3ae0}</foreignId>
      <text>Ma Pan tu resztę i paragon.</text>
      <i18nText>Here is your change and your receipt.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{72557f7d-aed6-448c-a8e7-46870f776a5e}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7386,9 +7386,9 @@
      <foreignId>{08c9959b-5863-4bc4-a07e-b588b2ebcd1b}</foreignId>
      <text>Makarony są w szóstej alejce.</text>
      <i18nText>Pasta is in aisle 6.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ad06faaa-f894-4228-8c5e-32fcfa114ba0}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7406,9 +7406,9 @@
      <foreignId>{85adbe97-ba03-4d43-8087-686fc25a2621}</foreignId>
      <text>W dzisiejszych czasach coraz więcej sklepów oferuje dowóz do domu.</text>
      <i18nText>Today, more and more companies offer food delivery.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1230bb0f-7c01-4f77-bbe8-8d4b2a93987a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7426,9 +7426,9 @@
      <foreignId>{48dcc587-2051-465c-a4a5-b2de4ba4fc7b}</foreignId>
      <text>Powinien Pan zapytać sprzedawcy.</text>
      <i18nText>You should ask one of the shop assistants.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{df9b4fa5-bc66-42e9-b552-68fbaec1ef72}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7446,9 +7446,9 @@
      <foreignId>{ac0fbeca-b1c2-406a-9279-811a5156987e}</foreignId>
      <text>Zakupy w supermarkecie są całkiem wygodne. Oferują tam dużo więcej produktów niż w lokalnych sklepach.</text>
      <i18nText>Supermarkets are quite convenient. They offer a much larger variety of products than traditional grocery stores.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1c92896b-4087-4763-a6e9-1bb819e78318}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7466,9 +7466,9 @@
      <foreignId>{0ba380ae-d5ff-4d86-bfa6-e17ad67990df}</foreignId>
      <text>Ma Pan czternaście dni na zwrócenie produktu. Możemy go wymienić na nowy albo na inny produkt. Może też Pan uzyskać zwrot pieniędzy.</text>
      <i18nText>You have 14 days to return the item. We can replace it or exchange for something else. You can also have a full refund.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{463b2fa0-977c-4484-950f-d63aea2f6f0e}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7493,9 +7493,9 @@
      <foreignId>{50c5544e-6696-4c78-8aaf-6a6339592255}</foreignId>
      <text>bufet</text>
      <i18nText>buffet</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4fb30f06-912a-43d7-8101-db22b1b21dfd}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7513,9 +7513,9 @@
      <foreignId>{3703bc1b-15a6-4b5f-84c6-5a28645a9e42}</foreignId>
      <text>lunch</text>
      <i18nText>lunch</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e49a9170-4737-470a-b0af-5e2098f9094f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7533,9 +7533,9 @@
      <foreignId>{fc5803d2-c867-4046-a331-61b76b589c34}</foreignId>
      <text>kolacja</text>
      <i18nText>supper</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f7ddb70c-ec55-4b5e-a917-854df659f4ba}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7553,9 +7553,9 @@
      <foreignId>{fccb742b-4086-4dbd-bb55-39639416b791}</foreignId>
      <text>talerz</text>
      <i18nText>plate</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{69089423-6097-4c2a-9a08-8cc56d6b2f74}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7573,9 +7573,9 @@
      <foreignId>{38f02cb6-aa21-4628-86d8-110af13eadb7}</foreignId>
      <text>miska</text>
      <i18nText>bowl</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dbef7854-6113-48c9-9360-4e3606b10dd1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7593,9 +7593,9 @@
      <foreignId>{9194d179-3cab-473c-9848-82f12359656b}</foreignId>
      <text>widelec</text>
      <i18nText>fork</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{05cbe3fd-c46b-4a4f-b099-810f0df788b2}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7613,9 +7613,9 @@
      <foreignId>{cab92063-c028-42d7-8b82-bdc2ca898692}</foreignId>
      <text>jeść</text>
      <i18nText>eat</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{087e5230-f037-4b6a-9ff6-a78307232621}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7633,9 +7633,9 @@
      <foreignId>{9573c463-ac99-45b6-96c8-b96c3d7e4d80}</foreignId>
      <text>przystawka</text>
      <i18nText>starter</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6a3ebb3f-0d2f-4a5e-aa42-30c1caf569fe}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7653,9 +7653,9 @@
      <foreignId>{8351f0e4-9e8f-4c73-8615-39627e8f53aa}</foreignId>
      <text>przekąska</text>
      <i18nText>appetizer</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e5b34356-0b0e-47a8-8014-09461380ed1e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7673,9 +7673,9 @@
      <foreignId>{1038f99d-7e52-4cb6-acbd-89670620be89}</foreignId>
      <text>mięso</text>
      <i18nText>meat</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c70eb977-b3ab-4049-a6f8-2bd6b0a932e8}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7693,9 +7693,9 @@
      <foreignId>{103de1ce-4d20-400f-a932-b744c55aec38}</foreignId>
      <text>wino</text>
      <i18nText>wine</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c70df2f9-43a9-47f8-85e9-301a599513a1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7713,9 +7713,9 @@
      <foreignId>{01e45ffb-3241-4735-b904-97c066d877f6}</foreignId>
      <text>menu</text>
      <i18nText>menu</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{674227c7-8418-41f6-bdd5-5227de3c2458}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7733,9 +7733,9 @@
      <foreignId>{bb4526a2-4275-4b4a-b951-912e6f2b97b1}</foreignId>
      <text>rachunek</text>
      <i18nText>bill</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c84d7ba6-dd34-4297-bc6c-75ecca3842ee}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7753,9 +7753,9 @@
      <foreignId>{90fa8f90-8f11-4ef6-bc7f-ada03b924fe5}</foreignId>
      <text>ciasto</text>
      <i18nText>cake</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d822d1f6-246f-493a-b627-555972b513a0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7773,9 +7773,9 @@
      <foreignId>{7c36fb4e-245c-4f89-9104-1d71e9880bd1}</foreignId>
      <text>restauracja</text>
      <i18nText>restaurant</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{56ac9cef-868f-42be-ae3d-84d776ca5735}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7793,9 +7793,9 @@
      <foreignId>{f94be4c4-d053-4b2c-a56b-128c7640223b}</foreignId>
      <text>smak</text>
      <i18nText>taste</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8463dace-ab5b-4199-83de-18b88188a2e5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7813,9 +7813,9 @@
      <foreignId>{56393e31-fefe-465c-9d8b-9cb041cd1dcd}</foreignId>
      <text>kwaśny</text>
      <i18nText>sour</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{824b8bc9-b218-40eb-8be7-72fc70d09f70}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7833,9 +7833,9 @@
      <foreignId>{e99b1727-b8c4-4898-b152-e11336356cc0}</foreignId>
      <text>sól</text>
      <i18nText>salt</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7c6f9785-84f1-4bd5-9af3-6d65ecbdc991}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7853,9 +7853,9 @@
      <foreignId>{d14a8c3f-7b72-4e88-bdab-38141b1868f6}</foreignId>
      <text>potrawy</text>
      <i18nText>cuisine</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d768a728-dbcc-4550-9824-535839e5f7a1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7873,9 +7873,9 @@
      <foreignId>{bdb8eb20-615f-49fd-83a4-207c73ecc951}</foreignId>
      <text>zupa grzybowa</text>
      <i18nText>button mushroom soup</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9fb95f82-214a-40d4-94f9-5d78c91e2220}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7893,9 +7893,9 @@
      <foreignId>{d0769f05-2b43-4408-8708-6395faf328ab}</foreignId>
      <text>danie główne</text>
      <i18nText>main course</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1c4e05a4-b7a3-47f4-a58d-11e31afb9d7f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7913,9 +7913,9 @@
      <foreignId>{3dc28fa0-cb4a-4445-8ef6-0cc4a065f4c9}</foreignId>
      <text>smażone warzywa</text>
      <i18nText>stir fried vegetables</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e9630772-3f02-4483-9d22-5516b8acf555}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7933,9 +7933,9 @@
      <foreignId>{df560c02-2f80-4499-b3ca-60fcf25bcb7b}</foreignId>
      <text>pieczony indyk</text>
      <i18nText>roasted turkey</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{67f788d9-8ef3-4389-9dae-061e8e3a079d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7953,9 +7953,9 @@
      <foreignId>{04472858-f61f-4794-bd8e-529abde5778f}</foreignId>
      <text>smażone skrzydełka kurczaka</text>
      <i18nText>fried chicken wings</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2d358d67-b2d0-4a58-af70-99a5bb69373f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7973,9 +7973,9 @@
      <foreignId>{da6bb090-e125-4b74-978a-3f21f8e10c42}</foreignId>
      <text>gniecione ziemnianki</text>
      <i18nText>mashed potato</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6d7f7c3e-91f1-4242-8228-c4b306029779}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7993,9 +7993,9 @@
      <foreignId>{e6ebfa79-30ef-4c19-8e26-511bd87a038e}</foreignId>
      <text>maniery przy stole</text>
      <i18nText>table manners</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{92a6255f-1ec9-4bd1-aef1-85fc36224045}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8013,9 +8013,9 @@
      <foreignId>{fa261d83-be13-42db-98cb-f919d95a34ab}</foreignId>
      <text>sos czekoladowy</text>
      <i18nText>chocolate sauce</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cdd1a0b3-de97-40fd-b406-cff06f5a6f65}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8033,9 +8033,9 @@
      <foreignId>{332f4442-004c-493f-ab5e-7503d4b4cbe8}</foreignId>
      <text>jajecznica</text>
      <i18nText>scrambled eggs</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cad83b40-5e39-4617-909d-d3fcfc6b64da}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8053,9 +8053,9 @@
      <foreignId>{a1a46d68-f5ec-4f62-9436-226f664fabbc}</foreignId>
      <text>stek wołowy</text>
      <i18nText>beef steak</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{52be893e-2c41-4d6a-aa33-7fbb8ca27551}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8073,9 +8073,9 @@
      <foreignId>{e8c3f3ba-3734-4c22-82ad-ab8cfb2c287f}</foreignId>
      <text>Dziękuję</text>
      <i18nText>Thank you</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5a1c1791-73f4-4226-93b5-1f511dd1506e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8083,9 +8083,9 @@
      <foreignId>{f395ad17-ce04-4ab4-aa61-b2b4230b07ac}</foreignId>
      <text>Przepraszam</text>
      <i18nText>Excuse me</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7a797afc-9d12-427e-b523-2b590e95f75a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8103,9 +8103,9 @@
      <foreignId>{e9f5701d-7979-411e-85c7-02ccd0ab0b7c}</foreignId>
      <text>Mogę prosić o szklankę wody?</text>
      <i18nText>Can I get a glass of water, please?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fb5bba4f-1231-4572-a727-7565665af7dd}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8123,9 +8123,9 @@
      <foreignId>{7f17f60a-800a-4273-beab-192816cc0437}</foreignId>
      <text>Moją ulubioną potrawą jest makaron z krojoną ostrą wieprzowiną.</text>
      <i18nText>Mixed noodles with sliced chilli pork is an all time favourite of mine.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2a5dad65-0f0c-42d2-a59f-1d1dff6321e2}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8143,9 +8143,9 @@
      <foreignId>{fa616cc5-4b65-41ef-9bde-bf78928327e4}</foreignId>
      <text>Uwielbiam desery.</text>
      <i18nText>I absolutely love desserts.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f0ae0202-1ecc-436f-9f9e-cdcbf5231fe3}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8163,9 +8163,9 @@
      <foreignId>{d32ed725-255b-4bb9-97f5-0d10ceecdc16}</foreignId>
      <text>Całkiem się najadłem.</text>
      <i18nText>I am quite full.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{98335742-ad92-4148-8e1b-2a4c79de5a35}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8183,9 +8183,9 @@
      <foreignId>{cffb13e7-9d23-4bc9-9212-e0dd0743c19a}</foreignId>
      <text>Dla mnie sałatka z krewetkami.</text>
      <i18nText>One prawn salad for me, please.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a339c051-284b-4473-802e-18abeb5d2a70}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8203,9 +8203,9 @@
      <foreignId>{04a11123-9ab1-469d-9edc-c9e3fff43786}</foreignId>
      <text>Chciałabyś iść dzisiaj na obiad wieczorem?</text>
      <i18nText>Would you like to go out for dinner tonight?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7ee10b33-0dda-45f7-8d4f-e6a694750ae3}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8223,9 +8223,9 @@
      <foreignId>{11c27987-5428-4842-811c-b1d5b0f4b395}</foreignId>
      <text>Bardzo mi smakowało.</text>
      <i18nText>I enjoyed the meal very much.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bca6d855-ea62-416b-a906-0f1e019bdf1c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8243,9 +8243,9 @@
      <foreignId>{b3d021d9-5cf9-4139-8e74-0e0d2b4382c7}</foreignId>
      <text>Mamy rezerwację dla czterech osób na lunch.</text>
      <i18nText>A reservation was made for four guests for lunch.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b2cd4fab-3797-4b62-bb0d-0ef9df19b202}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>m</phonemeID>
      </phonemes>
@@ -8265,9 +8265,9 @@
      <foreignId>{0f620ee3-60ef-4f9a-bb7e-d2fe12e3ea40}</foreignId>
      <text>Mam nadzieję, że jedzenie jest tutaj czysto podane.</text>
      <i18nText>I hope the food is hyegenic in here.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{85898200-431f-4042-9619-c1f388f74aa0}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8285,9 +8285,9 @@
      <foreignId>{2efc1ec3-487f-4314-bd1b-c908a57e0184}</foreignId>
      <text>Poleciłbym spróbować krewetki na parze. Są wspaniałe. Wyglądają i smakują znakomicie. Mają też najdelikatniejszą skorupkę jaką kiedykolwiek spotkałem.</text>
      <i18nText>I would advice you to try the steamed shrimp wontons here. Its like nothing you have ever had. They look beautiful as well as taste delicious and have the thinnest wrappers I ever came across.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{09b46766-3fa5-415d-bbe1-ce5f08b87be0}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8305,9 +8305,9 @@
      <foreignId>{378566da-72cb-43d0-87c8-0e5265ff821d}</foreignId>
      <text>Przepraszam, już możemy zamówić. Na przystawkę proszę pasztet z kaczki, ser kozi i pastę ze szparagów. Jednego łososia i wołowinę gotowaną na wolnym ogniu jako danie główne i dwa suflety czekoladowe na deser.</text>
      <i18nText>Excuse me, we are ready to make the order. For the starter, we would like to have one coarse country duck terrine and one goat's cheese and asparagus terrine. One salmon fishcake and one slow cooked blade of beef for the main course and two hot chocolate souffles for the dessert.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4f95b222-ce0d-4223-a453-0ced260d169d}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8325,9 +8325,9 @@
      <foreignId>{ada3cd95-5264-4d8a-9434-670c9af9b177}</foreignId>
      <text>Trochę nam się śpieszy. Możemy prosić o rachunek. Nie mamy gotówki więc chciałbym zapłacić kartą. Mam nadzieję, że jest to możliwe. Jeśli nie mógłby Pan mi powiedzieć gdzie jest najbliższy bankomat?</text>
      <i18nText>We are in a bit of a hurry. So, can you get us the bill please. Also, as we am running short on cash, I would like to make the payment using my Credit Card. I hope that is acceptable here. If not, then can you please give me the address of a nearby ATM counter.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{69ad07e2-a45a-42bc-94a4-c18d19368b41}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -8342,9 +8342,9 @@
      <foreignId>{a5e681b7-dc07-48b5-8662-2416d4fac4b6}</foreignId>
      <text>pieniądze</text>
      <i18nText>money</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7f21d132-505c-4930-a5b9-92c2e591c166}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8362,9 +8362,9 @@
      <foreignId>{251e6077-72fa-4fd2-a93d-281ddf696bf0}</foreignId>
      <text>czek</text>
      <i18nText>cheque</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{116af00d-66de-4b01-9f0c-dc059ec97365}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8382,9 +8382,9 @@
      <foreignId>{f63b1515-e14d-4634-95ce-f273c1eff345}</foreignId>
      <text>konto</text>
      <i18nText>account</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bb50b702-a5d3-4daf-8302-9f67aaad8742}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8402,9 +8402,9 @@
      <foreignId>{415b158e-5812-48e8-b8b4-716da9c9a4a1}</foreignId>
      <text>wyciągać</text>
      <i18nText>withdraw</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{43c403ce-b2b5-4aea-8edc-193d4da0c251}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8422,9 +8422,9 @@
      <foreignId>{e6fbc4e8-9e87-463d-817a-a511dba7d403}</foreignId>
      <text>kredyt</text>
      <i18nText>credit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6fc42325-24a1-403d-bceb-92062eb3ab45}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8442,9 +8442,9 @@
      <foreignId>{ecb7391a-bc46-4f19-9619-98baf561a3e9}</foreignId>
      <text>obecny</text>
      <i18nText>current</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9f828897-bc15-47de-98e7-eea649431d36}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8462,9 +8462,9 @@
      <foreignId>{c4c20156-4482-4cea-943b-2aaeab5e7efe}</foreignId>
      <text>odestki</text>
      <i18nText>interest</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{868d0865-7cf5-4aa7-a36d-0454aa573ba8}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8482,9 +8482,9 @@
      <foreignId>{2fa731b5-f8ff-4161-b42e-db1d5665070b}</foreignId>
      <text>pożyczka</text>
      <i18nText>loan</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0d60db8c-ef97-4c95-aa9a-b95205f0400e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8502,9 +8502,9 @@
      <foreignId>{73f7d9ad-d55f-4a32-8e2d-b8c84c111953}</foreignId>
      <text>przelew</text>
      <i18nText>transfer</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{76003cc6-5b57-4d4c-95c2-e4b6a8f9a652}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8522,9 +8522,9 @@
      <foreignId>{2b0a0c99-d54c-4aba-a67c-f3a9c429a246}</foreignId>
      <text>kierownik</text>
      <i18nText>manager</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{313859ba-1387-49ee-9ded-49fb6e442b1e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8542,9 +8542,9 @@
      <foreignId>{b9228a20-08a9-4053-beb3-153025e3c24d}</foreignId>
      <text>odliczenie</text>
      <i18nText>deduction</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8b730e6a-0061-439d-86af-c32f4e561c28}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8562,9 +8562,9 @@
      <foreignId>{8981f543-e007-4690-83cd-99e035d217f7}</foreignId>
      <text>określenie</text>
      <i18nText>term</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2e258be7-0bc5-46c1-bbc0-75e155912e0c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8582,9 +8582,9 @@
      <foreignId>{8a60a601-606a-48cb-8c2f-0114aeeba0f9}</foreignId>
      <text>rocznie</text>
      <i18nText>annum</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1d9af332-b863-4af6-86a9-85e943360b48}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8602,9 +8602,9 @@
      <foreignId>{882bb7bf-1890-495c-ab60-e183e293b4dd}</foreignId>
      <text>formularz</text>
      <i18nText>form</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ca0a5c23-ec0b-475a-9b48-891e3a1d430a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8622,9 +8622,9 @@
      <foreignId>{4908658d-65af-4077-bdf5-1bc69b9b8604}</foreignId>
      <text>kapitał</text>
      <i18nText>capital</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1f7c7a30-0acb-491a-a965-f81bbbe1b024}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8642,9 +8642,9 @@
      <foreignId>{0da09af5-e4bd-4723-b913-d0e39eee124b}</foreignId>
      <text>biznes</text>
      <i18nText>business</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{daa4bf04-6e68-4c7e-b948-b099be472682}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8662,9 +8662,9 @@
      <foreignId>{661057a4-a95c-4545-953b-a7b43aa1d6dd}</foreignId>
      <text>szafka</text>
      <i18nText>locker</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6899d5b8-a43b-468c-a29b-cb335cdb9153}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8682,9 +8682,9 @@
      <foreignId>{e621db05-f183-4d1d-ac34-a751e2403c1a}</foreignId>
      <text>rupia</text>
      <i18nText>rupee</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{92da8a1b-0c2c-4c3c-9b1f-fbbaa367eb7b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8702,9 +8702,9 @@
      <foreignId>{d6b1d2c4-c9c0-409b-a65a-97ad78dd85dd}</foreignId>
      <text>euro</text>
      <i18nText>euro</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{711ca562-4ae2-4737-bdcf-11c5148dba2f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8722,9 +8722,9 @@
      <foreignId>{9c51053b-3a74-4cf7-8244-053b048be61c}</foreignId>
      <text>szacowany popyt</text>
      <i18nText>demand draft</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f5284bc2-6be6-45f7-bd46-9be9418c7e2b}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8742,9 +8742,9 @@
      <foreignId>{0ae32780-ed28-45b4-894f-17602b646444}</foreignId>
      <text>podatek od przychodu</text>
      <i18nText>income tax</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9c0c4124-4137-43a1-8c35-b352effe02cd}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8762,9 +8762,9 @@
      <foreignId>{5322849b-4cfa-428c-92bd-23aedc6ff3d1}</foreignId>
      <text>wyciąg bankowy</text>
      <i18nText>bank statement</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d3bce824-dbda-439f-a031-2026f08b54a8}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8782,9 +8782,9 @@
      <foreignId>{da202901-4e27-4bb2-899d-1dc3e218c3d8}</foreignId>
      <text>potwierdzenie miesięcznego przychodu</text>
      <i18nText>monthly income certificate</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e9c292b5-90c2-4c0f-962e-e5cc9045a534}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8802,9 +8802,9 @@
      <foreignId>{7f052629-2b5e-448c-b139-d2024f2f91fa}</foreignId>
      <text>pożyczka osobista</text>
      <i18nText>personal loan</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{930cdc7a-6030-48c4-a360-f7212f36af04}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8822,9 +8822,9 @@
      <foreignId>{724d5b9b-fe0e-4c9f-ad88-7dba798780de}</foreignId>
      <text>czek bankowy</text>
      <i18nText>banker's cheque</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{114735ae-3197-4cc1-88d3-fc30ea81f204}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8842,9 +8842,9 @@
      <foreignId>{60a476a6-b7cf-40cf-bfba-d22da61bd185}</foreignId>
      <text>prezent w formie czeku</text>
      <i18nText>gift cheque</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9de015e0-b4f9-40de-8f7b-18bac61d922f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8862,9 +8862,9 @@
      <foreignId>{b63835ec-9739-44cf-a380-1ec0c066d900}</foreignId>
      <text>bankowość internetowa</text>
      <i18nText>internet banking</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7ac5db1f-c34e-4308-b304-e23a16e5315d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8882,9 +8882,9 @@
      <foreignId>{fda10976-fbe7-418a-be1d-595e5bd6814c}</foreignId>
      <text>karta Mastercard</text>
      <i18nText>Master card</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{939a7248-72ef-4afe-89b6-8110a69fbaef}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8902,9 +8902,9 @@
      <foreignId>{1b0c0858-b895-4d38-b0c6-96f10cd4ef8a}</foreignId>
      <text>rachunek odbiorcy</text>
      <i18nText>account payee</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b8e39ae7-5ea1-4148-a556-b94ea829d8d7}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8922,9 +8922,9 @@
      <foreignId>{d171e2bc-bbb8-44c9-8529-3eb03a5c01cc}</foreignId>
      <text>izba rachunkowa</text>
      <i18nText>clearing house</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{271f2a75-cc7a-471b-9759-11d29bcff5ca}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8942,9 +8942,9 @@
      <foreignId>{451473d0-40d4-43f1-a3e5-424d70163eb3}</foreignId>
      <text>Mogłaby mi Pani pomódz z otwarciem konta oszczędnościowego?</text>
      <i18nText>Can you please help me with opening a savings account?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c8942711-0398-4d4c-af8d-a49186e92aca}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8962,9 +8962,9 @@
      <foreignId>{a48db0eb-bd6c-40c6-a1b4-72d9d913d4cc}</foreignId>
      <text>Chciałbym otworzyć wspólne konto wraz z moją żoną.</text>
      <i18nText>I would like to open a joint account with my wife.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7c966f8c-5eec-4f99-8356-212f4386e1f4}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8982,9 +8982,9 @@
      <foreignId>{eea76c1b-3733-4142-92de-4f32f5fc8177}</foreignId>
      <text>Ile podpisów potrzeba?</text>
      <i18nText>How many specimen signatures do you need?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{365e0348-aa78-4018-af0b-22de25c188e0}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9002,9 +9002,9 @@
      <foreignId>{cd4d149b-866e-4bd8-b7d0-76a06cef66a1}</foreignId>
      <text>Chciałbym otzrymać książeczkę czekową.</text>
      <i18nText>I want a cheque book.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{13db8bed-e638-41b2-8488-42f1234dea82}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9022,9 +9022,9 @@
      <foreignId>{cc8de27a-e399-4377-867c-5de052abc222}</foreignId>
      <text>Jesteś kilentem tego banku?</text>
      <i18nText>Are you a customer of this bank?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bf2d4603-622b-4471-aa1b-e80606398824}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9042,9 +9042,9 @@
      <foreignId>{3c4e430f-cf97-4416-89c5-ca9f23777882}</foreignId>
      <text>Potrzebuję pieniędzy teraz.</text>
      <i18nText>I need the money urgently.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ad9f5284-44ce-4d3e-9f4e-62036089fab2}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9062,9 +9062,9 @@
      <foreignId>{6dd45b9b-6e71-47a3-a9b9-7618973cf786}</foreignId>
      <text>Zajmie to około dwóch dni jako że jest to czek lokalny.</text>
      <i18nText>It will take about two days, since it is a local cheque.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ab7fc5dd-e188-432a-8138-dcdd108b75b2}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9082,9 +9082,9 @@
      <foreignId>{58937831-5c5f-4653-88e9-9885cfde49b7}</foreignId>
      <text>Chciałbym zobaczyć się z kierownikiem natychmiast.</text>
      <i18nText>I would like to meet the bank manager immediately.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b5f45aaf-dba3-45d7-9567-12a429279832}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9102,9 +9102,9 @@
      <foreignId>{350c36d8-5647-4d78-9eaf-6854e61351f2}</foreignId>
      <text>Potrzebuję tysiąc rupii tylko w banknotach.</text>
      <i18nText>I need thousand rupees notes only.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{90df06d4-7a3b-40c9-b0eb-947fe88a4775}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9122,9 +9122,9 @@
      <foreignId>{4fa49978-d3d9-4ba1-8350-bfbfa22d2ab5}</foreignId>
      <text>Proszę wypełnić tą aplikację.</text>
      <i18nText>Please fill out this application.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7ed74dd5-ec99-4644-8b4d-656a89237904}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9142,9 +9142,9 @@
      <foreignId>{89851a94-8aa6-4f18-8579-df00c7baab7f}</foreignId>
      <text>Jeśli chcesz zamówić czeki możesz zrobić to od razu. Muszisz tylko wypełnić aplikację. Czeki powinieneś dostać w ciągu pięciu lub siedmiu dni pocztą.</text>
      <i18nText>If you would like to order cheques, you can do that right away. All you need to do is fill out this application. Give it about five to seven business days, and you should receive them in the mail.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{60f69a68-6d7a-4f87-8b7c-82a37a03cae1}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9162,9 +9162,9 @@
      <foreignId>{bb305347-44a3-4759-a8fc-13a19bc2e79c}</foreignId>
      <text>Muszę złożyć skargę. Wczoraj gdy płaciłem w internecie moją kartą debetową Visa straciłem połączenie pod koniec tranzakcji. Tranzakcja z tego powodu była nieudana jdenak pieniądze zostały pobrane z mojego konta.</text>
      <i18nText>I need to file a complaint. Yesterday while I was making an online payment using my VISA debit card, I lost my internet connection right at the end of the transaction. As a result, my transaction failed but strangely enough, the exact amount of money got debited from my account.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b701889c-db36-45f8-a600-525df94c89bc}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
