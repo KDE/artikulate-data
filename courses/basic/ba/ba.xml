@@ -6239,37 +6239,6 @@
      </phonemes>
     </phrase>
     <phrase>
-     <id>{b85391a6-bb40-4a2a-9d26-f6d959532ed1}</id>
-     <foreignId>{2a7ce4b0-8af9-429a-80b8-91f8fc341f92}</foreignId>
-     <text>গ্রীসের সীমান্তে আলবেনিয়া, ম্যাসেডোনিয়া প্রজাতন্ত্র, বুলগেরিয়া ও তুরস্ক অবস্থিত।</text>
-     <i18nText>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</i18nText>
-     <soundFile></soundFile>
-     <type>sentence</type>
-     <editState>translated</editState>
-     <phonemes>
-      <phonemeID>g</phonemeID>
-      <phonemeID>r</phonemeID>
-      <phonemeID>i</phonemeID>
-      <phonemeID>s</phonemeID>
-      <phonemeID>e</phonemeID>
-      <phonemeID>sh</phonemeID>
-      <phonemeID>m</phonemeID>
-      <phonemeID>a</phonemeID>
-      <phonemeID>n</phonemeID>
-      <phonemeID>t-labial</phonemeID>
-      <phonemeID>l</phonemeID>
-      <phonemeID>b</phonemeID>
-      <phonemeID>æ</phonemeID>
-      <phonemeID>d</phonemeID>
-      <phonemeID>o</phonemeID>
-      <phonemeID>p</phonemeID>
-      <phonemeID>j</phonemeID>
-      <phonemeID>o-half</phonemeID>
-      <phonemeID>k</phonemeID>
-      <phonemeID>th-labial</phonemeID>
-     </phonemes>
-    </phrase>
-    <phrase>
      <id>{03fb3e68-a5d6-4598-8b8e-4bed76422821}</id>
      <foreignId>{3d1444b2-ac16-4756-98ff-c4e5aea14234}</foreignId>
      <text>সুইজারল্যান্ডে চারটি সরকারি ভাষা আছে। তারা ইতালীয়, ফরাসি, জার্মান এবং রোমানীয় ভাষায় কথা বলে।</text>

@@ -3197,16 +3197,6 @@
      <phonemes/>
     </phrase>
     <phrase>
-     <id>{67139294-80ec-4382-bdcf-d12c2de61ec7}</id>
-     <foreignId>{2a7ce4b0-8af9-429a-80b8-91f8fc341f92}</foreignId>
-     <text>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</text>
-     <i18nText>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</i18nText>
-     <soundFile></soundFile>
-     <type>sentence</type>
-     <editState>unknown</editState>
-     <phonemes/>
-    </phrase>
-    <phrase>
      <id>{326bbc42-e90d-4589-9bfc-894ef3ce864f}</id>
      <foreignId>{3d1444b2-ac16-4756-98ff-c4e5aea14234}</foreignId>
      <text>Switzerland has four official languages. They speak Italian, French, German and Romansh.</text>

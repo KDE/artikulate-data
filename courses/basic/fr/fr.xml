@@ -3202,16 +3202,6 @@
      <phonemes/>
     </phrase>
     <phrase>
-     <id>{92a9c6bc-e125-4801-a193-84383eaa42c1}</id>
-     <foreignId>{2a7ce4b0-8af9-429a-80b8-91f8fc341f92}</foreignId>
-     <text>La Grèce est un pays frontalier de l'Albanie, la République de Macédoine, la Bulgarie et la Turquie.</text>
-     <i18nText>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</i18nText>
-     <soundFile>{92a9c6bc-e125-4801-a193-84383eaa42c1}.ogg</soundFile>
-     <type>sentence</type>
-     <editState>completed</editState>
-     <phonemes/>
-    </phrase>
-    <phrase>
      <id>{81fbb745-dd05-4edb-8e06-b3196449c3e3}</id>
      <foreignId>{3d1444b2-ac16-4756-98ff-c4e5aea14234}</foreignId>
      <text>La Suisse a quatre langues officielles. Ils parlent l'italien, le français, l'allemand et le romanche.</text>

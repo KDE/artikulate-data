@@ -3260,16 +3260,6 @@
      <phonemes/>
     </phrase>
     <phrase>
-     <id>{0625b0d9-b9ae-415f-b809-e1a641abd714}</id>
-     <foreignId>{2a7ce4b0-8af9-429a-80b8-91f8fc341f92}</foreignId>
-     <text>Grecja graniczy z Albanią, Macedonią i Turcją.</text>
-     <i18nText>Greece borders with Albania, Republic of Macedonia, Bulgaria and Turkey.</i18nText>
-     <soundFile>{0625b0d9-b9ae-415f-b809-e1a641abd714}.ogg</soundFile>
-     <type>sentence</type>
-     <editState>completed</editState>
-     <phonemes/>
-    </phrase>
-    <phrase>
      <id>{2c6a2180-ab06-403f-9968-12a57174d725}</id>
      <foreignId>{3d1444b2-ac16-4756-98ff-c4e5aea14234}</foreignId>
      <text>W Szwajcari są cztery oficjalne języki. Mówi się tam po włosku, francusku, niemiecku i retoromańsku.</text>
