@@ -1205,7 +1205,7 @@
      <i18nText>London is the capital of England. It is a diverse and exciting city with many attractions. The most visited tourist attractions are London Eye, the National Gallery and Tower of London. Also Buckingham Palace, situated is in the city center, is a popular sight as it is the official residence of the British Queen. Every day in front of the palace Changing the Guard ceremony takes place. This is worth seeing while you are visiting London and it is usually witnessed by large crowds.</i18nText>
      <soundFile>{cb221d47-ff12-42e8-9afc-86c59ea22478}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1235,7 +1235,7 @@
      <i18nText>The gallery is open Monday-Friday from 10 am until 5 pm. Entrance fee is 10$ for adults and 5$ for children under 12 years of age. Photographing is strictly prohibited in the whole building and all cameras must be left in the cloakroom.</i18nText>
      <soundFile>{44e95cd8-38c5-440b-86c6-6f50d716eea9}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -1482,7 +1482,7 @@
      <i18nText>baby</i18nText>
      <soundFile>{a8632590-0386-4f3a-a1a4-533c211ab065}.ogg</soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1772,7 +1772,7 @@
      <i18nText>My sister-in-law just got pregnant and she is expecting a baby.</i18nText>
      <soundFile>{8091e9eb-7b17-4908-920e-1461e7b35216}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -1922,7 +1922,7 @@
      <i18nText>Our family is very big. I have two brothers and three sisters. We also have twenty-one cousins: fourteen from my father's side of the family and seven from my mother's side.</i18nText>
      <soundFile>{bfb9e666-8be2-4f3f-ad1c-0373c1228dc6}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2226,10 +2226,10 @@
      <id>{b0e41e7d-2333-4655-9922-58e07171bb50}</id>
      <foreignId>{1239190b-8685-42d6-9b40-d8408783e559}</foreignId>
      <text>fan sportu</text>
-     <i18nText>sports fun</i18nText>
+     <i18nText>sports fan</i18nText>
      <soundFile>{b0e41e7d-2333-4655-9922-58e07171bb50}.ogg</soundFile>
      <type>expression</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -2629,7 +2629,7 @@
      <i18nText>I like to play sports. My favorite is badminton.</i18nText>
      <soundFile>{3edfdd4f-25df-4ae4-8acd-90461891113e}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3113,7 +3113,7 @@
      <id>{cb6ae5f9-82d1-452a-80d0-c790c9ed7728}</id>
      <foreignId>{64be1424-598a-48fe-b0ee-7e075cdd8ff2}</foreignId>
      <text>Jakiej narodowości jesteś?</text>
-     <i18nText>What is you nationality?</i18nText>
+     <i18nText>What is your nationality?</i18nText>
      <soundFile>{cb6ae5f9-82d1-452a-80d0-c790c9ed7728}.ogg</soundFile>
      <type>sentence</type>
      <editState>completed</editState>
@@ -3126,7 +3126,7 @@
      <i18nText>In Brazil people speak Portuguese.</i18nText>
      <soundFile>{43354223-c4d7-4158-9542-996f15f02a37}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3143,7 +3143,7 @@
      <id>{b26af1b7-2ea7-4725-8050-f77843e79f0f}</id>
      <foreignId>{fc0a450f-bcbc-4ea7-a127-d815d2646c60}</foreignId>
      <text>Polski i czeski są językami słowiańskimi.</text>
-     <i18nText>Polish and Check are Slavic languages.</i18nText>
+     <i18nText>Polish and Chech are Slavic languages.</i18nText>
      <soundFile>{b26af1b7-2ea7-4725-8050-f77843e79f0f}.ogg</soundFile>
      <type>sentence</type>
      <editState>completed</editState>
@@ -3186,7 +3186,7 @@
      <i18nText>There are three colors on German flag: red, black and yellow.</i18nText>
      <soundFile>{fbccdd35-669d-4cc3-b2f9-5cfc5e253709}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3753,7 +3753,7 @@
      <i18nText>Mediterranean climate</i18nText>
      <soundFile>{a3d23067-7807-4cb7-a726-d4fb71dc7f15}.ogg</soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3890,7 +3890,7 @@
      <id>{c4264c76-1b3c-4c7c-9064-c3a3a52a759f}</id>
      <foreignId>{8eb069fc-0316-43c7-b6c6-521529ebce6b}</foreignId>
      <text>Na wschodnim wybrzeżu jest lepsza pogoda.</text>
-     <i18nText>You get better weather on the east cost.</i18nText>
+     <i18nText>You get better weather on the east coast.</i18nText>
      <soundFile>{c4264c76-1b3c-4c7c-9064-c3a3a52a759f}.ogg</soundFile>
      <type>sentence</type>
      <editState>completed</editState>
@@ -3930,7 +3930,7 @@
      <id>{804280a3-0711-491c-9886-3c182eb5658f}</id>
      <foreignId>{e32a4fc3-3285-4fa9-89b9-304fa8ade0fc}</foreignId>
      <text>Na sawannie wyróżniamy dwa sezony: deszczowy i suchy.</text>
-     <i18nText>In savanna climate we can distinguish to main seasons: wet and dry.</i18nText>
+     <i18nText>In savanna climate we can distinguish two main seasons: wet and dry.</i18nText>
      <soundFile>{804280a3-0711-491c-9886-3c182eb5658f}.ogg</soundFile>
      <type>sentence</type>
      <editState>completed</editState>
@@ -3943,7 +3943,7 @@
      <i18nText>The alpine area has in general a much harsher climate than the rest of the country.</i18nText>
      <soundFile>{151bffb0-c6ce-4a12-b2b7-1d8c926cd556}.ogg</soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5184,7 +5184,7 @@
      <id>{b5174da0-94e4-4bad-b3b1-bfd0cc96fb42}</id>
      <foreignId>{60bad8c7-0925-4ceb-be3a-f08a443c4fd7}</foreignId>
      <text>para kapci</text>
-     <i18nText>pair of sleepers</i18nText>
+     <i18nText>pair of slippers</i18nText>
      <soundFile>{b5174da0-94e4-4bad-b3b1-bfd0cc96fb42}.ogg</soundFile>
      <type>expression</type>
      <editState>completed</editState>
@@ -5444,10 +5444,10 @@
      <id>{1a089d5e-9893-43e7-823f-4d69f89e9e82}</id>
      <foreignId>{3fabd9f5-b36b-4113-957c-ac2b3dd50a15}</foreignId>
      <text>Nie nawidzę nosić butów na wysokim obcasie. Zawsze są takie niewygodne.</text>
-     <i18nText>I hate wearing high-heel shoes. They are always so uncomfortable.</i18nText>
+     <i18nText>I hate wearing high- heel shoes. They are always so uncomfortable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>completed</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>

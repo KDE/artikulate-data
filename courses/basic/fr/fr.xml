@@ -2163,7 +2163,7 @@
      <id>{63678151-4993-4241-ab7b-449a1c3b32c5}</id>
      <foreignId>{1239190b-8685-42d6-9b40-d8408783e559}</foreignId>
      <text>supporter</text>
-     <i18nText>sports fun</i18nText>
+     <i18nText>sports fan</i18nText>
      <soundFile>{63678151-4993-4241-ab7b-449a1c3b32c5}.ogg</soundFile>
      <type>word</type>
      <editState>completed</editState>
@@ -3053,7 +3053,7 @@
      <id>{00d986cc-a0c8-4738-85e5-4711ae5132e1}</id>
      <foreignId>{64be1424-598a-48fe-b0ee-7e075cdd8ff2}</foreignId>
      <text>Quelle est votre nationalité?</text>
-     <i18nText>What is you nationality?</i18nText>
+     <i18nText>What is your nationality?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
      <editState>translated</editState>
@@ -3066,7 +3066,7 @@
      <i18nText>In Brazil people speak Portuguese.</i18nText>
      <soundFile>{d342ab05-6c69-4228-8eb6-3883ba470b89}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3083,7 +3083,7 @@
      <id>{5bf5f2f1-b215-44ec-acb9-fac8e66d1398}</id>
      <foreignId>{fc0a450f-bcbc-4ea7-a127-d815d2646c60}</foreignId>
      <text>Polonais et tchèque sont des langues slaves.</text>
-     <i18nText>Polish and Check are Slavic languages.</i18nText>
+     <i18nText>Polish and Chech are Slavic languages.</i18nText>
      <soundFile>{5bf5f2f1-b215-44ec-acb9-fac8e66d1398}.ogg</soundFile>
      <type>sentence</type>
      <editState>completed</editState>
@@ -3126,7 +3126,7 @@
      <i18nText>There are three colors on German flag: red, black and yellow.</i18nText>
      <soundFile>{1af6bd1a-96ee-44bd-816a-a2c6f1be5983}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes>
       <phonemeID>ku</phonemeID>
      </phonemes>
@@ -3832,10 +3832,10 @@
      <id>{427e1f96-85df-416f-b1ae-a81e1c4a1724}</id>
      <foreignId>{8eb069fc-0316-43c7-b6c6-521529ebce6b}</foreignId>
      <text>Vous avez un meilleur temps sur la côte est.</text>
-     <i18nText>You get better weather on the east cost.</i18nText>
+     <i18nText>You get better weather on the east coast.</i18nText>
      <soundFile>{427e1f96-85df-416f-b1ae-a81e1c4a1724}.ogg</soundFile>
      <type>sentence</type>
-     <editState>completed</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3872,10 +3872,10 @@
      <id>{2e3a959c-7e94-4f84-809c-1b174e7574bb}</id>
      <foreignId>{e32a4fc3-3285-4fa9-89b9-304fa8ade0fc}</foreignId>
      <text>Dans le climat de savane, on peut distinguer deux grandes saisons: sèche et humide.</text>
-     <i18nText>In savanna climate we can distinguish to main seasons: wet and dry.</i18nText>
+     <i18nText>In savanna climate we can distinguish two main seasons: wet and dry.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>unknown</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -5126,7 +5126,7 @@
      <id>{4cfbdd09-5ba7-40ea-bdcc-886f5da183ea}</id>
      <foreignId>{60bad8c7-0925-4ceb-be3a-f08a443c4fd7}</foreignId>
      <text>chaussons</text>
-     <i18nText>pair of sleepers</i18nText>
+     <i18nText>pair of slippers</i18nText>
      <soundFile></soundFile>
      <type>word</type>
      <editState>translated</editState>
@@ -5386,7 +5386,7 @@
      <id>{8ec86610-44f0-4a3a-ab91-b59e2ee7cab1}</id>
      <foreignId>{3fabd9f5-b36b-4113-957c-ac2b3dd50a15}</foreignId>
      <text>Je déteste porter des chaussures à talons hauts. Elles sont toujours aussi incomfortables.</text>
-     <i18nText>I hate wearing high-heel shoes. They are always so uncomfortable.</i18nText>
+     <i18nText>I hate wearing high- heel shoes. They are always so uncomfortable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
      <editState>translated</editState>

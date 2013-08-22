@@ -1094,7 +1094,7 @@
     </phrase>
     <phrase>
      <id>{1239190b-8685-42d6-9b40-d8408783e559}</id>
-     <text>sports fun</text>
+     <text>sports fan</text>
      <type>expression</type>
     </phrase>
     <phrase>
@@ -1540,7 +1540,7 @@
     </phrase>
     <phrase>
      <id>{64be1424-598a-48fe-b0ee-7e075cdd8ff2}</id>
-     <text>What is you nationality?</text>
+     <text>What is your nationality?</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1555,7 +1555,7 @@
     </phrase>
     <phrase>
      <id>{fc0a450f-bcbc-4ea7-a127-d815d2646c60}</id>
-     <text>Polish and Check are Slavic languages.</text>
+     <text>Polish and Chech are Slavic languages.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1931,7 +1931,7 @@
     </phrase>
     <phrase>
      <id>{8eb069fc-0316-43c7-b6c6-521529ebce6b}</id>
-     <text>You get better weather on the east cost.</text>
+     <text>You get better weather on the east coast.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -1951,7 +1951,7 @@
     </phrase>
     <phrase>
      <id>{e32a4fc3-3285-4fa9-89b9-304fa8ade0fc}</id>
-     <text>In savanna climate we can distinguish to main seasons: wet and dry.</text>
+     <text>In savanna climate we can distinguish two main seasons: wet and dry.</text>
      <type>sentence</type>
     </phrase>
     <phrase>
@@ -2713,7 +2713,7 @@
     </phrase>
     <phrase>
      <id>{3fabd9f5-b36b-4113-957c-ac2b3dd50a15}</id>
-     <text>I hate wearing high-heel shoes. They are always so uncomfortable.</text>
+     <text>I hate wearing high- heel shoes. They are always so uncomfortable.</text>
      <type>paragraph</type>
     </phrase>
    </phrases>
