@@ -18774,202 +18774,355 @@
     <phrase>
      <id>{9d7cedee-5c9e-4c4e-9f1a-a7ea424bf6ac}</id>
      <foreignId>{5440de29-12a3-47c5-85aa-010c88e143eb}</foreignId>
-     <text>zoo</text>
+     <text>চিড়িয়াখানা</text>
      <i18nText>zoo</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>c</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{870b14be-a755-4c4b-99af-dd9e165dcdfe}</id>
      <foreignId>{a9091248-708a-409e-83a6-865e1e3e42e6}</foreignId>
-     <text>fence</text>
+     <text>বেড়া</text>
      <i18nText>fence</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9a272d18-e933-4d8b-95c4-cc8522747d5a}</id>
      <foreignId>{1899b334-78d1-4634-a07f-cee0b11ab6ec}</foreignId>
-     <text>animals</text>
+     <text>প্রাণী</text>
      <i18nText>animals</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{969538a0-3630-422e-bdd6-e479e4e02ebf}</id>
      <foreignId>{f0ada064-70aa-439e-be56-8bd74f59ed42}</foreignId>
-     <text>mammal</text>
+     <text>স্তন্যপায়ী</text>
      <i18nText>mammal</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{67088f40-fb0f-47d1-95fc-62e5321c6954}</id>
      <foreignId>{5c318918-758a-41e4-b83d-acc8795ba0dd}</foreignId>
-     <text>reptile</text>
+     <text>সরীসৃপ</text>
      <i18nText>reptile</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>p</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{3613ab5d-ef49-4e7b-acef-a023804d16c0}</id>
      <foreignId>{8eb44b2e-cd47-4468-bf97-534ae80b9d28}</foreignId>
-     <text>amphibian</text>
+     <text>উভচর</text>
      <i18nText>amphibian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>u</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{acbf6671-bfe4-4f36-9806-3fd29a36b2bc}</id>
      <foreignId>{f1e238dd-af5a-4f3b-b4e3-4a2f572e25bf}</foreignId>
-     <text>bird</text>
+     <text>পাখি</text>
      <i18nText>bird</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{12132656-b5a0-43f3-b9ce-11c545269b0a}</id>
      <foreignId>{46d3d589-737a-4091-86eb-8ceb505e4333}</foreignId>
-     <text>primate</text>
+     <text>শ্রেষ্ঠ বর্গভুক্ত স্তন্যপায়ী প্রাণী</text>
      <i18nText>primate</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>s</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>th</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>ɑi</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{23dcd3bb-9696-4264-9641-8a9ef9f7e7c7}</id>
      <foreignId>{ba44856e-72b0-44ba-9461-b8a0dd251cd0}</foreignId>
-     <text>feline</text>
+     <text>বিড়ালজাতীয় প্রাণী</text>
      <i18nText>feline</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>io</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{06f45acb-3d2b-4b33-8e23-1efc4bda5586}</id>
      <foreignId>{c17b885a-037b-4532-8e79-39dc1333611d}</foreignId>
-     <text>ungulate</text>
+     <text>খুরওয়ালা প্রাণী</text>
      <i18nText>ungulate</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>kh</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{88eef404-1343-42d8-bb92-7ce934cae676}</id>
      <foreignId>{17aff141-3fb9-4af8-be9e-ea9f227f6d17}</foreignId>
-     <text>marsupial</text>
+     <text>পেটের তলায় থলিতে শাবক বহন করে এমন প্রাণী</text>
      <i18nText>marsupial</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>p</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>t</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>th-labial</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>m</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{166fe8b1-542e-4585-a52e-9e34fff929ad}</id>
      <foreignId>{dbb19f88-a2c8-4c1c-87b5-b5878989fe56}</foreignId>
-     <text>monkey</text>
+     <text>বানর</text>
      <i18nText>monkey</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1221dede-b50c-4e38-b632-64a34024c1b6}</id>
      <foreignId>{7a550622-420c-4433-868d-2d0244ab6f96}</foreignId>
-     <text>chimpanzee</text>
+     <text>শিম্পাঞ্জি</text>
      <i18nText>chimpanzee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>j</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{bb73957e-c81d-4093-9e4e-cd432d06ed4b}</id>
      <foreignId>{bca22879-8cf7-41a5-9e4e-6d1ec44bc0ba}</foreignId>
-     <text>gorilla</text>
+     <text>গোরিলা</text>
      <i18nText>gorilla</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{ee5962d4-ffae-4c11-b6fa-147864d151c1}</id>
      <foreignId>{6606fcd3-2921-47c8-99ba-99ecca1e6398}</foreignId>
-     <text>lion</text>
+     <text>সিংহ</text>
      <i18nText>lion</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c763b024-38bf-42aa-8e82-38925dd4b265}</id>
      <foreignId>{b2d9e06c-ba1f-4519-af11-b76fb1bcc30c}</foreignId>
-     <text>tiger</text>
+     <text>বাঘ</text>
      <i18nText>tiger</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>gh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{87a05ea6-d4cd-4434-a043-2487f14a9eeb}</id>
      <foreignId>{94b277bc-52d3-4fcf-bd3c-9a4630a6699f}</foreignId>
-     <text>fox</text>
+     <text>শিয়াল</text>
      <i18nText>fox</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{de589c07-0468-4f74-9cbe-5215cca35cfa}</id>
      <foreignId>{ef72cb0c-26f0-4a73-b508-ba079d3b6c7d}</foreignId>
-     <text>wolf</text>
+     <text>নেকড়ে</text>
      <i18nText>wolf</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{e9eb3d97-f249-4485-ac38-8a31a7b5279f}</id>
      <foreignId>{1edc77eb-8d9f-4801-bda0-6cfdaa6ab2ee}</foreignId>
-     <text>jaguar</text>
+     <text>জাগুয়ার</text>
      <i18nText>jaguar</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8d7d3daa-c67c-489b-8b89-55e0425fa382}</id>
      <foreignId>{9d5f506b-2ae7-43c3-ad94-f7876e0ac3c4}</foreignId>
-     <text>hyena</text>
+     <text>হায়না</text>
      <i18nText>hyena</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7d0cd84c-3788-47e4-a4b7-493ee5cf4df9}</id>
@@ -18984,112 +19137,200 @@
     <phrase>
      <id>{6ac14ce5-fe94-42fc-ad6b-25bf12b66775}</id>
      <foreignId>{7e7f3cc8-12a7-44ba-8aca-54a0b1d33d8b}</foreignId>
-     <text>coyote</text>
+     <text>নেকড়েবিশেষ</text>
      <i18nText>coyote</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>n</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>sh</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{37a6fd0a-ade5-444b-8082-3fc254838952}</id>
      <foreignId>{3d5c2d35-df8c-4830-b4d5-c873061a1541}</foreignId>
-     <text>elephant</text>
+     <text>হাতি</text>
      <i18nText>elephant</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>h</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f6bce21f-4740-4c26-81a1-e643205e0cb5}</id>
      <foreignId>{7d4749a0-ffee-4526-ae04-89c6b223449f}</foreignId>
-     <text>giraffe</text>
+     <text>জিরাফ</text>
      <i18nText>giraffe</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>ph</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{90f4ed20-6c9c-4232-88a1-a6be32ec84f9}</id>
      <foreignId>{83a75278-787c-4df6-962b-246653d47b0b}</foreignId>
-     <text>zebra</text>
+     <text>জেব্রা</text>
      <i18nText>zebra</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{c142f036-8c82-46c2-bf20-dd621666cf3b}</id>
      <foreignId>{e74a4276-6e9c-4cdd-8fe4-5063a1fbe887}</foreignId>
-     <text>kangaroo</text>
+     <text>ক্যাঙ্গারু</text>
      <i18nText>kangaroo</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>N</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{07e25d7c-a5a4-4f0e-bc00-01dd8e18d138}</id>
      <foreignId>{e89d318a-0983-4d9c-bb0f-eed15da5bebb}</foreignId>
-     <text>koala</text>
+     <text>কোয়ালা</text>
      <i18nText>koala</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>oɑ</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>a</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4ba9216d-410f-4593-876d-e19aecbfc9e2}</id>
      <foreignId>{ec7191d0-0ded-427b-8538-5ae20f6d40c4}</foreignId>
-     <text>porcupine</text>
+     <text>শজারু</text>
      <i18nText>porcupine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>u</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{612c6b6f-a1c1-4199-b77a-9131d6125c48}</id>
      <foreignId>{16a01f56-8949-49e2-9296-de010b4c03f0}</foreignId>
-     <text>hippopotamus</text>
+     <text>জলহস্তী</text>
      <i18nText>hippopotamus</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>j</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>s</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>i</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{6b6eb827-c8fa-4173-b5ac-646e4b6a63a3}</id>
      <foreignId>{d7c045f8-17c1-47d2-8280-e187a52a28a9}</foreignId>
-     <text>rhinoceros</text>
+     <text>গণ্ডার</text>
      <i18nText>rhinoceros</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>g</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>d</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{b8a174c6-eb55-447c-a5a7-1c2c2a90b585}</id>
      <foreignId>{94cdb782-8ed8-436c-8209-8b6d6b4ceb69}</foreignId>
-     <text>reindeer</text>
+     <text>বল্গাহরিণ</text>
      <i18nText>reindeer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>h</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{9c75dad3-ce0d-4b98-908e-1acbf30d5929}</id>
      <foreignId>{d996ce62-b258-4dca-81b7-810d8d9a77f3}</foreignId>
-     <text>skunk</text>
+     <text>আমেরিকার ভোন্দড়জাতীয় এক প্রাণী</text>
      <i18nText>skunk</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>t-labial</phonemeID>
+      <phonemeID>io</phonemeID>
+      <phonemeID>æ</phonemeID>
+      <phonemeID>p</phonemeID>
+      <phonemeID>n</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{85eb22f8-17cd-4488-87c5-3f0997044b12}</id>
@@ -19104,92 +19345,160 @@
     <phrase>
      <id>{e86e3d42-a219-4c0f-8a66-75984561548d}</id>
      <foreignId>{46396123-9c24-4080-ad95-90f9f9dd608f}</foreignId>
-     <text>crocodile</text>
+     <text>কুমির</text>
      <i18nText>crocodile</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{4836ec94-1f90-411f-b778-cc4181aeda41}</id>
      <foreignId>{17aaadf8-7194-4f6a-b4d7-8d299e27d4f2}</foreignId>
-     <text>alligator</text>
+     <text>আমেরিকা ও চীনের উষ্ণ অঞ্চলের নদী বা হ্রদবাসী কুমির</text>
      <i18nText>alligator</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>e</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>c</phonemeID>
+      <phonemeID>n</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>d-labial</phonemeID>
+      <phonemeID>b</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{53322f8e-2bc7-4c79-a996-762be6a6b81b}</id>
      <foreignId>{061fdeba-c487-4edd-840e-3e94a1b03ca2}</foreignId>
-     <text>snake</text>
+     <text>সাপ</text>
      <i18nText>snake</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{95a69bdf-5cfd-4d91-85eb-674bb5c78ac8}</id>
      <foreignId>{ce59158f-43cb-45b1-b38a-65f293d667dd}</foreignId>
-     <text>anaconda</text>
+     <text>বড় অজগর সাপ</text>
      <i18nText>anaconda</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>b</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>j</phonemeID>
+      <phonemeID>g</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>p</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{8b239ede-4af7-4b71-9612-c95e709dda53}</id>
      <foreignId>{11a3a16c-3169-4b7c-90c8-846d196091d0}</foreignId>
-     <text>python</text>
+     <text>ময়াল সাপ</text>
      <i18nText>python</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>expression</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+      <phonemeID>sh</phonemeID>
+      <phonemeID>p</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{7cf40f65-5905-4b78-9466-2c23401f940d}</id>
      <foreignId>{c0df2d5a-f39b-4f1a-bada-1ab6e0bc2744}</foreignId>
-     <text>tortoise</text>
+     <text>কচ্ছপ</text>
      <i18nText>tortoise</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>k</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>ch</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>p</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{063020b6-2bba-4412-a3f8-d9038b622431}</id>
      <foreignId>{74ddae14-4ccc-40ca-a4ab-ff9f77cdfe1d}</foreignId>
-     <text>peacock</text>
+     <text>ময়ুর</text>
      <i18nText>peacock</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o</phonemeID>
+      <phonemeID>u</phonemeID>
+      <phonemeID>r</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{f8703b19-cadd-4cb3-98b0-2732edfe0613}</id>
      <foreignId>{567271b9-6504-4585-8388-409ed3dea347}</foreignId>
-     <text>flamingo</text>
+     <text>মরাল</text>
      <i18nText>flamingo</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>m</phonemeID>
+      <phonemeID>o-half</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{1823fe05-c0a2-492a-988d-653646318b77}</id>
      <foreignId>{4c418afe-c158-42ab-9c5e-62778311f72d}</foreignId>
-     <text>mongoose lemur</text>
+     <text>ভাম-বিড়াল</text>
      <i18nText>mongoose lemur</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
-     <phonemes/>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes>
+      <phonemeID>bh</phonemeID>
+      <phonemeID>a</phonemeID>
+      <phonemeID>m</phonemeID>
+      <phonemeID>b</phonemeID>
+      <phonemeID>i</phonemeID>
+      <phonemeID>r</phonemeID>
+      <phonemeID>l</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{eebdb89b-15db-4030-a0f4-f4d18fac4469}</id>
