@@ -11910,9 +11910,9 @@
      <foreignId>{7a3093e2-4668-499b-924f-0c3745c09fe7}</foreignId>
      <text>pies</text>
      <i18nText>dog</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{77926889-3cbe-4dfe-ba2d-63c0b11b7295}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11930,9 +11930,9 @@
      <foreignId>{53151b94-a46a-41fc-95c5-52d7e43c77c0}</foreignId>
      <text>kot</text>
      <i18nText>cat</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3714401d-c968-495e-9572-75be559cabe3}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11952,7 +11952,7 @@
      <i18nText>companion</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11970,9 +11970,9 @@
      <foreignId>{4f585b0b-37cf-470b-93e1-6390046b170a}</foreignId>
      <text>gryzoń</text>
      <i18nText>rodent</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e40a6d42-95c4-4c83-827e-db1cc1e24564}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11990,9 +11990,9 @@
      <foreignId>{cc8d0351-9da6-42bf-905a-0bdae81a11cd}</foreignId>
      <text>akwarium</text>
      <i18nText>aquarium</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a9f36ad1-4b90-48fe-b5f0-774119e66c93}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12010,9 +12010,9 @@
      <foreignId>{903eeb14-e304-4d12-813c-15fdf094577c}</foreignId>
      <text>chomiki</text>
      <i18nText>hamsters</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8dc69bd8-a7a8-4d7d-99bb-62c37cc0c980}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12030,9 +12030,9 @@
      <foreignId>{f5b7ad46-7538-41cc-8883-ade2eec16d10}</foreignId>
      <text>kanarki</text>
      <i18nText>canaries</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9b79af5b-ade3-458f-ad96-2d736e434a8b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12050,9 +12050,9 @@
      <foreignId>{26948fe8-620e-4939-a6aa-a5424402b2fb}</foreignId>
      <text>papugi</text>
      <i18nText>parrots</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2ff56f32-3f15-43fb-8c13-313b68159909}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12070,9 +12070,9 @@
      <foreignId>{441de0b2-8b23-4e12-be2a-fa3dc8794892}</foreignId>
      <text>jaszczurki</text>
      <i18nText>lizards</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bee5aa63-3f0d-4196-baaa-0cbd0cf5317c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12090,9 +12090,9 @@
      <foreignId>{b3a54aad-eab9-4d7f-8dcb-02c0c1e38150}</foreignId>
      <text>ryby</text>
      <i18nText>fish</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0096346d-9592-4f8f-aba9-90e100af5d47}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12110,9 +12110,9 @@
      <foreignId>{cf842fb6-ffdd-4dd5-b22f-568ca65be521}</foreignId>
      <text>stawonogi</text>
      <i18nText>arthropod</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0753327e-4a7d-4e14-9c0a-72d8287180cf}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12130,9 +12130,9 @@
      <foreignId>{9dbffee5-819f-4083-a15c-f2d8adae421f}</foreignId>
      <text>ssak koniowaty</text>
      <i18nText>equine</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d5f8421a-e446-4b01-a332-aa4e5472d7e0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12150,9 +12150,9 @@
      <foreignId>{ce99d8aa-3e3e-4134-a040-874976b10ff1}</foreignId>
      <text>stonoga</text>
      <i18nText>millipede</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{65c4d8e2-0641-4e6e-9f7b-d4a9f8e392b5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12170,9 +12170,9 @@
      <foreignId>{b3ffb883-1a07-4e1c-b429-18196c85f4f6}</foreignId>
      <text>kochać</text>
      <i18nText>love</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2add9a0c-dc33-43b5-b7ab-21f66b424e32}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12190,9 +12190,9 @@
      <foreignId>{6e088abb-9e85-42c3-9478-63a2223dbbb4}</foreignId>
      <text>zabezpieczenie</text>
      <i18nText>protection</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f1a4393e-7aa7-46f2-8e0a-4b17f97861f4}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12210,9 +12210,9 @@
      <foreignId>{417f49ff-cb38-4f89-9fe1-cc2833963605}</foreignId>
      <text>dom</text>
      <i18nText>house</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cb175c1b-fde3-4902-b180-3295eb36e005}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12230,9 +12230,9 @@
      <foreignId>{85fff692-40bc-45f0-af04-7eb95ee9b8bd}</foreignId>
      <text>choroba</text>
      <i18nText>disease</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9f1483ea-a7e0-4486-b651-696cf4a80e54}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12250,9 +12250,9 @@
      <foreignId>{1f57915f-aa60-4aff-97fb-40fc59012722}</foreignId>
      <text>ogon</text>
      <i18nText>tail</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{937d4936-1bdc-49d2-b206-feb8b063d946}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12270,9 +12270,9 @@
      <foreignId>{fc6dde39-5dde-4138-a4e9-88c041fbab1c}</foreignId>
      <text>buldog</text>
      <i18nText>bulldog</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9446879c-de1b-4873-9e36-dce7ec6c2c4b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12290,9 +12290,9 @@
      <foreignId>{0adec509-3070-4b8d-a0b9-6502df04a462}</foreignId>
      <text>ryby tropikalne</text>
      <i18nText>tropical fish</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e0364e6a-788c-4dd8-9897-365d919eb0e5}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12310,9 +12310,9 @@
      <foreignId>{db5e12c2-0afc-4e0c-8310-689632e8bfd6}</foreignId>
      <text>patyczak</text>
      <i18nText>stick insect</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cdea9156-439d-4ef0-8ed6-cd9fcabb45c5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12330,9 +12330,9 @@
      <foreignId>{d1f7c570-1c43-4593-9653-cdb82b9a2700}</foreignId>
      <text>świnka morska</text>
      <i18nText>guinea pig</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c2266ebd-79bf-4d23-bbaf-bfd8d3bea748}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12350,9 +12350,9 @@
      <foreignId>{d70782c3-017c-46ce-b47b-be35b15ddc04}</foreignId>
      <text>rasy psów</text>
      <i18nText>breeds of dogs</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4c444a12-8d5c-4d9e-8370-c019bb3130eb}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12370,9 +12370,9 @@
      <foreignId>{0573566f-847d-4fa6-b902-4ad7255ed910}</foreignId>
      <text>czarny russian terrier</text>
      <i18nText>black russian terrier</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0d10cf47-c19b-41b2-b1ea-80d3f712a13c}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12390,9 +12390,9 @@
      <foreignId>{64172dca-d896-4386-9052-9396086ba053}</foreignId>
      <text>słodkie małe szczeniaki</text>
      <i18nText>cute little puppies</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{39b11584-5a08-40f3-87f5-62c40cb59f5b}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12410,9 +12410,9 @@
      <foreignId>{ded7fc23-1b01-4959-87e2-c09b3ca13936}</foreignId>
      <text>karmić koty</text>
      <i18nText>feed the cats</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4d9dd4c0-a3fd-4403-991f-7f2d51f6a918}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12430,9 +12430,9 @@
      <foreignId>{f4eb5447-f44a-426f-817b-ceb1a4791caa}</foreignId>
      <text>włochaty przyjaciel</text>
      <i18nText>furry friend</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e6c352bb-8992-46fa-9ed8-a3e347e6c636}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12450,9 +12450,9 @@
      <foreignId>{50ccf5fe-ccb9-46a7-8e34-b537699c2aff}</foreignId>
      <text>żółty labrador retriever</text>
      <i18nText>yellow labrador retriever</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bc7bb63b-7fe5-4d21-b5f2-182d87965fe0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12470,9 +12470,9 @@
      <foreignId>{6d123bc2-b303-47f0-89e7-7f6ea9189833}</foreignId>
      <text>mówić do</text>
      <i18nText>talk to</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3172a5a5-b02b-458f-a64f-a4086dac147e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12490,9 +12490,9 @@
      <foreignId>{b75a3b38-04b8-456d-8d36-fb47b5864495}</foreignId>
      <text>Pies jest najlepszym przyjacielem człowieka.</text>
      <i18nText>Dog is man's best friend.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{884fd59f-5b7b-4211-a388-89a2e1275198}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12510,9 +12510,9 @@
      <foreignId>{5daa81cb-bce9-497e-9fff-d396ba6929e1}</foreignId>
      <text>Czy zwierzęta moga wchodzić do supermarketu?</text>
      <i18nText>Are pets allowed inside the supermarket?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{68a1d525-938b-4a82-a27c-6ea9dc17b004}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12530,9 +12530,9 @@
      <foreignId>{e4b8b08b-4fc6-4b03-b1b6-201185c59ef2}</foreignId>
      <text>Gdzie mogę kupić jedzenie dla zwierząt?</text>
      <i18nText>Where can I get dog food?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2bf7d2a9-05be-40f0-9972-46cb346e1c1b}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12550,9 +12550,9 @@
      <foreignId>{f3b7e4b2-8dea-47ee-8870-cfbbb7733fd3}</foreignId>
      <text>Mój pies wygrał lokalny konkurs talentów w ostatnim tygodniu.</text>
      <i18nText>My dog won the local pet talent show this week.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8980753c-ec05-4d01-9b05-45a5d39b3dea}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12570,9 +12570,9 @@
      <foreignId>{3a7d156c-af72-4230-b1aa-612e662b20b5}</foreignId>
      <text>Mopsy są jednym z najbardziej popularnych zwierząt domowych.</text>
      <i18nText>Pugs are one of the most popular pet dogs.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{66e84fc3-3e7e-4bc1-8d3e-2c0cb33f30d1}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12590,9 +12590,9 @@
      <foreignId>{9a70d618-bf90-4a85-8100-1f15e7f92193}</foreignId>
      <text>Mój pies ma pięć lat i osiem miesięcy.</text>
      <i18nText>My dog is five years and eight months old.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2d9b0ea8-586d-41b1-a7cd-9df8e3f26eaa}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12610,9 +12610,9 @@
      <foreignId>{5aab3f35-390e-415d-bc08-6f10e90740e7}</foreignId>
      <text>Chomik naszego sąsiada zaginął ostatniej nocy.</text>
      <i18nText>Our neighbour's hamster went missing last night.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{592c091e-e9f6-4c9d-8bdd-a14536f422d5}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12630,9 +12630,9 @@
      <foreignId>{44c01401-d2d1-4bcb-9b96-2a87f1f007a7}</foreignId>
      <text>Zawsze chciałem mieć króliki.</text>
      <i18nText>I always wanted to have pet rabbits.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ba47be7f-439a-42a7-aec3-2b0bc9b5facc}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12652,7 +12652,7 @@
      <i18nText>After a lot of pestering, my father got me a cat last summer. She is absolutely adorable and her furry coat is as white as snow. So, we named her Snowball.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12668,11 +12668,11 @@
     <phrase>
      <id>{c7c53d5a-5824-440f-ab8e-76e8e27411e5}</id>
      <foreignId>{644769f9-1851-4d5e-bf11-e211f2ac1918}</foreignId>
-     <text>Zwierzęta potrafią stymulować swoich opiekunów, w szczególności ludzi starszych, dając im kogoś kim się mogą opiekować, z kim mogą ćwiczyć, i kogś kto pomaga im w leczeniu fizycznym i psychicznym. Posiadanie zwierzątka może pomódz człowiekowi osiągnąć cele zdrowotne, na przyklad obniżyć ciśnienie lub polepszyć zdrowie psychiczne przykładowo obinżając stres.</text>
+     <text>Zwierzęta potrafią stymulować swoich opiekunów, w szczególności ludzi starszych, dając im kogoś kim się mogą opiekować, z kim mogą ćwiczyć, i kogoś kto pomaga im w leczeniu fizycznym i psychicznym. Posiadanie zwierzątka może pomódz człowiekowi osiągnąć cele zdrowotne, na przyklad obniżyć ciśnienie lub polepszyć zdrowie psychiczne przykładowo obinżając stres.</text>
      <i18nText>Pets have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past. Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c7c53d5a-5824-440f-ab8e-76e8e27411e5}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12690,9 +12690,9 @@
      <foreignId>{81f52b41-ab44-463d-9934-a7f997ed6381}</foreignId>
      <text>Jednym z zagrożeń związanych z posiadaniem zwierząt są upadki. Potykanie się o zwierzęta, w szczególności psy, jest przyczyną ponad osiemdziesięciu sześciu tysięcy poważnych wizyt na pogotowiu. Wśród osób starszych i niepełnosprawnych niektóre z tych wypadków były przyczyną złamania kości lub zagrażały życiu.</text>
      <i18nText>One of the health risks that is associated with pets is falling injuries. Tripping over pets, especially dogs, causes more than 86,000 falls serious enough to prompt a trip to the emergency room each year in the United States. Among elderly and disabled people, these falls have resulted in life-threatening injuries and broken bones.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b15855ea-211d-40f5-9792-ca4e139b1c0e}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -12707,9 +12707,9 @@
      <foreignId>{512d4b47-95ee-4b9d-813d-204b6f60b61a}</foreignId>
      <text>mówić</text>
      <i18nText>talk</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a6bd19f5-1053-4817-8cf5-7e3511af8008}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12727,9 +12727,9 @@
      <foreignId>{3ef417c6-ac7d-46de-a58f-80c6099e45a1}</foreignId>
      <text>uspołecznić</text>
      <i18nText>socialize</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e86cd201-dcd3-48d1-bc14-d986d7f6779d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12747,9 +12747,9 @@
      <foreignId>{77f6de88-7c7f-4c26-861a-eea57a6281a0}</foreignId>
      <text>powitać</text>
      <i18nText>greet</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e4dc687e-a9c8-4911-ab0f-8497d64b8422}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12767,9 +12767,9 @@
      <foreignId>{4fc1e04f-79d4-4f9c-8f77-623ed565175f}</foreignId>
      <text>gratulować</text>
      <i18nText>congratulate</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4153c412-c606-4890-b501-bce6c08e7cc8}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12787,9 +12787,9 @@
      <foreignId>{6535b402-2cb6-4b28-bc5e-b3c7c0ce487e}</foreignId>
      <text>przyjaciel</text>
      <i18nText>friend</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{30028ecc-0632-4089-bdf7-7d89d7be7b26}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12807,9 +12807,9 @@
      <foreignId>{ebb0c706-8798-463a-9ac2-ddfd237192b8}</foreignId>
      <text>znajomy</text>
      <i18nText>acquaintance</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a96b7301-4add-4aab-992d-de43f8b9ed46}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12827,9 +12827,9 @@
      <foreignId>{535f44a0-2fbe-456b-8d8d-9a247225d20b}</foreignId>
      <text>mój</text>
      <i18nText>my</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{229f257a-8ab6-4903-8e32-19667d3737e0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12847,9 +12847,9 @@
      <foreignId>{63323223-e8d0-475d-8a41-cf71f22ea82c}</foreignId>
      <text>jej</text>
      <i18nText>her</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ae5ed42e-aaa8-4e85-93e5-cb36367103dd}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12867,9 +12867,9 @@
      <foreignId>{89e8724a-ac71-4127-8e1a-257b71e4b06e}</foreignId>
      <text>ich</text>
      <i18nText>their</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7d746f9e-66c3-4a0e-9f3e-12ca1a93b0c1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12887,9 +12887,9 @@
      <foreignId>{56c0b6ce-b408-4b81-b510-125ffd1f8c30}</foreignId>
      <text>nasz</text>
      <i18nText>our</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3a9e724e-0268-40ec-8c2c-1c9f1951d3f9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12907,9 +12907,9 @@
      <foreignId>{0b5a31f2-4419-45ab-87eb-31e523a75f49}</foreignId>
      <text>uśmiech</text>
      <i18nText>smile</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{63bcaf3e-24c4-4db0-af8a-e1710d2f0ef6}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12927,9 +12927,9 @@
      <foreignId>{a0ee16ed-19bd-4ac6-a079-f4e351366efe}</foreignId>
      <text>przepraszam</text>
      <i18nText>sorry</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0f52725b-189d-438f-a136-97039b40ac3b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12947,9 +12947,9 @@
      <foreignId>{32a5034b-1be4-4bce-9b55-d07016fdcc73}</foreignId>
      <text>ślub</text>
      <i18nText>marriage</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a4b5e27a-8797-4cf6-a9d2-5b514aa418f4}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12967,9 +12967,9 @@
      <foreignId>{a3dc0d21-74cc-4868-9a86-e7e1b89e18ef}</foreignId>
      <text>urodziny</text>
      <i18nText>birthday</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bd31f7a4-ca32-4547-987d-fcc5fc3f4a7d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12987,9 +12987,9 @@
      <foreignId>{0ae5091f-e31e-465a-811b-562b06f097a9}</foreignId>
      <text>pożegnanie</text>
      <i18nText>farewell</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e6aaea41-9120-473e-b1a9-ffb940f59cd5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13007,9 +13007,9 @@
      <foreignId>{78b73e46-1b7d-4bf3-9f43-0deaf1e7d33a}</foreignId>
      <text>kawa</text>
      <i18nText>coffee</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f5127c19-41c9-4252-bbe3-d6611b4c68fe}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13027,9 +13027,9 @@
      <foreignId>{7a912314-4e29-44f7-9de6-f2c323814d0b}</foreignId>
      <text>szampan</text>
      <i18nText>champagne</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bc6d7bc5-539b-4a15-a89d-c4256855aa3a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13047,9 +13047,9 @@
      <foreignId>{46f21a09-8947-4daa-b798-213cc266b992}</foreignId>
      <text>formalny</text>
      <i18nText>formal</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{69c5e7c3-81f9-4330-979f-b6d6715bc4f6}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13067,9 +13067,9 @@
      <foreignId>{a8adf2fc-6385-4085-a543-9d577dbab7a5}</foreignId>
      <text>dziękuję</text>
      <i18nText>thank you</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c0b29062-66cc-42b3-95e4-abb45dcc4511}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13087,9 +13087,9 @@
      <foreignId>{50b36fd6-4a79-4a48-8618-ccada807f78a}</foreignId>
      <text>przyjemność po mojej stronie</text>
      <i18nText>my pleasure</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ff8dd63d-07dd-494e-a26b-144469cc8861}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13107,9 +13107,9 @@
      <foreignId>{6ecdec95-65a1-410c-81b9-27ed6ac3168c}</foreignId>
      <text>tak samo tutaj</text>
      <i18nText>same here</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{679573bd-1cb7-4357-98cc-f1a8cfce91c9}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13127,9 +13127,9 @@
      <foreignId>{e8327fc2-a787-4e76-9c81-c91a4f8803f1}</foreignId>
      <text>dobry wieczór</text>
      <i18nText>good evening</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d0a916f2-6d8d-4344-a97d-9d65ce2306ed}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13147,9 +13147,9 @@
      <foreignId>{31fc202a-f54e-4f0e-85d1-57f20e0f2e77}</foreignId>
      <text>rozmowa</text>
      <i18nText>small talk</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{14a41e62-667b-4565-8331-758800b3807f}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13167,9 +13167,9 @@
      <foreignId>{9a6dc3e3-86c7-41c2-ac8c-6505b72758d9}</foreignId>
      <text>cocktail party</text>
      <i18nText>cocktail party</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{574491e0-7d6c-45fb-bd0c-c08422f2735e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13187,9 +13187,9 @@
      <foreignId>{64c4d159-8d14-43ed-acbe-7976b752cdbd}</foreignId>
      <text>przyjęcie weselne</text>
      <i18nText>wedding reception</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e92888aa-7c28-45da-a6ff-4da8d8821b32}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13207,9 +13207,9 @@
      <foreignId>{7e2d442b-8651-4b27-b6fe-078037dca343}</foreignId>
      <text>uroczystosc charytatywna</text>
      <i18nText>fundraising ceremony</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{076f894a-603c-49c2-9f60-8bde0e1ddc77}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13227,9 +13227,9 @@
      <foreignId>{88ea2fdb-d331-4e75-9f14-d2d6a4f17ff2}</foreignId>
      <text>wygląda wspaniale</text>
      <i18nText>looks gorgeous</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e1e21b4f-e1c4-4602-994e-a31629b92e9a}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13247,9 +13247,9 @@
      <foreignId>{ee9a8ce1-1332-4a83-a33b-d86d7b0b2d5a}</foreignId>
      <text>parapetówka</text>
      <i18nText>housewarming party</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5bee9989-b479-4555-883f-e2bd3e566b3a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13267,9 +13267,9 @@
      <foreignId>{ea291596-4a58-411f-9c1a-26ec21d11390}</foreignId>
      <text>Chcesz iść ze mną na studniówkę?</text>
      <i18nText>Would you like to go to the prom with me?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f734957e-6d2b-4955-a878-f8898f21ef75}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13287,9 +13287,9 @@
      <foreignId>{931a6942-d230-45f2-a812-c9bf19c9a0df}</foreignId>
      <text>Będziemy organizować przyjęcie zaręczynowe wkrótce.</text>
      <i18nText>We will be throwing our engagement party soon.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{102ca299-af22-4aba-8a86-3e394b23263e}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13307,9 +13307,9 @@
      <foreignId>{bc0aaf07-5758-41a2-9a0a-0ca8642c7d7b}</foreignId>
      <text>Czekałem na przyjęcie z okazji ukończenia studiów bardzo długo.</text>
      <i18nText>I have been waiting for the graduation party for a very long time.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f2c8d9ba-765e-4c0d-88c4-e891cbb22745}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13329,7 +13329,7 @@
      <i18nText>Phil's parents have arranged for a small post wedding reception party for the newly wed couple.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13347,9 +13347,9 @@
      <foreignId>{1cd9aa1c-cb48-43e0-910c-16993c5746b2}</foreignId>
      <text>Maria planuje swoje wesele od wieków.</text>
      <i18nText>Marie has been planning for her marriage party since ages.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f652830a-0d55-4f47-83a8-a529a4caf555}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13367,9 +13367,9 @@
      <foreignId>{8494f4b0-75f4-46f5-94d7-702cf59cc7aa}</foreignId>
      <text>Lily i George tworzą piękną parę.</text>
      <i18nText>Lily and George make a beautiful couple.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d4a196f4-71f1-4566-b968-866e4aa49f4c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13387,9 +13387,9 @@
      <foreignId>{0e7c7d2d-7794-4dfb-bf42-d3572a6ab342}</foreignId>
      <text>Dziękuję za przybycie.</text>
      <i18nText>Thank you for coming.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cda33548-7a3f-44ca-bab1-55e20fd4e5dd}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13417,9 +13417,9 @@
      <foreignId>{686bd5b1-cba1-4d49-a4cf-f2c5262aa8cc}</foreignId>
      <text>Świetnie się bawilem.</text>
      <i18nText>I had a great time.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ef980ae7-3b9d-46ad-8b51-239cd7c6fd72}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13437,9 +13437,9 @@
      <foreignId>{32538363-00c6-4ab8-99f8-0fba91cd9d40}</foreignId>
      <text>W nastepnym miesiącu moi rodzice bedą obchodzić dwudziesto pięcio lecie małżeństwa. Od dłuższego czasu planuje zorganizować dla nich imprezę niespodziankę.</text>
      <i18nText>Next month my parents will be completing their twenty-five years of marriage. I have been planning on throwing them a nice surprise party for a long time.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f414b499-fb64-4dcb-a137-d996a58254c9}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13457,9 +13457,9 @@
      <foreignId>{ba78a846-fd7c-496c-aa65-948f85dffd6e}</foreignId>
      <text>Zorganizowaliśmy imprezę charytatywną na jutro. Odbędzie się u mnie. Na początku będzie obiad, a następnie przemówienia członków zarządu.</text>
      <i18nText>We have organized a fundraising party tomorrow. I will be hosting it. There will be dinner followed by speeches by the board members.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{18153352-b849-4094-8d9a-c8aed62cfe2d}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
