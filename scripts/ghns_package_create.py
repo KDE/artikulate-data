@@ -18,7 +18,7 @@ DOWNLOAD_TARS = "upload"
 SCRIPTS_DIR = "scripts"
 SKELETONS ="/tmp/artikulateCoursePackaging/skeletons/"
 HTML = "http://files.kde.org/edu/artikulate/"
-PERCENTAGE = 0.01 # uncomment to create tars only for courses with more then 90 percent of the phrases 
+PERCENTAGE = 0.1 # uncomment to create tars only for courses with more then 90 percent of the phrases 
 # PERCENTAGE = 0 # uncomment to create tars for all the phrases regardless of number of recordings
 
 # create a new directory for storing tars

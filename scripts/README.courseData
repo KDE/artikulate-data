@@ -1,7 +1,7 @@
 Course data distribution is done by the following steps:
 
-We currently ship all courses that are translated at least 1% (excludes only all
-completely untranslated coureses).
+We currently ship all courses that are translated at least 10% (goal is 90%
+but we do not have any course at that level yet).
 
 1. run ghns_package_create.py
 This creates tar.bz2 packages of the courses in folder "upload"
