@@ -16,9 +16,9 @@
      <foreignId>{24e8ef0c-9234-4da5-a6fe-dbd5104f57d5}</foreignId>
      <text>zéro</text>
      <i18nText>0</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f077b7d7-f65a-4b8c-9711-0809991f4b07}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -36,9 +36,9 @@
      <foreignId>{8d7b65c2-e8f2-4153-86cc-9ed3293959d5}</foreignId>
      <text>deux</text>
      <i18nText>2</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c06efcd0-e941-4a6a-bf57-28424614c7c1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -56,9 +56,9 @@
      <foreignId>{9718cb32-b05d-4f99-9f3a-e5e3973cfe2a}</foreignId>
      <text>quatre</text>
      <i18nText>4</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e3cbc77c-ca8a-4cc2-945f-d5491b3beb7a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -76,9 +76,9 @@
      <foreignId>{eafc05e9-0bb4-4c54-ae0c-990d2610b68b}</foreignId>
      <text>six</text>
      <i18nText>6</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b16487b4-a019-433f-973f-33a6666af838}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -96,9 +96,9 @@
      <foreignId>{8178c10f-1204-4cc3-9023-69935eea0c1e}</foreignId>
      <text>huit</text>
      <i18nText>8</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e95ce22d-4f36-4c15-9f11-1a2d540a6ab0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -116,9 +116,9 @@
      <foreignId>{83a9943b-1d34-45a0-a446-b6388784b2de}</foreignId>
      <text>dix</text>
      <i18nText>10</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{86d03a35-36fe-4912-a7e4-c86b5375a525}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -136,9 +136,9 @@
      <foreignId>{c1c55dc8-cfac-43df-bf61-f15d9d65cd17}</foreignId>
      <text>douze</text>
      <i18nText>12</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b0a9440b-8f50-426d-a67f-620ea81de26b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -156,9 +156,9 @@
      <foreignId>{b88e772d-5311-45f5-8628-259df44fafbe}</foreignId>
      <text>quatorze</text>
      <i18nText>14</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b489f02c-3f06-41cc-8a55-a21613b2339a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -176,9 +176,9 @@
      <foreignId>{efd24631-c719-44e9-a5d5-bccfe4a32c10}</foreignId>
      <text>seize</text>
      <i18nText>16</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{18ab3f6a-972f-4ce1-b8fd-4a2c5548227b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -196,9 +196,9 @@
      <foreignId>{a8119748-2dd9-4833-9bc7-956f3229b2be}</foreignId>
      <text>dix-huit</text>
      <i18nText>18</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{81ed092d-4566-4b40-b72b-c14cd522b1a9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -216,9 +216,9 @@
      <foreignId>{f71d08ef-5349-4bdf-b934-f45711ad4f88}</foreignId>
      <text>vingt</text>
      <i18nText>20</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{29329e06-6082-4f08-afb3-29679e6f69bb}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -243,9 +243,9 @@
      <foreignId>{060b6311-c362-451d-a245-68887c63bd6f}</foreignId>
      <text>A</text>
      <i18nText>A</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{51680fc5-f556-4b6e-a1d6-3f835f150dcc}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -263,9 +263,9 @@
      <foreignId>{4a1c0d9b-126e-4ca9-8a01-55d192c60a6b}</foreignId>
      <text>C</text>
      <i18nText>C</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{36b5c66d-3818-44ff-bfe4-1c4512219f51}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -283,9 +283,9 @@
      <foreignId>{6e23fb32-f5f2-48e6-bb9e-74e42d8baa16}</foreignId>
      <text>E</text>
      <i18nText>E</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{858ec008-aca6-42a4-8a21-b40d5cdeaa56}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -303,9 +303,9 @@
      <foreignId>{9b6b6670-e42c-411a-9ecf-e4b7393b83b4}</foreignId>
      <text>G</text>
      <i18nText>G</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8a7a1ab8-c68b-449f-83c1-23c3b892ee7a}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -323,9 +323,9 @@
      <foreignId>{fc484cb7-e3aa-4217-a837-c334712d5781}</foreignId>
      <text>I</text>
      <i18nText>I</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8c69d837-fd54-4e75-9d88-28dce147c270}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -343,9 +343,9 @@
      <foreignId>{69099f11-b5ac-444c-b4c3-16d00303eb8e}</foreignId>
      <text>K</text>
      <i18nText>K</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8803f2b1-c457-4a78-aaa7-984be2c94b36}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -363,9 +363,9 @@
      <foreignId>{fe194e00-9c71-4512-8b71-59fe924b7ae2}</foreignId>
      <text>M</text>
      <i18nText>M</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{bb619c3f-6a40-4725-9e27-bbd40483a29e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -383,9 +383,9 @@
      <foreignId>{c93bbcdf-4e9d-410b-a7e6-c6fdfe10fedf}</foreignId>
      <text>O</text>
      <i18nText>O</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7a83ad1b-b39e-497a-98e5-4530b8e54d0e}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -403,9 +403,9 @@
      <foreignId>{90fb287a-3ddc-45d8-8e3c-267d9f9cbb9d}</foreignId>
      <text>Q</text>
      <i18nText>Q</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{13b72948-6d2d-4d10-b77f-31b87c7fb904}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -423,9 +423,9 @@
      <foreignId>{1883ac71-a239-4640-bc85-22b9127314cd}</foreignId>
      <text>S</text>
      <i18nText>S</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{84f04199-ceb9-429f-a3bb-b3c373c702f0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -443,9 +443,9 @@
      <foreignId>{78f84cb3-a595-4d3f-bc5a-b032ed3e50b1}</foreignId>
      <text>U</text>
      <i18nText>U</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2c255410-a37c-4367-a7f2-06e111a43fb1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -463,9 +463,9 @@
      <foreignId>{bf6f88c0-87f9-4ad9-ab2c-d7644954451a}</foreignId>
      <text>W</text>
      <i18nText>W</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1b5ea3e1-61a9-432d-b4d0-0587f24dffad}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -483,9 +483,9 @@
      <foreignId>{31480e8b-849c-448e-9c74-cd406189c9d1}</foreignId>
      <text>Y</text>
      <i18nText>Y</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c10fcb71-b92a-4af6-b87b-2ed9253909b5}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3273,9 +3273,9 @@
      <foreignId>{3fb5bc95-16a8-48e4-95f1-6fafa8cf9606}</foreignId>
      <text>ensoleillé</text>
      <i18nText>sunny</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1a1fe128-e081-43e3-be85-08badec5e302}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3293,10 +3293,12 @@
      <foreignId>{dcc5c3f3-576b-49c2-b42d-b5e42531de59}</foreignId>
      <text>pluvieux</text>
      <i18nText>rainy</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8b8f75fb-9646-4aaa-9b2f-e565b9af7f82}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
-     <phonemes/>
+     <editState>completed</editState>
+     <phonemes>
+      <phonemeID>ahn</phonemeID>
+     </phonemes>
     </phrase>
     <phrase>
      <id>{40729f87-58d0-40a8-95c6-4cefde620a5f}</id>
@@ -3313,9 +3315,9 @@
      <foreignId>{52137abe-6cb0-426b-8825-c7d6367d21c2}</foreignId>
      <text>neige</text>
      <i18nText>snow</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f88d302e-150b-47b3-afca-3ec54600d9f0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3333,9 +3335,9 @@
      <foreignId>{e2e6e20b-a8e8-4a02-b5ff-da145fb03d07}</foreignId>
      <text>frais</text>
      <i18nText>cool</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fdf81109-f054-4488-b14c-ce6a5152fb4d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3353,9 +3355,9 @@
      <foreignId>{0df49aef-2874-4120-86e0-d1933279748a}</foreignId>
      <text>inondation</text>
      <i18nText>flood</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8bdc1c5b-6a07-4f56-aa9d-b32c9ecdfa7d}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3373,9 +3375,9 @@
      <foreignId>{74b3353d-3cc9-495d-96a2-b7caf34effe1}</foreignId>
      <text>grêle</text>
      <i18nText>hail</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b8fdd373-97a9-491f-8d68-668dce136bf4}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3393,9 +3395,9 @@
      <foreignId>{40985c4e-648e-4b28-8c1b-b11438ed9b59}</foreignId>
      <text>tremblement de terre</text>
      <i18nText>earthquake</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4d734cd9-f559-4b19-8cfe-ccfffd20662f}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3413,9 +3415,9 @@
      <foreignId>{d91e0877-bbd6-42a0-a4e4-aba5cd8adf26}</foreignId>
      <text>climat</text>
      <i18nText>climate</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{87bdc070-9efb-45b6-8a8e-b2d1470df593}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3433,9 +3435,9 @@
      <foreignId>{25286749-936a-4b37-ab35-44f08ea5a973}</foreignId>
      <text>été</text>
      <i18nText>summer</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c91d435e-1184-45bf-b7c5-217b32d3d3ce}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3453,9 +3455,9 @@
      <foreignId>{e5d41765-9299-4be3-9974-54cd85db4ca1}</foreignId>
      <text>printemps</text>
      <i18nText>spring</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{04a1e2f5-7b5a-4fbd-8e8b-d31abb8e8eb8}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3473,9 +3475,9 @@
      <foreignId>{b2d3865d-1e2e-4958-b2b1-f09d4050ef66}</foreignId>
      <text>tsunami</text>
      <i18nText>tsunami</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{064a6c68-437c-42cd-a4ec-bcfb1b93c082}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3493,9 +3495,9 @@
      <foreignId>{23febf80-6508-4069-b9af-8f92ce733b33}</foreignId>
      <text>humide</text>
      <i18nText>humid</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{d9c90789-fb43-409e-9cd1-b77ab0220962}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3513,9 +3515,9 @@
      <foreignId>{01b7fd05-e376-4869-bb2a-711581fb4070}</foreignId>
      <text>jungle</text>
      <i18nText>jungle</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{db48456e-5d2d-42e7-bfb6-dbffd58cffcb}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3533,9 +3535,9 @@
      <foreignId>{c92a8688-5d39-4e86-bccb-1051b0fd64f6}</foreignId>
      <text>degrés Fahrenheit</text>
      <i18nText>degrees Fahrenheit</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3ce1fb1c-3ae5-42cd-a5f4-107c2d91efe5}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3543,9 +3545,9 @@
      <foreignId>{8a26b497-b97a-4ac3-8fbf-d7fe3eef692a}</foreignId>
      <text>pluie battante</text>
      <i18nText>heavy rain</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b6dacf03-3f63-4b2d-9cee-1fc96d3ca27d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3563,9 +3565,9 @@
      <foreignId>{752428d8-b71f-4f2a-82bc-29a80ed450fa}</foreignId>
      <text>température de l'eau</text>
      <i18nText>water temperature</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fab1fd6d-e6c7-4101-a9a9-df0026838e27}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3583,9 +3585,9 @@
      <foreignId>{a3760564-e07c-42fa-8f42-e50144cd68cf}</foreignId>
      <text>partiellement nuageux</text>
      <i18nText>partly cloudy</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9246eb25-9bbf-40e0-b0d2-6acbf6e7903d}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3603,9 +3605,9 @@
      <foreignId>{dca2806c-5604-4f97-a76d-0679ebf318f0}</foreignId>
      <text>le réchauffement climatique</text>
      <i18nText>global warming</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f96d3188-f5c9-474b-b1f2-2b957a656cb2}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3623,9 +3625,9 @@
      <foreignId>{1b21362a-d75f-4d81-b8f5-d605b2a430bb}</foreignId>
      <text>tempête tropicale</text>
      <i18nText>tropical storm</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c16e055d-27f2-4f33-9ec8-dac9460f4acf}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3643,9 +3645,9 @@
      <foreignId>{7cda5919-dbe3-4387-bdc9-5ca8a33e9049}</foreignId>
      <text>journée ensoleillée</text>
      <i18nText>sunny day</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{eb843724-295f-4ab7-b289-0536e74f5bef}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3663,9 +3665,9 @@
      <foreignId>{9d8246c3-d2f2-4e52-a457-95613ae59b46}</foreignId>
      <text>pluies intermittentes</text>
      <i18nText>scattered showers</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{23a242d8-ade0-4dc6-9c97-0955d6aad586}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3683,9 +3685,9 @@
      <foreignId>{7b5e669b-a59e-4a08-8e06-e6de66bb8cd8}</foreignId>
      <text>prévisions météorologiques</text>
      <i18nText>weather forecast</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ec648364-0426-4b2b-aad3-66137e37eb77}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3723,9 +3725,9 @@
      <foreignId>{fab1ab80-ef00-4d3b-b4c4-0f61b528f7b6}</foreignId>
      <text>Quel temps fait-il?</text>
      <i18nText>What is the weather like?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2b2a8f5e-5acf-4068-9a68-89255cc23bbc}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3741,11 +3743,11 @@
     <phrase>
      <id>{30d706c8-d45a-4b31-9e89-af04ea3ed196}</id>
      <foreignId>{86aaf64d-b399-4c29-86f8-d27707916b36}</foreignId>
-     <text>Il ressemble il va y avoir du vent demain.</text>
+     <text>Il semble qu'il va y avoir du vent demain.</text>
      <i18nText>It look like it is going to be windy tomorrow.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{30d706c8-d45a-4b31-9e89-af04ea3ed196}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3763,9 +3765,9 @@
      <foreignId>{251b17ce-fb83-4036-af23-028eb8e445f8}</foreignId>
      <text>Espérons que le temps perdure.</text>
      <i18nText>Let’s hope the weather holds out.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9de48322-9e84-401c-a6c4-817be0096572}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3783,9 +3785,9 @@
      <foreignId>{14e81d70-8dcf-4c29-8fea-e88867a3d5c6}</foreignId>
      <text>Prenez un parapluie, il pleut.</text>
      <i18nText>Take an umbrella, it’s raining.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7739db50-4781-4954-8057-6e66c819df49}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3803,9 +3805,9 @@
      <foreignId>{6b4dc159-7699-4c9c-bf5c-fbde86d5f3ad}</foreignId>
      <text>Il fait frisquet aujourd'hui.</text>
      <i18nText>It is chilly today.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9ad7d75a-d8d3-4c8c-8b53-ac7410e65300}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3823,9 +3825,9 @@
      <foreignId>{ffa2d311-3daf-40d3-b314-9abd386a76d7}</foreignId>
      <text>Le vent souffle.</text>
      <i18nText>The wind is blowing.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{280abe8a-6e7b-4c10-92ca-444504f9c224}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3843,9 +3845,9 @@
      <foreignId>{43679199-c006-4405-88f7-d0a8f68dc993}</foreignId>
      <text>La nuit dernière, nous avons vu un beau coucher de soleil.</text>
      <i18nText>Last night we saw a beautiful sunset.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dbe185ab-d697-4fa4-891f-9e7d44753fb4}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3863,19 +3865,19 @@
      <foreignId>{9c720f3f-8a98-4a56-8eb7-f7b2ea77a982}</foreignId>
      <text>Le mauvais temps a gâché nos plans pour le week-end.</text>
      <i18nText>The bad weather spoiled our plans for the weekend.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9870a22c-f48e-45ec-b79b-e14d7c6883fa}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e3a959c-7e94-4f84-809c-1b174e7574bb}</id>
      <foreignId>{e32a4fc3-3285-4fa9-89b9-304fa8ade0fc}</foreignId>
-     <text>Dans le climat de savane, on peut distinguer deux grandes saisons: sèche et humide.</text>
+     <text>Dans le climat de la savane, on peut distinguer deux grandes saisons: sèche et humide.</text>
      <i18nText>In savanna climate we can distinguish to main seasons: wet and dry.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2e3a959c-7e94-4f84-809c-1b174e7574bb}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3893,9 +3895,9 @@
      <foreignId>{7c2fad53-f0c7-418c-a3e2-4bd20e646a8b}</foreignId>
      <text>Nous avons eu une sécheresse dans notre région l'été dernier. Il n'a pas plu pendant deux mois.</text>
      <i18nText>We had a drought in our area last summer. It did not rain for two months.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b233e2e6-8a2c-42c7-a418-1e0537647207}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3913,9 +3915,9 @@
      <foreignId>{be9e6e8e-5446-4ad2-8929-b392f70ed7ce}</foreignId>
      <text>Les forêts tropicales se trouvent près de l'équateur. Ces zones sont caractérisées par une forte humidité et de fortes pluies.</text>
      <i18nText>Tropical rainforests are found close to the equator. These areas are characterized by high humidity and heavy rains.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e9e81370-2988-4bf8-9db0-c0e7bf9c9ad6}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -3933,9 +3935,9 @@
      <foreignId>{2fd8d252-622b-43fa-9a71-479447165d38}</foreignId>
      <text>Les étés sont chauds avec des averses occasionnelles et des nuits fraîches. L'hiver la température est comprise entre 2 ° C et 5 ° C.</text>
      <i18nText>Summers are warm with occasional showers and cool nights. Winter temperatures range between 2°C and 5°C.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b7a18928-3ddf-4c70-a502-e937d4c16f04}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
    </phrases>
