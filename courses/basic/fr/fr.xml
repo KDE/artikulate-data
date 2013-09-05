@@ -948,7 +948,7 @@
     <phrase>
      <id>{c650c483-ed0e-4495-b9b7-4c697d51c506}</id>
      <foreignId>{dd2695dc-7fb7-4a71-8bca-0c6a186f82ee}</foreignId>
-     <text>A quelle distance est la gare?</text>
+     <text>A quelle distance est la gare ?</text>
      <i18nText>How far is the train station?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -978,7 +978,7 @@
     <phrase>
      <id>{b19acd93-d73c-4415-9fa7-1dea38f41f45}</id>
      <foreignId>{50102ee1-d95c-4c33-ad1d-ca57de2bbc66}</foreignId>
-     <text>Excusez-moi, pourriez-vous me dire comment se rendre au bureau de poste?</text>
+     <text>Excusez-moi, pourriez-vous me dire comment se rendre au bureau de poste ?</text>
      <i18nText>Excuse me, could you tell me how to get to the post office?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -988,7 +988,7 @@
     <phrase>
      <id>{1abe25a1-32fe-4c47-a478-815342a1ecf8}</id>
      <foreignId>{5962fd5a-9164-4777-8179-cda7d4b895b8}</foreignId>
-     <text>Quand est-ce que le prochain tour démarre?</text>
+     <text>Quand est-ce que le prochain tour démarre ?</text>
      <i18nText>When does the next tour start?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -998,7 +998,7 @@
     <phrase>
      <id>{62d3bafc-73d7-4df7-8d80-4f1dab793269}</id>
      <foreignId>{a983071c-0522-4055-aee7-f164f5f70334}</foreignId>
-     <text>Le musée est-il ouvert le samedi?</text>
+     <text>Le musée est-il ouvert le samedi ?</text>
      <i18nText>Is the museum open on Saturdays?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1008,7 +1008,7 @@
     <phrase>
      <id>{ce492a3f-f16f-4afe-97eb-26a621903e08}</id>
      <foreignId>{5c05b94b-6043-4ee1-97d2-f4fd854b2641}</foreignId>
-     <text>Pouvez-vous prendre une photo de moi?</text>
+     <text>Pouvez-vous prendre une photo de moi ?</text>
      <i18nText>Can you take a photo of me?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1058,7 +1058,7 @@
     <phrase>
      <id>{a17f1fa7-c007-4a06-8edf-e11a6dffd89f}</id>
      <foreignId>{91c058c1-7d53-4ec3-a822-756212ee254b}</foreignId>
-     <text>Pouvons-nous y aller à pied?</text>
+     <text>Pouvons-nous y aller à pied ?</text>
      <i18nText>Can we get there by foot?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1068,7 +1068,7 @@
     <phrase>
      <id>{46c66bcf-2b7f-4a31-b5c0-b7bd73d35378}</id>
      <foreignId>{e6d666ea-6693-404e-9e57-694fb8a3fdfc}</foreignId>
-     <text>Que recommanderiez-vous voir en premier?</text>
+     <text>Que recommanderiez-vous voir en premier ?</text>
      <i18nText>What would you recommend to see in the first place?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1078,7 +1078,7 @@
     <phrase>
      <id>{bbc476ea-00a7-49b7-b8c0-8878095a7ef6}</id>
      <foreignId>{de0f3a0e-e42b-417b-b1ea-3c2c81eaedad}</foreignId>
-     <text>Combien sont les frais d'admission?</text>
+     <text>Combien sont les frais d'admission ?</text>
      <i18nText>How much is the admission fee?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1088,7 +1088,7 @@
     <phrase>
      <id>{20eead03-21d1-4fa9-a00b-586fb922ecbb}</id>
      <foreignId>{4f2bd05d-7fca-4490-ba61-441c9b99456c}</foreignId>
-     <text>Avez-vous des cartes gratuites de la ville?</text>
+     <text>Avez-vous des cartes gratuites de la ville ?</text>
      <i18nText>Do you have any free maps of the city?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1098,7 +1098,7 @@
     <phrase>
      <id>{b02e7ce9-b99c-4b87-8f31-39bf3316136e}</id>
      <foreignId>{6becb819-6669-4f88-9fb8-b7ccba61bec7}</foreignId>
-     <text>Voulez-vous visiter la Galerie nationale?</text>
+     <text>Voulez-vous visiter la Galerie nationale ?</text>
      <i18nText>Would you like to visit National Gallery?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1148,7 +1148,7 @@
     <phrase>
      <id>{2a2290bc-ed2a-4f3a-88f3-432984993812}</id>
      <foreignId>{5de429b5-c6be-4f7f-93f9-fb70b57bc7b6}</foreignId>
-     <text>Bienvenue à Rome! Pourquoi ne pas nous joindre pour le tour de la ville en bus... Les bus partent toutes les 15 minutes depuis la gare et s'arrêtent à 10 différentes attractions. Vous pouvez descendre à n'importe quel arrêt et apprécier le quartier aussi longtemps que vous le desirez. Pour plus d'informations venez vous renseigner à l'office du tourisme à côté de l'entrée principale de la gare.</text>
+     <text>Bienvenue à Rome ! Pourquoi ne pas nous joindre pour le tour de la ville en bus... Les bus partent toutes les 15 minutes depuis la gare et s'arrêtent à 10 différentes attractions. Vous pouvez descendre à n'importe quel arrêt et apprécier le quartier aussi longtemps que vous le desirez. Pour plus d'informations venez vous renseigner à l'office du tourisme à côté de l'entrée principale de la gare.</text>
      <i18nText>Welcome to Rome! Why don't you join us for a “hop on, hop off” sightseeing tour of the city... The buses leave every 15 minutes from the train station and stop at 10 different city attractions. You can get off the bus at any stop and enjoy your time in the local area for as long as you want. For more information come and ask tourist information office just next to the main train station entrance.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -1755,7 +1755,7 @@
     <phrase>
      <id>{560c7b92-ae74-4840-a8e0-ea3e26e5606b}</id>
      <foreignId>{b86467c0-f354-45f0-ada0-9f9d81c65d77}</foreignId>
-     <text>Êtes-vous marié?</text>
+     <text>Êtes-vous marié ?</text>
      <i18nText>Are you married?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1815,7 +1815,7 @@
     <phrase>
      <id>{94126a9d-15fb-42f1-a731-4049c952d1e4}</id>
      <foreignId>{383e2b89-9c86-4b6c-a7d1-2ab688625ef4}</foreignId>
-     <text>Quelle est la taille de votre famille?</text>
+     <text>Quelle est la taille de votre famille ?</text>
      <i18nText>How big is your family?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1825,7 +1825,7 @@
     <phrase>
      <id>{0e14be53-ff25-4d9c-8f81-fe0a5818e28e}</id>
      <foreignId>{c8e812e6-d98e-4154-972a-acbd051e42cd}</foreignId>
-     <text>Avez-vous des frères et soeurs?</text>
+     <text>Avez-vous des frères et soeurs ?</text>
      <i18nText>Do you have any siblings?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1835,7 +1835,7 @@
     <phrase>
      <id>{8d3d5302-0d27-475a-b21b-e071eab49a96}</id>
      <foreignId>{801eeb35-50d2-4377-9bcf-0a2e9729ac0d}</foreignId>
-     <text>Quel est votre nom de famille?</text>
+     <text>Quel est votre nom de famille ?</text>
      <i18nText>What is your family name?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -1845,7 +1845,7 @@
     <phrase>
      <id>{c2a278e7-66c1-468b-8387-33f6c123e28a}</id>
      <foreignId>{d715af37-b8c2-4f68-a8f0-fb1940717027}</foreignId>
-     <text>Vos parents sont séparés ou ils vivent toujours ensemble?</text>
+     <text>Vos parents sont séparés ou ils vivent toujours ensemble ?</text>
      <i18nText>Are your parents separated or they still live together?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -2362,7 +2362,7 @@
     <phrase>
      <id>{2eecc97c-5a31-410e-a26b-2506b70418c4}</id>
      <foreignId>{82669d0f-31ff-4bf8-85db-ac1fe0be0a8c}</foreignId>
-     <text>Quels sont les sports que vous aimez?</text>
+     <text>Quels sont les sports que vous aimez ?</text>
      <i18nText>What sports do you like?</i18nText>
      <soundFile>{2eecc97c-5a31-410e-a26b-2506b70418c4}.ogg</soundFile>
      <type>sentence</type>
@@ -2412,7 +2412,7 @@
     <phrase>
      <id>{54cf853c-7575-439d-be7a-59cd7079dc0f}</id>
      <foreignId>{4c5cef55-e0d6-4e98-8a38-5d941a66dc0f}</foreignId>
-     <text>Aimez-vous regarder le football à la télévision?</text>
+     <text>Aimez-vous regarder le football à la télévision ?</text>
      <i18nText>Do you like watching football on TV?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -2442,7 +2442,7 @@
     <phrase>
      <id>{936b7cc3-bac8-43dc-b137-824429bde33f}</id>
      <foreignId>{aaa6c5cc-0e72-4b15-abc4-c4d003bad926}</foreignId>
-     <text>Pensez-vous que cette équipe ira en finale?</text>
+     <text>Pensez-vous que cette équipe ira en finale ?</text>
      <i18nText>Do you think this team will go to the finals?</i18nText>
      <soundFile>{936b7cc3-bac8-43dc-b137-824429bde33f}.ogg</soundFile>
      <type>sentence</type>
@@ -3042,7 +3042,7 @@
     <phrase>
      <id>{9334a23c-9d30-4954-bdf8-46df5e9ebbf9}</id>
      <foreignId>{71c5bf98-fe19-45cb-9f2d-28a27056a001}</foreignId>
-     <text>De quel pays venez vous?</text>
+     <text>De quel pays venez vous ?</text>
      <i18nText>Where are you from?</i18nText>
      <soundFile>{9334a23c-9d30-4954-bdf8-46df5e9ebbf9}.ogg</soundFile>
      <type>sentence</type>
@@ -3052,7 +3052,7 @@
     <phrase>
      <id>{00d986cc-a0c8-4738-85e5-4711ae5132e1}</id>
      <foreignId>{64be1424-598a-48fe-b0ee-7e075cdd8ff2}</foreignId>
-     <text>Quelle est votre nationalité?</text>
+     <text>Quelle est votre nationalité ?</text>
      <i18nText>What is you nationality?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -3144,7 +3144,7 @@
     <phrase>
      <id>{22b01f34-6791-46df-9719-8b41fd324e8f}</id>
      <foreignId>{e4aa21fd-f647-45c5-98be-ffddba6111f4}</foreignId>
-     <text>Quel est le plat traditionnel indien?</text>
+     <text>Quel est le plat traditionnel indien ?</text>
      <i18nText>What is a traditional Indian dish?</i18nText>
      <soundFile>{22b01f34-6791-46df-9719-8b41fd324e8f}.ogg</soundFile>
      <type>sentence</type>
@@ -3723,7 +3723,7 @@
     <phrase>
      <id>{2b2a8f5e-5acf-4068-9a68-89255cc23bbc}</id>
      <foreignId>{fab1ab80-ef00-4d3b-b4c4-0f61b528f7b6}</foreignId>
-     <text>Quel temps fait-il?</text>
+     <text>Quel temps fait-il ?</text>
      <i18nText>What is the weather like?</i18nText>
      <soundFile>{2b2a8f5e-5acf-4068-9a68-89255cc23bbc}.ogg</soundFile>
      <type>sentence</type>
@@ -3733,7 +3733,7 @@
     <phrase>
      <id>{76593071-e2e9-492f-960e-5d9d0e6c106d}</id>
      <foreignId>{15c7a201-aab1-4250-83e5-24cd8392bfa9}</foreignId>
-     <text>Est-ce qu'il pleut dehors?</text>
+     <text>Est-ce qu'il pleut dehors ?</text>
      <i18nText>Is it raining outside?</i18nText>
      <soundFile>{76593071-e2e9-492f-960e-5d9d0e6c106d}.ogg</soundFile>
      <type>sentence</type>
@@ -3923,7 +3923,7 @@
     <phrase>
      <id>{09a51b50-4ba2-4e6c-8418-035fbdb0cf74}</id>
      <foreignId>{d36df743-452d-4edf-b72d-b4b0f34e2012}</foreignId>
-     <text>Il fait assez chaud. Quelle est la température?</text>
+     <text>Il fait assez chaud. Quelle est la température ?</text>
      <i18nText>It is pretty warm. What is the temperature?</i18nText>
      <soundFile>{09a51b50-4ba2-4e6c-8418-035fbdb0cf74}.ogg</soundFile>
      <type>paragraph</type>
@@ -4560,7 +4560,7 @@
     <phrase>
      <id>{3436791f-9aa2-4a87-909d-512a787469f1}</id>
      <foreignId>{237ce4bc-264c-4950-bb5c-01626bee84eb}</foreignId>
-     <text>Quelle heure est-il?</text>
+     <text>Quelle heure est-il ?</text>
      <i18nText>What time is it?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -4590,7 +4590,7 @@
     <phrase>
      <id>{fe30bdc6-a960-4e07-9498-ae2d9b4c12cd}</id>
      <foreignId>{e53a316a-4758-46d5-aeca-9e72506ce7af}</foreignId>
-     <text>Quand est ton anniversaire?</text>
+     <text>Quand est ton anniversaire ?</text>
      <i18nText>When is your birthday?</i18nText>
      <soundFile>{fe30bdc6-a960-4e07-9498-ae2d9b4c12cd}.ogg</soundFile>
      <type>sentence</type>
@@ -4650,7 +4650,7 @@
     <phrase>
      <id>{d43191fb-bf74-47db-bfa0-153ac266016d}</id>
      <foreignId>{db36973e-59fc-4ad9-ac82-7066a9c7269f}</foreignId>
-     <text>Quand le concert commence?</text>
+     <text>Quand le concert commence ?</text>
      <i18nText>When does the concert begin?</i18nText>
      <soundFile>{d43191fb-bf74-47db-bfa0-153ac266016d}.ogg</soundFile>
      <type>sentence</type>
@@ -5207,7 +5207,7 @@
     <phrase>
      <id>{b14b47ed-9523-434a-8e87-229b40b732bf}</id>
      <foreignId>{882def05-077a-4ee6-9267-91084e4abbe5}</foreignId>
-     <text>Qu'est-ce que vous allez porter ce soir?</text>
+     <text>Qu'est-ce que vous allez porter ce soir ?</text>
      <i18nText>What are you going to wear tonight?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5217,7 +5217,7 @@
     <phrase>
      <id>{e5a3447d-47ea-4e97-87d2-1b2c65159c37}</id>
      <foreignId>{43e67e18-3e78-4162-a598-a4e0b8c85b21}</foreignId>
-     <text>Pourquoi ne pas essayer?</text>
+     <text>Pourquoi ne pas essayer ?</text>
      <i18nText>Why don't you try it on?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5257,7 +5257,7 @@
     <phrase>
      <id>{f8bcad1f-f374-42a0-9d2f-425a2ff6f16f}</id>
      <foreignId>{a4551120-2870-44da-9124-3a2967dc31af}</foreignId>
-     <text>Où sont les vestiaires?</text>
+     <text>Où sont les vestiaires ?</text>
      <i18nText>Where do you have changing rooms?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5287,7 +5287,7 @@
     <phrase>
      <id>{213ecca1-2900-4427-bf0b-2758814571d6}</id>
      <foreignId>{28e6e787-ae9d-41d9-b52c-bbf64154e952}</foreignId>
-     <text>Avez-vous lavé ma robe d'été blanche?</text>
+     <text>Avez-vous lavé ma robe d'été blanche ?</text>
      <i18nText>Did you wash my white summer dress?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5367,7 +5367,7 @@
     <phrase>
      <id>{b7ab487e-f4f7-4cb1-890e-28c02017222b}</id>
      <foreignId>{270db466-be79-4c4b-b615-4c7be3139c83}</foreignId>
-     <text>Avez-vous vu la nouvelle veste de Jim? Il est très à la mode.</text>
+     <text>Avez-vous vu la nouvelle veste de Jim ? Il est très à la mode.</text>
      <i18nText>Did you see Jim's new coat? It is very fashionable.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -5377,7 +5377,7 @@
     <phrase>
      <id>{d08a3500-10db-4ac6-8da1-4054d487ca2a}</id>
      <foreignId>{28993b79-dfd1-496c-bf6b-28d23b4b73aa}</foreignId>
-     <text>Elle est tellement élégante! Elle doit lire tous les magazines de mode.</text>
+     <text>Elle est tellement élégante ! Elle doit lire tous les magazines de mode.</text>
      <i18nText>She is so stylish! She must read all the fashion magazines.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -5814,7 +5814,7 @@
     <phrase>
      <id>{4fb30801-daa6-4f8a-a7ba-ee043acb830f}</id>
      <foreignId>{79416454-e9c9-445d-ae0a-858cf7938bad}</foreignId>
-     <text>Avez-vous vu le dernier film de Harry Potter?</text>
+     <text>Avez-vous vu le dernier film de Harry Potter ?</text>
      <i18nText>Have you seen the latest Harry Potter movie?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5964,7 +5964,7 @@
     <phrase>
      <id>{7901d1dc-c077-4ccc-b85a-382e9a0a4b09}</id>
      <foreignId>{062656a3-e80d-47f4-8591-ad24650aad1e}</foreignId>
-     <text>Aimez-vous aller au théâtre?</text>
+     <text>Aimez-vous aller au théâtre ?</text>
      <i18nText>Do you like going to the theater?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -5984,7 +5984,7 @@
     <phrase>
      <id>{ed7ff1f5-7270-4f01-9dcd-46a8bc131485}</id>
      <foreignId>{6b9226a1-7b40-41c2-a8e7-57c00f1e9ee7}</foreignId>
-     <text>Dans quelle rangée voulez-vous vous asseoir?</text>
+     <text>Dans quelle rangée voulez-vous vous asseoir ?</text>
      <i18nText>What row do you like to sit in?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6491,7 +6491,7 @@
     <phrase>
      <id>{05466cff-cb81-4c69-8772-f2b825112250}</id>
      <foreignId>{c35f8724-1f65-4ced-9741-9cdb75a4999b}</foreignId>
-     <text>Avez-vous une assurance médicale?</text>
+     <text>Avez-vous une assurance médicale ?</text>
      <i18nText>Do you have medical insurance?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6501,7 +6501,7 @@
     <phrase>
      <id>{b9b4bf5d-7589-4eee-8b4b-092a029fd64d}</id>
      <foreignId>{c23f86d9-d69e-499c-a7a6-0bf2a71d0687}</foreignId>
-     <text>Quels sont vos symptômes?</text>
+     <text>Quels sont vos symptômes ?</text>
      <i18nText>What are your symptoms?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6541,7 +6541,7 @@
     <phrase>
      <id>{77a3c6ba-82f1-4280-8c0b-7192ebc5196b}</id>
      <foreignId>{128eb6bc-f971-4cb0-bfe0-d4e6872189d5}</foreignId>
-     <text>Avez-vous des allergies?</text>
+     <text>Avez-vous des allergies ?</text>
      <i18nText>Do you have any allergies?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6581,7 +6581,7 @@
     <phrase>
      <id>{83867f94-97c4-464b-a0d8-5051d41d6f53}</id>
      <foreignId>{49e587dd-a8c2-4155-ba30-a63cd85c6391}</foreignId>
-     <text>Êtes-vous sur toute sorte de médicaments?</text>
+     <text>Êtes-vous sur toute sorte de médicaments ?</text>
      <i18nText>Are you on any sort of medication?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6611,7 +6611,7 @@
     <phrase>
      <id>{b5f2f7c3-aaf8-47c2-af18-31aff7de24f0}</id>
      <foreignId>{11871be1-c4ba-4d6d-9302-d693b89c86ee}</foreignId>
-     <text>Ça fait mal quand j'appuie ici?</text>
+     <text>Ça fait mal quand j'appuie ici ?</text>
      <i18nText>Does it hurt when I press here?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6631,7 +6631,7 @@
     <phrase>
      <id>{659e1de3-fadc-4c98-97ca-c265022694e5}</id>
      <foreignId>{d5f91e4c-ef33-43c8-bda4-e614ef7810c1}</foreignId>
-     <text>Avez-vous des médecins qui parlent anglais?</text>
+     <text>Avez-vous des médecins qui parlent anglais ?</text>
      <i18nText>Do you have any doctors who speak English?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -6691,7 +6691,7 @@
     <phrase>
      <id>{1e320951-6a76-4f1d-84d6-315576b5d6c5}</id>
      <foreignId>{be62ccf5-b7e8-4758-90bd-8976d5a2f9c3}</foreignId>
-     <text>Je me sens déprimé et j'ai eu des difficultés à dormir. Pourriez-vous me donner un rendez-vous avec un spécialiste dans les prochains jours?</text>
+     <text>Je me sens déprimé et j'ai eu des difficultés à dormir. Pourriez-vous me donner un rendez-vous avec un spécialiste dans les prochains jours ?</text>
      <i18nText>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -6701,7 +6701,7 @@
     <phrase>
      <id>{b112a359-07e7-4996-93f8-c448343b8d25}</id>
      <foreignId>{adb8fa13-592c-4637-80c1-1051254655f9}</foreignId>
-     <text>Y a t-il des effets secondaires de ce médicament? J'ai aussi oublié de mentionner que je suis allergique à la pénicilline.</text>
+     <text>Y a t-il des effets secondaires de ce médicament ? J'ai aussi oublié de mentionner que je suis allergique à la pénicilline.</text>
      <i18nText>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -7228,7 +7228,7 @@
     <phrase>
      <id>{1da8e1b1-091c-48e8-bfbf-babd746537be}</id>
      <foreignId>{f040aa1d-95df-4777-b0fe-2fc5af92c83e}</foreignId>
-     <text>Avez-vous une carte de fidélité?</text>
+     <text>Avez-vous une carte de fidélité ?</text>
      <i18nText>Do you have a loyalty card?</i18nText>
      <soundFile>{1da8e1b1-091c-48e8-bfbf-babd746537be}.ogg</soundFile>
      <type>sentence</type>
@@ -7258,7 +7258,7 @@
     <phrase>
      <id>{c7aca023-1219-4d82-9c6a-547c29fa5a9e}</id>
      <foreignId>{347d5b1b-12be-4cfc-8d78-ef11431c2435}</foreignId>
-     <text>Combien ça coûte?</text>
+     <text>Combien ça coûte ?</text>
      <i18nText>How much is it?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -7268,7 +7268,7 @@
     <phrase>
      <id>{ce2c1b95-f008-4d55-844c-e9c6d1de445d}</id>
      <foreignId>{094c93df-4092-45ea-8b81-4f6bcb911b11}</foreignId>
-     <text>Pourrais-je avoir un sac, s'il vous plaît?</text>
+     <text>Pourrais-je avoir un sac, s'il vous plaît ?</text>
      <i18nText>Could I have a carrier bag, please?</i18nText>
      <soundFile>{ce2c1b95-f008-4d55-844c-e9c6d1de445d}.ogg</soundFile>
      <type>sentence</type>
@@ -7298,7 +7298,7 @@
     <phrase>
      <id>{f0a90fe7-4f33-4188-bd40-d048a4afe25a}</id>
      <foreignId>{3a650473-c01b-4b17-9b55-7948c9a39e81}</foreignId>
-     <text>Voulez-vous payer en liquide ou par carte de crédit?</text>
+     <text>Voulez-vous payer en liquide ou par carte de crédit ?</text>
      <i18nText>Would you like to pay with cash or credit card?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -7318,7 +7318,7 @@
     <phrase>
      <id>{b4755c66-9332-4f4f-892b-cda3da600378}</id>
      <foreignId>{c1e3aaa6-b342-49b0-8f20-aa942ac491f1}</foreignId>
-     <text>Puis-je avoir une bouteille de whisky?</text>
+     <text>Puis-je avoir une bouteille de whisky ?</text>
      <i18nText>Can I have a bottle of whisky?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -8045,7 +8045,7 @@
     <phrase>
      <id>{cb9dc929-2703-4123-b2d0-9a04ca51aa41}</id>
      <foreignId>{e9f5701d-7979-411e-85c7-02ccd0ab0b7c}</foreignId>
-     <text>Puis-je avoir un verre d'eau, s'il vous plaît?</text>
+     <text>Puis-je avoir un verre d'eau, s'il vous plaît ?</text>
      <i18nText>Can I get a glass of water, please?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -8145,7 +8145,7 @@
     <phrase>
      <id>{10c208bb-55f5-4edd-b384-257fa7bea7bd}</id>
      <foreignId>{04a11123-9ab1-469d-9edc-c9e3fff43786}</foreignId>
-     <text>Voulez-vous sortir pour dîner ce soir?</text>
+     <text>Voulez-vous sortir pour dîner ce soir ?</text>
      <i18nText>Would you like to go out for dinner tonight?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -8882,7 +8882,7 @@
     <phrase>
      <id>{cc07ae5d-e1de-4b78-aa90-a96efc9744f4}</id>
      <foreignId>{451473d0-40d4-43f1-a3e5-424d70163eb3}</foreignId>
-     <text>Pouvez-vous m'aider s'il vous plaît avec l'ouverture d'un compte d'épargne?</text>
+     <text>Pouvez-vous m'aider s'il vous plaît avec l'ouverture d'un compte d'épargne ?</text>
      <i18nText>Can you please help me with opening a savings account?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -8922,7 +8922,7 @@
     <phrase>
      <id>{71a2bd79-e92f-43bd-b64f-0bf6c80ca064}</id>
      <foreignId>{eea76c1b-3733-4142-92de-4f32f5fc8177}</foreignId>
-     <text>Combien de spécimens de signatures avez-vous besoin?</text>
+     <text>Combien de spécimens de signatures avez-vous besoin ?</text>
      <i18nText>How many specimen signatures do you need?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -8932,7 +8932,7 @@
     <phrase>
      <id>{c9f54061-dafd-47be-87bd-05f9e18df14b}</id>
      <foreignId>{95c3f7ad-07ba-48c6-bacf-ca14061551e6}</foreignId>
-     <text>Combien dois-je déposer pour ouvrir un compte courant?</text>
+     <text>Combien dois-je déposer pour ouvrir un compte courant ?</text>
      <i18nText>How much do I have to deposit to open a current account?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -8962,7 +8962,7 @@
     <phrase>
      <id>{29761362-039f-4c6b-a9c9-5c5bcdd5ef85}</id>
      <foreignId>{cc8de27a-e399-4377-867c-5de052abc222}</foreignId>
-     <text>Êtes-vous un client de cette banque?</text>
+     <text>Êtes-vous un client de cette banque ?</text>
      <i18nText>Are you a customer of this bank?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -8972,7 +8972,7 @@
     <phrase>
      <id>{27e7b2cf-8bc6-4087-9d6e-5b72e16d6e7e}</id>
      <foreignId>{513aaba4-e4ce-4d99-80d0-16ac24869b4b}</foreignId>
-     <text>Voulez-vous déposer le chèque pour le dédouanement?</text>
+     <text>Voulez-vous déposer le chèque pour le dédouanement ?</text>
      <i18nText>Would you like to deposit the cheque for clearance?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -8992,7 +8992,7 @@
     <phrase>
      <id>{7ec0d449-edc0-46d1-a5ab-47066a9def3d}</id>
      <foreignId>{cde12205-3f37-4859-ba2a-0f8b5b317332}</foreignId>
-     <text>Vont-ils me donner de l'argent aujourd'hui?</text>
+     <text>Vont-ils me donner de l'argent aujourd'hui ?</text>
      <i18nText>Will they give me the money today?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -9012,7 +9012,7 @@
     <phrase>
      <id>{2855eea3-8e3a-4253-b97a-45662456e5d5}</id>
      <foreignId>{3877cfda-28ed-4ecf-91c8-ac3c01624cd6}</foreignId>
-     <text>Où est le compteur numéro 7?</text>
+     <text>Où est le compteur numéro 7 ?</text>
      <i18nText>Which way is counter number 7?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -9092,7 +9092,7 @@
     <phrase>
      <id>{c3649410-71d2-4b64-878a-81dfd10e6c46}</id>
      <foreignId>{e8349074-1a2b-4d49-913b-bd30a5013809}</foreignId>
-     <text>Salut, j'ai besoin d'aide. J'ai fait un chèque de 100 $ qui a rebondi. Je suis sûr qu'il ya suffisamment d'argent dans mon compte. Mon numéro de compte est 30773933648. Pouvez-vous s'il vous plaît examiner cela?</text>
+     <text>Salut, j'ai besoin d'aide. J'ai fait un chèque de 100 $ qui a rebondi. Je suis sûr qu'il ya suffisamment d'argent dans mon compte. Mon numéro de compte est 30773933648. Pouvez-vous s'il vous plaît examiner cela ?</text>
      <i18nText>Hi, I need some help. I wrote a cheque of $100 which bounced. I am quite sure that there is sufficient money in my account. My account number is 30773933648. Can you please look into it?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
@@ -11633,7 +11633,7 @@
     <phrase>
      <id>{43fab706-7b74-4f03-a180-a265bed0152a}</id>
      <foreignId>{08a43f0a-3bfc-4f79-a8b9-2b1724c3bb81}</foreignId>
-     <text>Puis-je utiliser votre téléphone mobile, s'il vous plaît?</text>
+     <text>Puis-je utiliser votre téléphone mobile, s'il vous plaît ?</text>
      <i18nText>Can I use your mobile phone, please?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -11683,7 +11683,7 @@
     <phrase>
      <id>{cea33774-ad2c-46de-b2f5-68731a7d5ecb}</id>
      <foreignId>{785a217d-6724-4362-88f3-f8a58c6a8f04}</foreignId>
-     <text>Où est la sortie de secours?</text>
+     <text>Où est la sortie de secours ?</text>
      <i18nText>Where is the emergency exit?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -11703,7 +11703,7 @@
     <phrase>
      <id>{921c190e-313a-41e4-a927-48898548879c}</id>
      <foreignId>{9296525e-55a4-463c-954e-d4abd45d1c9c}</foreignId>
-     <text>Quel est le numéro d'urgence local?</text>
+     <text>Quel est le numéro d'urgence local ?</text>
      <i18nText>What is the local emergency number?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -12480,7 +12480,7 @@
     <phrase>
      <id>{c49ecedc-7708-4384-9783-62a33a490f9e}</id>
      <foreignId>{e4b8b08b-4fc6-4b03-b1b6-201185c59ef2}</foreignId>
-     <text>Où puis-je trouver de la nourriture pour chien?</text>
+     <text>Où puis-je trouver de la nourriture pour chien ?</text>
      <i18nText>Where can I get dog food?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -12510,7 +12510,7 @@
     <phrase>
      <id>{e0f3c5a5-e4cc-42e0-b4b3-91ded827a5de}</id>
      <foreignId>{768ae8f5-35d9-4130-a663-c691d26d9835}</foreignId>
-     <text>Est-ce que ce magnifique golden retriever vous appartient?</text>
+     <text>Est-ce que ce magnifique golden retriever vous appartient ?</text>
      <i18nText>Does that gorgeous golden retriever belong to you?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
@@ -13217,7 +13217,7 @@
     <phrase>
      <id>{be70233b-2ccd-46d3-9b1b-0ad60a131783}</id>
      <foreignId>{ea291596-4a58-411f-9c1a-26ec21d11390}</foreignId>
-     <text>Voulez-vous aller au bal avec moi?</text>
+     <text>Voulez-vous aller au bal avec moi ?</text>
      <i18nText>Would you like to go to the prom with me?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
