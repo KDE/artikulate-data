@@ -6065,671 +6065,671 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{f702fe24-8eee-4916-9514-66b230bf013f}</id>
      <foreignId>{978ea2b2-bba3-4d3a-a075-b9b653573170}</foreignId>
-     <text>head</text>
+     <text>κεφάλι</text>
      <i18nText>head</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{461e93be-76c6-4894-b46a-cefa4b84a2aa}</id>
      <foreignId>{9c6053f1-44ce-4121-9b9b-e5d96902f35f}</foreignId>
-     <text>eye</text>
+     <text>μάτι</text>
      <i18nText>eye</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ee2f0ff2-be3e-462b-8269-963c38c2afbe}</id>
      <foreignId>{c276be5f-d8b3-4a62-a260-e1ae864a8864}</foreignId>
-     <text>mouth</text>
+     <text>στόμα</text>
      <i18nText>mouth</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9e1590d2-2981-4dd8-a051-ff7940d9752c}</id>
      <foreignId>{50937b19-99a7-465f-ae46-01f32e3a9fa4}</foreignId>
-     <text>nose</text>
+     <text>μύτη</text>
      <i18nText>nose</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{445ccf95-6157-49ce-93a1-19aa8d282545}</id>
      <foreignId>{6c71d1cd-df66-4d12-9107-3f7a8655407b}</foreignId>
-     <text>ear</text>
+     <text>αυτί</text>
      <i18nText>ear</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{49756905-fafd-459d-bf4d-565520073176}</id>
      <foreignId>{3341f1a2-0248-4786-af3c-43151c5e2995}</foreignId>
-     <text>chin</text>
+     <text>πηγούνι</text>
      <i18nText>chin</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{440a00cd-7e5c-4d90-9b1b-80da95003162}</id>
      <foreignId>{a17a067d-57c7-4f7b-b777-7a52ec2a28a3}</foreignId>
-     <text>neck</text>
+     <text>λαιμός</text>
      <i18nText>neck</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{74266486-7acd-4569-afe0-465b2e521c14}</id>
      <foreignId>{936cc123-0231-4973-8221-1ce02a00131b}</foreignId>
-     <text>arm</text>
+     <text>χέρι, βραχίονας</text>
      <i18nText>arm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{124dd208-d41f-424c-acf4-12b63ec462b0}</id>
      <foreignId>{228bb20f-2d77-4350-bbb6-4456c9345306}</foreignId>
-     <text>hand</text>
+     <text>χέρι</text>
      <i18nText>hand</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5dd1db31-9e34-488c-b335-370fdd546697}</id>
      <foreignId>{b333684c-90fc-4915-a44c-a2d48e54a28a}</foreignId>
-     <text>finger</text>
+     <text>δάχτυλο</text>
      <i18nText>finger</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{848df00a-923a-4fee-92a4-ecca6c571c70}</id>
      <foreignId>{421bfeb0-4b74-4fc7-a956-b61ef0bd54e6}</foreignId>
-     <text>stomach</text>
+     <text>στομάχι</text>
      <i18nText>stomach</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{39cba25c-4619-413d-a93e-1e9a07f681cc}</id>
      <foreignId>{5e570f2a-f0d5-4103-ba9b-0346b8d8f4b2}</foreignId>
-     <text>thigh</text>
+     <text>μηρός</text>
      <i18nText>thigh</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ed04ab74-64b3-4948-bc59-d0f3b879b7ea}</id>
      <foreignId>{4fb53603-4ffb-4716-8a71-8aeda31258a5}</foreignId>
-     <text>chest</text>
+     <text>στήθος</text>
      <i18nText>chest</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2fbbce09-3c27-490e-8a94-4cdbc0a82207}</id>
      <foreignId>{8683e6c5-b482-4a6b-b533-c7862c0b6b2f}</foreignId>
-     <text>shoulder</text>
+     <text>ώμος</text>
      <i18nText>shoulder</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e4ab403-c9dc-4226-86a9-9476c4e67ba1}</id>
      <foreignId>{a29e6480-b689-43ac-b9bd-1589478476bc}</foreignId>
-     <text>leg</text>
+     <text>πόδι</text>
      <i18nText>leg</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{08d7ea56-664c-41c7-b8ab-607f25ef8dbf}</id>
      <foreignId>{b307f466-e262-45a6-9b6b-a7bdd79fa5d7}</foreignId>
-     <text>knee</text>
+     <text>γόνατο</text>
      <i18nText>knee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7bf7baec-bd6e-4ae4-a01f-651b0e90fa5c}</id>
      <foreignId>{f9c0d813-e3cd-48c3-938a-8e6b6299353c}</foreignId>
-     <text>ankle</text>
+     <text>αστράγαλος</text>
      <i18nText>ankle</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{24fbace9-c730-475f-bb86-a6a578843aed}</id>
      <foreignId>{83389629-c64a-4be6-950f-da89ba7d543a}</foreignId>
-     <text>foot</text>
+     <text>πόδι, πέλμα</text>
      <i18nText>foot</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{37f42301-9a66-4cb1-9b17-6a6ac0534d95}</id>
      <foreignId>{6f9b3358-e758-4878-b308-2d60723d8e4e}</foreignId>
-     <text>toe</text>
+     <text>δάχτυλο ποδιού</text>
      <i18nText>toe</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a2acfed3-89f2-4e5d-8c01-e97d2e834a54}</id>
      <foreignId>{369ec525-984b-44b2-bad9-f7a32d8c5399}</foreignId>
-     <text>palm</text>
+     <text>παλάμη</text>
      <i18nText>palm</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{07fa87ed-094b-4627-acc9-a64ef1b31421}</id>
      <foreignId>{73c9762b-4ded-4c16-96b0-4348a212157b}</foreignId>
-     <text>elbow</text>
+     <text>αγκώνας</text>
      <i18nText>elbow</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e2702bf3-d3b0-416d-9386-49c9b62b0681}</id>
      <foreignId>{f28131a9-a47d-478e-83a4-fc81ab22f5f1}</foreignId>
-     <text>have a fever</text>
+     <text>έχω πυρετό</text>
      <i18nText>have a fever</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fe33076b-ab78-45ce-a835-e1d579f0383a}</id>
      <foreignId>{13fe6af4-66a2-4f2a-a33a-fd240d14c7b4}</foreignId>
-     <text>cut a finger</text>
+     <text>κόβω δάχτυλο</text>
      <i18nText>cut a finger</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{80f28f68-f79e-4995-ae8e-41da0ba417a0}</id>
      <foreignId>{f1deaf55-7158-4dc5-87e0-2796476c107a}</foreignId>
-     <text>get a cold</text>
+     <text>αρπάζω κρύωμα</text>
      <i18nText>get a cold</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{684d422b-70b6-4dfd-8d8c-fa3bafa5e796}</id>
      <foreignId>{480eaaa7-8592-4a83-9579-4277bf21e196}</foreignId>
-     <text>break an arm</text>
+     <text>σπάζω χέρι</text>
      <i18nText>break an arm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b11a02cb-f203-400b-8330-64b8a39eee98}</id>
      <foreignId>{7567aeea-cbb1-4d94-bd59-f799cd55ed99}</foreignId>
-     <text>be in pain</text>
+     <text>πονάω</text>
      <i18nText>be in pain</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{80cc41ea-5c85-4a6b-bebb-8f7b86c1b513}</id>
      <foreignId>{5a0b73b0-d6ad-4019-bda5-0aa48c7ec8c7}</foreignId>
-     <text>get an injection</text>
+     <text>κάνω ένεση</text>
      <i18nText>get an injection</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{56f1dbcb-28ef-4c32-8a08-d82cd0a0f4d4}</id>
      <foreignId>{4b1ad981-4ee7-4fd7-a50a-052a78d2358c}</foreignId>
-     <text>blood pressure</text>
+     <text>αρτηριακή πίεση</text>
      <i18nText>blood pressure</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dabfd9cc-7673-49de-b753-aaf419a3a4ef}</id>
      <foreignId>{d5dc99e7-a458-4698-b947-bbee0b13a5bd}</foreignId>
-     <text>have a soar knee</text>
-     <i18nText>have a soar knee</i18nText>
+     <text>έχω ευαίσθητο γόνατο</text>
+     <i18nText>have a sore knee</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ac5ce500-caca-4a08-8c41-2a04e80545eb}</id>
      <foreignId>{9fbe9bea-6dae-4a0c-b8a5-994c3c318782}</foreignId>
-     <text>be sick</text>
+     <text>είμαι άρρωστος</text>
      <i18nText>be sick</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{59a63f59-1ab0-4242-9a06-6b19d3ec8b24}</id>
      <foreignId>{25f392c9-fa60-41ca-8e59-cfb72d759b30}</foreignId>
-     <text>have a stomachache</text>
+     <text>έχω στομαχόπονο</text>
      <i18nText>have a stomachache</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a7e87d28-2c55-46ed-8c38-320a3ef93712}</id>
      <foreignId>{641a29aa-c450-4267-bd38-4ef7a070f16e}</foreignId>
-     <text>x-ray scan</text>
+     <text>ακτινογραφία</text>
      <i18nText>x-ray scan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bb2e1179-a27b-489f-89f5-243e66e14920}</id>
      <foreignId>{74c66cf2-4b6c-41b8-b9e6-f87d21ed3c0d}</foreignId>
-     <text>cut down on drinking</text>
+     <text>ελλατώνω το ποτό</text>
      <i18nText>cut down on drinking</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a8909f11-0259-492c-a2b2-036f8290ffbc}</id>
      <foreignId>{d3389bb8-8825-4daf-bc36-258be516476d}</foreignId>
-     <text>take pills</text>
+     <text>παίρνω χάπια</text>
      <i18nText>take pills</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{71ce08da-c8d1-4ab6-b5c9-653c5d254166}</id>
      <foreignId>{33d6ed14-32c4-4b90-ba03-98e580847cf0}</foreignId>
-     <text>have a black eye</text>
+     <text>έχω μαυρισμένο μάτι</text>
      <i18nText>have a black eye</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3c7bbe4f-81b6-4efc-9d98-418da09121e2}</id>
      <foreignId>{e5de73c1-78b5-4079-9f64-f1c451d0c288}</foreignId>
-     <text>sick note</text>
+     <text>γνωμάτευση</text>
      <i18nText>sick note</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c8bdab48-9214-45cf-8955-f05ded796dde}</id>
      <foreignId>{c15b2d06-1a3f-4137-9993-25334d2b79e2}</foreignId>
-     <text>be congested</text>
+     <text>είμαι μπουκωμένος</text>
      <i18nText>be congested</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fec00b18-1d63-4823-801a-7f63ec94964a}</id>
      <foreignId>{28dbc507-6f11-46fb-b891-9b8ab2e26c0d}</foreignId>
-     <text>pull a muscle</text>
+     <text>μϋικός τραυματισμός</text>
      <i18nText>pull a muscle</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{826c5c76-f128-464c-bf3d-9042c9a7346d}</id>
      <foreignId>{04dd9571-8b9d-48d8-8eaf-47330b972473}</foreignId>
-     <text>have diarrhoea</text>
+     <text>έχω διάρροια</text>
      <i18nText>have diarrhoea</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{550c3a6d-469b-4246-911e-b1766c3541a2}</id>
      <foreignId>{5b97090f-f005-48cb-8fb0-dc893085a60b}</foreignId>
-     <text>have little energy</text>
+     <text>έχω λίγη ενέργεια</text>
      <i18nText>have little energy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cb5e1794-a9dd-4efa-b5b6-c8633a61efa9}</id>
      <foreignId>{34df363f-3c78-4b3b-be35-738b0f96d48c}</foreignId>
-     <text>insulin injection</text>
+     <text>ένεση ινσουλίνης</text>
      <i18nText>insulin injection</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{57b86688-be2d-426c-a1cd-93911fd328bd}</id>
      <foreignId>{646c91b5-94ef-4c29-a592-c621ba18f5d0}</foreignId>
-     <text>I have a appointment with a nurse tomorrow.</text>
+     <text>Έχω ένα ραντεβού με μια νοσοκόμα αύριο.</text>
      <i18nText>I have a appointment with a nurse tomorrow.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b518342e-255b-45c9-8333-d9ea8c966f8a}</id>
      <foreignId>{c35f8724-1f65-4ced-9741-9cdb75a4999b}</foreignId>
-     <text>Do you have medical insurance?</text>
+     <text>Έχετε ιατρική ασφάλιση;</text>
      <i18nText>Do you have medical insurance?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ee04808a-40b2-48b0-a5c5-9b5b4da1d981}</id>
      <foreignId>{c23f86d9-d69e-499c-a7a6-0bf2a71d0687}</foreignId>
-     <text>What are your symptoms?</text>
+     <text>Ποια είναι τα συμπτώματά σας;</text>
      <i18nText>What are your symptoms?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fe817316-0c92-4d93-8d24-38c5415966a1}</id>
      <foreignId>{33c96725-15cd-4fb7-beb8-9b15334efeff}</foreignId>
-     <text>I have got a pain in my back.</text>
+     <text>Έχω έναν πόνο στην πλάτη μου.</text>
      <i18nText>I have got a pain in my back.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8c0c317d-0caa-40ba-9f1e-4fccdcd8018a}</id>
      <foreignId>{acc3b824-3234-460d-98bd-d4713a292373}</foreignId>
-     <text>It is prescription for the chemist.</text>
+     <text>Είναι συνταγή για το φαρμακείο.</text>
      <i18nText>It is prescription for the chemist.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5c44f42f-7e0f-4d42-b919-559e7dbf9800}</id>
      <foreignId>{6c22be49-47a7-4d6b-a0e1-cef8be5bec90}</foreignId>
-     <text>I am having difficulty with breathing.</text>
+     <text>Έχω δυσκολία στην αναπνοή.</text>
      <i18nText>I am having difficulty with breathing.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{982b327b-f222-4020-9fbd-4360f1b35ef0}</id>
      <foreignId>{128eb6bc-f971-4cb0-bfe0-d4e6872189d5}</foreignId>
-     <text>Do you have any allergies?</text>
+     <text>Έχετε αλλεργίες;</text>
      <i18nText>Do you have any allergies?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cac6b229-b693-4548-8a49-c03b8aca5fe6}</id>
      <foreignId>{5a1a34fa-f19e-4b82-ba55-32b99038c292}</foreignId>
-     <text>You need to loose some weight.</text>
-     <i18nText>You need to loose some weight.</i18nText>
+     <text>Θα πρέπει να χάσετε λίγο βάρος.</text>
+     <i18nText>You need to lose some weight.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1765682c-2a2a-4aab-bc63-a518f19b534a}</id>
      <foreignId>{7e30c1e7-c7b6-4321-b5c5-24ec5d71d0bb}</foreignId>
-     <text>Take three of these pills a day.</text>
+     <text>Πάρτε τρία από αυτά τα χάπια την ημέρα.</text>
      <i18nText>Take three of these pills a day.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{867ac672-5def-40ee-a4c2-01222e65808a}</id>
      <foreignId>{69dbc8cf-1dd6-4835-a3c7-3099c6929b65}</foreignId>
-     <text>A nurse needs to take your blood sample.</text>
+     <text>Μια νοσοκόμα πρέπει να λάβει δείγμα του αίματός σας.</text>
      <i18nText>A nurse needs to take your blood sample.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3b9c41b5-109b-4b13-bbf7-c0a0e114bd7e}</id>
      <foreignId>{49e587dd-a8c2-4155-ba30-a63cd85c6391}</foreignId>
-     <text>Are you on any sort of medication?</text>
+     <text>Ακολουθείτε κάποια φαρμακευτική αγωγή;</text>
      <i18nText>Are you on any sort of medication?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{50646f65-d27b-4961-bf56-67e89c05ff5d}</id>
      <foreignId>{3e297d69-18d3-47ee-a676-75608f5e5f0e}</foreignId>
-     <text>I am going to prescribe you some strong antibiotics.</text>
+     <text>Θα σας συνταγογραφήσω κάποια ισχυρά αντιβιοτικά.</text>
      <i18nText>I am going to prescribe you some strong antibiotics.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9e0643c3-12e8-4cfb-bc56-e5e2132a5ca1}</id>
      <foreignId>{88ea6e83-482f-4861-99d1-e22606668568}</foreignId>
-     <text>My temperature is a little bit high.</text>
+     <text>Η θερμοκρασία μου είναι λίγο υψηλή.</text>
      <i18nText>My temperature is a little bit high.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ce8a0666-e480-4729-8214-6289c103df4c}</id>
      <foreignId>{11871be1-c4ba-4d6d-9302-d693b89c86ee}</foreignId>
-     <text>Does it hurt when I press here?</text>
+     <text>Πονάει όταν πιέζω εδώ;</text>
      <i18nText>Does it hurt when I press here?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f19b0b2c-ef33-40b5-b17e-2360d61f2c53}</id>
      <foreignId>{c5987882-f550-43cd-8487-d58f0c1c3e97}</foreignId>
-     <text>Open your mouth, please.</text>
+     <text>Ανοίξτε το στόμα σας, παρακαλώ.</text>
      <i18nText>Open your mouth, please.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{54b0b9e9-9b06-4a86-8ebd-c4b57bf8180c}</id>
      <foreignId>{d5f91e4c-ef33-43c8-bda4-e614ef7810c1}</foreignId>
-     <text>Do you have any doctors who speak English?</text>
+     <text>Έχετε γιατρούς που μιλούν αγγλικά;</text>
      <i18nText>Do you have any doctors who speak English?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{76f41609-03b0-4146-ac64-b3a217dfb1f9}</id>
      <foreignId>{fd391f4e-9c52-4c2a-9284-a5fe42b4527c}</foreignId>
-     <text>I am diabetic.</text>
+     <text>Είμαι διαβητικός.</text>
      <i18nText>I am diabetic.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e22444ed-c48b-4cdb-97f7-6c57a9893df1}</id>
      <foreignId>{1d85facc-2ddf-41e9-b6c6-668834000f1f}</foreignId>
-     <text>We are going to put a plaster on you knee.</text>
+     <text>Θα βάλουμε γύψο στο γονατό σας.</text>
      <i18nText>We are going to put a plaster on you knee.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4cd861a1-85f0-42cb-92e2-a3a9916e7d92}</id>
      <foreignId>{0059416d-8c54-45dc-b507-47130a0331f7}</foreignId>
-     <text>You should give up smoking.</text>
+     <text>Θα πρέπει να σταματήσετε το κάπνισμα.</text>
      <i18nText>You should give up smoking.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{714e6687-4bc4-4982-b0e7-2bb5db61ebfe}</id>
      <foreignId>{ebf60531-1caf-4e00-8b2f-a07eff8e868e}</foreignId>
-     <text>There is a possibility you might be pregnant.</text>
+     <text>Υπάρχει μια πιθανότητα να είστε έγκυος.</text>
      <i18nText>There is a possibility you might be pregnant.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{69412f15-720c-451f-b451-fadef5c4edae}</id>
      <foreignId>{a80f87ab-be88-4a07-9bc8-84d2209f3139}</foreignId>
-     <text>I do not fell very well. I think I need to see a doctor.</text>
+     <text>Δε νιώθω πολύ καλά. Νομίζω ότι πρέπει να δω έναν γιατρό.</text>
      <i18nText>I do not fell very well. I think I need to see a doctor.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c278f41c-1bf8-41fc-8672-111535aa0a45}</id>
      <foreignId>{be62ccf5-b7e8-4758-90bd-8976d5a2f9c3}</foreignId>
-     <text>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</text>
+     <text>Νιώθω μελαγχολικός και έχω δυσκολία στον ύπνο. Θα μπορούσατε να μου κλείσετε ένα ραντεβού με έναν ειδικό μέσα στις επόμενες μέρες;</text>
      <i18nText>I have been feeling depressed and I have been having difficulty sleeping. Could you give me an appointment with a specialist within next few days?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{82021007-7f66-4744-855b-ce2ecb33982b}</id>
      <foreignId>{adb8fa13-592c-4637-80c1-1051254655f9}</foreignId>
-     <text>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</text>
+     <text>Υπάρχουν παρενέργειες από αυτό το φάρμακο; Επίσης ξέχασα να αναφέρω ότι είμαι αλλεργικός στην πενικιλίνη.</text>
      <i18nText>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2d59f7da-5a16-4a06-b58d-8993a997a3bf}</id>
      <foreignId>{a7f8f39f-40db-4d65-af85-71d8365846d8}</foreignId>
-     <text>There are several patients in the lobby waiting for medical exams. Hopefully the doctor will be able to see you in about an hour.</text>
+     <text>Υπάρχουν αρκετοί ασθενείς στην αίθουσα αναμονής, περιμένοντας εξέταση. Kαλώς εχόντων των πραγμάτων ο γιατρός θα είναι σε θέση να τους δει σε μία περίπου ώρα.</text>
      <i18nText>There are several patients in the lobby waiting for medical exams. Hopefully the doctor will be able to see you in about an hour.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e0a95719-00ab-49c7-a6ff-65a66511f792}</id>
      <foreignId>{eae50b0c-2924-47e1-a9e1-8e4d3653c0b3}</foreignId>
-     <text>After asking a few questions, the doctor's diagnosis was that I had a bacterial infection. She wrote me out a prescription.</text>
+     <text>Μετά από μερικές ερωτήσεις, η διάγνωση του γιατρού ήταν ότι είχα μια βακτηριακή λοίμωξη. Μου έγραψε μια συνταγή.</text>
      <i18nText>After asking a few questions, the doctor's diagnosis was that I had a bacterial infection. She wrote me out a prescription.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8f4822f5-5272-45b4-aef4-34c87d0be6a4}</id>
      <foreignId>{dd4539d6-e3fd-4ba3-baf3-1847f213084b}</foreignId>
-     <text>My grandmother suggested that I need to eat chicken soup. I will try this tomorrow and if it does not help I will see a specialist.</text>
+     <text>Η γιαγιά μου συνέστησε να φάω κοτόσουπα. Θα το δοκιμάσω αυτό αύριο και αν δε βοηθήσει, θα δω έναν ειδικό.</text>
      <i18nText>My grandmother suggested that I need to eat chicken soup. I will try this tomorrow and if it does not help I will see a specialist.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
