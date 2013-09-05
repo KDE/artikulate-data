@@ -7430,7 +7430,7 @@
   <unit>
    <id>{b5b03467-051b-46bd-845b-b7e0ac726cfc}</id>
    <foreignId>{e68bdc28-8b9c-4387-9825-047ed77e7258}</foreignId>
-   <title>In a Restaurant</title>
+   <title>Au restaurant</title>
    <phrases>
     <phrase>
      <id>{78cb98ea-604e-4a53-8000-146f0cfb6599}</id>
@@ -7439,7 +7439,7 @@
      <i18nText>buffet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7449,7 +7449,7 @@
      <i18nText>breakfast</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7459,7 +7459,7 @@
      <i18nText>lunch</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7469,7 +7469,7 @@
      <i18nText>dinner</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7479,7 +7479,7 @@
      <i18nText>supper</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7489,17 +7489,17 @@
      <i18nText>delicious</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{aed5e033-542b-4c13-aa64-2de1d81ccb94}</id>
      <foreignId>{fccb742b-4086-4dbd-bb55-39639416b791}</foreignId>
-     <text>plaque</text>
+     <text>assiette</text>
      <i18nText>plate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7509,7 +7509,7 @@
      <i18nText>glass</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7519,7 +7519,7 @@
      <i18nText>bowl</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7529,17 +7529,17 @@
      <i18nText>spoon</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a34bc99a-2e46-4c5a-a4d9-3acc6af6a34d}</id>
      <foreignId>{9194d179-3cab-473c-9848-82f12359656b}</foreignId>
-     <text>fourche</text>
+     <text>fourchette</text>
      <i18nText>fork</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7549,7 +7549,7 @@
      <i18nText>knife</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7559,7 +7559,7 @@
      <i18nText>eat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7569,17 +7569,17 @@
      <i18nText>drink</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f1da3028-4500-4341-b3fb-eab67caf943b}</id>
      <foreignId>{9573c463-ac99-45b6-96c8-b96c3d7e4d80}</foreignId>
-     <text>starter</text>
+     <text>hors-d'œuvre</text>
      <i18nText>starter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7589,27 +7589,27 @@
      <i18nText>soup</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b659f15f-f27b-4e60-8ec6-b7ee2422dd92}</id>
      <foreignId>{8351f0e4-9e8f-4c73-8615-39627e8f53aa}</foreignId>
-     <text>apéritif</text>
+     <text>amuse-bouche</text>
      <i18nText>appetizer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{734643bd-7b63-47f9-ab8b-231cf8c6930a}</id>
      <foreignId>{1577f309-b200-40a1-aeee-46786e1d1fb1}</foreignId>
-     <text>desserts</text>
+     <text>dessert</text>
      <i18nText>dessert</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7619,7 +7619,7 @@
      <i18nText>meat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7629,7 +7629,7 @@
      <i18nText>water</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7639,7 +7639,7 @@
      <i18nText>wine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7649,17 +7649,17 @@
      <i18nText>juice</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3876c349-14fe-42a1-bdfe-047c78d89931}</id>
      <foreignId>{01e45ffb-3241-4735-b904-97c066d877f6}</foreignId>
-     <text>Menu</text>
+     <text>menu</text>
      <i18nText>menu</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7669,17 +7669,17 @@
      <i18nText>recipe</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{40716eaf-8748-492e-a484-a039566bd771}</id>
      <foreignId>{bb4526a2-4275-4b4a-b951-912e6f2b97b1}</foreignId>
-     <text>le projet de loi</text>
+     <text>addition</text>
      <i18nText>bill</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7689,7 +7689,7 @@
      <i18nText>pastry</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7699,7 +7699,7 @@
      <i18nText>cake</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7709,27 +7709,27 @@
      <i18nText>waiter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1c90eea5-f6ce-4dc8-80f7-e12f767104ba}</id>
      <foreignId>{7c36fb4e-245c-4f89-9104-1d71e9880bd1}</foreignId>
-     <text>Restaurant</text>
+     <text>restaurant</text>
      <i18nText>restaurant</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{38e5d1d9-2a03-4afc-b334-4e0748e18eef}</id>
      <foreignId>{ff8667f7-8461-443a-b553-eb9b2c0c2d4b}</foreignId>
-     <text>ordre</text>
+     <text>commande</text>
      <i18nText>order</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7739,7 +7739,7 @@
      <i18nText>taste</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7749,7 +7749,7 @@
      <i18nText>sweet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7759,7 +7759,7 @@
      <i18nText>sour</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7769,7 +7769,7 @@
      <i18nText>bitter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7779,7 +7779,7 @@
      <i18nText>salt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7789,7 +7789,7 @@
      <i18nText>pepper</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7799,7 +7799,7 @@
      <i18nText>cuisine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7809,37 +7809,37 @@
      <i18nText>serve</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8b37fc01-5d9b-4a5f-a888-5321ec4c6be6}</id>
      <foreignId>{bdb8eb20-615f-49fd-83a4-207c73ecc951}</foreignId>
-     <text>bouton soupe aux champignons</text>
+     <text>soupe aux champignons de Paris</text>
      <i18nText>button mushroom soup</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7e9185a9-f822-44e2-ad6e-b32473a91857}</id>
      <foreignId>{126b6f28-1bb3-436d-b253-5a16cb05a44c}</foreignId>
-     <text>épis de maïs assaisonnée</text>
+     <text>épi de maïs assaisonné</text>
      <i18nText>tossed baby corn</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60ff4681-51c2-4f0e-b4f6-429b4e62d076}</id>
      <foreignId>{d0769f05-2b43-4408-8708-6395faf328ab}</foreignId>
-     <text>Plat principal</text>
+     <text>plat principal</text>
      <i18nText>main course</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7849,7 +7849,7 @@
      <i18nText>sea food</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7859,7 +7859,7 @@
      <i18nText>stir fried vegetables</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7869,7 +7869,7 @@
      <i18nText>fresh fruit salad</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7879,7 +7879,7 @@
      <i18nText>roasted turkey</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7889,17 +7889,17 @@
      <i18nText>lamb chops</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{03877e0f-b3e1-4d32-ba74-4e844ebdc74f}</id>
      <foreignId>{04472858-f61f-4794-bd8e-529abde5778f}</foreignId>
-     <text>ailes de poulet frit</text>
+     <text>ailes de poulet frites</text>
      <i18nText>fried chicken wings</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7909,7 +7909,7 @@
      <i18nText>shell fish</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7919,7 +7919,7 @@
      <i18nText>mashed potato</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7929,17 +7929,17 @@
      <i18nText>fine dining</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1d169d0e-66c3-4500-980c-430301d206fe}</id>
      <foreignId>{e6ebfa79-30ef-4c19-8e26-511bd87a038e}</foreignId>
-     <text>les manières de table</text>
+     <text>des manières à table</text>
      <i18nText>table manners</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7949,7 +7949,7 @@
      <i18nText>over cooked</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7959,7 +7959,7 @@
      <i18nText>chocolate sauce</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7969,17 +7969,17 @@
      <i18nText>brownie with ice cream</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1dc2ab02-a867-4f61-9f91-ede9bf72d8ef}</id>
      <foreignId>{332f4442-004c-493f-ab5e-7503d4b4cbe8}</foreignId>
-     <text>oeufs brouillés</text>
+     <text>œufs brouillés</text>
      <i18nText>scrambled eggs</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7989,27 +7989,27 @@
      <i18nText>cheese sandwich</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2226eb9c-4adc-4395-9905-16320c8d4459}</id>
      <foreignId>{a1a46d68-f5ec-4f62-9436-226f664fabbc}</foreignId>
-     <text>steak de boeuf</text>
+     <text>steak de bœuf</text>
      <i18nText>beef steak</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e3afa389-26a5-4e44-b754-4fb293c72bd5}</id>
      <foreignId>{09919257-0303-48cc-a84c-6ff1221c8ed5}</foreignId>
-     <text>Vous êtes un lâche.</text>
+     <text>pâtes à la carbonara</text>
      <i18nText>fettuccine carbonara</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8019,7 +8019,7 @@
      <i18nText>Thank you</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8029,7 +8029,7 @@
      <i18nText>Excuse me</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8039,7 +8039,7 @@
      <i18nText>I would like to book a table for two for Thursday night.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8049,37 +8049,37 @@
      <i18nText>Can I get a glass of water, please?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b2936b0f-808b-4e1c-be2c-ca92e28c0668}</id>
      <foreignId>{5dab17c1-a25a-4ccd-8c48-88e0dcb76893}</foreignId>
-     <text>Le veau, ils servent ici est le meilleur en ville.</text>
+     <text>Le veau qu'ils servent ici est le meilleur de la ville.</text>
      <i18nText>The veal they serve here is the best in town.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e133ce3-f678-4125-9d56-25bab3435232}</id>
      <foreignId>{7f17f60a-800a-4273-beab-192816cc0437}</foreignId>
-     <text>Nouilles mixtes avec des tranches de porc au piment est un favori de tous les temps de la mine.</text>
+     <text>Les pâtes avec des tranches de porc au piment sont mon plat préféré.</text>
      <i18nText>Mixed noodles with sliced chilli pork is an all time favourite of mine.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2cc185b9-ab62-413a-b591-0cebcdadff59}</id>
      <foreignId>{4b835386-3b59-4580-829f-19f4f8287910}</foreignId>
-     <text>Où est la salle de bain?</text>
+     <text>Où sont les toilettes ?</text>
      <i18nText>Where is the washroom?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8089,37 +8089,37 @@
      <i18nText>I absolutely love desserts.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8907a99f-7fcf-43da-b107-e231667066d8}</id>
      <foreignId>{67c4ca5c-6303-44b3-8f3a-9fd53e936b66}</foreignId>
-     <text>Aimeriez-vous avoir un peu plus?</text>
+     <text>En voulez-vous un peu plus ?</text>
      <i18nText>Would you like to have some more?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8f043c96-eaea-451a-90f5-e27c36e39623}</id>
      <foreignId>{d32ed725-255b-4bb9-97f5-0d10ceecdc16}</foreignId>
-     <text>Je suis tout à fait complet.</text>
+     <text>Je suis rassasié.</text>
      <i18nText>I am quite full.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e7d2225a-b1bd-4246-bdf7-dc4e803281a3}</id>
      <foreignId>{e45c7ce5-ad53-4cd5-bfc8-8ed8c59a4d08}</foreignId>
-     <text>Je suis sur un régime alimentaire faible en gras strict.</text>
+     <text>Je fait un régime strict faible en matières grasses.</text>
      <i18nText>I am on a strict low fat diet plan.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8129,17 +8129,17 @@
      <i18nText>One prawn salad for me, please.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{de118ca0-bee0-417e-911e-58f811392b52}</id>
      <foreignId>{aa1bd985-7a79-4d2d-8901-4f34cfc496c6}</foreignId>
-     <text>J'ai arrêté de nourriture non végétarienne il ya quelques mois.</text>
+     <text>J'ai arrêté la nourriture non végétarienne il y a quelques mois.</text>
      <i18nText>I quit non vegetarian food a couple of months ago.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8149,37 +8149,37 @@
      <i18nText>Would you like to go out for dinner tonight?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fec11252-f0b9-48f2-ac9f-9c85f00ddfb2}</id>
      <foreignId>{7fac8016-ce35-4398-90b4-86878de67e0b}</foreignId>
-     <text>Je pense que vous devez absolument essayer le poulet soupe claire.</text>
+     <text>Je pense que vous devez absolument essayer la soupe au poulet.</text>
      <i18nText>I think you should definitely try the chicken clear soup.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e5e4c952-f20d-4d57-92d3-abe8a6d4f3da}</id>
      <foreignId>{11c27987-5428-4842-811c-b1d5b0f4b395}</foreignId>
-     <text>J'ai apprécié le repas beaucoup.</text>
+     <text>J'ai beaucoup apprécié le repas.</text>
      <i18nText>I enjoyed the meal very much.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e6bf0289-ea0b-47c7-92fb-305c5bba270c}</id>
      <foreignId>{01fcd2a7-5a00-41d3-9239-77da4aa5b11d}</foreignId>
-     <text>J'aime ma viande à moyen cuit rare.</text>
+     <text>J'aime ma viande cuite à point.</text>
      <i18nText>I like my meat to be cooked medium rare.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8189,87 +8189,87 @@
      <i18nText>A reservation was made for four guests for lunch.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eba59b16-c91f-447e-a4e5-163a2a0a5911}</id>
      <foreignId>{ddb954f9-aca5-41ba-a9bf-369e1e6d1ea9}</foreignId>
-     <text>Est-ce la nourriture très cher ici?</text>
+     <text>La nourriture est-elle très chère ici ?</text>
      <i18nText>Is the food very expensive here?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f1dbb7d3-8a6f-4c98-95cf-0824e6f96e97}</id>
      <foreignId>{0f620ee3-60ef-4f9a-bb7e-d2fe12e3ea40}</foreignId>
-     <text>J'espère que la nourriture est hyegenic ici.</text>
+     <text>J'espère que l'hygiène alimentaire est respectée ici.</text>
      <i18nText>I hope the food is hyegenic in here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8cad6b09-da48-48c2-97d8-78403be1183f}</id>
      <foreignId>{47b4d378-7d7d-4e66-88ea-fa3f71353bcd}</foreignId>
-     <text>Je voudrais obtenir un double cheeseburger avec des frites françaises.</text>
+     <text>Je voudrais un double cheeseburger avec des frites.</text>
      <i18nText>I would like to get a double cheeseburger with some french fries.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b227be5e-86bf-4a6c-9a7f-e8d6a8b4c288}</id>
      <foreignId>{2efc1ec3-487f-4314-bd1b-c908a57e0184}</foreignId>
-     <text>Je voudrais vous conseiller d'essayer les wontons aux crevettes à la vapeur ici. Son rien comme vous avez jamais eu. Ils ont l'air magnifique ainsi que le goût délicieux et avoir les emballages plus minces je jamais rencontré.</text>
+     <text>Je voudrais vous conseiller d'essayer les wontons à la vapeur ici. Ce n'est comme rien d'autre que vous n'ayez déjà eu. Ils ont l'air aussi beau que leur goût est délicieux, et ont les enrobages les plus minces que je n'ai jamais vus.</text>
      <i18nText>I would advice you to try the steamed shrimp wontons here. Its like nothing you have ever had. They look beautiful as well as taste delicious and have the thinnest wrappers I ever came across.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6e2be7c2-3fa0-48ad-80fd-94b8aca068cb}</id>
      <foreignId>{9ded98a2-2c35-4070-968e-e64993455707}</foreignId>
-     <text>I’d like to have the chef’s salad, please. Balsamic Vinaigrette would be fine for the dressing. Also, I’d like some bottled water please.</text>
+     <text>Je voudrais une salade du chef, s'il vous plaît. Une vinaigrette balsamique serait une bonne idée pour la sauce. J'aimerais avoir aussi une bouteille d'eau, s'il vous plaît.</text>
      <i18nText>I’d like to have the chef’s salad, please. Balsamic Vinaigrette would be fine for the dressing. Also, I’d like some bottled water please.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d5bce834-44ba-4ffd-84d5-26f681648dac}</id>
      <foreignId>{378566da-72cb-43d0-87c8-0e5265ff821d}</foreignId>
-     <text>Excusez-moi, nous sommes prêts à rendre l'ordonnance. Pour le démarrage, nous aimerions avoir un pays grossière terrine de canard et fromage de chèvre et une terrine d'asperges. Un fishcake de saumon et une lame cuit lentement de bœuf pour le plat principal et deux souffles de chocolat chaud pour le dessert.</text>
+     <text>Excusez-moi, nous aimerions passer commande. En entrée, nous aimerions avoir une terrine de canard campagnarde, un fromage de chèvre et une terrine d'asperges. Des croquettes de saumon et une tranche de bœuf mijotée pour le plat principal, et deux soufflés chauds au chocolat pour le dessert.</text>
      <i18nText>Excuse me, we are ready to make the order. For the starter, we would like to have one coarse country duck terrine and one goat's cheese and asparagus terrine. One salmon fishcake and one slow cooked blade of beef for the main course and two hot chocolate souffles for the dessert.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dfd439ae-483d-48ce-a813-6f6015f70d3c}</id>
      <foreignId>{a4a0d063-cf06-4236-9ad9-08edc7ce8e33}</foreignId>
-     <text>Nous en avons fini pour ce soir. La nourriture était très satisfaisant, merci. Le gâteau de lave de chocolat fondu goûté absolument divine et était une excellente façon de terminer le repas.</text>
+     <text>Nous avons terminé pour ce soir. La nourriture était très satisfaisante, merci. Le fondant au chocolat était absolument divin et c'était une excellente façon de terminer le repas.</text>
      <i18nText>We are done for tonight. The food was very satisfying, thank you. The molten chocolate lava cake tasted absolutely divine and was a great way to end the meal.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c5b175a0-15f8-4719-9c7e-9eb12f91ec3e}</id>
      <foreignId>{ada3cd95-5264-4d8a-9434-670c9af9b177}</foreignId>
-     <text>Nous sommes dans un peu pressé. Alors, pouvez-vous nous le projet de loi, veuillez vous rendre. En outre, comme nous fais tourner court d'argent, je voudrais faire le paiement à l'aide de ma carte de crédit. J'espère que c'est acceptable ici. Sinon, pouvez-vous s'il vous plaît me donner l'adresse d'un compteur de guichet automatique à proximité.</text>
+     <text>Nous sommes un peu pressé. De fait, pouvez-vous nous donner l'addition s'il vous plaît. Et aussi, comme nous avons peu d'argent liquide,  je voudrais payer par carte bancaire. J'espère qu'elle est acceptée. Sinon, pouvez-vous s'il vous plaît me donner l'adresse d'un distributeur de billets automatique à proximité.</text>
      <i18nText>We are in a bit of a hurry. So, can you get us the bill please. Also, as we am running short on cash, I would like to make the payment using my Credit Card. I hope that is acceptable here. If not, then can you please give me the address of a nearby ATM counter.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -11855,7 +11855,7 @@
   <unit>
    <id>{c9c2f638-993e-454e-9414-c677248b38ac}</id>
    <foreignId>{9656d693-2cbc-4ff5-be52-c3749effd144}</foreignId>
-   <title>Pets</title>
+   <title>Animaux de compagnie</title>
    <phrases>
     <phrase>
      <id>{b6d1dbe0-ed21-4fd4-ada0-7df006892f52}</id>
@@ -11864,7 +11864,7 @@
      <i18nText>dog</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11874,17 +11874,17 @@
      <i18nText>puppies</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0f3efcdd-7ab9-4227-aaea-ac271874750b}</id>
      <foreignId>{53151b94-a46a-41fc-95c5-52d7e43c77c0}</foreignId>
-     <text>cat</text>
+     <text>chat</text>
      <i18nText>cat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11894,17 +11894,17 @@
      <i18nText>kitten</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f47219ac-5224-4463-b4b0-eb1937abc543}</id>
      <foreignId>{ea69888e-8df5-41ff-90b9-91e5013dcc17}</foreignId>
-     <text>compagne</text>
+     <text>compagnon</text>
      <i18nText>companion</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11914,7 +11914,7 @@
      <i18nText>adopt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11924,17 +11924,17 @@
      <i18nText>rodent</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{752eb0fc-97b0-48fa-b8b0-64b7f992d8aa}</id>
      <foreignId>{b0a79606-2b25-4f28-b108-1e10a36deeae}</foreignId>
-     <text>aviaire</text>
+     <text>volatile</text>
      <i18nText>avian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11944,7 +11944,7 @@
      <i18nText>aquarium</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11954,7 +11954,7 @@
      <i18nText>gerbils</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11964,7 +11964,7 @@
      <i18nText>hamsters</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11974,7 +11974,7 @@
      <i18nText>chinchillas</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11984,7 +11984,7 @@
      <i18nText>canaries</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11994,7 +11994,7 @@
      <i18nText>parakeets</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12004,7 +12004,7 @@
      <i18nText>parrots</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12014,7 +12014,7 @@
      <i18nText>turtles</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12024,7 +12024,7 @@
      <i18nText>lizards</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12034,7 +12034,7 @@
      <i18nText>snakes</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12044,7 +12044,7 @@
      <i18nText>fish</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12054,17 +12054,17 @@
      <i18nText>frogs</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b88de3fe-33b4-4edc-a00a-cbb4de4c5728}</id>
      <foreignId>{cf842fb6-ffdd-4dd5-b22f-568ca65be521}</foreignId>
-     <text>arthropodes</text>
+     <text>arthropode</text>
      <i18nText>arthropod</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12074,17 +12074,17 @@
      <i18nText>tarantula</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ba460862-e853-4f10-9717-142d3c76c471}</id>
      <foreignId>{9dbffee5-819f-4083-a15c-f2d8adae421f}</foreignId>
-     <text>équine</text>
+     <text>équidé</text>
      <i18nText>equine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12094,17 +12094,17 @@
      <i18nText>rabbit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f64c2b4a-6b41-44d8-a1cf-9f7c7b3cec78}</id>
      <foreignId>{ce99d8aa-3e3e-4134-a040-874976b10ff1}</foreignId>
-     <text>Mille-pattes</text>
+     <text>mille-pattes</text>
      <i18nText>millipede</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12114,7 +12114,7 @@
      <i18nText>friend</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12124,7 +12124,7 @@
      <i18nText>love</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12134,7 +12134,7 @@
      <i18nText>care</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12144,7 +12144,7 @@
      <i18nText>protection</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12154,7 +12154,7 @@
      <i18nText>shelter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12164,7 +12164,7 @@
      <i18nText>house</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12174,7 +12174,7 @@
      <i18nText>veterinarian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12184,7 +12184,7 @@
      <i18nText>disease</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12194,7 +12194,7 @@
      <i18nText>fur</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12204,7 +12204,7 @@
      <i18nText>tail</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12214,37 +12214,37 @@
      <i18nText>spaniel</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60d50f75-170c-40a7-840b-a971360fee70}</id>
      <foreignId>{fc6dde39-5dde-4138-a4e9-88c041fbab1c}</foreignId>
-     <text>bulldog</text>
+     <text>bouledogue</text>
      <i18nText>bulldog</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3a556c27-8eaa-41c5-a644-6c46258d9c6b}</id>
      <foreignId>{d346e26b-0bce-4fee-9f41-b6a26e214831}</foreignId>
-     <text>aquatique animal</text>
+     <text>animal aquatique</text>
      <i18nText>aquatic pet</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ba6ee6fa-aa50-4362-a261-31f590b5ce06}</id>
      <foreignId>{0adec509-3070-4b8d-a0b9-6502df04a462}</foreignId>
-     <text>poissons tropicaux</text>
+     <text>poisson tropical</text>
      <i18nText>tropical fish</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12254,17 +12254,17 @@
      <i18nText>hermit crab</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1c334ff2-29dd-4b29-8161-66240861110c}</id>
      <foreignId>{db5e12c2-0afc-4e0c-8310-689632e8bfd6}</foreignId>
-     <text>Phasme</text>
+     <text>phasme</text>
      <i18nText>stick insect</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12274,27 +12274,27 @@
      <i18nText>regular health checkups</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{acb9aa96-425a-4c6b-8627-9e0da9d4cd68}</id>
      <foreignId>{d1f7c570-1c43-4593-9653-cdb82b9a2700}</foreignId>
-     <text>Guinée porc</text>
+     <text>cochon d'Inde</text>
      <i18nText>guinea pig</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f1e6d8d7-22b7-40a3-b6a3-a2d0802e9569}</id>
      <foreignId>{84779753-ecc7-4fb6-b9fc-2f859f48c34d}</foreignId>
-     <text>Vous êtes un looser</text>
+     <text>rat domestique</text>
      <i18nText>fancy rat</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12304,7 +12304,7 @@
      <i18nText>breeds of dogs</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12314,37 +12314,37 @@
      <i18nText>german shepherd</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{31f6f7ef-3048-407d-8461-120294a78925}</id>
      <foreignId>{0573566f-847d-4fa6-b902-4ad7255ed910}</foreignId>
-     <text>Terrier Noir de Russie</text>
+     <text>terrier roir de Russie</text>
      <i18nText>black russian terrier</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eae3875d-6722-413a-a0a6-46f0ceb6758b}</id>
      <foreignId>{9e7798a3-abf1-43be-a986-8d8cab1b3a66}</foreignId>
-     <text>chow chow</text>
+     <text>chow-chow</text>
      <i18nText>chow chow</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{59e03413-f1da-4ae4-8b8c-6f48933ab32f}</id>
      <foreignId>{64172dca-d896-4386-9052-9396086ba053}</foreignId>
-     <text>mignons petits chiots</text>
+     <text>petits chiots mignons</text>
      <i18nText>cute little puppies</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12354,7 +12354,7 @@
      <i18nText>go for a walk</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12364,7 +12364,7 @@
      <i18nText>feed the cats</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12374,7 +12374,7 @@
      <i18nText>fight loneliness</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12384,7 +12384,7 @@
      <i18nText>furry friend</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12394,17 +12394,17 @@
      <i18nText>feel happy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{290665f1-3cf4-4595-a1b1-f2b31b9145f0}</id>
      <foreignId>{50ccf5fe-ccb9-46a7-8e34-b537699c2aff}</foreignId>
-     <text>labrador retriever jaune</text>
+     <text>labrador retriever</text>
      <i18nText>yellow labrador retriever</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12414,17 +12414,17 @@
      <i18nText>play with</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c0f278a6-4f19-4ef3-a24d-0a7acd049cb4}</id>
      <foreignId>{6d123bc2-b303-47f0-89e7-7f6ea9189833}</foreignId>
-     <text>parler</text>
+     <text>parler à</text>
      <i18nText>talk to</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12434,7 +12434,7 @@
      <i18nText>family member</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12444,37 +12444,37 @@
      <i18nText>Dog is man's best friend.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fa5dad9a-41d9-4eac-8042-a8eefd501ed1}</id>
      <foreignId>{7aee94c4-2835-4aa1-aefb-d5349fad3f9d}</foreignId>
-     <text>Je dois prendre mon chien pour une promenade maintenant.</text>
+     <text>Je dois emmener mon chien en balade maintenant.</text>
      <i18nText>I need to take my dog for a walk now.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b12f5f06-6f26-4323-b6f1-223d06d1c7de}</id>
      <foreignId>{5daa81cb-bce9-497e-9fff-d396ba6929e1}</foreignId>
-     <text>Les animaux sont admis à l'intérieur du supermarché?</text>
+     <text>Les animaux sont-ils admis à l'intérieur du supermarché ?</text>
      <i18nText>Are pets allowed inside the supermarket?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d6a69182-b2cb-4a00-9356-ab53cf253ecc}</id>
      <foreignId>{1a9660cc-3b37-4a1f-959d-3868ee88bc02}</foreignId>
-     <text>Je prends mes chats chez le vétérinaire tous les mois.</text>
+     <text>J'emmène mes chats chez le vétérinaire tous les mois.</text>
      <i18nText>I take my cats to the vet every month.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12484,77 +12484,77 @@
      <i18nText>Where can I get dog food?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e224f24e-d553-4cc8-a338-7dd2d2f9029d}</id>
      <foreignId>{e493c854-e0ee-419b-8a77-e733c06d245b}</foreignId>
-     <text>Mon fils a récemment obtenu un iguane qui a nommé Jamie.</text>
+     <text>Mon fils a depuis peu un iguane qu'il a appelé Jamie.</text>
      <i18nText>My son recently got a pet iguana which he named Jamie.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{29eaef97-199c-4fc9-8dac-7e58923089e7}</id>
      <foreignId>{f3b7e4b2-8dea-47ee-8870-cfbbb7733fd3}</foreignId>
-     <text>Mon chien a remporté le concours de jeunes talents animalerie locale cette semaine.</text>
+     <text>Mon chien a remporté le concours animalier local cette semaine.</text>
      <i18nText>My dog won the local pet talent show this week.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e0f3c5a5-e4cc-42e0-b4b3-91ded827a5de}</id>
      <foreignId>{768ae8f5-35d9-4130-a663-c691d26d9835}</foreignId>
-     <text>Est-ce que golden retriever magnifique vous appartient?</text>
+     <text>Est-ce que ce magnifique golden retriever vous appartient?</text>
      <i18nText>Does that gorgeous golden retriever belong to you?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{643645a7-2e77-4422-b3f7-ec1877c5002d}</id>
      <foreignId>{3a7d156c-af72-4230-b1aa-612e662b20b5}</foreignId>
-     <text>Les roquets sont l'un des chiens de compagnie les plus populaires.</text>
+     <text>Le carlin est l'un des chiens de compagnie les plus populaires.</text>
      <i18nText>Pugs are one of the most popular pet dogs.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1a2a8999-f23a-4514-aba3-4617a006c047}</id>
      <foreignId>{6a035e5b-84e7-4ed3-a913-d84ece8b1e32}</foreignId>
-     <text>Le premier anniversaire de son mon chat d'aujourd'hui.</text>
+     <text>C'est aujourd'hui le premier anniversaire de mon chat.</text>
      <i18nText>Its my cat's first birthday today.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a20a1cbc-e874-4716-a24e-9b6e10667ebb}</id>
      <foreignId>{9a70d618-bf90-4a85-8100-1f15e7f92193}</foreignId>
-     <text>Mon chien est de cinq ans et huit mois.</text>
+     <text>Mon chien a cinq ans et huit mois.</text>
      <i18nText>My dog is five years and eight months old.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1dca8a72-0a47-48fa-9ea0-96dbd7d935f0}</id>
      <foreignId>{4514bf50-9547-4465-a746-1bf984f77d0e}</foreignId>
-     <text>Ma grand-mère m'a doué ces deux belles perruches de mon anniversaire cette année.</text>
+     <text>Cette année, ma grand-mère m'a offert ces deux belles perruches pour mon anniversaire.</text>
      <i18nText>My grandmother gifted me these two lovely parakeets on my birthday this year.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12564,17 +12564,17 @@
      <i18nText>Our neighbour's hamster went missing last night.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{afff067f-316f-484a-86f2-c74a4b6023f4}</id>
      <foreignId>{6e47e36d-96e0-4297-8a26-ec28b48a26b5}</foreignId>
-     <text>Mme Wilson eu un moment difficile face à la mort soudaine de son chien.</text>
+     <text>Mme Wilson a eu un moment difficile lors de la mort soudaine de son chien.</text>
      <i18nText>Mrs Wilson had a tough time dealing with her dog's sudden death.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12584,7 +12584,7 @@
      <i18nText>I always wanted to have pet rabbits.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12594,57 +12594,57 @@
      <i18nText>My mother takes care of the kittens while I'm at work.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{35c5257f-947a-4826-af08-3b04071f523e}</id>
      <foreignId>{caf316c1-0c78-49fb-b9d9-e0cf25c5350f}</foreignId>
-     <text>Après beaucoup de harceler, mon père m'a donné un chat été dernier. Elle est absolument adorable et son manteau à poil est blanc comme neige. Donc, nous avons appelé son Snowball.</text>
+     <text>Après l'avoir beaucoup harcelé, mon père m'a offert une chate l'été dernier. Elle est absolument adorable et sa fourrure est blanche comme neige. Nous l'avons donc appelée Boule de Neige.</text>
      <i18nText>After a lot of pestering, my father got me a cat last summer. She is absolutely adorable and her furry coat is as white as snow. So, we named her Snowball.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a99a3997-d728-451d-8a64-a7e3d05f99ff}</id>
      <foreignId>{283e769b-7b7c-47e4-9798-17c73f066a4a}</foreignId>
-     <text>Quand j'avais six ans, j'ai eu un petit chien nommé Jimmy. Il était un chien très fidèle à notre famille. Il avait l'habitude de prendre soin de ma sœur et moi quand nous étions petits. Ma mère a toujours fait confiance Jimmy parce qu'il n'a jamais utilisé de nous laisser tranquilles ou permettre à quiconque de nous toucher pendant son absence.</text>
+     <text>Quand j'avais six ans, j'avais un petit chien qui s'appelait Jimmy. C'était un chien très fidèle à notre famille. Il avait l'habitude de prendre soin de ma sœur et moi quand nous étions petits. Ma mère a toujours fait confiance à Jimmy parce qu'il ne nous a jamais laissés seuls et n'a jamais laissé quelqu'un nous toucher pendant son absence.</text>
      <i18nText>When I was six years old, I had a little dog named Jimmy. He was a very faithful dog to our family. He used to take care of me and my sister when we were little. My mother always trusted Jimmy because he never used to leave us alone or allow anyone to touch us while she was away.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3032c54e-c987-4c62-abab-f52bf42f4a65}</id>
      <foreignId>{644769f9-1851-4d5e-bf11-e211f2ac1918}</foreignId>
-     <text>Les animaux domestiques ont la capacité de stimuler leurs soignants, en particulier les personnes âgées, de donner aux gens de quelqu'un pour prendre soin de, quelqu'un d'exercer avec, et quelqu'un pour les aider à guérir d'un passé physiquement ou psychologiquement troublés. Avoir un animal de compagnie peut aider les gens à atteindre leurs objectifs de santé, tels que la pression artérielle basse, ou des objectifs mentale, comme la diminution du stress.</text>
+     <text>Les animaux de compagnie ont la capacité de stimuler les personnes qui s'occupent d'eux, en particulier les personnes âgées, en donnant aux gens quelqu'un dont ils doivent prendre soin, quelqu'un avec qui s'exercer, et quelqu'un pour les aider à guérir d'un passé physiquement ou psychologiquement difficile. Avoir un animal de compagnie peut aider les gens à atteindre leurs objectifs de santé, tels qu'une plus basse pression artérielle, ou des objectifs mentaux, comme la diminution du stress.</text>
      <i18nText>Pets have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past. Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{947ceaf3-0fa5-4f33-9552-21566323cf61}</id>
      <foreignId>{9f2a289a-ea4f-4999-8879-6b17c9595599}</foreignId>
-     <text>Les serpents sont parmi les animaux les plus fascinants de garder comme animaux de compagnie, et avec une grande variété d'espèces à choisir, les amateurs de serpents peuvent avoir un moment difficile de garder un seul type. Bien que les prédateurs féroces, la plupart des serpents peuvent devenir docile et même amical avec assez de manutention et de bons soins.</text>
+     <text>Les serpents font partie des animaux les plus fascinants à avoir en tant qu'animal de compagnie, et avec une grande variété d'espèces parmi lesquelles choisir, les amateurs de serpents peuvent avoir des difficultés à n'en garder qu'une seule. Bien qu'étant de féroces prédateurs, la plupart des serpents peuvent devenir dociles et même amicaux avec assez de manipulations et de bons soins.</text>
      <i18nText>Snakes are among the most fascinating animals to keep as pets, and with a wide variety of species to choose from, snake lovers may have a tough time keeping just one type. Though ferocious predators, most snakes can become docile and even friendly with enough handling and good care.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{73fb875a-a345-454d-b96d-c89608c42a14}</id>
      <foreignId>{81f52b41-ab44-463d-9934-a7f997ed6381}</foreignId>
-     <text>L'un des risques pour la santé qui sont associées avec des animaux domestiques est en baisse blessures. Trébucher sur les animaux, surtout les chiens, provoque plus de 86.000 chutes assez graves pour provoquer un voyage à la salle d'urgence chaque année aux États-Unis. Chez les personnes âgées et handicapées, ces chutes ont entraîné des blessures mortelles et des fractures.</text>
+     <text>L'un des risques pour la santé associées aux animaux de compagnie est le risque de blessure par chute. Trébucher sur les animaux, surtout sur les chiens, provoque chaque année aux États-Unis plus de 86 000 chutes suffisamment graves pour nécessiter d'aller aux urgences. Chez les personnes âgées et handicapées, ces chutes ont entraîné des blessures mortelles et des fractures.</text>
      <i18nText>One of the health risks that is associated with pets is falling injuries. Tripping over pets, especially dogs, causes more than 86,000 falls serious enough to prompt a trip to the emergency room each year in the United States. Among elderly and disabled people, these falls have resulted in life-threatening injuries and broken bones.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
@@ -12652,7 +12652,7 @@
   <unit>
    <id>{c2cd8a91-0822-47ee-b459-dfa5ec4aa37a}</id>
    <foreignId>{59ea8b40-f531-4ffc-a73d-7677dcf6693a}</foreignId>
-   <title>At a Party</title>
+   <title>À une fête</title>
    <phrases>
     <phrase>
      <id>{e5fc92d7-901e-403b-ad6c-9e9485bef201}</id>
@@ -12661,7 +12661,7 @@
      <i18nText>talk</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12671,27 +12671,27 @@
      <i18nText>chat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ed9ec673-567a-4c84-b6c5-359ba7daedbd}</id>
      <foreignId>{3ef417c6-ac7d-46de-a58f-80c6099e45a1}</foreignId>
-     <text>socialiser</text>
+     <text>fréquenter des gens</text>
      <i18nText>socialize</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{272aa2a1-909a-456f-b4bc-6534247dcd74}</id>
      <foreignId>{b29ff080-bd90-403d-a4a7-f5b263b7ec34}</foreignId>
-     <text>répondre</text>
+     <text>rencontrer</text>
      <i18nText>meet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12701,17 +12701,17 @@
      <i18nText>greet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8a70c614-7017-4946-9ba4-7809eae7bcf6}</id>
      <foreignId>{0fb3056f-737c-41f0-a3ef-2d39e5ad59b9}</foreignId>
-     <text>accueil</text>
+     <text>accueillir</text>
      <i18nText>welcome</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12721,7 +12721,7 @@
      <i18nText>congratulate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12731,7 +12731,7 @@
      <i18nText>family</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12741,17 +12741,17 @@
      <i18nText>friend</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6d55a4cf-6b68-4c43-8b8e-5cbd821b046d}</id>
      <foreignId>{5e7b0287-0e95-473a-8264-665bff89fafa}</foreignId>
-     <text>par rapport</text>
+     <text>parent</text>
      <i18nText>relative</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12761,7 +12761,7 @@
      <i18nText>acquaintance</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12771,17 +12771,17 @@
      <i18nText>me</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6a16efc2-ccc9-4835-bea3-7dcc2b2f838b}</id>
      <foreignId>{535f44a0-2fbe-456b-8d8d-9a247225d20b}</foreignId>
-     <text>ma</text>
+     <text>mon</text>
      <i18nText>my</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12791,7 +12791,7 @@
      <i18nText>he</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12801,7 +12801,7 @@
      <i18nText>her</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12811,7 +12811,7 @@
      <i18nText>they</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12821,7 +12821,7 @@
      <i18nText>their</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12831,7 +12831,7 @@
      <i18nText>we</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12841,7 +12841,7 @@
      <i18nText>our</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12851,7 +12851,7 @@
      <i18nText>laugh</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12861,7 +12861,7 @@
      <i18nText>smile</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12871,7 +12871,7 @@
      <i18nText>Hello</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12881,7 +12881,7 @@
      <i18nText>sorry</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12891,7 +12891,7 @@
      <i18nText>please</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12901,7 +12901,7 @@
      <i18nText>marriage</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12911,7 +12911,7 @@
      <i18nText>anniversary</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12921,17 +12921,17 @@
      <i18nText>birthday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{416c1aed-669f-4503-bfb1-cabd6da1bd2b}</id>
      <foreignId>{c3901217-c499-4565-9ad8-9976be004035}</foreignId>
-     <text>graduation</text>
+     <text>remise des diplômes</text>
      <i18nText>graduation</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12941,7 +12941,7 @@
      <i18nText>farewell</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12951,7 +12951,7 @@
      <i18nText>tea</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12961,7 +12961,7 @@
      <i18nText>coffee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12971,7 +12971,7 @@
      <i18nText>wine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12981,7 +12981,7 @@
      <i18nText>champagne</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12991,17 +12991,17 @@
      <i18nText>dinner</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7e9ec5c1-c342-44d8-b69f-51ceb5eebd7f}</id>
      <foreignId>{46f21a09-8947-4daa-b798-213cc266b992}</foreignId>
-     <text>formelle</text>
+     <text>soirée habillée</text>
      <i18nText>formal</i18nText>
      <soundFile></soundFile>
-     <type>word</type>
-     <editState>unknown</editState>
+     <type>expression</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13011,7 +13011,7 @@
      <i18nText>casual</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13021,7 +13021,7 @@
      <i18nText>thank you</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13031,17 +13031,17 @@
      <i18nText>excuse me</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{68a34adc-74ac-4bdd-abff-cf133d1e4b95}</id>
      <foreignId>{50b36fd6-4a79-4a48-8618-ccada807f78a}</foreignId>
-     <text>J'ai le plaisir</text>
+     <text>C'est un plaisir</text>
      <i18nText>my pleasure</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13051,17 +13051,17 @@
      <i18nText>It's okay</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7f2933d6-38f5-451e-befa-f913b3214f28}</id>
      <foreignId>{6ecdec95-65a1-410c-81b9-27ed6ac3168c}</foreignId>
-     <text>même ici</text>
+     <text>pareil ici</text>
      <i18nText>same here</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13071,7 +13071,7 @@
      <i18nText>ladies and gentlemen</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13080,8 +13080,8 @@
      <text>bonsoir</text>
      <i18nText>good evening</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13091,27 +13091,27 @@
      <i18nText>good night</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9c45510e-ab2f-4c9c-950e-f3a7db4fc4fd}</id>
      <foreignId>{31fc202a-f54e-4f0e-85d1-57f20e0f2e77}</foreignId>
-     <text>small talk</text>
+     <text>discours</text>
      <i18nText>small talk</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3ad382b7-a596-400e-b077-561189974c79}</id>
      <foreignId>{b7b4d122-720e-4edc-a24c-7456070bd01a}</foreignId>
-     <text>thé</text>
+     <text>goûter</text>
      <i18nText>tea party</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13120,8 +13120,8 @@
      <text>cocktail</text>
      <i18nText>cocktail party</i18nText>
      <soundFile></soundFile>
-     <type>expression</type>
-     <editState>unknown</editState>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13131,7 +13131,7 @@
      <i18nText>surprise party</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13141,17 +13141,17 @@
      <i18nText>wedding reception</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{90d55a54-c632-48e2-8ae5-578311c3f086}</id>
      <foreignId>{10b30e0a-af33-4ed3-8946-179c76c1d80d}</foreignId>
-     <text>douche de bébé</text>
+     <text>baby shower</text>
      <i18nText>baby shower</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13161,7 +13161,7 @@
      <i18nText>fundraising ceremony</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13171,27 +13171,27 @@
      <i18nText>masquerade ball</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7cd9a635-72c6-49d2-adab-b470e8129bb1}</id>
      <foreignId>{88ea2fdb-d331-4e75-9f14-d2d6a4f17ff2}</foreignId>
-     <text>semble magnifique</text>
+     <text>est magnifique</text>
      <i18nText>looks gorgeous</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7dbe67f8-b11c-4a67-b0ac-2f514829d7db}</id>
      <foreignId>{f38da704-55e9-4c8b-b78b-6fa61c3f365f}</foreignId>
-     <text>cute little girl</text>
+     <text>jolie petite fille</text>
      <i18nText>cute little girl</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13201,7 +13201,7 @@
      <i18nText>housewarming party</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13211,7 +13211,7 @@
      <i18nText>dance party</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13221,67 +13221,67 @@
      <i18nText>Would you like to go to the prom with me?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c2bff324-6871-414f-b505-cdd2a4ddb6d2}</id>
      <foreignId>{93662b29-0d33-4bd1-b74c-c5054276af37}</foreignId>
-     <text>Carol semble étonnant dans cette robe pourpre.</text>
+     <text>Carole est éblouissante dans cette robe pourpre.</text>
      <i18nText>Carol looks stunning in that purple gown.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8b0dea9e-683b-45b0-8276-8b194423018b}</id>
      <foreignId>{931a6942-d230-45f2-a812-c9bf19c9a0df}</foreignId>
-     <text>Nous jetterons notre fête de fiançailles bientôt.</text>
+     <text>Nous organiserons notre fête de fiançailles bientôt.</text>
      <i18nText>We will be throwing our engagement party soon.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{adc2c91b-3d5b-40e3-91ee-56a84edc39d4}</id>
      <foreignId>{48533d15-bb64-4999-9773-1fdb4a0b0e5b}</foreignId>
-     <text>J'aimerais que vous veniez à la fête sur la plage le dimanche.</text>
+     <text>J'aimerais que vous veniez à la fête sur la plage dimanche.</text>
      <i18nText>I'd like you to come to the beach party on Sunday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5e61c6a1-6aba-4792-a7de-666acd90a0ee}</id>
      <foreignId>{bc0aaf07-5758-41a2-9a0a-0ca8642c7d7b}</foreignId>
-     <text>J'ai été en attente pour le bal des finissants pour un temps très long.</text>
+     <text>J'ai attendu le bal des diplômés pendant très longtemps.</text>
      <i18nText>I have been waiting for the graduation party for a very long time.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8cb40567-46e3-4b58-a78d-78bd50175919}</id>
      <foreignId>{b9dc533d-9ec6-45dd-aba1-4fce94afdbf5}</foreignId>
-     <text>Nous nous réunissons au bout de cinq ans.</text>
+     <text>Nous nous réunissons après cinq ans.</text>
      <i18nText>We are meeting after five years.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9258f0fc-caa9-4ae8-84dc-87d226307925}</id>
      <foreignId>{3625945b-c191-47a4-b6d2-5d86aebc312b}</foreignId>
-     <text>Les parents de Phil ont organisé une petite fête de réception de mariage de poste pour le couple de jeunes mariés.</text>
+     <text>Les parents de Phil ont organisé une petite fête après le mariage pour le couple de jeunes mariés.</text>
      <i18nText>Phil's parents have arranged for a small post wedding reception party for the newly wed couple.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13291,27 +13291,27 @@
      <i18nText>Susan invited me over to her place for a sleepover party.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9d9a01b8-1cb9-4e9a-afdd-a3084043237d}</id>
      <foreignId>{1cd9aa1c-cb48-43e0-910c-16993c5746b2}</foreignId>
-     <text>Marie a été la planification pour sa fête de mariage depuis des siècles.</text>
+     <text>Marie a tout planifié pour sa fête de mariage depuis des siècles.</text>
      <i18nText>Marie has been planning for her marriage party since ages.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9f5a87d8-4f2a-4f95-a965-71dd3e8770b5}</id>
      <foreignId>{7f8094c9-abff-41f6-83af-e04dac2b2a7b}</foreignId>
-     <text>Je pense que je vous ai rencontré avant.</text>
+     <text>Je pense que je vous ai déjà rencontré.</text>
      <i18nText>I think I met you before.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13321,17 +13321,17 @@
      <i18nText>Lily and George make a beautiful couple.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d20f5447-c176-4144-98cf-33423654c881}</id>
      <foreignId>{fbeea374-74b0-4c58-ab2b-1dda04474502}</foreignId>
-     <text>La partie de douche de bébé de Julie est le mercredi.</text>
+     <text>La baby shower de Julie sera mercredi.</text>
      <i18nText>Julie's baby shower party is on Wednesday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13341,27 +13341,27 @@
      <i18nText>Thank you for coming.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{00a7c57b-f757-47e3-a7e4-4054a8cd7593}</id>
      <foreignId>{4ae40d80-e434-4f55-8cbf-427d60128c19}</foreignId>
-     <text>C'est un plaisir de vous avoir ici.</text>
+     <text>C'est un plaisir que de vous avoir ici.</text>
      <i18nText>It is a pleasure having you here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{008bd941-c65b-4a3e-b71e-21240ba9167d}</id>
      <foreignId>{4f22b469-c9ea-4477-86b8-4f93c5da4a9d}</foreignId>
-     <text>Une LAN party est un parti qui comprend des jeux informatiques multi-joueurs et utilise un réseau local.</text>
+     <text>Une soirée LAN est une soirée jeux vidéos multi-joueurs qui utilise un réseau local.</text>
      <i18nText>A LAN party is a party that involves multi-player computer games and uses a Local Area Network.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13371,47 +13371,47 @@
      <i18nText>I had a great time.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8a3005bf-6764-475c-bbe6-eb7932ab53b1}</id>
      <foreignId>{e183f7c3-11a6-4439-abfc-5d02bcf87466}</foreignId>
-     <text>Susan a accueilli la partie vraiment bien. Tous ses invités avaient l'air très soutenu et heureux.</text>
+     <text>Susan a vraiment bien organisé la fête. Tous ses invités avaient l'air très satisfaits et très heureux.</text>
      <i18nText>Susan hosted the party really well. All her guests looked very contended and happy.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{66f26386-bc63-45d3-95fb-ea3debc7c031}</id>
      <foreignId>{32538363-00c6-4ab8-99f8-0fba91cd9d40}</foreignId>
-     <text>Le mois prochain, mes parents devront remplir leur vingt-cinq ans de mariage. J'ai l'intention de les jeter une belle fête surprise pour un long moment.</text>
+     <text>Le mois prochain, mes parents vont fêter leurs vingt-cinq ans de mariage. J'ai l'intention de leur organiser une belle fête surprise depuis longtemps.</text>
      <i18nText>Next month my parents will be completing their twenty-five years of marriage. I have been planning on throwing them a nice surprise party for a long time.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{08a8416c-90f5-40a1-ac54-0f484a8a283b}</id>
      <foreignId>{1514a00a-85c2-475e-afc9-9ff8501c0af6}</foreignId>
-     <text>Richard et sa famille lancent une pendaison de crémaillère samedi prochain. Ils ont invité tous les habitants de l'immeuble. Nous allons sûrement avoir du plaisir.</text>
+     <text>Richard et sa famille organisent une pendaison de crémaillère samedi prochain. Ils ont invité tous les habitants de l'immeuble. Nous allons sûrement bine nous amuser.</text>
      <i18nText>Richard and his family are throwing a housewarming party next Saturday. They have invited all the residents of the building. We will surely have fun.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{da886175-ebb2-4f69-baae-2d16318a5dce}</id>
      <foreignId>{ba78a846-fd7c-496c-aa65-948f85dffd6e}</foreignId>
-     <text>Nous avons organisé une soirée de collecte de fonds demain. Je serai l'héberge. Il y aura un dîner suivi d'interventions des membres du conseil.</text>
+     <text>Nous allons organiser une soirée de collecte de fonds demain. Je vais l'héberger. Il y aura un dîner suivi par des discours des membres du conseil.</text>
      <i18nText>We have organized a fundraising party tomorrow. I will be hosting it. There will be dinner followed by speeches by the board members.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
