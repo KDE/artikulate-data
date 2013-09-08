@@ -6476,7 +6476,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <id>{57b86688-be2d-426c-a1cd-93911fd328bd}</id>
      <foreignId>{646c91b5-94ef-4c29-a592-c621ba18f5d0}</foreignId>
      <text>Έχω ραντεβού με μια νοσοκόμα αύριο.</text>
-     <i18nText>I have a appointment with a nurse tomorrow.</i18nText>
+     <i18nText>I have an appointment with a nurse tomorrow.</i18nText>
      <soundFile>{57b86688-be2d-426c-a1cd-93911fd328bd}.ogg</soundFile>
      <type>sentence</type>
      <editState>completed</editState>
