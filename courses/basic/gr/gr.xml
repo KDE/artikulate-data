@@ -6069,7 +6069,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <i18nText>head</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6087,9 +6087,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{c276be5f-d8b3-4a62-a260-e1ae864a8864}</foreignId>
      <text>στόμα</text>
      <i18nText>mouth</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ee2f0ff2-be3e-462b-8269-963c38c2afbe}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6107,9 +6107,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{6c71d1cd-df66-4d12-9107-3f7a8655407b}</foreignId>
      <text>αυτί</text>
      <i18nText>ear</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{445ccf95-6157-49ce-93a1-19aa8d282545}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6127,9 +6127,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{a17a067d-57c7-4f7b-b777-7a52ec2a28a3}</foreignId>
      <text>λαιμός</text>
      <i18nText>neck</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{440a00cd-7e5c-4d90-9b1b-80da95003162}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6147,9 +6147,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{228bb20f-2d77-4350-bbb6-4456c9345306}</foreignId>
      <text>χέρι</text>
      <i18nText>hand</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{124dd208-d41f-424c-acf4-12b63ec462b0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6167,9 +6167,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{421bfeb0-4b74-4fc7-a956-b61ef0bd54e6}</foreignId>
      <text>στομάχι</text>
      <i18nText>stomach</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{848df00a-923a-4fee-92a4-ecca6c571c70}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6187,9 +6187,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{4fb53603-4ffb-4716-8a71-8aeda31258a5}</foreignId>
      <text>στήθος</text>
      <i18nText>chest</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ed04ab74-64b3-4948-bc59-d0f3b879b7ea}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6207,9 +6207,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{a29e6480-b689-43ac-b9bd-1589478476bc}</foreignId>
      <text>πόδι</text>
      <i18nText>leg</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2e4ab403-c9dc-4226-86a9-9476c4e67ba1}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6227,9 +6227,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{f9c0d813-e3cd-48c3-938a-8e6b6299353c}</foreignId>
      <text>αστράγαλος</text>
      <i18nText>ankle</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{7bf7baec-bd6e-4ae4-a01f-651b0e90fa5c}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6257,9 +6257,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{369ec525-984b-44b2-bad9-f7a32d8c5399}</foreignId>
      <text>παλάμη</text>
      <i18nText>palm</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a2acfed3-89f2-4e5d-8c01-e97d2e834a54}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6277,9 +6277,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{f28131a9-a47d-478e-83a4-fc81ab22f5f1}</foreignId>
      <text>έχω πυρετό</text>
      <i18nText>have a fever</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e2702bf3-d3b0-416d-9386-49c9b62b0681}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6297,9 +6297,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{f1deaf55-7158-4dc5-87e0-2796476c107a}</foreignId>
      <text>αρπάζω κρύωμα</text>
      <i18nText>get a cold</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{80f28f68-f79e-4995-ae8e-41da0ba417a0}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6317,9 +6317,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{7567aeea-cbb1-4d94-bd59-f799cd55ed99}</foreignId>
      <text>πονάω</text>
      <i18nText>be in pain</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b11a02cb-f203-400b-8330-64b8a39eee98}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6337,9 +6337,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{4b1ad981-4ee7-4fd7-a50a-052a78d2358c}</foreignId>
      <text>αρτηριακή πίεση</text>
      <i18nText>blood pressure</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{56f1dbcb-28ef-4c32-8a08-d82cd0a0f4d4}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6357,9 +6357,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{9fbe9bea-6dae-4a0c-b8a5-994c3c318782}</foreignId>
      <text>είμαι άρρωστος</text>
      <i18nText>be sick</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ac5ce500-caca-4a08-8c41-2a04e80545eb}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6377,9 +6377,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{641a29aa-c450-4267-bd38-4ef7a070f16e}</foreignId>
      <text>ακτινογραφία</text>
      <i18nText>x-ray scan</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a7e87d28-2c55-46ed-8c38-320a3ef93712}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6397,9 +6397,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{d3389bb8-8825-4daf-bc36-258be516476d}</foreignId>
      <text>παίρνω χάπια</text>
      <i18nText>take pills</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{a8909f11-0259-492c-a2b2-036f8290ffbc}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6417,9 +6417,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{e5de73c1-78b5-4079-9f64-f1c451d0c288}</foreignId>
      <text>γνωμάτευση</text>
      <i18nText>sick note</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3c7bbe4f-81b6-4efc-9d98-418da09121e2}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6437,9 +6437,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{28dbc507-6f11-46fb-b891-9b8ab2e26c0d}</foreignId>
      <text>μϋικός τραυματισμός</text>
      <i18nText>pull a muscle</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fec00b18-1d63-4823-801a-7f63ec94964a}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6457,9 +6457,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{5b97090f-f005-48cb-8fb0-dc893085a60b}</foreignId>
      <text>έχω λίγη ενέργεια</text>
      <i18nText>have little energy</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{550c3a6d-469b-4246-911e-b1766c3541a2}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6475,11 +6475,11 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{57b86688-be2d-426c-a1cd-93911fd328bd}</id>
      <foreignId>{646c91b5-94ef-4c29-a592-c621ba18f5d0}</foreignId>
-     <text>Έχω ένα ραντεβού με μια νοσοκόμα αύριο.</text>
+     <text>Έχω ραντεβού με μια νοσοκόμα αύριο.</text>
      <i18nText>I have a appointment with a nurse tomorrow.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{57b86688-be2d-426c-a1cd-93911fd328bd}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6497,9 +6497,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{c23f86d9-d69e-499c-a7a6-0bf2a71d0687}</foreignId>
      <text>Ποια είναι τα συμπτώματά σας;</text>
      <i18nText>What are your symptoms?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ee04808a-40b2-48b0-a5c5-9b5b4da1d981}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6517,9 +6517,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{acc3b824-3234-460d-98bd-d4713a292373}</foreignId>
      <text>Είναι συνταγή για το φαρμακείο.</text>
      <i18nText>It is prescription for the chemist.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8c0c317d-0caa-40ba-9f1e-4fccdcd8018a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6537,9 +6537,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{128eb6bc-f971-4cb0-bfe0-d4e6872189d5}</foreignId>
      <text>Έχετε αλλεργίες;</text>
      <i18nText>Do you have any allergies?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{982b327b-f222-4020-9fbd-4360f1b35ef0}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6557,9 +6557,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{7e30c1e7-c7b6-4321-b5c5-24ec5d71d0bb}</foreignId>
      <text>Πάρτε τρία από αυτά τα χάπια την ημέρα.</text>
      <i18nText>Take three of these pills a day.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1765682c-2a2a-4aab-bc63-a518f19b534a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6577,9 +6577,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{49e587dd-a8c2-4155-ba30-a63cd85c6391}</foreignId>
      <text>Ακολουθείτε κάποια φαρμακευτική αγωγή;</text>
      <i18nText>Are you on any sort of medication?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3b9c41b5-109b-4b13-bbf7-c0a0e114bd7e}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6597,9 +6597,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{88ea6e83-482f-4861-99d1-e22606668568}</foreignId>
      <text>Η θερμοκρασία μου είναι λίγο υψηλή.</text>
      <i18nText>My temperature is a little bit high.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9e0643c3-12e8-4cfb-bc56-e5e2132a5ca1}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6617,9 +6617,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{c5987882-f550-43cd-8487-d58f0c1c3e97}</foreignId>
      <text>Ανοίξτε το στόμα σας, παρακαλώ.</text>
      <i18nText>Open your mouth, please.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f19b0b2c-ef33-40b5-b17e-2360d61f2c53}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6637,9 +6637,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{fd391f4e-9c52-4c2a-9284-a5fe42b4527c}</foreignId>
      <text>Είμαι διαβητικός.</text>
      <i18nText>I am diabetic.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{76f41609-03b0-4146-ac64-b3a217dfb1f9}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6657,9 +6657,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{0059416d-8c54-45dc-b507-47130a0331f7}</foreignId>
      <text>Θα πρέπει να σταματήσετε το κάπνισμα.</text>
      <i18nText>You should give up smoking.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4cd861a1-85f0-42cb-92e2-a3a9916e7d92}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6677,9 +6677,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{a80f87ab-be88-4a07-9bc8-84d2209f3139}</foreignId>
      <text>Δε νιώθω πολύ καλά. Νομίζω ότι πρέπει να δω έναν γιατρό.</text>
      <i18nText>I do not fell very well. I think I need to see a doctor.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{69412f15-720c-451f-b451-fadef5c4edae}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6697,9 +6697,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{adb8fa13-592c-4637-80c1-1051254655f9}</foreignId>
      <text>Υπάρχουν παρενέργειες από αυτό το φάρμακο; Επίσης ξέχασα να αναφέρω ότι είμαι αλλεργικός στην πενικιλίνη.</text>
      <i18nText>Are there any side effects of this medicine? I also forgot to mention that I am allergic to penicillin.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{82021007-7f66-4744-855b-ce2ecb33982b}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6717,9 +6717,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{eae50b0c-2924-47e1-a9e1-8e4d3653c0b3}</foreignId>
      <text>Μετά από μερικές ερωτήσεις, η διάγνωση του γιατρού ήταν ότι είχα μια βακτηριακή λοίμωξη. Μου έγραψε μια συνταγή.</text>
      <i18nText>After asking a few questions, the doctor's diagnosis was that I had a bacterial infection. She wrote me out a prescription.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{e0a95719-00ab-49c7-a6ff-65a66511f792}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
