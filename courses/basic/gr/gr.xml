@@ -3089,7 +3089,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <id>{566114e8-1b8b-4b46-ba5f-502e9940f66f}</id>
      <foreignId>{fc0a450f-bcbc-4ea7-a127-d815d2646c60}</foreignId>
      <text>Τα πολωνικά και τα τσέχικα είναι σλαβικές γλώσσες.</text>
-     <i18nText>Polish and Chech are Slavic languages.</i18nText>
+     <i18nText>Polish and Czech are Slavic languages.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
      <editState>translated</editState>
@@ -8199,8 +8199,8 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{a09ec1eb-e728-453f-9328-e31061864811}</id>
      <foreignId>{0f620ee3-60ef-4f9a-bb7e-d2fe12e3ea40}</foreignId>
-     <text>I hope the food is hyegenic in here.</text>
-     <i18nText>I hope the food is hyegenic in here.</i18nText>
+     <text>I hope the food is hygienic in here.</text>
+     <i18nText>I hope the food is hygienic in here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
      <editState>unknown</editState>
@@ -10570,8 +10570,8 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{f7c536ab-6e0a-4df8-aaa6-30b947e6bbac}</id>
      <foreignId>{d5079fa2-9774-4761-a069-299cf70f90a9}</foreignId>
-     <text>research assisstant</text>
-     <i18nText>research assisstant</i18nText>
+     <text>research assistant</text>
+     <i18nText>research assistant</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
      <editState>unknown</editState>
@@ -11797,8 +11797,8 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{5ca0c72c-ba17-4316-9721-04261685c158}</id>
      <foreignId>{c5dc268e-b4ce-4d8b-8424-ccdc67663618}</foreignId>
-     <text>Please hurry up and call the ambulance. My son was hit by a car. He is unconcious and is bleeding profusely.</text>
-     <i18nText>Please hurry up and call the ambulance. My son was hit by a car. He is unconcious and is bleeding profusely.</i18nText>
+     <text>Please hurry up and call the ambulance. My son was hit by a car. He is unconscious and is bleeding profusely.</text>
+     <i18nText>Please hurry up and call the ambulance. My son was hit by a car. He is unconscious and is bleeding profusely.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
      <editState>unknown</editState>
