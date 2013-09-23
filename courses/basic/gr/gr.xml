@@ -8260,7 +8260,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <id>{e728c99f-141f-47d5-8052-143ce87bc9ce}</id>
      <foreignId>{ada3cd95-5264-4d8a-9434-670c9af9b177}</foreignId>
      <text>Είμαστε λίγο βιαστικοί. Επομένως, μπορείτε να μας φέρετε τον λογαριασμό παρακαλώ. Επίσης, επειδή έχω μείνει από μετρητά, θα ήθελα να πληρώσω με την πιστωτική μου κάρτα. Ελπίζω να γίνεται αποδεκτή εδώ. Αν όχι, μπορείτε σας παρακαλώ να μου δώσετε τη διεύθυνση ενός κοντινού ATM;</text>
-     <i18nText>We are in a bit of a hurry. So, can you get us the bill please. Also, as I am running short on cash, I would like to make the payment using my Credit Card. I hope that is acceptable here. If not, then can you please give me the address of a nearby ATM counter.</i16nText>
+     <i18nText>We are in a bit of a hurry. So, can you get us the bill please. Also, as we am running short on cash, I would like to make the payment using my Credit Card. I hope that is acceptable here. If not, then can you please give me the address of a nearby ATM counter.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
      <editState>translated</editState>
