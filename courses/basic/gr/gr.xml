@@ -7429,841 +7429,841 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{3a7d7905-77fe-47cd-944b-bc9bff0eb614}</id>
      <foreignId>{50c5544e-6696-4c78-8aaf-6a6339592255}</foreignId>
-     <text>buffet</text>
+     <text>μπουφές</text>
      <i18nText>buffet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{deac156f-6b44-48e3-a809-2153d170930b}</id>
      <foreignId>{56905efa-bed0-4cfe-aa89-769872071377}</foreignId>
-     <text>breakfast</text>
+     <text>πρωινό</text>
      <i18nText>breakfast</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89b359aa-0477-40f1-bc2e-3d54087d9b9c}</id>
      <foreignId>{3703bc1b-15a6-4b5f-84c6-5a28645a9e42}</foreignId>
-     <text>lunch</text>
+     <text>μεσημεριανό</text>
      <i18nText>lunch</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a9e2460f-b159-4cae-b5b4-950d9cec85c0}</id>
      <foreignId>{cda476df-132b-4ec6-b536-42598f7c5ba6}</foreignId>
-     <text>dinner</text>
+     <text>δείπνο</text>
      <i18nText>dinner</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6aec2a15-e143-487b-a214-4d822283d165}</id>
      <foreignId>{fc5803d2-c867-4046-a331-61b76b589c34}</foreignId>
-     <text>supper</text>
+     <text>δείπνο</text>
      <i18nText>supper</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8f94728e-8aa0-4694-9675-7749d7f399b0}</id>
      <foreignId>{2d51a90b-5c51-4573-809c-c49709def9a7}</foreignId>
-     <text>delicious</text>
+     <text>νόστιμο</text>
      <i18nText>delicious</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5dd30c2e-3b63-4f93-a1ce-eb7e9f102ddb}</id>
      <foreignId>{fccb742b-4086-4dbd-bb55-39639416b791}</foreignId>
-     <text>plate</text>
+     <text>πιάτο</text>
      <i18nText>plate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fa196acd-94bf-4480-862e-5d1e04e9b602}</id>
      <foreignId>{1719da47-5ef9-4daa-91bb-41833cc5e3ed}</foreignId>
-     <text>glass</text>
+     <text>ποτήρι</text>
      <i18nText>glass</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3947daec-2290-4efd-9bd2-c7024ea0eb7f}</id>
      <foreignId>{38f02cb6-aa21-4628-86d8-110af13eadb7}</foreignId>
-     <text>bowl</text>
+     <text>μπολ</text>
      <i18nText>bowl</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ab1b5c75-b9f5-4b7f-86db-46326ec9143c}</id>
      <foreignId>{4ae20f25-9d04-407e-ae5f-e5814ac920c4}</foreignId>
-     <text>spoon</text>
+     <text>κουτάλι</text>
      <i18nText>spoon</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e70e286-9499-413f-bacc-93c71d3edcbf}</id>
      <foreignId>{9194d179-3cab-473c-9848-82f12359656b}</foreignId>
-     <text>fork</text>
+     <text>πιρούνι</text>
      <i18nText>fork</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d37aa2e6-1377-49f7-83f0-e3d63d335087}</id>
      <foreignId>{7c05da6a-3d59-454f-9f7a-4fdcfad98bbb}</foreignId>
-     <text>knife</text>
+     <text>μαχαίρι</text>
      <i18nText>knife</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f654c8fc-d77c-4263-a9aa-015458129ea0}</id>
      <foreignId>{cab92063-c028-42d7-8b82-bdc2ca898692}</foreignId>
-     <text>eat</text>
+     <text>τρώω</text>
      <i18nText>eat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b6ebd64a-bf3c-4759-9630-46bd6d8071bb}</id>
      <foreignId>{268abbbd-7866-46f1-a064-e572f6c0c02f}</foreignId>
-     <text>drink</text>
+     <text>πίνω</text>
      <i18nText>drink</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2052be2f-1b8c-455b-9a65-3d9b4169a35f}</id>
      <foreignId>{9573c463-ac99-45b6-96c8-b96c3d7e4d80}</foreignId>
-     <text>starter</text>
+     <text>ορεκτικό</text>
      <i18nText>starter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{02817151-d4e0-4c04-a38c-423c4c698214}</id>
      <foreignId>{52ffef0c-9b3d-4d3d-be4b-3dd52646ff55}</foreignId>
-     <text>soup</text>
+     <text>σούπα</text>
      <i18nText>soup</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1d553364-2c79-4724-b79d-446fe14ef828}</id>
      <foreignId>{8351f0e4-9e8f-4c73-8615-39627e8f53aa}</foreignId>
-     <text>appetizer</text>
+     <text>ορεκτικό</text>
      <i18nText>appetizer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{81544474-118f-4a6e-abce-b453c2a91abc}</id>
      <foreignId>{1577f309-b200-40a1-aeee-46786e1d1fb1}</foreignId>
-     <text>dessert</text>
+     <text>επιδόρπιο</text>
      <i18nText>dessert</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{28b38167-64f9-4b28-af9d-ffb7b94d84e4}</id>
      <foreignId>{1038f99d-7e52-4cb6-acbd-89670620be89}</foreignId>
-     <text>meat</text>
+     <text>κρέας</text>
      <i18nText>meat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e27d3550-b7af-46da-934f-a6b81dc93502}</id>
      <foreignId>{9e0cc554-23d3-4908-a3ea-0cdd80ef2925}</foreignId>
-     <text>water</text>
+     <text>νερό</text>
      <i18nText>water</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d4a0b0fb-d953-472d-93c2-7080e9edef76}</id>
      <foreignId>{103de1ce-4d20-400f-a932-b744c55aec38}</foreignId>
-     <text>wine</text>
+     <text>κρασί</text>
      <i18nText>wine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5d8100ff-52f9-4d00-a037-48912dab5b15}</id>
      <foreignId>{bc92a356-8676-4fb2-8a86-0e4f7083b4f9}</foreignId>
-     <text>juice</text>
+     <text>χυμός</text>
      <i18nText>juice</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b416caba-d1a6-488d-8e75-f9bd54cc959b}</id>
      <foreignId>{01e45ffb-3241-4735-b904-97c066d877f6}</foreignId>
-     <text>menu</text>
+     <text>μενού</text>
      <i18nText>menu</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a77c6a59-e872-4321-9cd4-7ed7a7dc0026}</id>
      <foreignId>{14992d30-aedc-4da0-82cf-96093f89591f}</foreignId>
-     <text>recipe</text>
+     <text>συνταγή</text>
      <i18nText>recipe</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cc3daa69-805e-4304-9a23-c27ab036a085}</id>
      <foreignId>{bb4526a2-4275-4b4a-b951-912e6f2b97b1}</foreignId>
-     <text>bill</text>
+     <text>λογαριασμός</text>
      <i18nText>bill</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{904f2376-16a0-4caa-9117-5530f8259e5f}</id>
      <foreignId>{aabd497c-a812-4716-9aba-d8314da7998d}</foreignId>
-     <text>pastry</text>
+     <text>αρτοσκεύασμα</text>
      <i18nText>pastry</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{93541b09-2b75-439b-815a-ee7c8285c575}</id>
      <foreignId>{90fa8f90-8f11-4ef6-bc7f-ada03b924fe5}</foreignId>
-     <text>cake</text>
+     <text>τούρτα</text>
      <i18nText>cake</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4a70459a-c464-4cd3-a4c2-7bb67db7d22c}</id>
      <foreignId>{d2e402dc-805d-4f87-9658-23471c721315}</foreignId>
-     <text>waiter</text>
+     <text>σερβιτόρος</text>
      <i18nText>waiter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{52ca1f4d-23c1-4340-98bc-7191408eed1e}</id>
      <foreignId>{7c36fb4e-245c-4f89-9104-1d71e9880bd1}</foreignId>
-     <text>restaurant</text>
+     <text>εστιατόριο</text>
      <i18nText>restaurant</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9d398f7b-5823-424d-b4c1-73de9d4ea6e0}</id>
      <foreignId>{ff8667f7-8461-443a-b553-eb9b2c0c2d4b}</foreignId>
-     <text>order</text>
+     <text>παραγγελία</text>
      <i18nText>order</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e2f6e144-2ef4-464d-986f-d405a75e7732}</id>
      <foreignId>{f94be4c4-d053-4b2c-a56b-128c7640223b}</foreignId>
-     <text>taste</text>
+     <text>γεύση</text>
      <i18nText>taste</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{109c04a8-18c2-4c71-b888-a0cfb2156f19}</id>
      <foreignId>{42903866-560a-4c0d-9080-777e1e2de225}</foreignId>
-     <text>sweet</text>
+     <text>γλυκό</text>
      <i18nText>sweet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{71f9f8cd-8d6a-48e4-a4ec-98b436008ebc}</id>
      <foreignId>{56393e31-fefe-465c-9d8b-9cb041cd1dcd}</foreignId>
-     <text>sour</text>
+     <text>ξινό</text>
      <i18nText>sour</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77a60bae-fac5-495a-b124-472487724069}</id>
      <foreignId>{9c18a212-115f-4b23-9e0c-28742847ebd3}</foreignId>
-     <text>bitter</text>
+     <text>πικρό</text>
      <i18nText>bitter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{48401489-2adb-4483-a4b8-8d9716946c0a}</id>
      <foreignId>{e99b1727-b8c4-4898-b152-e11336356cc0}</foreignId>
-     <text>salt</text>
+     <text>αλάτι</text>
      <i18nText>salt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8ad7e396-f02e-4a95-9ddb-d0382d824852}</id>
      <foreignId>{bb51c933-5446-4720-a42f-d500deac7830}</foreignId>
-     <text>pepper</text>
+     <text>πιπέρι</text>
      <i18nText>pepper</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{189a1d67-52cc-45f1-8bfc-f29d2a9e42fb}</id>
      <foreignId>{d14a8c3f-7b72-4e88-bdab-38141b1868f6}</foreignId>
-     <text>cuisine</text>
+     <text>κουζίνα</text>
      <i18nText>cuisine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{45c4cf06-9c2d-4b94-9f14-494b0cfb721f}</id>
      <foreignId>{5b212204-05f4-4371-9216-4ded09f1f718}</foreignId>
-     <text>serve</text>
+     <text>σερβίρω</text>
      <i18nText>serve</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5d881b72-fb51-43b9-8ad3-ea433b951274}</id>
      <foreignId>{bdb8eb20-615f-49fd-83a4-207c73ecc951}</foreignId>
-     <text>button mushroom soup</text>
+     <text>σούπα από λευκά μανιτάρια</text>
      <i18nText>button mushroom soup</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{baa3d8b2-992b-4e42-b26f-e1e3999fd7c1}</id>
      <foreignId>{126b6f28-1bb3-436d-b253-5a16cb05a44c}</foreignId>
-     <text>tossed baby corn</text>
+     <text>μικρό καλαμπόκι ανάμικτο</text>
      <i18nText>tossed baby corn</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7218b4c3-98d2-4fe1-95bc-bae8c6ed2c89}</id>
      <foreignId>{d0769f05-2b43-4408-8708-6395faf328ab}</foreignId>
-     <text>main course</text>
+     <text>κυρίως πιάτο</text>
      <i18nText>main course</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6e45a4c9-6f1e-4b22-b180-994f460b673a}</id>
      <foreignId>{4d2f0e84-91d9-43d1-93a1-8e80c2995c31}</foreignId>
-     <text>sea food</text>
+     <text>θαλασσινά</text>
      <i18nText>sea food</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d7268a9b-9523-4bdc-a70d-3917c1767b00}</id>
      <foreignId>{3dc28fa0-cb4a-4445-8ef6-0cc4a065f4c9}</foreignId>
-     <text>stir fried vegetables</text>
+     <text>ανάμικτα τηγανητά λαχανικά</text>
      <i18nText>stir fried vegetables</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c8b1a53f-b1f1-4488-894a-0dc5613ead6f}</id>
      <foreignId>{687b23e1-1f2f-4e11-a58e-7fc6172505ab}</foreignId>
-     <text>fresh fruit salad</text>
+     <text>φρέσκια φρουτοσαλάτα</text>
      <i18nText>fresh fruit salad</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{79a0a92f-6371-492f-8149-01e80f112b74}</id>
      <foreignId>{df560c02-2f80-4499-b3ca-60fcf25bcb7b}</foreignId>
-     <text>roasted turkey</text>
+     <text>ψητή γαλοπούλα</text>
      <i18nText>roasted turkey</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e5afb42f-2a5e-4d1a-91f3-cf6cd69435d3}</id>
      <foreignId>{9ca4e50e-cfae-4d97-90a7-f4d4e7245f81}</foreignId>
-     <text>lamb chops</text>
+     <text>αρνίσια παϊδάκια</text>
      <i18nText>lamb chops</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c743f836-27ad-49e2-8d00-d4a1e4c02432}</id>
      <foreignId>{04472858-f61f-4794-bd8e-529abde5778f}</foreignId>
-     <text>fried chicken wings</text>
+     <text>τηγανιτές φτερούγες κοτόπουλου</text>
      <i18nText>fried chicken wings</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{84f3702c-b6d5-440e-9362-f666bfbf8b74}</id>
      <foreignId>{1b2d9856-6aca-4783-bd8d-08cc387a9e51}</foreignId>
-     <text>shell fish</text>
+     <text>οστρακόδερμα</text>
      <i18nText>shell fish</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7e7d4ea-71c7-4e38-91e7-9d1abce609f0}</id>
      <foreignId>{da6bb090-e125-4b74-978a-3f21f8e10c42}</foreignId>
-     <text>mashed potato</text>
+     <text>πουρές πατάτας</text>
      <i18nText>mashed potato</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{10215a13-e1e9-4ee1-bed0-127344d9a22a}</id>
      <foreignId>{2f6d027a-5c42-497d-a9ac-00796a3392b6}</foreignId>
-     <text>fine dining</text>
+     <text>εκλεπτυσμένα εστιατόρια</text>
      <i18nText>fine dining</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{219d26c4-8c3b-4a32-bbc9-e7ed407d7462}</id>
      <foreignId>{e6ebfa79-30ef-4c19-8e26-511bd87a038e}</foreignId>
-     <text>table manners</text>
+     <text>καλοί τρόποι</text>
      <i18nText>table manners</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9456e742-a060-4b38-8685-2e31ac130edd}</id>
      <foreignId>{35770ccc-7d36-4fa9-83b6-0ac4a61f3283}</foreignId>
-     <text>over cooked</text>
+     <text>παραψημένο</text>
      <i18nText>over cooked</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1f6d79b8-b677-4343-88c5-b67a6c7e02ab}</id>
      <foreignId>{fa261d83-be13-42db-98cb-f919d95a34ab}</foreignId>
-     <text>chocolate sauce</text>
+     <text>σως σοκολάτας</text>
      <i18nText>chocolate sauce</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{52154631-ee1e-4387-9028-bbcbe6a4e3dd}</id>
      <foreignId>{caa0c881-084d-4952-bae1-ddd0079f7500}</foreignId>
-     <text>brownie with ice cream</text>
+     <text>μπράουνι με παγωτό</text>
      <i18nText>brownie with ice cream</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6b35167e-8c74-429b-97e2-ce370cea4a5f}</id>
      <foreignId>{332f4442-004c-493f-ab5e-7503d4b4cbe8}</foreignId>
-     <text>scrambled eggs</text>
+     <text>ομελέτα</text>
      <i18nText>scrambled eggs</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f6a4861e-4778-4f62-9885-a4e2daf7393f}</id>
      <foreignId>{732460df-2296-4930-b035-2346ccd62d0b}</foreignId>
-     <text>cheese sandwich</text>
+     <text>σάντουιτς με τυρί</text>
      <i18nText>cheese sandwich</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b4d5b7f6-75d9-4752-8c8c-a82619a34b62}</id>
      <foreignId>{a1a46d68-f5ec-4f62-9436-226f664fabbc}</foreignId>
-     <text>beef steak</text>
+     <text>μοσχαρίσια μπριζόλα</text>
      <i18nText>beef steak</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c9ccc74f-07b4-4fb9-beea-d2091e172887}</id>
      <foreignId>{09919257-0303-48cc-a84c-6ff1221c8ed5}</foreignId>
-     <text>fettuccine carbonara</text>
+     <text>φετουτσίνι καρμπονάρα</text>
      <i18nText>fettuccine carbonara</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c78f0b93-27be-452b-9743-b1e4477d6cd9}</id>
      <foreignId>{e8c3f3ba-3734-4c22-82ad-ab8cfb2c287f}</foreignId>
-     <text>Thank you</text>
+     <text>Ευχαριστώ</text>
      <i18nText>Thank you</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7b773444-c7a5-4d4e-bda2-1e055431b337}</id>
      <foreignId>{f395ad17-ce04-4ab4-aa61-b2b4230b07ac}</foreignId>
-     <text>Excuse me</text>
+     <text>Με συγχωρείτε</text>
      <i18nText>Excuse me</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{64d6cf88-e4e2-4735-b4e6-476fc1e47ca6}</id>
      <foreignId>{fa1ba1b4-de99-471a-8144-d0d8a6a6e5ff}</foreignId>
-     <text>I would like to book a table for two for Thursday night.</text>
+     <text>Θα ήθελα να κλείσω ένα τραπέζι για δύο για την Πέμπτη το βράδυ.</text>
      <i18nText>I would like to book a table for two for Thursday night.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{620c2d36-20b4-4615-b592-eba71c099082}</id>
      <foreignId>{e9f5701d-7979-411e-85c7-02ccd0ab0b7c}</foreignId>
-     <text>Can I get a glass of water, please?</text>
+     <text>Μπορώ να έχω ένα ποτήρι νερό, παρακαλώ;</text>
      <i18nText>Can I get a glass of water, please?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8a22a97e-177d-486f-b020-6fefc80c90de}</id>
      <foreignId>{5dab17c1-a25a-4ccd-8c48-88e0dcb76893}</foreignId>
-     <text>The veal they serve here is the best in town.</text>
+     <text>Το μοσχαρίσιο κρέας που σερβίρουν εδώ είναι το καλύτερο στην πόλη.</text>
      <i18nText>The veal they serve here is the best in town.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eb39cf62-2af2-491a-adc6-b8ed98d342fb}</id>
      <foreignId>{7f17f60a-800a-4273-beab-192816cc0437}</foreignId>
-     <text>Mixed noodles with sliced chilli pork is an all time favourite of mine.</text>
+     <text>Ανάμικτα νουντλς με κομμάτια χοιρινό και τσίλι είναι ένα από τα διαχρονικά αγαπημένα μου.</text>
      <i18nText>Mixed noodles with sliced chilli pork is an all time favourite of mine.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ac116e19-fcef-4111-833c-157515f3985c}</id>
      <foreignId>{4b835386-3b59-4580-829f-19f4f8287910}</foreignId>
-     <text>Where is the washroom?</text>
+     <text>Πού είναι η τουαλέτα;</text>
      <i18nText>Where is the washroom?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{aae3b2af-a490-4f50-98f7-a9112ab558ab}</id>
      <foreignId>{fa616cc5-4b65-41ef-9bde-bf78928327e4}</foreignId>
-     <text>I absolutely love desserts.</text>
+     <text>Λατρεύω απόλυτα τα επιδόρπια.</text>
      <i18nText>I absolutely love desserts.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2a54fbc0-e497-4c16-a322-34c18a586219}</id>
      <foreignId>{67c4ca5c-6303-44b3-8f3a-9fd53e936b66}</foreignId>
-     <text>Would you like to have some more?</text>
+     <text>Θα θέλατε λίγο ακόμα;</text>
      <i18nText>Would you like to have some more?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{796c0561-7ed4-48f1-87f9-c7ef5907106d}</id>
      <foreignId>{d32ed725-255b-4bb9-97f5-0d10ceecdc16}</foreignId>
-     <text>I am quite full.</text>
+     <text>Είμαι πλήρης.</text>
      <i18nText>I am quite full.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e3cc002-d034-4ed9-bd84-a82d8c0a81fa}</id>
      <foreignId>{e45c7ce5-ad53-4cd5-bfc8-8ed8c59a4d08}</foreignId>
-     <text>I am on a strict low fat diet plan.</text>
+     <text>Είμαι σε αυστηρό πρόγραμμα δίαιτας χαμηλής περιεκτικότητας σε λιπαρά.</text>
      <i18nText>I am on a strict low fat diet plan.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bf2ced51-7134-4a75-9b9f-e3b9802ce7bf}</id>
      <foreignId>{cffb13e7-9d23-4bc9-9212-e0dd0743c19a}</foreignId>
-     <text>One prawn salad for me, please.</text>
+     <text>Μια γαρίδοσαλάτα για μένα, παρακαλώ.</text>
      <i18nText>One prawn salad for me, please.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c4e3b461-7320-4e16-8b99-48dab332ec2f}</id>
      <foreignId>{aa1bd985-7a79-4d2d-8901-4f34cfc496c6}</foreignId>
-     <text>I quit non vegetarian food a couple of months ago.</text>
+     <text>Σταμάτησα το φαγητό που δεν είναι για χορτοφάγους μερικούς μήνες πριν.</text>
      <i18nText>I quit non vegetarian food a couple of months ago.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{03ba80d6-6a19-4ed1-b710-670c903decde}</id>
      <foreignId>{04a11123-9ab1-469d-9edc-c9e3fff43786}</foreignId>
-     <text>Would you like to go out for dinner tonight?</text>
+     <text>Θα θέλατε να βγείτε για δείπνο απόψε;</text>
      <i18nText>Would you like to go out for dinner tonight?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2a7f2d15-294c-46c3-93c2-1fa10bc34763}</id>
      <foreignId>{7fac8016-ce35-4398-90b4-86878de67e0b}</foreignId>
-     <text>I think you should definitely try the chicken clear soup.</text>
+     <text>Νομίζω ότι θα πρέπει να δοκιμάσετε οπωσδήποτε την κοτόσουπα.</text>
      <i18nText>I think you should definitely try the chicken clear soup.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{65906ce6-1832-4e52-b664-e6c3f3c1fa5d}</id>
      <foreignId>{11c27987-5428-4842-811c-b1d5b0f4b395}</foreignId>
-     <text>I enjoyed the meal very much.</text>
+     <text>Μου άρεσε πολύ το γεύμα.</text>
      <i18nText>I enjoyed the meal very much.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fc056d5d-01b8-41f5-aaf8-c476d6f07a4e}</id>
      <foreignId>{01fcd2a7-5a00-41d3-9239-77da4aa5b11d}</foreignId>
-     <text>I like my meat to be cooked medium rare.</text>
+     <text>Μου αρέσει το κρέας μου να είναι ελάχιστα ψημένο.</text>
      <i18nText>I like my meat to be cooked medium rare.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0be6305e-3dbc-4b6d-b52f-e91beee9f814}</id>
      <foreignId>{b3d021d9-5cf9-4139-8e74-0e0d2b4382c7}</foreignId>
-     <text>A reservation was made for four guests for lunch.</text>
+     <text>Η κράτηση έγινε για τέσσερα άτομα για μεσημεριανό γεύμα.</text>
      <i18nText>A reservation was made for four guests for lunch.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0859c347-181d-4246-a35f-5de8fbfd8fe2}</id>
      <foreignId>{ddb954f9-aca5-41ba-a9bf-369e1e6d1ea9}</foreignId>
-     <text>Is the food very expensive here?</text>
+     <text>Το φαγητό είναι πολύ ακριβό εδώ;</text>
      <i18nText>Is the food very expensive here?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a09ec1eb-e728-453f-9328-e31061864811}</id>
      <foreignId>{0f620ee3-60ef-4f9a-bb7e-d2fe12e3ea40}</foreignId>
-     <text>I hope the food is hygienic in here.</text>
+     <text>Ελπίζω το φαγητό να είναι υγιεινό εδώ.</text>
      <i18nText>I hope the food is hygienic in here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2d1aa844-d5fa-40f3-9e5c-6605f3feb47a}</id>
      <foreignId>{47b4d378-7d7d-4e66-88ea-fa3f71353bcd}</foreignId>
-     <text>I would like to get a double cheeseburger with some french fries.</text>
+     <text>Θα ήθελα ένα διπλό τσίζμπεργκερ με τηγανιτές πατάτες.</text>
      <i18nText>I would like to get a double cheeseburger with some french fries.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2c57eb91-6355-4b96-b6b4-8ac6883993dc}</id>
      <foreignId>{2efc1ec3-487f-4314-bd1b-c908a57e0184}</foreignId>
-     <text>I would advice you to try the steamed shrimp wontons here. Its like nothing you have ever had. They look beautiful as well as taste delicious and have the thinnest wrappers I ever came across.</text>
+     <text>Θα σας συμβούλευα να δοκιμάζατε εδώ τα γουόν τον με γαρίδες στον ατμό. Είναι κάτι που δεν έχετε δοκιμάσει ποτέ. Είναι όμορφα αλλά και πολύ γευστικά και έχουν τα λεπτότερα περιτυλίγματα που έχω δει ποτέ.</text>
      <i18nText>I would advice you to try the steamed shrimp wontons here. Its like nothing you have ever had. They look beautiful as well as taste delicious and have the thinnest wrappers I ever came across.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f141200c-6139-41f8-bdc0-e0f098574a79}</id>
      <foreignId>{9ded98a2-2c35-4070-968e-e64993455707}</foreignId>
-     <text>I’d like to have the chef’s salad, please. Balsamic Vinaigrette would be fine for the dressing. Also, I’d like some bottled water please.</text>
+     <text>Θα ήθελα σαλάτα του σεφ, παρακαλώ. Μια βινεγκρέτ μπαλσάμικο θα ήταν τέλεια σάλτσα. Επίσης, θα ήθελα εμφιαλωμένο νερό παρακαλώ.</text>
      <i18nText>I’d like to have the chef’s salad, please. Balsamic Vinaigrette would be fine for the dressing. Also, I’d like some bottled water please.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{91d7b4ed-d408-4435-84d7-16fbbe1cb368}</id>
      <foreignId>{378566da-72cb-43d0-87c8-0e5265ff821d}</foreignId>
-     <text>Excuse me, we are ready to make the order. For the starter, we would like to have one coarse country duck terrine and one goat's cheese and asparagus terrine. One salmon fishcake and one slow cooked blade of beef for the main course and two hot chocolate souffles for the dessert.</text>
+     <text>Με συγχωρείτε, είμαστε έτοιμοι για να παραγγείλουμε. Για αρχή, θα θέλαμε τερίνα άγριας πάπιας και κατσίκισιο τυρί και τερίνα από σπαράγγια. Τάρτα σολομού και αργά μαγειρεμένο μοσχαρίσιο φιλέτο για κυρίως πιάτο και δύο ζεστά σουφλέ σοκολάτας για επιδόρπιο.</text>
      <i18nText>Excuse me, we are ready to make the order. For the starter, we would like to have one coarse country duck terrine and one goat's cheese and asparagus terrine. One salmon fishcake and one slow cooked blade of beef for the main course and two hot chocolate souffles for the dessert.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{88fa4443-ea4f-4f28-bcb6-c1199baa871e}</id>
      <foreignId>{a4a0d063-cf06-4236-9ad9-08edc7ce8e33}</foreignId>
-     <text>We are done for tonight. The food was very satisfying, thank you. The molten chocolate lava cake tasted absolutely divine and was a great way to end the meal.</text>
+     <text>Τελειώσαμε για απόψε. Το φαγητό ήταν πολύ χορταστικό, σας ευχαριστούμε. Το κέικ με τη λιωμένη σοκολάτα είχε θεική γέυση και ήταν ένας τέλειος τρόπος για να τελειώσει το γεύμα.</text>
      <i18nText>We are done for tonight. The food was very satisfying, thank you. The molten chocolate lava cake tasted absolutely divine and was a great way to end the meal.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e728c99f-141f-47d5-8052-143ce87bc9ce}</id>
      <foreignId>{ada3cd95-5264-4d8a-9434-670c9af9b177}</foreignId>
-     <text>We are in a bit of a hurry. So, can you get us the bill please. Also, as we am running short on cash, I would like to make the payment using my Credit Card. I hope that is acceptable here. If not, then can you please give me the address of a nearby ATM counter.</text>
+     <text>Είμαστε λίγο βιαστικοί. Επομένως, μπορείτε να μας φέρετε τον λογαριασμό παρακαλώ. Επίσης, επειδή έχω μείνει από μετρητά, θα ήθελα να πληρώσω με την πιστωτική μου κάρτα. Ελπίζω να γίνεται αποδεκτή εδώ. Αν όχι, μπορείτε σας παρακαλώ να μου δώσετε τη διεύθυνση ενός κοντινού ATM;</text>
      <i18nText>We are in a bit of a hurry. So, can you get us the bill please. Also, as we am running short on cash, I would like to make the payment using my Credit Card. I hope that is acceptable here. If not, then can you please give me the address of a nearby ATM counter.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
