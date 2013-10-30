@@ -6744,9 +6744,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{887e994d-71c8-4599-b549-ff43d49b9312}</foreignId>
      <text>φαγητό</text>
      <i18nText>food</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{5e0315e6-ee1d-40d0-b8de-3d84cf49a6ed}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6764,9 +6764,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{d544dfa7-6d3a-4d8a-ac5a-ea9191b2ca94}</foreignId>
      <text>αγγούρι</text>
      <i18nText>cucumber</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{185d20f0-9392-430b-9528-41c279b268ab}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6784,9 +6784,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{11050d64-d888-481f-ac2d-49b8ec4e521c}</foreignId>
      <text>κρεμμύδι</text>
      <i18nText>onion</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{55fd4027-047c-4eca-9d64-3d3923a589a9}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6804,9 +6804,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{d643ba3d-f0cf-4aaf-bb7a-d123620f797f}</foreignId>
      <text>μαρούλι</text>
      <i18nText>lettuce</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{efcbbbf9-bcbe-49ab-b54a-cdca003802c0}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6824,9 +6824,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{2e55b9d9-bc84-46c8-b457-498d6087e806}</foreignId>
      <text>πιπέρι</text>
      <i18nText>pepper</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{03b52fc4-090a-4c8a-bfed-afc24751dd0b}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6844,9 +6844,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{e9620e31-f1df-444d-9c07-da02a78f5906}</foreignId>
      <text>αυγό</text>
      <i18nText>egg</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{2304775f-5ed8-42c3-a7f3-cc228e946222}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6864,9 +6864,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{cb49e0cc-7e6c-4322-8f8b-011ef6f71c25}</foreignId>
      <text>τυρί</text>
      <i18nText>cheese</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{fb93b841-8d3e-458d-b75d-e747600ff8b2}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6884,9 +6884,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{29d3280b-0d1c-4aa4-8e63-8d0682ffd286}</foreignId>
      <text>ψωμί</text>
      <i18nText>bread</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{dd9171dd-dd2d-482c-9d6d-47b6e0bf43a6}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6904,9 +6904,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{b79b6dbd-e5b2-4aa8-bfae-41f98babcbb3}</foreignId>
      <text>τούρτα</text>
      <i18nText>cake</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{b4916e59-7c1b-4cff-9fc6-c562a441cd05}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6924,9 +6924,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{ee4e784a-7470-4fff-99a2-480b6944eecb}</foreignId>
      <text>μαγιονέζα</text>
      <i18nText>mayonnaise</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{33d708a2-5229-4b3b-9181-3b59c9133adf}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6944,9 +6944,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{964d7c8d-e889-482c-a5e2-b3f16a19c87e}</foreignId>
      <text>ψάρι</text>
      <i18nText>fish</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{17df4d25-3ca6-438b-af5e-362cf209e8fb}.ogg</soundFile>
      <type>word</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6964,9 +6964,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{44e2cbae-f167-43f7-97ed-8170fd37eba3}</foreignId>
      <text>ένα κιλό τυρί ένταμ</text>
      <i18nText>one kilogram of edam cheese</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{9616ff64-0a35-4cb5-a278-6d38a7cbca9a}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -6984,9 +6984,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{132f567a-0449-4b4b-96b2-32856d468e40}</foreignId>
      <text>κομμάτι πίτσα</text>
      <i18nText>slice of pizza</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{0b04b7cb-a021-4779-8a08-9c09e203e783}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7004,9 +7004,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{44898c95-748b-47a4-af81-016a7f8e8aa6}</foreignId>
      <text>καρβέλι ψωμί</text>
      <i18nText>loaf of bread</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c682cbef-f180-4248-890c-48395228325e}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7024,9 +7024,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{8ab289d5-00f7-4968-81d9-e003a08820fe}</foreignId>
      <text>ένα λίτρο λάδι</text>
      <i18nText>one litre of oil</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1221d224-42ab-4c47-8931-29f7587eabce}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7044,9 +7044,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{5127ea6e-1305-4dfb-a7c2-3181b0785e85}</foreignId>
      <text>είδη οικιακής χρήσης</text>
      <i18nText>household items</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4325f593-e37e-4671-8cc6-f8cfa9ae34f7}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7064,9 +7064,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{ab6c2ed3-eb9a-44b0-9abd-09742b85caf7}</foreignId>
      <text>τμήμα υγείας και ομορφιάς</text>
      <i18nText>health and beauty section</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{ad0c77f5-61a1-4515-9552-9780ca849290}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7084,9 +7084,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{0c826e85-5f34-4295-8e06-32d7e9da3bb2}</foreignId>
      <text>αρτοσκευάσματα</text>
      <i18nText>baked goods</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{3578ae1b-36a3-4323-b685-7cbb93337684}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7104,9 +7104,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{add1ed91-5361-445e-9ff8-eb3db22038fa}</foreignId>
      <text>σαρώνω ένα αντικείμενο</text>
      <i18nText>scan an item</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{cfc51498-1fc9-4e26-b364-3f726af4128a}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7124,9 +7124,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{5bc90140-6312-415c-bf74-e637e1e969e1}</foreignId>
      <text>αποξηραμένα φρούτα</text>
      <i18nText>dried fruits</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{58de45b6-8af3-4fcb-a310-e3fe352a63db}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7144,9 +7144,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{01833a12-cc43-4ce8-ada0-629fcd3a91cb}</foreignId>
      <text>αλκοολούχα ποτά</text>
      <i18nText>alcoholic drinks</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c26f66ab-6291-456b-8f8e-6a2440eab659}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7164,9 +7164,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{7598bb90-4394-4975-a15d-d4d9cc115aad}</foreignId>
      <text>βάζο μαρμελάδας</text>
      <i18nText>jar of jam</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{1644a14a-59bf-4d33-88ac-a7760c76f575}.ogg</soundFile>
      <type>expression</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7184,9 +7184,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{da62182e-9696-4852-a6f1-4686a6a0812d}</foreignId>
      <text>Εξυπηρετείστε;</text>
      <i18nText>Are you being served?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{74b6ea25-af87-4443-90cd-b556078262de}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7204,9 +7204,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{286782c9-305f-4aaf-8d17-a40ea2e3250d}</foreignId>
      <text>Αυτό είναι με έκπτωση;</text>
      <i18nText>Is this on sale?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{f417ee77-376b-4416-9260-ce390e103f77}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7224,9 +7224,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{f040aa1d-95df-4777-b0fe-2fc5af92c83e}</foreignId>
      <text>Έχετε κάρτα μέλους;</text>
      <i18nText>Do you have a loyalty card?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{c6545d57-fc7a-4e18-9f7c-fc1d1e5590f3}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7244,9 +7244,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{0ecde442-84d8-478a-a9bd-efc85f258e84}</foreignId>
      <text>Είναι 32.47 $.</text>
      <i18nText>That is $32.47.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{8a175248-928e-4384-97c6-84404f939068}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7264,9 +7264,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{094c93df-4092-45ea-8b81-4f6bcb911b11}</foreignId>
      <text>Θα μπορούσα να έχω μια τσάντα, παρακαλώ;</text>
      <i18nText>Could I have a carrier bag, please?</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4a7fd58d-4970-4ffe-b44f-0e6c81aaae8f}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7284,9 +7284,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{965e6778-6192-4679-8774-fbf171de4fee}</foreignId>
      <text>Όταν τελειώσετε με τα ψώνια, πηγαίνετε στο ταμείο.</text>
      <i18nText>When you done with the shopping, go to the cashier.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{53f28f50-b33a-4d60-b105-1aed019f981a}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7304,9 +7304,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{697f9e86-ce9e-4c0c-9814-e482104e3ae0}</foreignId>
      <text>Εδώ είναι τα ρέστα και η απόδειξή σας.</text>
      <i18nText>Here is your change and your receipt.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{59e31c23-edc2-4cdc-836e-baea54784a2c}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7322,11 +7322,11 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{4652bbe6-2b00-4713-9940-a5cbca61ea0f}</id>
      <foreignId>{08c9959b-5863-4bc4-a07e-b588b2ebcd1b}</foreignId>
-     <text>Τα ζυμαρικά είναι στο διάδρομο 6.</text>
+     <text>Τα ζυμαρικά είναι στον διάδρομο 6.</text>
      <i18nText>Pasta is in aisle 6.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4652bbe6-2b00-4713-9940-a5cbca61ea0f}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7344,9 +7344,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{85adbe97-ba03-4d43-8087-686fc25a2621}</foreignId>
      <text>Σήμερα, όλο και περισσότερες εταιρείες προσφέρουν διανομή τροφίμων.</text>
      <i18nText>Today, more and more companies offer food delivery.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{6f06fddf-244c-44e7-8670-bb87824b3fe3}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7364,9 +7364,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{48dcc587-2051-465c-a4a5-b2de4ba4fc7b}</foreignId>
      <text>Θα πρέπει να ρωτήσετε έναν από τους βοηθούς του καταστημάτος.</text>
      <i18nText>You should ask one of the shop assistants.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4f526e70-62e1-4047-945c-960b7818e223}.ogg</soundFile>
      <type>sentence</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7384,9 +7384,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{ac0fbeca-b1c2-406a-9279-811a5156987e}</foreignId>
      <text>Τα σούπερ μάρκετ είναι πολύ βολικά. Προσφέρουν μια πολύ μεγαλύτερη ποικιλία προϊόντων από τα παραδοσιακά παντοπωλεία.</text>
      <i18nText>Supermarkets are quite convenient. They offer a much larger variety of products than traditional grocery stores.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{4330476e-2bfb-49f1-b2fc-4f6dcb68e38e}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -7404,9 +7404,9 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <foreignId>{0ba380ae-d5ff-4d86-bfa6-e17ad67990df}</foreignId>
      <text>Έχετε 14 ημέρες για να επιστρέψετε το αντικείμενο. Μπορούμε να το αντικαταστήσουμε ή να το ανταλλάξετε με κάτι άλλο. Μπορείτε επίσης να έχετε πλήρη επιστροφή χρημάτων.</text>
      <i18nText>You have 14 days to return the item. We can replace it or exchange for something else. You can also have a full refund.</i18nText>
-     <soundFile></soundFile>
+     <soundFile>{831b63e0-19a2-46b1-9509-619b56e2b3a5}.ogg</soundFile>
      <type>paragraph</type>
-     <editState>translated</editState>
+     <editState>completed</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -8276,841 +8276,841 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{51ca1322-0a4e-48de-bbfc-9489da3160ed}</id>
      <foreignId>{a5e681b7-dc07-48b5-8662-2416d4fac4b6}</foreignId>
-     <text>money</text>
+     <text>χρήματα</text>
      <i18nText>money</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2e8f5a06-3c36-4ef9-be03-1a6a0f6a7263}</id>
      <foreignId>{79a199f5-878c-4ae4-b548-566862785616}</foreignId>
-     <text>cash</text>
+     <text>μετρητά</text>
      <i18nText>cash</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3fd43214-036a-4393-8d4f-705e367069d6}</id>
      <foreignId>{251e6077-72fa-4fd2-a93d-281ddf696bf0}</foreignId>
-     <text>cheque</text>
+     <text>επιταγή</text>
      <i18nText>cheque</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{885647aa-50ed-458a-9080-d5c4b49ec125}</id>
      <foreignId>{b3a9ba1d-ee1f-4511-9628-5df53758a9ac}</foreignId>
-     <text>bank</text>
+     <text>τράπεζα</text>
      <i18nText>bank</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1f7fa28b-fb9b-4bb2-a130-3c2ecce1b29b}</id>
      <foreignId>{f63b1515-e14d-4634-95ce-f273c1eff345}</foreignId>
-     <text>account</text>
+     <text>λογαριασμός</text>
      <i18nText>account</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{924fa333-9ee3-4a7d-94c3-d3bf61bc4ed2}</id>
      <foreignId>{7ede60ae-baa2-4b16-98c2-f467df526ab7}</foreignId>
-     <text>deposit</text>
+     <text>κατάθεση</text>
      <i18nText>deposit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{487c2b65-54d8-4ec2-90b1-e03c41228eb4}</id>
      <foreignId>{415b158e-5812-48e8-b8b4-716da9c9a4a1}</foreignId>
-     <text>withdraw</text>
+     <text>κάνω ανάληψη</text>
      <i18nText>withdraw</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{468c1b24-bf71-4d37-affc-5f41a9ab29e7}</id>
      <foreignId>{90e4fe27-4dbd-4aff-89a3-ad12b31eb6b9}</foreignId>
-     <text>debit</text>
+     <text>χρέωση</text>
      <i18nText>debit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{02ea8287-3f25-4984-bcef-ce4968613765}</id>
      <foreignId>{e6fbc4e8-9e87-463d-817a-a511dba7d403}</foreignId>
-     <text>credit</text>
+     <text>πίστωση</text>
      <i18nText>credit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{22dddb65-7f2f-498c-ba2d-bfd44b5a2399}</id>
      <foreignId>{874b259b-0be9-4180-9a98-81681b5387f8}</foreignId>
-     <text>savings</text>
+     <text>οικονομίες</text>
      <i18nText>savings</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1ceedea7-7ebc-46a6-90fc-0ef2aad0dd1b}</id>
      <foreignId>{ecb7391a-bc46-4f19-9619-98baf561a3e9}</foreignId>
-     <text>current</text>
+     <text>τρεχούμενος</text>
      <i18nText>current</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{69773264-31ec-4234-b03d-48a4bb9558a6}</id>
      <foreignId>{b3a26b4f-7219-4999-9891-56b992431af6}</foreignId>
-     <text>recurring</text>
+     <text>επαναλαμβανόμενος</text>
      <i18nText>recurring</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d6da6113-0d17-4b08-ada3-ae7300e68337}</id>
      <foreignId>{c4c20156-4482-4cea-943b-2aaeab5e7efe}</foreignId>
-     <text>interest</text>
+     <text>επιτόκιο</text>
      <i18nText>interest</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1a692b47-19f5-4e7e-8c82-57170b946152}</id>
      <foreignId>{bba23296-7c9f-4064-902e-579c66ea7a19}</foreignId>
-     <text>percentage</text>
+     <text>ποσοστό</text>
      <i18nText>percentage</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1625beac-78dc-4dff-b311-05552d91fefa}</id>
      <foreignId>{2fa731b5-f8ff-4161-b42e-db1d5665070b}</foreignId>
-     <text>loan</text>
+     <text>δάνειο</text>
      <i18nText>loan</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{494b1d1e-8ef3-483d-aa72-f6f470b157e8}</id>
      <foreignId>{2b0bea63-f249-4d3d-8073-69cbd0728b04}</foreignId>
-     <text>amount</text>
+     <text>ποσό</text>
      <i18nText>amount</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c2d58858-0f30-4505-8857-68dd4492a754}</id>
      <foreignId>{73f7d9ad-d55f-4a32-8e2d-b8c84c111953}</foreignId>
-     <text>transfer</text>
+     <text>μεταβιβάζω</text>
      <i18nText>transfer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{06611813-3e92-414c-9f86-d54a7e847c7c}</id>
      <foreignId>{230a55ae-412c-441d-b34f-ccca0061c325}</foreignId>
-     <text>secure</text>
+     <text>ασφαλισμένος</text>
      <i18nText>secure</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ab72c7fb-fc91-4388-bafb-0740ec176b84}</id>
      <foreignId>{2b0a0c99-d54c-4aba-a67c-f3a9c429a246}</foreignId>
-     <text>manager</text>
+     <text>διευθυντής</text>
      <i18nText>manager</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{744edd3a-c744-4384-b0e4-5d441a5924ab}</id>
      <foreignId>{76dac0af-f540-44bd-963e-7e315db564f5}</foreignId>
-     <text>cashier</text>
+     <text>ταμίας</text>
      <i18nText>cashier</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7dbf2477-6a7d-41cf-81d7-4e5e79a0a73c}</id>
      <foreignId>{b9228a20-08a9-4053-beb3-153025e3c24d}</foreignId>
-     <text>deduction</text>
+     <text>παρακράτηση</text>
      <i18nText>deduction</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7d934d85-49d7-4c11-b032-9ac1fbb3c969}</id>
      <foreignId>{3d3cffde-84bd-4e97-bf3b-0cc7b611860f}</foreignId>
-     <text>transaction</text>
+     <text>συναλλαγή</text>
      <i18nText>transaction</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{518698db-9ae0-4e98-a28a-6b475c5085fa}</id>
      <foreignId>{8981f543-e007-4690-83cd-99e035d217f7}</foreignId>
-     <text>term</text>
+     <text>όρος</text>
      <i18nText>term</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9cecb6ec-b375-43b9-9345-fb7d8d2558a3}</id>
      <foreignId>{c72756ea-8bea-4734-8d40-8e35c969e4ca}</foreignId>
-     <text>scheme</text>
+     <text>πρόγραμμα</text>
      <i18nText>scheme</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4d9a0c18-59eb-451c-814f-c3f6b9d16eab}</id>
      <foreignId>{8a60a601-606a-48cb-8c2f-0114aeeba0f9}</foreignId>
-     <text>annum</text>
+     <text>έτος</text>
      <i18nText>annum</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9fb4dac4-2e4b-431d-b966-e9133c38ad6d}</id>
      <foreignId>{0ddc147b-ae79-42f9-8c6d-ea4d0da9cb3b}</foreignId>
-     <text>mortgage</text>
+     <text>υποθήκη</text>
      <i18nText>mortgage</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e2fc96dc-de33-4aa3-aefc-151ad90772bd}</id>
      <foreignId>{882bb7bf-1890-495c-ab60-e183e293b4dd}</foreignId>
-     <text>form</text>
+     <text>φόρμα</text>
      <i18nText>form</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{15980c1b-f31c-4ff8-b5eb-6e47e7db7428}</id>
      <foreignId>{ccece622-a24e-4bce-9bac-31534ce75823}</foreignId>
-     <text>charge</text>
+     <text>χρέωση</text>
      <i18nText>charge</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{569cff1e-f652-4c90-906a-967eba66ee6f}</id>
      <foreignId>{4908658d-65af-4077-bdf5-1bc69b9b8604}</foreignId>
-     <text>capital</text>
+     <text>κεφάλαιο</text>
      <i18nText>capital</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d1bbb288-113f-425c-9a3b-c5b2e70b23fe}</id>
      <foreignId>{96550de0-612c-4087-a2bd-b48f7c4cfdce}</foreignId>
-     <text>corporate</text>
+     <text>εταιρικός</text>
      <i18nText>corporate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{87fafe69-8e4b-42e3-865e-6436d56b7365}</id>
      <foreignId>{0da09af5-e4bd-4723-b913-d0e39eee124b}</foreignId>
-     <text>business</text>
+     <text>επιχείρηση</text>
      <i18nText>business</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{47cb27f5-0694-46f2-b0ee-ad039ff82430}</id>
      <foreignId>{4a6e8dd4-5917-4dee-af85-73af41e315d8}</foreignId>
-     <text>finance</text>
+     <text>οικονομικά</text>
      <i18nText>finance</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9a25bc05-a01d-4c75-b458-83e6728d2cb5}</id>
      <foreignId>{661057a4-a95c-4545-953b-a7b43aa1d6dd}</foreignId>
-     <text>locker</text>
+     <text>ντουλάπι</text>
      <i18nText>locker</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a4a82be1-64d3-4e12-9649-62d6c5852a1a}</id>
      <foreignId>{c3d8cf0a-6e4e-4a3e-8819-76743a7d1b0c}</foreignId>
-     <text>currency</text>
+     <text>συνάλλαγμα</text>
      <i18nText>currency</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d2464fea-e7b1-4a2e-94df-058e109e8f89}</id>
      <foreignId>{e621db05-f183-4d1d-ac34-a751e2403c1a}</foreignId>
-     <text>rupee</text>
+     <text>ρουπία</text>
      <i18nText>rupee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1d2f1c87-1d6d-4043-aa6e-478576800712}</id>
      <foreignId>{c5362768-b5b2-4973-af7c-f1565747a1ff}</foreignId>
-     <text>dollar</text>
+     <text>δολάριο</text>
      <i18nText>dollar</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{38035dea-9d4f-49c3-8cca-7bca97832525}</id>
      <foreignId>{d6b1d2c4-c9c0-409b-a65a-97ad78dd85dd}</foreignId>
-     <text>euro</text>
+     <text>ευρώ</text>
      <i18nText>euro</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7b2b7977-833e-4359-9bf9-b473e948c500}</id>
      <foreignId>{70050825-3a8f-46a2-ada0-321bbc690eb1}</foreignId>
-     <text>pound</text>
+     <text>λίρα</text>
      <i18nText>pound</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{64cfe04a-4d38-43c5-9d4f-6d1ea8aa84ba}</id>
      <foreignId>{9c51053b-3a74-4cf7-8244-053b048be61c}</foreignId>
-     <text>demand draft</text>
+     <text>απαίτηση επιταγής</text>
      <i18nText>demand draft</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6a62978c-51fb-440e-971c-4956fe6fff42}</id>
      <foreignId>{6807a68c-3ba0-49f7-a6cf-9253f99cee26}</foreignId>
-     <text>pay slip</text>
+     <text>απόδειξη πληρωμής</text>
      <i18nText>pay slip</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8c9dcf9a-b1d4-488e-b568-5fa427aa826a}</id>
      <foreignId>{0ae32780-ed28-45b4-894f-17602b646444}</foreignId>
-     <text>income tax</text>
+     <text>φόρος εισοδήματος</text>
      <i18nText>income tax</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89802b29-8754-4a0a-aa7f-1aa8d46b6149}</id>
      <foreignId>{3c366ac6-2df3-4878-b1a4-ee47bdf90b32}</foreignId>
-     <text>fund transfer</text>
+     <text>μεταφορά κεφαλαίων</text>
      <i18nText>fund transfer</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{43520dc6-4525-4d59-9440-7f22491ce577}</id>
      <foreignId>{5322849b-4cfa-428c-92bd-23aedc6ff3d1}</foreignId>
-     <text>bank statement</text>
+     <text>τραπεζική κατάθεση</text>
      <i18nText>bank statement</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6e7182a2-d428-45f6-b07d-48f4b5a2f3fb}</id>
      <foreignId>{9f098f51-d2f8-4d80-ac14-107403feb67c}</foreignId>
-     <text>real time gross settlement</text>
+     <text>διακανονισµός σε συνεχή χρόνο</text>
      <i18nText>real time gross settlement</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{312e3582-a40c-47c8-87be-0b4e721e0ab4}</id>
      <foreignId>{da202901-4e27-4bb2-899d-1dc3e218c3d8}</foreignId>
-     <text>monthly income certificate</text>
+     <text>αποδεικτικό μηνιαίου εισοδήματος</text>
      <i18nText>monthly income certificate</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b60c7a5b-0cbb-4fb9-bd26-fd1326287977}</id>
      <foreignId>{11dfa23b-0662-480e-9eb0-0659cffa7d06}</foreignId>
-     <text>housing loan</text>
+     <text>στεγαστικό δάνειο</text>
      <i18nText>housing loan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2feee43b-fe4b-4b05-9bff-beeb545305f8}</id>
      <foreignId>{7f052629-2b5e-448c-b139-d2024f2f91fa}</foreignId>
-     <text>personal loan</text>
+     <text>προσωπικό δάνειο</text>
      <i18nText>personal loan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9c8a5372-d4ae-402a-8a6e-4ce089243884}</id>
      <foreignId>{d41df197-45c5-4370-8c07-74ee905510e0}</foreignId>
-     <text>cash credit loan</text>
+     <text>δάνειο πίστωσης μετρητών</text>
      <i18nText>cash credit loan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d5010ae3-02c2-4833-bd16-1d9ec9b50a30}</id>
      <foreignId>{724d5b9b-fe0e-4c9f-ad88-7dba798780de}</foreignId>
-     <text>banker's cheque</text>
+     <text>τραπεζική επιταγή</text>
      <i18nText>banker's cheque</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8a0a1ecf-3c05-42a1-b4b2-a20d2e39abab}</id>
      <foreignId>{d95f1ffe-3cf2-4f91-a7fb-a86014e8525f}</foreignId>
-     <text>bank draft</text>
+     <text>τραπεζική επιταγή</text>
      <i18nText>bank draft</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ae938f8a-7e23-49e5-a827-fc2eb6d8ab16}</id>
      <foreignId>{60a476a6-b7cf-40cf-bfba-d22da61bd185}</foreignId>
-     <text>gift cheque</text>
+     <text>δωροεπιταγή</text>
      <i18nText>gift cheque</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{68822c93-6995-45eb-91db-397107ce9dc5}</id>
      <foreignId>{b1ad6bbd-51e8-4bd3-8286-31b9683684af}</foreignId>
-     <text>collateral security</text>
+     <text>αμοιβαία ασφάλεια</text>
      <i18nText>collateral security</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6f2300a1-7c11-4047-a3c7-7b261646a724}</id>
      <foreignId>{b63835ec-9739-44cf-a380-1ec0c066d900}</foreignId>
-     <text>internet banking</text>
+     <text>διαδικτυακές τραπεζικές συναλλαγές</text>
      <i18nText>internet banking</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a1ca55da-009d-42c6-99ed-c96903a1310e}</id>
      <foreignId>{63911e62-ddf9-4aa4-a8d3-24db384c0826}</foreignId>
-     <text>ATM counter</text>
+     <text>αυτόματο μηχάνημα ανάληψης μετρητών</text>
      <i18nText>ATM counter</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{59c0a9f8-1fba-4d2a-9512-4488c24e252f}</id>
      <foreignId>{fda10976-fbe7-418a-be1d-595e5bd6814c}</foreignId>
-     <text>Master card</text>
+     <text>Μάστερ κάρντ</text>
      <i18nText>Master card</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8f6ee768-d18d-4f10-a2c8-ee24efb26c33}</id>
      <foreignId>{2323a03a-0aae-4fcb-932a-9454e421926a}</foreignId>
-     <text>VISA debit card</text>
+     <text>χρεωστική κάρτα Βίζα</text>
      <i18nText>VISA debit card</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{93ebcde2-3fe9-4511-9c1b-ace7f8bc365f}</id>
      <foreignId>{1b0c0858-b895-4d38-b0c6-96f10cd4ef8a}</foreignId>
-     <text>account payee</text>
+     <text>δικαιούχος λογαριασμού</text>
      <i18nText>account payee</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{14fe901a-a1fb-4b42-8630-e8a952a8e107}</id>
      <foreignId>{4dc5fb82-363e-4d30-8f83-f096da50a02b}</foreignId>
-     <text>fixed deposit</text>
+     <text>προθεσμιακή κατάθεση</text>
      <i18nText>fixed deposit</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a87d9870-9d07-4db3-90f1-d5445f50898a}</id>
      <foreignId>{d171e2bc-bbb8-44c9-8529-3eb03a5c01cc}</foreignId>
-     <text>clearing house</text>
+     <text>κέντρο συναλλαγών</text>
      <i18nText>clearing house</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3bafc8d8-368a-416b-a9f2-0388430e2461}</id>
      <foreignId>{2025236d-f4c1-41ad-acf3-4157f928036c}</foreignId>
-     <text>I want to open an account.</text>
+     <text>Θέλω να ανοίξω έναν λογαριασμό.</text>
      <i18nText>I want to open an account.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e1ffd00a-e952-4691-ae07-37ccb156a97b}</id>
      <foreignId>{451473d0-40d4-43f1-a3e5-424d70163eb3}</foreignId>
-     <text>Can you please help me with opening a savings account?</text>
+     <text>Μπορείτε σας παρακαλώ να με βοηθήσετε να ανοίξω έναν λογαριασμό ταμιευτηρίου;</text>
      <i18nText>Can you please help me with opening a savings account?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3982b956-cda7-4748-a330-7e07140ac22b}</id>
      <foreignId>{8ad29dfc-dc40-45dc-8d3f-efd4cf3fabba}</foreignId>
-     <text>I would like to update my passbook.</text>
+     <text>Θα ήθελα να ενημερώσω το βιβλιάριό μου.</text>
      <i18nText>I would like to update my passbook.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{da5fec96-c2c6-424d-9b36-0b07b4e2cb6f}</id>
      <foreignId>{a48db0eb-bd6c-40c6-a1b4-72d9d913d4cc}</foreignId>
-     <text>I would like to open a joint account with my wife.</text>
+     <text>Θα ήθελα να ανοίξω έναν κοινό λογαριασμό με τη σύζυγό μου.</text>
      <i18nText>I would like to open a joint account with my wife.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a195004e-ddd4-4e3d-8705-35cac688603d}</id>
      <foreignId>{eb836c24-3b03-4649-a7bf-e60f8ee40c4f}</foreignId>
-     <text>Please sign here.</text>
+     <text>Παρακαλώ υπογράψτε εδώ.</text>
      <i18nText>Please sign here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7f38f853-dfc2-4fa2-9e49-46ae180140e7}</id>
      <foreignId>{eea76c1b-3733-4142-92de-4f32f5fc8177}</foreignId>
-     <text>How many specimen signatures do you need?</text>
+     <text>Πόσα δείγματα υπογραφών χρειάζεστε;</text>
      <i18nText>How many specimen signatures do you need?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cd4f9c04-32c1-4cb2-8071-7595b62d27e8}</id>
      <foreignId>{95c3f7ad-07ba-48c6-bacf-ca14061551e6}</foreignId>
-     <text>How much do I have to deposit to open a current account?</text>
+     <text>Πόσα πρέπει να καταθέσω για να ανοίξω έναν τρεχούμενο λογαριασμό;</text>
      <i18nText>How much do I have to deposit to open a current account?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{722779ff-56a6-44a1-8e54-6e9110c5b6b5}</id>
      <foreignId>{cd4d149b-866e-4bd8-b7d0-76a06cef66a1}</foreignId>
-     <text>I want a cheque book.</text>
+     <text>Θέλω ένα μπλοκ επιταγών.</text>
      <i18nText>I want a cheque book.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ccc5fef6-46dd-415e-9c7e-42c079a8d73d}</id>
      <foreignId>{ecb4ce53-45da-4c8b-a076-d2867b3fe62f}</foreignId>
-     <text>I want to encash this cheque.</text>
+     <text>Θέλω να εισπράξω αυτήν την επιταγή.</text>
      <i18nText>I want to encash this cheque.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1e727e9a-945f-4b0c-942b-1e2e657b0910}</id>
      <foreignId>{cc8de27a-e399-4377-867c-5de052abc222}</foreignId>
-     <text>Are you a customer of this bank?</text>
+     <text>Είστε πελάτης αυτής της τράπεζας ;</text>
      <i18nText>Are you a customer of this bank?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0fcbba9e-4c69-4f79-92dd-86062431b4d3}</id>
      <foreignId>{513aaba4-e4ce-4d99-80d0-16ac24869b4b}</foreignId>
-     <text>Would you like to deposit the cheque for clearance?</text>
+     <text>Θα θέλατε να καταθέσετε την επιταγή για εκκαθάριση;</text>
      <i18nText>Would you like to deposit the cheque for clearance?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ae8838dc-d7bd-4164-88df-28e108c49128}</id>
      <foreignId>{3c4e430f-cf97-4416-89c5-ca9f23777882}</foreignId>
-     <text>I need the money urgently.</text>
+     <text>Χρειάζομαι τα χρήματα επειγόντως.</text>
      <i18nText>I need the money urgently.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{821d89db-936b-452d-a13b-8122a6360c2c}</id>
      <foreignId>{cde12205-3f37-4859-ba2a-0f8b5b317332}</foreignId>
-     <text>Will they give me the money today?</text>
+     <text>Θα μου δώσετε τα χρήματα σήμερα;</text>
      <i18nText>Will they give me the money today?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d28f0228-e327-48e1-8ddc-84db7f5f1296}</id>
      <foreignId>{6dd45b9b-6e71-47a3-a9b9-7618973cf786}</foreignId>
-     <text>It will take about two days, since it is a local cheque.</text>
+     <text>Θα χρειαστούν περίπου δύο ημέρες, δεδομένου ότι είναι τοπική επιταγή.</text>
      <i18nText>It will take about two days, since it is a local cheque.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1eff3cec-15cd-4df3-8355-f8f5849b8784}</id>
      <foreignId>{3877cfda-28ed-4ecf-91c8-ac3c01624cd6}</foreignId>
-     <text>Which way is counter number 7?</text>
+     <text>Προς τα που είναι η θυρίδα 7;</text>
      <i18nText>Which way is counter number 7?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3f4a959b-b7a9-4c32-acce-f9c69f51e9c3}</id>
      <foreignId>{58937831-5c5f-4653-88e9-9885cfde49b7}</foreignId>
-     <text>I would like to meet the bank manager immediately.</text>
+     <text>Θα ήθελα να συναντήσω τον διευθυντή της τράπεζας αμέσως.</text>
      <i18nText>I would like to meet the bank manager immediately.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6b729dd7-ec36-43b6-9458-eb829219b0ed}</id>
      <foreignId>{eb9d7064-ed30-4c0b-998d-aed4b77c24f2}</foreignId>
-     <text>Please sign on the back of the cheque.</text>
+     <text>Παρακαλώ υπογράψτε στο πίσω μέρος της επιταγής.</text>
      <i18nText>Please sign on the back of the cheque.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{54f449d5-b98b-4194-b9f7-8c978c82e964}</id>
      <foreignId>{350c36d8-5647-4d78-9eaf-6854e61351f2}</foreignId>
-     <text>I need thousand rupees notes only.</text>
+     <text>Χρειάζομαι χίλιες ρουπίες μόνο σε χαρτονομίσματα .</text>
      <i18nText>I need thousand rupees notes only.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{58b9f8d0-c0d2-4077-bfaa-feb239c8e556}</id>
      <foreignId>{591bb58d-04f3-420d-a83d-62f2ad2dfb6f}</foreignId>
-     <text>I want to deposit $300.</text>
+     <text>Θέλω να καταθέσω 300 $.</text>
      <i18nText>I want to deposit $300.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f5cb5ce4-b2e7-4e41-bd71-2287a0b3b8e2}</id>
      <foreignId>{4fa49978-d3d9-4ba1-8350-bfbfa22d2ab5}</foreignId>
-     <text>Please fill out this application.</text>
+     <text>Παρακαλώ συμπληρώστε αυτήν την αίτηση.</text>
      <i18nText>Please fill out this application.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f78b7983-fe36-4942-aa6a-3dc5a222401e}</id>
      <foreignId>{c5edb42d-d187-4f3d-b1f5-a5255a8f825b}</foreignId>
-     <text>It is advisable that you open both a checking account as well as a savings account. To open these accounts, you will need to make a deposit of at least $50.</text>
+     <text>Καλό θα είναι να ανοίξετε και έναν τρεχούμενο λογαριασμό, καθώς και έναν λογαριασμό ταμιευτηρίου. Για να ανοίξετε τους λογαριασμούς αυτούς, θα πρέπει να κάνετε μια κατάθεση τουλάχιστον 50 $.</text>
      <i18nText>It is advisable that you open both a checking account as well as a savings account. To open these accounts, you will need to make a deposit of at least $50.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{04811ffe-2c23-4622-9b69-e72cfcd69adb}</id>
      <foreignId>{89851a94-8aa6-4f18-8579-df00c7baab7f}</foreignId>
-     <text>If you would like to order cheques, you can do that right away. All you need to do is fill out this application. Give it about five to seven business days, and you should receive them in the mail.</text>
+     <text>Αν θα θέλατε να παραγγείλετε επιταγές, μπορείτε να το κάνετε άμεσα. Το μόνο που χρειάζεται να κάνετε είναι να συμπληρώσετε αυτήν την αίτηση. Δώστε μας χρόνο περίπου πέντε έως επτά εργάσιμες ημέρες, και θα πρέπει να τις λάβετε με το ταχυδρομείο.</text>
      <i18nText>If you would like to order cheques, you can do that right away. All you need to do is fill out this application. Give it about five to seven business days, and you should receive them in the mail.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{417771aa-be97-4692-a8bb-896071454ec1}</id>
      <foreignId>{e8349074-1a2b-4d49-913b-bd30a5013809}</foreignId>
-     <text>Hi, I need some help. I wrote a cheque of $100 which bounced. I am quite sure that there is sufficient money in my account. My account number is 30773933648. Can you please look into it?</text>
+     <text>Γεια σας, χρειάζομαι λίγη βοήθεια. Εξέδωσα μια επιταγή των 100 $ που χτύπησε. Είμαι βέβαιος ότι υπάρχουν αρκετά χρήματα στον λογαριασμό μου. Ο αριθμός του λογαριασμού μου είναι 30.773.933.648. Μπορείτε σας παρακαλώ να ερευνήσετε το θέμα;</text>
      <i18nText>Hi, I need some help. I wrote a cheque of $100 which bounced. I am quite sure that there is sufficient money in my account. My account number is 30773933648. Can you please look into it?</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e616f883-1702-4264-accf-cb6f30a70d68}</id>
      <foreignId>{bb305347-44a3-4759-a8fc-13a19bc2e79c}</foreignId>
-     <text>I need to file a complaint. Yesterday while I was making an online payment using my VISA debit card, I lost my internet connection right at the end of the transaction. As a result, my transaction failed but strangely enough, the exact amount of money got debited from my account.</text>
+     <text>Πρέπει να υποβάλλω μια καταγγελία. Χθες, ενώ έκανα μια διαδικτυακή πληρωμή με τη χρεωστική κάρτα VISA μου, έχασα τη σύνδεση στο διαδίκτυο στο τέλος της συναλλαγής. Ως αποτέλεσμα, η συναλλαγή μου απέτυχε, αλλά περιέργως, το ακριβές ποσό των χρημάτων χρεώθηκε στον λογαριασμό μου.</text>
      <i18nText>I need to file a complaint. Yesterday while I was making an online payment using my VISA debit card, I lost my internet connection right at the end of the transaction. As a result, my transaction failed but strangely enough, the exact amount of money got debited from my account.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{17bc335a-1003-416c-856e-48d7d64de18a}</id>
      <foreignId>{a1172857-8c30-4276-a0ab-8dbe187e8af7}</foreignId>
-     <text>Hello. I’d like, some information on the telephone banking services offered by you. Can you tell me how the telephone banking services work? My account number is 855678900089548 at the MG Road Branch.</text>
+     <text>Γεια σας. Θα ήθελα κάποιες πληροφορίες σχετικά με τις τηλεφωνικές τραπεζικές υπηρεσίες που προσφέρονται από εσάς. Μπορείτε να μου πείτε πώς λειτουργούν οι τηλεφωνικές τραπεζικές υπηρεσίες; Ο αριθμός λογαριασμού μου είναι 855678900089548 στο Κατάστημα της οδού MG.</text>
      <i18nText>Hello. I’d like, some information on the telephone banking services offered by you. Can you tell me how the telephone banking services work? My account number is 855678900089548 at the MG Road Branch.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
