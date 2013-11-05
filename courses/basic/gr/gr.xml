@@ -9118,436 +9118,436 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{9f8800a4-c701-46f9-8164-335ce1d1927d}</id>
    <foreignId>{a6d118cb-bca6-4206-907c-d66401fbf03a}</foreignId>
-   <title>In a Zoo</title>
+   <title>Στον ζωολογικό κήπο</title>
    <phrases>
     <phrase>
      <id>{e7f0c385-798e-470f-988c-56173691d3fa}</id>
      <foreignId>{5440de29-12a3-47c5-85aa-010c88e143eb}</foreignId>
-     <text>zoo</text>
+     <text>ζωολογικός κήπος</text>
      <i18nText>zoo</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6da41937-89d2-43cd-aa64-8b9f39e462aa}</id>
      <foreignId>{a9091248-708a-409e-83a6-865e1e3e42e6}</foreignId>
-     <text>fence</text>
+     <text>φράχτης</text>
      <i18nText>fence</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{947f4454-4c1d-447c-ad8d-cb14f343330d}</id>
      <foreignId>{1899b334-78d1-4634-a07f-cee0b11ab6ec}</foreignId>
-     <text>animals</text>
+     <text>ζώα</text>
      <i18nText>animals</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dc4877d9-1b3f-4f4c-a9e9-b4dce91309a8}</id>
      <foreignId>{f0ada064-70aa-439e-be56-8bd74f59ed42}</foreignId>
-     <text>mammal</text>
+     <text>θηλαστικό</text>
      <i18nText>mammal</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a8b5386e-7a49-487e-9a0f-3adf7a1c03b6}</id>
      <foreignId>{5c318918-758a-41e4-b83d-acc8795ba0dd}</foreignId>
-     <text>reptile</text>
+     <text>ερπετό</text>
      <i18nText>reptile</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3f839d0e-6abe-435a-a4ff-6021d298a866}</id>
      <foreignId>{8eb44b2e-cd47-4468-bf97-534ae80b9d28}</foreignId>
-     <text>amphibian</text>
+     <text>αμφίβιο</text>
      <i18nText>amphibian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ab906621-dde9-4bc4-835a-750a2dbd2e17}</id>
      <foreignId>{f1e238dd-af5a-4f3b-b4e3-4a2f572e25bf}</foreignId>
-     <text>bird</text>
+     <text>πουλί</text>
      <i18nText>bird</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cd388dbf-69e4-4f01-b9be-7d7cd8310cc0}</id>
      <foreignId>{46d3d589-737a-4091-86eb-8ceb505e4333}</foreignId>
-     <text>primate</text>
+     <text>πρωτεύον θηλαστικό</text>
      <i18nText>primate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{74731600-bffb-42b2-935d-29e35c261ca9}</id>
      <foreignId>{ba44856e-72b0-44ba-9461-b8a0dd251cd0}</foreignId>
-     <text>feline</text>
+     <text>αιλουροειδής</text>
      <i18nText>feline</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{729cd7b9-33f2-47ac-a000-daf1f6712069}</id>
      <foreignId>{c17b885a-037b-4532-8e79-39dc1333611d}</foreignId>
-     <text>ungulate</text>
+     <text>οπληφόρος</text>
      <i18nText>ungulate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a6828646-4a25-4742-9987-d01593a78d29}</id>
      <foreignId>{17aff141-3fb9-4af8-be9e-ea9f227f6d17}</foreignId>
-     <text>marsupial</text>
+     <text>μαρσιποφόρο</text>
      <i18nText>marsupial</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{31966670-76f7-4dd4-acb0-ccc5e092c0ef}</id>
      <foreignId>{dbb19f88-a2c8-4c1c-87b5-b5878989fe56}</foreignId>
-     <text>monkey</text>
+     <text>πίθηκος</text>
      <i18nText>monkey</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3b7c1999-62d3-4d94-a2b0-ce1ee911ea3e}</id>
      <foreignId>{7a550622-420c-4433-868d-2d0244ab6f96}</foreignId>
-     <text>chimpanzee</text>
+     <text>χιμπατζής</text>
      <i18nText>chimpanzee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{81d7e519-aae0-4071-a7fa-07725497035d}</id>
      <foreignId>{bca22879-8cf7-41a5-9e4e-6d1ec44bc0ba}</foreignId>
-     <text>gorilla</text>
+     <text>γορίλλας</text>
      <i18nText>gorilla</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{63e8e3ca-9e49-45a1-908d-a0b9146b532b}</id>
      <foreignId>{6606fcd3-2921-47c8-99ba-99ecca1e6398}</foreignId>
-     <text>lion</text>
+     <text>λιοντάρι</text>
      <i18nText>lion</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b93a1e14-454e-47d8-b151-f15d01d7adc5}</id>
      <foreignId>{b2d9e06c-ba1f-4519-af11-b76fb1bcc30c}</foreignId>
-     <text>tiger</text>
+     <text>τίγρης</text>
      <i18nText>tiger</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d0248ba6-7c80-4491-8995-4d016d760d67}</id>
      <foreignId>{94b277bc-52d3-4fcf-bd3c-9a4630a6699f}</foreignId>
-     <text>fox</text>
+     <text>αλεπού</text>
      <i18nText>fox</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{15d06086-64e9-47ef-a4ac-f152346c76fb}</id>
      <foreignId>{ef72cb0c-26f0-4a73-b508-ba079d3b6c7d}</foreignId>
-     <text>wolf</text>
+     <text>λύκος</text>
      <i18nText>wolf</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ea36051d-107a-4b82-b20a-95d4966f96c4}</id>
      <foreignId>{1edc77eb-8d9f-4801-bda0-6cfdaa6ab2ee}</foreignId>
-     <text>jaguar</text>
+     <text>ιαγουάρος</text>
      <i18nText>jaguar</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4c984248-3b56-4081-a356-d7e27b580279}</id>
      <foreignId>{9d5f506b-2ae7-43c3-ad94-f7876e0ac3c4}</foreignId>
-     <text>hyena</text>
+     <text>ύαινα</text>
      <i18nText>hyena</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4cab3e88-a7c2-4ab8-910d-cde430791329}</id>
      <foreignId>{57ff2bf4-b62a-4735-97e0-a58cedcb85ad}</foreignId>
-     <text>margay</text>
+     <text>μάργκεϊ</text>
      <i18nText>margay</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{be608b36-4d2f-4036-b0ff-19984df3b13f}</id>
      <foreignId>{7e7f3cc8-12a7-44ba-8aca-54a0b1d33d8b}</foreignId>
-     <text>coyote</text>
+     <text>κογιότ</text>
      <i18nText>coyote</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{18c31c6c-b2ba-4ca0-89ab-a78c85719080}</id>
      <foreignId>{3d5c2d35-df8c-4830-b4d5-c873061a1541}</foreignId>
-     <text>elephant</text>
+     <text>ελέφαντας</text>
      <i18nText>elephant</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77e78b42-7a16-4e27-bc6a-f16b36e253f5}</id>
      <foreignId>{7d4749a0-ffee-4526-ae04-89c6b223449f}</foreignId>
-     <text>giraffe</text>
+     <text>καμηλοπάρδαλη</text>
      <i18nText>giraffe</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{410d6784-2525-4cb3-9958-1344594a83c1}</id>
      <foreignId>{83a75278-787c-4df6-962b-246653d47b0b}</foreignId>
-     <text>zebra</text>
+     <text>ζέβρα</text>
      <i18nText>zebra</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6d090b15-0525-4d39-93cf-b6f4d67a463d}</id>
      <foreignId>{e74a4276-6e9c-4cdd-8fe4-5063a1fbe887}</foreignId>
-     <text>kangaroo</text>
+     <text>καγκουρό</text>
      <i18nText>kangaroo</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d8a9c175-ebca-4af8-9788-328ab214e156}</id>
      <foreignId>{e89d318a-0983-4d9c-bb0f-eed15da5bebb}</foreignId>
-     <text>koala</text>
+     <text>κοάλα</text>
      <i18nText>koala</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{179bfde1-2c7a-404d-a4b1-baaa6971c33f}</id>
      <foreignId>{ec7191d0-0ded-427b-8538-5ae20f6d40c4}</foreignId>
-     <text>porcupine</text>
+     <text>ακανθόχοιρος</text>
      <i18nText>porcupine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8b37c12c-690a-40ee-8afd-9944f3af022d}</id>
      <foreignId>{16a01f56-8949-49e2-9296-de010b4c03f0}</foreignId>
-     <text>hippopotamus</text>
+     <text>ιπποπόταμος</text>
      <i18nText>hippopotamus</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{395c528b-1e9a-46a0-a14b-7cb4ff67cfb3}</id>
      <foreignId>{d7c045f8-17c1-47d2-8280-e187a52a28a9}</foreignId>
-     <text>rhinoceros</text>
+     <text>ρινόκερος</text>
      <i18nText>rhinoceros</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{28093e8b-b3b1-4d50-abf3-d4764d635fb2}</id>
      <foreignId>{94cdb782-8ed8-436c-8209-8b6d6b4ceb69}</foreignId>
-     <text>reindeer</text>
+     <text>τάρανδος</text>
      <i18nText>reindeer</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{68be0af8-af66-4f94-b74c-b79df6a32ef0}</id>
      <foreignId>{d996ce62-b258-4dca-81b7-810d8d9a77f3}</foreignId>
-     <text>skunk</text>
+     <text>κουνάβι</text>
      <i18nText>skunk</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3b3281bb-00e1-4445-b8bb-aa4f037141b1}</id>
      <foreignId>{0e0bfff4-03d7-4cb9-8e75-df01189eef74}</foreignId>
-     <text>warthog</text>
+     <text>αγριόχοιρος</text>
      <i18nText>warthog</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{90ed6787-c6c3-42e3-ae4a-05af7c5bca6d}</id>
      <foreignId>{46396123-9c24-4080-ad95-90f9f9dd608f}</foreignId>
-     <text>crocodile</text>
+     <text>κροκόδειλος</text>
      <i18nText>crocodile</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3bd4fff0-25b5-4c0b-bbc8-4bcb0ed411b2}</id>
      <foreignId>{17aaadf8-7194-4f6a-b4d7-8d299e27d4f2}</foreignId>
-     <text>alligator</text>
+     <text>αλιγάτορας</text>
      <i18nText>alligator</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{20f91dc9-da56-4f82-854f-9f0c463b59e9}</id>
      <foreignId>{061fdeba-c487-4edd-840e-3e94a1b03ca2}</foreignId>
-     <text>snake</text>
+     <text>φίδι</text>
      <i18nText>snake</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c28223b8-ff1b-4471-ae07-1365f43add57}</id>
      <foreignId>{ce59158f-43cb-45b1-b38a-65f293d667dd}</foreignId>
-     <text>anaconda</text>
+     <text>ανακόντα</text>
      <i18nText>anaconda</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{12d609b3-0095-494e-8960-37281b16ac31}</id>
      <foreignId>{11a3a16c-3169-4b7c-90c8-846d196091d0}</foreignId>
-     <text>python</text>
+     <text>πύθωνας</text>
      <i18nText>python</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d43f52a3-9758-401c-9969-75c49d00b224}</id>
      <foreignId>{c0df2d5a-f39b-4f1a-bada-1ab6e0bc2744}</foreignId>
-     <text>tortoise</text>
+     <text>χελώνα</text>
      <i18nText>tortoise</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{958052b7-6eba-4f00-bc1a-2098fcc482b0}</id>
      <foreignId>{74ddae14-4ccc-40ca-a4ab-ff9f77cdfe1d}</foreignId>
-     <text>peacock</text>
+     <text>παγόνι</text>
      <i18nText>peacock</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ed5038af-065a-4720-a489-6168fd38aab3}</id>
      <foreignId>{567271b9-6504-4585-8388-409ed3dea347}</foreignId>
-     <text>flamingo</text>
+     <text>φλαμίνγκο</text>
      <i18nText>flamingo</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c8107f19-37e6-4691-b6ee-bd1d12e3cd5c}</id>
      <foreignId>{4c418afe-c158-42ab-9c5e-62778311f72d}</foreignId>
-     <text>mongoose lemur</text>
+     <text>λεμούριος μαγκούστα</text>
      <i18nText>mongoose lemur</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{61880037-b5aa-4923-a0f2-a3fa595fcb9e}</id>
      <foreignId>{8c8f87ab-b4fc-4a95-ae8e-4cdd3c758d7c}</foreignId>
-     <text>sumatran orangutan</text>
+     <text>ουραγκουτάγκος της σουμάτρας</text>
      <i18nText>sumatran orangutan</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9559,135 +9559,136 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <type>expression</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{7e56223d-2d47-457f-8f31-df52adee366b}</id>
      <foreignId>{284ec187-1e1a-4f31-9c84-3b830d1fdebf}</foreignId>
-     <text>white-handed gibbon</text>
+     <text>λευκόχερος γίββωνας</text>
      <i18nText>white-handed gibbon</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bfce0e45-fb34-4ce0-b540-681c0d7572d1}</id>
      <foreignId>{cde0868a-b86a-4a67-9fa7-bfdf65170b8f}</foreignId>
-     <text>pygmy marmoset</text>
+     <text>πυγμαίος μάρμοζετ</text>
      <i18nText>pygmy marmoset</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c57a3aa6-990a-43a6-ad43-d148025780a5}</id>
      <foreignId>{93c0498e-d8fc-45cf-94fd-fa437cdc847c}</foreignId>
-     <text>clouded leopard</text>
+     <text>λεοπάρδαλη η νεφελώδης</text>
      <i18nText>clouded leopard</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8c95cc9e-4c3c-484f-a138-9d379d5903d9}</id>
      <foreignId>{fd0698d1-147e-461a-a6a7-067851b6278d}</foreignId>
-     <text>african cheetah</text>
+     <text>αφρικανικό τσιτά</text>
      <i18nText>african cheetah</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d4f4c27a-e286-4f82-8eb9-9b50a01dd113}</id>
      <foreignId>{a503580f-2351-41b7-b494-f11ace452324}</foreignId>
-     <text>arabian oryx</text>
+     <text>αραβικός όρυξ</text>
      <i18nText>arabian oryx</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4f8cf3b6-dbb6-4605-a549-3a3f04e95683}</id>
      <foreignId>{c8e7838a-8623-4695-84f2-170ae941ae45}</foreignId>
-     <text>red panda</text>
+     <text>κόκκινο πάντα</text>
      <i18nText>red panda</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c5a69160-ec21-4769-8589-7445640f9ab4}</id>
      <foreignId>{133bc978-f056-4504-a4cb-0c16bdba958a}</foreignId>
-     <text>sloth bear</text>
+     <text>βραδύποδα αρκούδα</text>
      <i18nText>sloth bear</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c6099ab8-6770-41af-af8f-05c31bd8aa17}</id>
      <foreignId>{563bfa13-3217-4460-87a7-53562e5fac72}</foreignId>
-     <text>mule deer</text>
+     <text>ελάφι-ημίονος</text>
      <i18nText>mule deer</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0d77c23a-5137-4c39-bd21-d7e752ab01e2}</id>
      <foreignId>{bd0d8ee1-8b55-4e48-bf5b-39e185c6d051}</foreignId>
-     <text>thomson's gazelle</text>
+     <text>γαζέλα τόμσον</text>
      <i18nText>thomson's gazelle</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{79793d3d-c10d-4f95-b2d2-dcae9aa26eb5}</id>
      <foreignId>{56ce580d-7dd8-4143-a8b1-48e0d478ed49}</foreignId>
-     <text>north american racoon</text>
+     <text>ρακούν βορείου αμερικής</text>
      <i18nText>north american racoon</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c7449c7f-fc37-461a-9532-0422dab83d4e}</id>
      <foreignId>{b27ca54a-1723-49e1-95c0-1a0650531b4f}</foreignId>
-     <text>tree pangolin</text>
+     <text>δεντρο-μυρμηγκοφάγος</text>
      <i18nText>tree pangolin</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7495247c-1b80-435d-abfc-a1965ff3e741}</id>
      <foreignId>{4d79a717-5ad4-4246-86a2-8ad1dfd5741c}</foreignId>
-     <text>blue-banded iguana</text>
+     <text>ιγκουάνα με μπλε ρίγες</text>
      <i18nText>blue-banded iguana</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5b23628d-7ec6-45c7-a513-2ede43c5f98a}</id>
      <foreignId>{bce6c33f-f1d4-4272-83af-d1000bf0bd17}</foreignId>
-     <text>komodo dragon</text>
+     <text>δράκος του κόμοντο</text>
      <i18nText>komodo dragon</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -9699,315 +9700,317 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <type>expression</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{346466e2-31fb-43d7-89c9-dee378f74b0e}</id>
      <foreignId>{12d78977-4d6c-4fdc-a2f2-4fdfd96a5872}</foreignId>
-     <text>gila lizard</text>
+     <text>σαύρα του τζίλα</text>
      <i18nText>gila lizard</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{99d9f92f-843f-4c9b-814e-eac7da7e4768}</id>
      <foreignId>{0459fd2f-d11c-495e-9e83-5f5f9129e5c4}</foreignId>
-     <text>king cobra</text>
+     <text>βασιλική κόμπρα</text>
      <i18nText>king cobra</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9344f820-ae26-48fb-b5e9-540213dadea6}</id>
      <foreignId>{b91cc464-8a4e-4e5b-ad9c-0454406ada3a}</foreignId>
-     <text>pit viper</text>
+     <text>οχιά</text>
      <i18nText>pit viper</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0784080b-0314-407a-ab61-7be58329a034}</id>
      <foreignId>{4f54bb76-5890-4b99-8f5b-c38b1d99ff1d}</foreignId>
-     <text>leaf tailed gecko</text>
+     <text>γκέκο με ουρά-φύλλο</text>
      <i18nText>leaf tailed gecko</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{22619b4e-0ba5-457d-a57b-98a7fdcdfbb3}</id>
      <foreignId>{b767cf45-6ab3-4a98-a725-91229490f171}</foreignId>
-     <text>pond turtle</text>
+     <text>χελώνα του γλυκού νερού</text>
      <i18nText>pond turtle</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{947c93ec-7df5-492a-9476-b5c24c6f5515}</id>
      <foreignId>{9089239f-bf3b-4cc0-918f-b0ad555d3e5c}</foreignId>
-     <text>california tiger salamander</text>
+     <text>σαλαμάνδρα τίγρης της καλιφόρνια</text>
      <i18nText>california tiger salamander</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{af132c5b-9b1a-4d2e-8bf8-bf216c2e4297}</id>
      <foreignId>{e7398bab-b75e-4b36-97a3-aa050b679574}</foreignId>
-     <text>poison dart frog</text>
+     <text>δηλητηριώδης βάτραχος</text>
      <i18nText>poison dart frog</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{55497021-8abe-415e-96fa-f676076a18be}</id>
      <foreignId>{d8b77bc9-7ba5-4756-9ca3-370396d18cc1}</foreignId>
-     <text>Do not go near the fence, please.</text>
+     <text>Μην πηγαίνετε κοντά στον φράχτη, παρακαλώ.</text>
      <i18nText>Do not go near the fence, please.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{37653b9d-58a1-421c-b29a-174abadb899b}</id>
      <foreignId>{4e1dd580-c2e4-4d09-8a02-a1ae18e36538}</foreignId>
-     <text>Look, there is a cute white tiger cub.</text>
+     <text>Κοιτάξτε, είναι ένα χαριτωμένο λευκό τιγράκι.</text>
      <i18nText>Look, there is a cute white tiger cub.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6f5ba68e-11b5-45d0-9391-07706be57a9c}</id>
      <foreignId>{313d8cc9-18bd-454a-9c7b-485396e2ce00}</foreignId>
-     <text>During winter, you will find lots of migratory birds by this lake.</text>
+     <text>Κατά τη διάρκεια του χειμώνα, θα βρείτε πλήθος αποδημητικών πτηνών σε αυτή τη λίμνη.</text>
      <i18nText>During winter, you will find lots of migratory birds by this lake.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{98c028e5-d3a8-47e0-882b-986cc0ac8910}</id>
      <foreignId>{120b269e-96a5-405d-9abc-030cf52846d0}</foreignId>
-     <text>Do you know where the reptile park is?</text>
+     <text>Ξέρετε πού είναι το πάρκο με τα ερπετά;</text>
      <i18nText>Do you know where the reptile park is?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{91fe2fb7-3bc9-4c47-aa5e-0f84edc26ebc}</id>
      <foreignId>{ca09974e-dd61-4ec5-9e86-8ac3b21ab892}</foreignId>
-     <text>You will find the information kiosk right beside the entrance gate.</text>
+     <text>Θα βρείτε το ενημερωτικό περίπτερο ακριβώς δίπλα από την πύλη εισόδου.</text>
      <i18nText>You will find the information kiosk right beside the entrance gate.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{033131ce-fda9-4e02-97d4-5c376000ab60}</id>
      <foreignId>{01188091-f643-43df-a966-8ec857fcb7c1}</foreignId>
-     <text>Do not forget to get the zoo map at the information kiosk.</text>
+     <text>Μην ξεχάσετε να πάρετε τον χάρτη του ζωολογικού κήπου από το περίπτερο πληροφοριών.</text>
      <i18nText>Do not forget to get the zoo map at the information kiosk.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3ae8bc68-85fd-4a52-8644-7d79532762e5}</id>
      <foreignId>{18df4512-d562-4645-bd1f-8a710e33094d}</foreignId>
-     <text>Please do not feed or tease any wild animals of the zoo.</text>
+     <text>Παρακαλώ, μην ταΐζετε και μην πειράζετε τα άγρια ​​ζώα του ζωολογικού κήπου.</text>
      <i18nText>Please do not feed or tease any wild animals of the zoo.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{562cb7a8-70f7-4dc9-affd-b48a41a13e1b}</id>
      <foreignId>{5b4b8678-62df-4246-96c7-7bcb87996618}</foreignId>
-     <text>Polythene bags, plastic bottles and food items are not allowed inside the zoo premises.</text>
+     <text>Τσάντες από πολυαιθυλένιο, πλαστικά μπουκάλια και είδη διατροφής δεν επιτρέπονται μέσα στις εγκαταστάσεις του ζωολογικού κήπου.</text>
      <i18nText>Polythene bags, plastic bottles and food items are not allowed inside the zoo premises.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{007e5d6c-e3dc-49dc-84ed-4a2519523dd1}</id>
      <foreignId>{73a23af6-172a-43d6-8bc9-7894696172ff}</foreignId>
-     <text>Do not try to enter any animal enclosure.</text>
+     <text>Μην προσπαθήσετε να μπείτε σε κανένα κλουβί ζώου.</text>
      <i18nText>Do not try to enter any animal enclosure.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2d6dbb9a-2d36-4b01-888e-ca6e22e539bf}</id>
      <foreignId>{c23c7dac-b32c-413b-8794-f7db0f13e37c}</foreignId>
-     <text>You are not allowed to carry any firearms or sharp objects inside the zoo.</text>
+     <text>Δεν επιτρέπεται η μεταφορά όπλων ή αιχμηρών αντικείμενων μέσα στον ζωολογικό κήπο.</text>
      <i18nText>You are not allowed to carry any firearms or sharp objects inside the zoo.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7a542749-22fd-42a4-b57b-2cf193e9916a}</id>
      <foreignId>{3531b2a6-e1f5-4262-8a2b-7c370da8730d}</foreignId>
-     <text>Spoonbill, an endangered species is regularly being bred here.</text>
+     <text>Ο ερωδιός, είδος απειλούμενο με εξαφάνιση, αναπαράγεται κανονικά εδώ.</text>
      <i18nText>Spoonbill, an endangered species is regularly being bred here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{11f6e6eb-9ea1-4bda-8a9a-217ee95b8613}</id>
      <foreignId>{ded1f582-3b89-4ece-ab3a-08f02c55a45f}</foreignId>
-     <text>The word 'zoo' is short for 'zoological park' or 'zoological garden'.</text>
+     <text>Η λέξη zoo είναι ένας σύντομος τύπος του «ζωολογικό πάρκο» ή «ζωολογικός κήπος».</text>
      <i18nText>The word 'zoo' is short for 'zoological park' or 'zoological garden'.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{d005642a-21fa-4c15-836b-c04f2cb5c5e4}</id>
      <foreignId>{a44eec79-84e4-49f6-90ea-bdd31e7d9863}</foreignId>
-     <text>You shall be fined if you are caught littering the zoo premises.</text>
+     <text>Θα πρέπει να σας επιβληθεί πρόστιμο, αν συλληφθείτε να πετάτε σκουπίδια στους χώρους του ζωολογικού κήπου.</text>
      <i18nText>You shall be fined if you are caught littering the zoo premises.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d4b34ef5-fb59-4af2-8ab1-0ebead503346}</id>
      <foreignId>{18b64ce8-cd52-4501-99b6-dc4b0fc2c682}</foreignId>
-     <text>Lions are known to sleep for 18-20 hours a day.</text>
+     <text>Τα λιοντάρια είναι γνωστά για το ότι κοιμούνται 18-20 ώρες την ημέρα.</text>
      <i18nText>Lions are known to sleep for 18-20 hours a day.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d22e4a09-35b1-4545-9209-af8ff07cc75c}</id>
      <foreignId>{2378e330-dd07-4ac8-ae84-1ab0d2d9fa20}</foreignId>
-     <text>The zoo remains open for visitors from nine in the morning to five in the evening.</text>
+     <text>Ο ζωολογικός κήπος παραμένει ανοιχτός για τους επισκέπτες από τις εννέα το πρωί έως τις πέντε το απόγευμα.</text>
      <i18nText>The zoo remains open for visitors from nine in the morning to five in the evening.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2ed50ab8-c10d-42bf-b79f-e1ffd85e10ab}</id>
      <foreignId>{39530feb-1de4-42d5-9f19-d7316f03dc84}</foreignId>
-     <text>Bisons are the heaviest land animals in North America.</text>
+     <text>Οι βίσονες είναι τα βαρύτερα ζώα ξηράς στη Βόρεια Αμερική.</text>
      <i18nText>Bisons are the heaviest land animals in North America.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{08c2e909-cb40-41d0-9977-ce91a064a16b}</id>
      <foreignId>{579fe786-2e19-4782-be3b-83fd3b7def29}</foreignId>
-     <text>Wheelchairs are available at the entrance at no charge on a first-come, first-served basis.</text>
+     <text>Στην είσοδο είναι διαθέσιμες αναπηρικές καρέκλες χωρίς χρέωση, εξυπηρετώντας πρώτους αυτούς που έρχονται πρώτοι.</text>
      <i18nText>Wheelchairs are available at the entrance at no charge on a first-come, first-served basis.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0f376a76-a2df-4fdb-945f-6f6f5e29a956}</id>
      <foreignId>{9c981323-3399-4e88-864b-ecf7220e3523}</foreignId>
-     <text>The Zoo is equipped with disabled-friendly restrooms.</text>
+     <text>Ο ζωολογικός κήπος είναι εξοπλισμένος με τουαλέτες φιλικές προς τα άτομα με ειδικές ανάγκες.</text>
      <i18nText>The Zoo is equipped with disabled-friendly restrooms.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{42471467-772c-44e3-b9cb-1752fd1b749c}</id>
      <foreignId>{abb346cd-a02a-42ee-856d-24a70afaaedb}</foreignId>
-     <text>The Beluga, or white whale, is one of the smallest species of whales.</text>
+     <text>Η μπελούγκα, ή αλλιώς λευκή φάλαινα, είναι ένα από τα μικρότερα είδη φαλαινών.</text>
      <i18nText>The Beluga, or white whale, is one of the smallest species of whales.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a9870db1-980e-4aeb-8c6c-1a23980478f2}</id>
      <foreignId>{7e59d165-399c-430a-8d1f-c7a1a5d6dcc3}</foreignId>
-     <text>Despite looking like a cross between a pig, an elephant and a panda, these tapirs are closely related to rhinos and horses. The tapir’s trunk is a powerful sense organ that is integral to its search for food. It serves a dual purpose as hands to guide food into the mouth and to probe unfamiliar objects.</text>
+     <text>Παρότι μοιάζουν με μια διασταύρωση ανάμεσα σε γουρούνι, ελέφαντα και πάντα, αυτοί οι τάπιροι είναι στενά συνδεδεμένοι με τους ρινόκερους και τα άλογα. Η προβοσκίδα του τάπιρου είναι ένα ισχυρό αισθητήριο όργανο το οποίο αποτελεί αναπόσπαστο τμήμα της αναζήτησης τροφής. Εξυπηρετεί διττό σκοπό, ως χέρια που οδηγούν τα τρόφιμα στο στόμα και για να εξετάζει άγνωστα αντικείμενα.</text>
      <i18nText>Despite looking like a cross between a pig, an elephant and a panda, these tapirs are closely related to rhinos and horses. The tapir’s trunk is a powerful sense organ that is integral to its search for food. It serves a dual purpose as hands to guide food into the mouth and to probe unfamiliar objects.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2f3622f7-27f9-484f-abe4-fbf898b47e65}</id>
      <foreignId>{09026d53-0ac3-425e-a7c9-2516e7969de9}</foreignId>
-     <text>This is the world's best rainforest zoo having more than 2,800 animals representing over 300 species of mammals, birds and reptiles. Here the animals roam freely in open and naturalistic habitats and are on well-balanced diets ensuring their best health and optimum weight.</text>
+     <text>Αυτός είναι ο καλύτερος τροπικός ζωολογικός κήπος στον κόσμο με περισσότερα από 2.800 ζώα που αντιπροσωπεύουν πάνω από 300 είδη θηλαστικών, πτηνών και ερπετών. Εδώ τα ζώα περιφέρονται ελεύθερα σε ανοικτούς και φυσικούς οικότοπους και είναι σε ισορροπημένη διατροφή που εξασφαλίζει την καλή υγεία τους και το βέλτιστο βάρος.</text>
      <i18nText>This is the world's best rainforest zoo having more than 2,800 animals representing over 300 species of mammals, birds and reptiles. Here the animals roam freely in open and naturalistic habitats and are on well-balanced diets ensuring their best health and optimum weight.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d5512559-00a8-42f0-abd7-01cbca68467b}</id>
      <foreignId>{333e14fa-1ce0-489f-a13b-22e9d1022419}</foreignId>
-     <text>The Zoo remains closed to the visitors on every Thursday except if it is a national holiday. In that case, it remains open to the visitors on that day and the weekly closure is observed on the next available working day.</text>
+     <text>Ο ζωολογικός κήπος παραμένει κλειστός για τους επισκέπτες κάθε Πέμπτη, εκτός αν είναι εθνική αργία. Σε αυτή την περίπτωση, παραμένει ανοιχτός για τους επισκέπτες εκείνη την ημέρα και το εβδομαδιαίο κλείσιμο γίνεται την επόμενη εργάσιμη ημέρα.</text>
      <i18nText>The Zoo remains closed to the visitors on every Thursday except if it is a national holiday. In that case, it remains open to the visitors on that day and the weekly closure is observed on the next available working day.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{11061531-0106-4099-9e6c-d4ecda2d3431}</id>
      <foreignId>{50bc2639-dad6-4872-984e-13cf0a4091e3}</foreignId>
-     <text>These American alligators once faced extinction. The United States Fish and Wildlife Service placed them on the endangered species list in 1967. Thanks to the legal protection, they were taken off the list just 20 years later.</text>
+     <text>Οι αμερικανικοί αλιγάτορες βρέθηκαν αντιμέτωποι κάποτε με εξαφάνιση. Η Υπηρεσία Αλιείας και Άγριας Ζωής των Ηνωμένων Πολιτειών τους έβαλε στη λίστα των απειλούμενων με εξαφάνιση ειδών το 1967. Χάρη στη νομική προστασία, βγήκαν από τον κατάλογο μόλις 20 χρόνια αργότερα.</text>
      <i18nText>These American alligators once faced extinction. The United States Fish and Wildlife Service placed them on the endangered species list in 1967. Thanks to the legal protection, they were taken off the list just 20 years later.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f09aa799-a559-4049-9cf3-678b359dc9b4}</id>
      <foreignId>{6c7d16b8-5cbd-4bad-9cfd-8a88ea4d97c3}</foreignId>
-     <text>About 90% of the park are paved pathways which are accessible by wheelchair. There are also ramps and allocated viewing areas for disabled guests to view various exhibits and shows at the zoo.</text>
+     <text>Περίπου το 90% του πάρκου είναι πλακόστρωτα μονοπάτια τα οποία είναι προσβάσιμα σε αναπηρικά αμαξίδια. Υπάρχουν επίσης ράμπες και περιοχές διαμορφωμένες για θέαση από άτομα με ειδικές ανάγκες, ώστε να βλέπουν τα διάφορα εκθέματα και τις παραστάσεις στο ζωολογικό κήπο.</text>
      <i18nText>About 90% of the park are paved pathways which are accessible by wheelchair. There are also ramps and allocated viewing areas for disabled guests to view various exhibits and shows at the zoo.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
