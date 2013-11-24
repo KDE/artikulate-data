@@ -9,7 +9,7 @@
   <unit>
    <id>{4911d9c6-9b38-4bae-8e7d-fce7585e0256}</id>
    <foreignId>{6ab7d60e-b885-4833-97ff-27cb1ca2f543}</foreignId>
-   <title>Numbers</title>
+   <title>Αριθμοί</title>
    <phrases>
     <phrase>
      <id>{2c6249a9-d64a-4872-887c-a44fd8c732d0}</id>
@@ -503,7 +503,7 @@
   <unit>
    <id>{3182efdc-23e3-4f8d-933b-3315d1fd33fb}</id>
    <foreignId>{b0b42671-d5d1-4d9c-9f2d-ef329e1dd6db}</foreignId>
-   <title>Tourism</title>
+   <title>Τουρισμός</title>
    <phrases>
     <phrase>
      <id>{cd306215-851f-42ce-87d1-29a5c45a330a}</id>
@@ -1180,7 +1180,7 @@
   <unit>
    <id>{676727ac-4fe9-4adb-b755-eb0d62b8b0b6}</id>
    <foreignId>{53705f4a-2a84-476d-90bf-aea23d6df487}</foreignId>
-   <title>Family</title>
+   <title>Οικογένεια</title>
    <phrases>
     <phrase>
      <id>{811c3c78-d5d0-4c91-9b7e-243f8f86e6fa}</id>
@@ -1898,7 +1898,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{8d0cbb97-f869-4738-b383-cb8bfecf18b5}</id>
    <foreignId>{05f5f1d8-4c0a-4d61-b05a-b08b467ea94e}</foreignId>
-   <title>Sport</title>
+   <title>Αθλητισμός</title>
    <phrases>
     <phrase>
      <id>{06712d09-93f5-4fc7-a22e-fe5711a4e4b0}</id>
@@ -2613,7 +2613,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{73790b28-e359-4c40-aecc-0d13a734f8f4}</id>
    <foreignId>{b390b3da-121f-470b-a342-f51ee654dc9e}</foreignId>
-   <title>Countries and cultures</title>
+   <title>Χώρες και πολιτισμοί</title>
    <phrases>
     <phrase>
      <id>{10a7d21f-e779-420d-b727-2580fbb0bdb8}</id>
@@ -3250,7 +3250,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{c2129716-d794-4770-a6fd-2d4d7ffca3dd}</id>
    <foreignId>{6bef0e3f-7bc3-4b48-ac77-eeb86c04a458}</foreignId>
-   <title>Weather</title>
+   <title>Καιρός</title>
    <phrases>
     <phrase>
      <id>{28ea4b66-003f-4ee0-86a7-15cf8c341a63}</id>
@@ -3937,7 +3937,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{c99fee8d-d23e-48c2-81d0-4db9083a98b4}</id>
    <foreignId>{0acb0757-ee0a-4393-bef3-ea0fea4aef58}</foreignId>
-   <title>Time and Dates</title>
+   <title>Ημερομηνίες και ώρα</title>
    <phrases>
     <phrase>
      <id>{c8eb7b5f-03a9-4ead-86af-b67822d6c7e2}</id>
@@ -4716,7 +4716,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{44ad898e-41ce-4aa7-b6e8-23f262403d9a}</id>
    <foreignId>{e0a2aee8-e11d-4b05-9a3b-ebf094d47482}</foreignId>
-   <title>Clothing</title>
+   <title>Ένδυση</title>
    <phrases>
     <phrase>
      <id>{66933365-91bd-46e1-853b-be8b98b502c7}</id>
@@ -5393,7 +5393,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{bc18c2ca-7a3d-4866-aec9-1ac6e3fd70e3}</id>
    <foreignId>{0a545fff-8256-4da5-9b20-2c3a4dea5d1c}</foreignId>
-   <title>Entertainment</title>
+   <title>Διασκέδαση</title>
    <phrases>
     <phrase>
      <id>{4f422bf5-5af7-4d5b-aa62-292d88b482f7}</id>
@@ -6060,7 +6060,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{3c004838-e47e-47c2-97ce-14e9bf55fa1e}</id>
    <foreignId>{014eff78-2a10-4cbe-92fb-2dc27f35c150}</foreignId>
-   <title>At the doctor's</title>
+   <title>Στον γιατρό</title>
    <phrases>
     <phrase>
      <id>{f702fe24-8eee-4916-9514-66b230bf013f}</id>
@@ -6737,7 +6737,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{cfcbcc0c-2203-4d57-8f92-c33e87708d23}</id>
    <foreignId>{3d02d417-b10a-496e-85cd-4c635e7ca324}</foreignId>
-   <title>At the supermarket</title>
+   <title>Στο σούπερ μάρκετ</title>
    <phrases>
     <phrase>
      <id>{5e0315e6-ee1d-40d0-b8de-3d84cf49a6ed}</id>
@@ -7424,7 +7424,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{7d7c1407-3996-49cf-9d8c-3c60c2180bf3}</id>
    <foreignId>{e68bdc28-8b9c-4387-9825-047ed77e7258}</foreignId>
-   <title>In a Restaurant</title>
+   <title>Στο εστιατόριο</title>
    <phrases>
     <phrase>
      <id>{3a7d7905-77fe-47cd-944b-bc9bff0eb614}</id>
@@ -8271,7 +8271,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{443af2e7-c2f0-4337-8bef-9a4843dd6cea}</id>
    <foreignId>{2568ad3b-910f-4d12-89fd-2f8238da1419}</foreignId>
-   <title>At a Bank</title>
+   <title>Στην τράπεζα</title>
    <phrases>
     <phrase>
      <id>{51ca1322-0a4e-48de-bbfc-9489da3160ed}</id>
