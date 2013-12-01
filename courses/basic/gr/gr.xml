@@ -12649,456 +12649,456 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{7d6a5d21-f65e-4102-8b27-3fa97827aa05}</id>
    <foreignId>{59ea8b40-f531-4ffc-a73d-7677dcf6693a}</foreignId>
-   <title>At a Party</title>
+   <title>Σε πάρτι</title>
    <phrases>
     <phrase>
      <id>{2b5d14ec-a315-4b62-bd19-60e62098796c}</id>
      <foreignId>{512d4b47-95ee-4b9d-813d-204b6f60b61a}</foreignId>
-     <text>talk</text>
+     <text>ομιλία</text>
      <i18nText>talk</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{09c6be8d-ed5c-49ee-b902-bcb67a4f3999}</id>
      <foreignId>{65934ab4-4411-46c8-8e43-fae733280db4}</foreignId>
-     <text>chat</text>
+     <text>κουβέντα</text>
      <i18nText>chat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0ec86b4b-9905-44ee-8da5-e96e7058f05f}</id>
      <foreignId>{3ef417c6-ac7d-46de-a58f-80c6099e45a1}</foreignId>
-     <text>socialize</text>
+     <text>κοινωνικοποίηση</text>
      <i18nText>socialize</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c585b376-efc5-441e-9c72-e722b4b9c5e4}</id>
      <foreignId>{b29ff080-bd90-403d-a4a7-f5b263b7ec34}</foreignId>
-     <text>meet</text>
+     <text>συναντώ</text>
      <i18nText>meet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77e6d31d-92b2-4ce6-bd3e-97fd2c3d1dc4}</id>
      <foreignId>{77f6de88-7c7f-4c26-861a-eea57a6281a0}</foreignId>
-     <text>greet</text>
+     <text>χαιρετώ</text>
      <i18nText>greet</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8749857a-80ef-4f86-9415-874c355f2891}</id>
      <foreignId>{0fb3056f-737c-41f0-a3ef-2d39e5ad59b9}</foreignId>
-     <text>welcome</text>
+     <text>καλώς ήλθατε</text>
      <i18nText>welcome</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ee5036b8-5009-456f-8e2a-4081f7eb9aa1}</id>
      <foreignId>{4fc1e04f-79d4-4f9c-8f77-623ed565175f}</foreignId>
-     <text>congratulate</text>
+     <text>συγχαίρω</text>
      <i18nText>congratulate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7a08ee50-ae05-4bdc-a51a-24ba2f97029c}</id>
      <foreignId>{857464e1-df5e-4fef-9737-f783097e0f34}</foreignId>
-     <text>family</text>
+     <text>οικογένεια</text>
      <i18nText>family</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4d926e28-f758-479d-89ff-01234018ff3c}</id>
      <foreignId>{6535b402-2cb6-4b28-bc5e-b3c7c0ce487e}</foreignId>
-     <text>friend</text>
+     <text>φίλος</text>
      <i18nText>friend</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eb451e20-d20d-47f2-9475-e72e559293c0}</id>
      <foreignId>{5e7b0287-0e95-473a-8264-665bff89fafa}</foreignId>
-     <text>relative</text>
+     <text>συγγενής</text>
      <i18nText>relative</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b9b37245-f204-4039-a657-f6e132da61a1}</id>
      <foreignId>{ebb0c706-8798-463a-9ac2-ddfd237192b8}</foreignId>
-     <text>acquaintance</text>
+     <text>γνωριμία</text>
      <i18nText>acquaintance</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b7ea74d7-34f6-418c-b552-cf624aa9f646}</id>
      <foreignId>{1b9a1392-697a-4097-8392-a2de48612bfc}</foreignId>
-     <text>me</text>
+     <text>εγώ</text>
      <i18nText>me</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2a6966c7-d500-404f-a992-b58c738008ec}</id>
      <foreignId>{535f44a0-2fbe-456b-8d8d-9a247225d20b}</foreignId>
-     <text>my</text>
+     <text>μου</text>
      <i18nText>my</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{36c5b7f9-5d6f-4dd0-bc5d-d8611e760a08}</id>
      <foreignId>{ae7385aa-fc33-41e6-a5c1-40f0cf37309b}</foreignId>
-     <text>he</text>
+     <text>αυτός</text>
      <i18nText>he</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c988c560-5074-4d5f-8a7b-85d5149e7014}</id>
      <foreignId>{63323223-e8d0-475d-8a41-cf71f22ea82c}</foreignId>
-     <text>her</text>
+     <text>της</text>
      <i18nText>her</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f043bfa0-12b2-49dc-bdf5-1ec0d88e43f1}</id>
      <foreignId>{77a02977-f74b-4048-a844-21416473a50d}</foreignId>
-     <text>they</text>
+     <text>αυτοί</text>
      <i18nText>they</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{06c7bbe1-561d-42b2-b71a-aba586a7a94a}</id>
      <foreignId>{89e8724a-ac71-4127-8e1a-257b71e4b06e}</foreignId>
-     <text>their</text>
+     <text>τους</text>
      <i18nText>their</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3809bdb5-33ce-4663-864e-b00b9532fefb}</id>
      <foreignId>{7a4b370a-ec24-48d7-9b5f-901e1a7fcb5a}</foreignId>
-     <text>we</text>
+     <text>εμείς</text>
      <i18nText>we</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{316f9266-e6ea-419d-b925-888eac14fe87}</id>
      <foreignId>{56c0b6ce-b408-4b81-b510-125ffd1f8c30}</foreignId>
-     <text>our</text>
+     <text>μας</text>
      <i18nText>our</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{592f2adc-301f-4a8c-8057-0f685d3e6b7c}</id>
      <foreignId>{5522e00c-3549-46a1-828a-c3d080f9491f}</foreignId>
-     <text>laugh</text>
+     <text>γελάω</text>
      <i18nText>laugh</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{47554f0b-0bf5-4e20-8c3e-88f1abda1996}</id>
      <foreignId>{0b5a31f2-4419-45ab-87eb-31e523a75f49}</foreignId>
-     <text>smile</text>
+     <text>χαμογελάω</text>
      <i18nText>smile</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b81b1d94-339e-4c06-b138-66eafa2edab0}</id>
      <foreignId>{f225d858-c600-489d-9b60-db3fb4440e5f}</foreignId>
-     <text>Hello</text>
+     <text>Γεια</text>
      <i18nText>Hello</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{757fde3e-7569-44a4-b85d-6717bd6aa744}</id>
      <foreignId>{a0ee16ed-19bd-4ac6-a079-f4e351366efe}</foreignId>
-     <text>sorry</text>
+     <text>συγγνώμη</text>
      <i18nText>sorry</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2fdb5df3-b4f2-47ae-b2b1-b13b99da42e7}</id>
      <foreignId>{d291e8ce-d3cf-4bb9-ad07-abf2064fd540}</foreignId>
-     <text>please</text>
+     <text>παρακαλώ</text>
      <i18nText>please</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{81555b06-284f-4ea0-9ac7-7f2c098749d8}</id>
      <foreignId>{32a5034b-1be4-4bce-9b55-d07016fdcc73}</foreignId>
-     <text>marriage</text>
+     <text>γάμος</text>
      <i18nText>marriage</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{46def9ec-ee2e-44e2-9c50-82712f185a74}</id>
      <foreignId>{a11e3b50-bf65-4698-9563-85646a035366}</foreignId>
-     <text>anniversary</text>
+     <text>επέτειος</text>
      <i18nText>anniversary</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1bd62c17-6598-4c9c-ac91-49c01a5b428b}</id>
      <foreignId>{a3dc0d21-74cc-4868-9a86-e7e1b89e18ef}</foreignId>
-     <text>birthday</text>
+     <text>γενέθλια</text>
      <i18nText>birthday</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{af95fc72-fb9d-4f46-a294-55ee2968c7da}</id>
      <foreignId>{c3901217-c499-4565-9ad8-9976be004035}</foreignId>
-     <text>graduation</text>
+     <text>αποφοίτηση</text>
      <i18nText>graduation</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{368a5533-05fe-428f-b095-b229fa3d5db6}</id>
      <foreignId>{0ae5091f-e31e-465a-811b-562b06f097a9}</foreignId>
-     <text>farewell</text>
+     <text>αποχαιρετιστήριο</text>
      <i18nText>farewell</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{79af4751-d388-4476-8ba2-22d93fd6f835}</id>
      <foreignId>{c0cd9026-2991-48d5-bd46-9b02f076aa5f}</foreignId>
-     <text>tea</text>
+     <text>τσάι</text>
      <i18nText>tea</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4eb84f13-87b8-4176-bd34-f9963c0a4e5f}</id>
      <foreignId>{78b73e46-1b7d-4bf3-9f43-0deaf1e7d33a}</foreignId>
-     <text>coffee</text>
+     <text>καφές</text>
      <i18nText>coffee</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fbab2e13-c987-467d-a022-96acf3f34087}</id>
      <foreignId>{b580a41a-27d3-41cf-b150-8cef635248e0}</foreignId>
-     <text>wine</text>
+     <text>κρασί</text>
      <i18nText>wine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d10f0de7-cac8-4e16-996d-2e905e7d688c}</id>
      <foreignId>{7a912314-4e29-44f7-9de6-f2c323814d0b}</foreignId>
-     <text>champagne</text>
+     <text>σαμπάνια</text>
      <i18nText>champagne</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{60442b21-de0f-4b6f-91fc-bcf6b673f139}</id>
      <foreignId>{f7a7e4f2-f357-445b-9251-8029bc8114f7}</foreignId>
-     <text>dinner</text>
+     <text>δείπνο</text>
      <i18nText>dinner</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4fda3e54-d074-4340-86b6-fbb599b300da}</id>
      <foreignId>{46f21a09-8947-4daa-b798-213cc266b992}</foreignId>
-     <text>formal</text>
+     <text>επίσημος</text>
      <i18nText>formal</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{98616608-1e0c-4b49-a904-d4fa6bd2d378}</id>
      <foreignId>{995891bd-fd61-44fb-a838-c919f7a08f14}</foreignId>
-     <text>casual</text>
+     <text>ανεπίσημος</text>
      <i18nText>casual</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d78172b5-943e-441d-b1bc-60e9600f8090}</id>
      <foreignId>{a8adf2fc-6385-4085-a543-9d577dbab7a5}</foreignId>
-     <text>thank you</text>
+     <text>ευχαριστώ</text>
      <i18nText>thank you</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{491c7294-e7af-471d-898f-7cab3760470b}</id>
      <foreignId>{06533764-025c-493c-af0d-c0a6ecdd2bee}</foreignId>
-     <text>excuse me</text>
+     <text>με συγχωρείτε</text>
      <i18nText>excuse me</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eefa76b5-de8e-4488-a9be-43a476fc5391}</id>
      <foreignId>{50b36fd6-4a79-4a48-8618-ccada807f78a}</foreignId>
-     <text>my pleasure</text>
+     <text>χαρά μου</text>
      <i18nText>my pleasure</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{51c36d38-f7d1-417a-a396-ae314d4be2ba}</id>
      <foreignId>{bab4a87e-cae8-4080-a017-a2533d37895a}</foreignId>
-     <text>It's okay</text>
+     <text>Δεν υπάρχει πρόβλημα.</text>
      <i18nText>It's okay</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{69d18c4f-5f4c-41e3-ace7-205da9bf2d86}</id>
      <foreignId>{6ecdec95-65a1-410c-81b9-27ed6ac3168c}</foreignId>
-     <text>same here</text>
+     <text>τα ίδια</text>
      <i18nText>same here</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3fad15d1-6f9a-499a-ab65-fe6395e75b6f}</id>
      <foreignId>{ebe1f899-cbeb-4de5-ba23-8bb8322afc77}</foreignId>
-     <text>ladies and gentlemen</text>
+     <text>κυρίες και κύριοι</text>
      <i18nText>ladies and gentlemen</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{51fa9df7-2fd0-4e8d-806e-75734d7412a1}</id>
      <foreignId>{e8327fc2-a787-4e76-9c81-c91a4f8803f1}</foreignId>
-     <text>good evening</text>
+     <text>καλό βράδυ</text>
      <i18nText>good evening</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a4ab7db1-be6c-46ad-9e55-34af3ca9e61f}</id>
      <foreignId>{4b5dd1be-5998-437a-a583-4757a3ea9892}</foreignId>
-     <text>good night</text>
+     <text>καληνύχτα</text>
      <i18nText>good night</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9afa380f-54b8-461d-a864-c04226e070cc}</id>
      <foreignId>{31fc202a-f54e-4f0e-85d1-57f20e0f2e77}</foreignId>
-     <text>small talk</text>
+     <text>ψιλοκουβέντα</text>
      <i18nText>small talk</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13110,35 +13110,36 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <type>expression</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{d715bd6a-eb1e-4f99-aea8-6db69a78886c}</id>
      <foreignId>{9a6dc3e3-86c7-41c2-ac8c-6505b72758d9}</foreignId>
-     <text>cocktail party</text>
+     <text>κοκτέιλ πάρτι</text>
      <i18nText>cocktail party</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2a372c75-b44e-4c42-8028-7bf96ac6c7cb}</id>
      <foreignId>{3324a508-82e4-439b-8b8f-8855acac6da2}</foreignId>
-     <text>surprise party</text>
+     <text>πάρτι-έκπληξη</text>
      <i18nText>surprise party</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{141808b9-510f-412a-a9b4-d90632049cec}</id>
      <foreignId>{64c4d159-8d14-43ed-acbe-7976b752cdbd}</foreignId>
-     <text>wedding reception</text>
+     <text>γαμήλια δεξίωση</text>
      <i18nText>wedding reception</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13150,175 +13151,176 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <type>expression</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{1ce408be-2323-4fe9-a4c6-9d05c8ecbc7b}</id>
      <foreignId>{7e2d442b-8651-4b27-b6fe-078037dca343}</foreignId>
-     <text>fundraising ceremony</text>
+     <text>τελετή συγκέντρωσης χρημάτων</text>
      <i18nText>fundraising ceremony</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d468ede5-e6ac-4186-9ac1-9b424730d5ca}</id>
      <foreignId>{7fba0ec3-d24f-422a-94a3-ae28821b9cb8}</foreignId>
-     <text>masquerade ball</text>
+     <text>χορός μεταμφιεσμένων</text>
      <i18nText>masquerade ball</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{dc6ec824-5e0f-496f-9977-e405a33fa2c3}</id>
      <foreignId>{88ea2fdb-d331-4e75-9f14-d2d6a4f17ff2}</foreignId>
-     <text>looks gorgeous</text>
+     <text>δείχνει πανέμορφος</text>
      <i18nText>looks gorgeous</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1934b196-61ff-4d0c-b609-464e349a938d}</id>
      <foreignId>{f38da704-55e9-4c8b-b78b-6fa61c3f365f}</foreignId>
-     <text>cute little girl</text>
+     <text>μικρό χαριτωμένο κορίτσι</text>
      <i18nText>cute little girl</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e0ac746e-764d-4409-8bea-798526493985}</id>
      <foreignId>{ee9a8ce1-1332-4a83-a33b-d86d7b0b2d5a}</foreignId>
-     <text>housewarming party</text>
+     <text>πάρτι εγκατάστασης σε νέο σπίτι</text>
      <i18nText>housewarming party</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7d5b7140-0450-4c1c-bb10-17def5337deb}</id>
      <foreignId>{193738a4-abde-4e49-942f-b5e211dd20e5}</foreignId>
-     <text>dance party</text>
+     <text>πάρτι για χορό</text>
      <i18nText>dance party</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cd189210-4594-40d9-b300-b39b6f76065e}</id>
      <foreignId>{ea291596-4a58-411f-9c1a-26ec21d11390}</foreignId>
-     <text>Would you like to go to the prom with me?</text>
+     <text>Θα ήθελες να έρθεις στον χορό μαζί μου;</text>
      <i18nText>Would you like to go to the prom with me?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{35e41310-8c45-412b-8a7b-60613dd945b5}</id>
      <foreignId>{93662b29-0d33-4bd1-b74c-c5054276af37}</foreignId>
-     <text>Carol looks stunning in that purple gown.</text>
+     <text>Η Carol είναι εντυπωσιακή με αυτό το μωβ φόρεμα.</text>
      <i18nText>Carol looks stunning in that purple gown.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6789128c-9a5d-4fde-a09d-46dacce23782}</id>
      <foreignId>{931a6942-d230-45f2-a812-c9bf19c9a0df}</foreignId>
-     <text>We will be throwing our engagement party soon.</text>
+     <text>Σύντομα θα κάνουμε το πάρτι των αρραβώνων μας.</text>
      <i18nText>We will be throwing our engagement party soon.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{10f5f91d-c9fc-4514-8aca-64c9bbb6b853}</id>
      <foreignId>{48533d15-bb64-4999-9773-1fdb4a0b0e5b}</foreignId>
-     <text>I'd like you to come to the beach party on Sunday.</text>
+     <text>Θα ήθελα να έρθεις στο μπιτς πάρτι την Κυριακή.</text>
      <i18nText>I'd like you to come to the beach party on Sunday.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a2037c21-67dc-4fd7-83fb-5444cca0911e}</id>
      <foreignId>{bc0aaf07-5758-41a2-9a0a-0ca8642c7d7b}</foreignId>
-     <text>I have been waiting for the graduation party for a very long time.</text>
+     <text>Περιμένω το πάρτι αποφοίτησης εδώ και πολύ καιρό.</text>
      <i18nText>I have been waiting for the graduation party for a very long time.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e71a7f3b-a5ba-4c46-820d-366935f2f6ac}</id>
      <foreignId>{b9dc533d-9ec6-45dd-aba1-4fce94afdbf5}</foreignId>
-     <text>We are meeting after five years.</text>
+     <text>Συναντιόμαστε ύστερα από πέντε χρόνια.</text>
      <i18nText>We are meeting after five years.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{edc2dcba-24ce-498b-aac8-894d1eb855d8}</id>
      <foreignId>{3625945b-c191-47a4-b6d2-5d86aebc312b}</foreignId>
-     <text>Phil's parents have arranged for a small post wedding reception party for the newly wed couple.</text>
+     <text>Οι γονείς του Phil έχουν κανονίσει μια μικρή γαμήλια δεξίωση για το νιόπαντρο ζευγάρι.</text>
      <i18nText>Phil's parents have arranged for a small post wedding reception party for the newly wed couple.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{465d954d-307b-40ef-bfeb-1c6924e1eb77}</id>
      <foreignId>{fd4044e8-c45c-4c65-8323-5faa78bbcd4a}</foreignId>
-     <text>Susan invited me over to her place for a sleepover party.</text>
+     <text>Η Susan με κάλεσε στο σπίτι της για ένα πάρτι με διανυκτέρευση εκεί.</text>
      <i18nText>Susan invited me over to her place for a sleepover party.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2435c886-956f-40ec-8cec-4a6d0762259c}</id>
      <foreignId>{1cd9aa1c-cb48-43e0-910c-16993c5746b2}</foreignId>
-     <text>Marie has been planning for her marriage party since ages.</text>
+     <text>Η Marie σχεδιάζει το πάρτι του γάμου της χρόνια τώρα.</text>
      <i18nText>Marie has been planning for her marriage party since ages.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b4a0e888-43f7-4893-8710-f7dd26f6ef36}</id>
      <foreignId>{7f8094c9-abff-41f6-83af-e04dac2b2a7b}</foreignId>
-     <text>I think I met you before.</text>
+     <text>Νομίζω ότι σε έχω συναντήσει παλιότερα.</text>
      <i18nText>I think I met you before.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9f45e9b1-bffc-40b0-baf1-0235feac8a66}</id>
      <foreignId>{8494f4b0-75f4-46f5-94d7-702cf59cc7aa}</foreignId>
-     <text>Lily and George make a beautiful couple.</text>
+     <text>Η Lily και ο George είναι όμορφο ζευγάρι.</text>
      <i18nText>Lily and George make a beautiful couple.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -13330,85 +13332,86 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <type>sentence</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{791b6747-4c70-4363-b423-ea8cc431d092}</id>
      <foreignId>{0e7c7d2d-7794-4dfb-bf42-d3572a6ab342}</foreignId>
-     <text>Thank you for coming.</text>
+     <text>Ευχαριστώ που ήρθες.</text>
      <i18nText>Thank you for coming.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{24fd221a-f5da-4252-ac3e-4d803e96314b}</id>
      <foreignId>{4ae40d80-e434-4f55-8cbf-427d60128c19}</foreignId>
-     <text>It is a pleasure having you here.</text>
+     <text>Είναι χαρά μας να σε έχουμε εδώ.</text>
      <i18nText>It is a pleasure having you here.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3d8454ce-f791-477f-bb39-f60325202fde}</id>
      <foreignId>{4f22b469-c9ea-4477-86b8-4f93c5da4a9d}</foreignId>
-     <text>A LAN party is a party that involves multi-player computer games and uses a Local Area Network.</text>
+     <text>Λαν πάρτι είναι ένα πάρτι που έχει να κάνει με παιχνίδια για πολλούς παίκτες στον υπλογιστή και χρησιμοποιεί ένα τοπικό δίκτυο.</text>
      <i18nText>A LAN party is a party that involves multi-player computer games and uses a Local Area Network.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b8018932-eeca-4721-998d-0abc81c7a6cd}</id>
      <foreignId>{686bd5b1-cba1-4d49-a4cf-f2c5262aa8cc}</foreignId>
-     <text>I had a great time.</text>
+     <text>Πέρασα πολύ καλά.</text>
      <i18nText>I had a great time.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3a7716ac-5d9d-4cc5-8549-c19f5891c78b}</id>
      <foreignId>{e183f7c3-11a6-4439-abfc-5d02bcf87466}</foreignId>
-     <text>Susan hosted the party really well. All her guests looked very contended and happy.</text>
+     <text>Η Susan ήταν πολύ καλή οικοδέσποινα του πάρτι. Όλοι οι καλεσμένοι της φαίνονταν πολύ ικανοποιημένοι και χαρούμενοι.</text>
      <i18nText>Susan hosted the party really well. All her guests looked very contended and happy.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{292d9a21-fe79-4833-8b4a-bbb02d76b224}</id>
      <foreignId>{32538363-00c6-4ab8-99f8-0fba91cd9d40}</foreignId>
-     <text>Next month my parents will be completing their twenty-five years of marriage. I have been planning on throwing them a nice surprise party for a long time.</text>
+     <text>Τον επόμενο μήνα οι γονείς μου θα συμπλήρωσουν είκοσι πέντε χρόνια γάμου. Εδώ και πολύ καιρό σχεδιάζω να τους κάνω ένα ωραίο πάρτι-έκπληξη.</text>
      <i18nText>Next month my parents will be completing their twenty-five years of marriage. I have been planning on throwing them a nice surprise party for a long time.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a058a09e-d617-4e66-9a10-56c0d9a7bbec}</id>
      <foreignId>{1514a00a-85c2-475e-afc9-9ff8501c0af6}</foreignId>
-     <text>Richard and his family are throwing a housewarming party next Saturday. They have invited all the residents of the building. We will surely have fun.</text>
+     <text>Ο Richard και η οικογένειά του θα κάνουν ένα πάρτι για την εγκατάστασή τους στο νέο σπίτι το επόμενο Σάββατο. Έχουν καλέσει όλους τους κατοίκους της πολυκατοικίας. Θα διασκεδάσουμε σίγουρα.</text>
      <i18nText>Richard and his family are throwing a housewarming party next Saturday. They have invited all the residents of the building. We will surely have fun.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ecd009e9-56ee-4270-8e60-c746d0daba3c}</id>
      <foreignId>{ba78a846-fd7c-496c-aa65-948f85dffd6e}</foreignId>
-     <text>We have organized a fundraising party tomorrow. I will be hosting it. There will be dinner followed by speeches by the board members.</text>
+     <text>Έχουμε οργανώσει ένα πάρτι για συγκέντρωση χρημάτων αύριο. Θα είμαι ο οικοδεσπότης. Θα έχει δείπνο και ακολούθως ομιλίες από τα μέλη του συμβουλίου.</text>
      <i18nText>We have organized a fundraising party tomorrow. I will be hosting it. There will be dinner followed by speeches by the board members.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
