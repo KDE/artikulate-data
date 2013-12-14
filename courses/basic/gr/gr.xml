@@ -236,26 +236,26 @@
   <unit>
    <id>{c5aa6178-206f-4f24-a10e-845055150a01}</id>
    <foreignId>{28d8f25f-ff78-4a79-9aff-1411de513d65}</foreignId>
-   <title>Alphabet</title>
+   <title>Αλφάβητο</title>
    <phrases>
     <phrase>
      <id>{9f0b967b-dedb-46c9-af20-16595b9a56d1}</id>
      <foreignId>{060b6311-c362-451d-a245-68887c63bd6f}</foreignId>
-     <text>A</text>
+     <text>Α</text>
      <i18nText>A</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f474839d-280c-47c6-b571-5fa49df6790c}</id>
      <foreignId>{1181aba9-cc44-4715-97f1-f17b6764252b}</foreignId>
-     <text>B</text>
+     <text>Β</text>
      <i18nText>B</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -267,6 +267,7 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{6010b0a4-094d-4107-9479-d8d88e2b96f4}</id>
@@ -277,15 +278,16 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{99e5690b-9f07-4a35-9451-c9f263127df5}</id>
      <foreignId>{6e23fb32-f5f2-48e6-bb9e-74e42d8baa16}</foreignId>
-     <text>E</text>
+     <text>Ε</text>
      <i18nText>E</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -297,6 +299,7 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{3f62569a-7403-48df-85c7-b21759d1b9b1}</id>
@@ -307,25 +310,26 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{d77ac87d-0dcf-49a0-a313-0dcbec5a0091}</id>
      <foreignId>{38e72852-abd0-4fb3-b4de-302f34dd9024}</foreignId>
-     <text>H</text>
+     <text>Η</text>
      <i18nText>H</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2ce3d422-ce00-4700-a0f6-4f26b956f992}</id>
      <foreignId>{fc484cb7-e3aa-4217-a837-c334712d5781}</foreignId>
-     <text>I</text>
+     <text>Ι</text>
      <i18nText>I</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -337,15 +341,16 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{e931529b-9aca-4b1e-ac96-54abc20bb73a}</id>
      <foreignId>{69099f11-b5ac-444c-b4c3-16d00303eb8e}</foreignId>
-     <text>K</text>
+     <text>Κ</text>
      <i18nText>K</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -357,35 +362,36 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{c9108f9f-52e6-427a-a2bd-7914633dcb79}</id>
      <foreignId>{fe194e00-9c71-4512-8b71-59fe924b7ae2}</foreignId>
-     <text>M</text>
+     <text>Μ</text>
      <i18nText>M</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2d51d900-f353-42ed-977d-a6febef77820}</id>
      <foreignId>{48e2f464-731b-4532-ad13-1f72ce3a3c4a}</foreignId>
-     <text>N</text>
+     <text>Ν</text>
      <i18nText>N</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f498aa04-5675-4921-a1ed-8c36f67c0bf2}</id>
      <foreignId>{c93bbcdf-4e9d-410b-a7e6-c6fdfe10fedf}</foreignId>
-     <text>O</text>
+     <text>Ο</text>
      <i18nText>O</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -397,6 +403,7 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{cd07f831-13db-4553-a0e9-05186372bad3}</id>
@@ -407,6 +414,7 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{d1ad0604-3d27-415a-9fb6-61fbfe8de521}</id>
@@ -417,6 +425,7 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{9ae3de29-1846-4a1f-b6d7-642cf3259738}</id>
@@ -427,15 +436,16 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{16ab12ab-97ea-4ef8-8580-1f70fa11ce9f}</id>
      <foreignId>{f272f8b4-db77-45af-b041-7f612a3582d2}</foreignId>
-     <text>T</text>
+     <text>Τ</text>
      <i18nText>T</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -447,6 +457,7 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{b5e76a95-834b-4ebd-812d-22a343125635}</id>
@@ -457,6 +468,7 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{3a2c9867-d15f-4b6f-b143-974e8fedc2fc}</id>
@@ -467,6 +479,7 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{d048c37e-fbe2-4232-ba67-0dbfc37aaab5}</id>
@@ -477,6 +490,7 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{084db244-a167-4eb9-b444-88d636f7aa92}</id>
@@ -487,15 +501,133 @@
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{aef3458d-fe7f-4e64-be87-a7c2a6536104}</id>
      <foreignId>{dc13efc0-6f60-4a97-9c01-f35a18ef4cd8}</foreignId>
-     <text>Z</text>
+     <text>Ζ</text>
      <i18nText>Z</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{97323011-1534-4554-aff4-be72282536df}</id>
+     <text>Γ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{76e1f1d3-7b15-45bd-8bfe-460a0b9233a8}</id>
+     <text>Δ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{916813cd-4d4b-4a3a-8bc8-90878672c331}</id>
+     <text>Θ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{c2b37cff-f1be-401d-8532-25a20733d1e0}</id>
+     <text>Λ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{e13f9d16-cd8b-4343-880f-cc74f1dca932}</id>
+     <text>Ξ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{8599ca7b-6925-408f-b5ca-b8503766a690}</id>
+     <text>Π</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{069ecb0d-0268-4529-af53-110b2d0f2afa}</id>
+     <text>Ρ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{b5494d0c-f9f4-4f9e-a9ec-b7edcf15816b}</id>
+     <text>Σ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{a2a282a4-3e84-4fa9-8269-965f8df51ede}</id>
+     <text>Υ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2ae52146-7451-4ed2-86a6-c19a02271e56}</id>
+     <text>Φ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{ab7d7cf7-2d3b-4b84-8e2a-ca2d38bc1015}</id>
+     <text>Χ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{374aa24c-c5ef-404a-87ef-ff92e6141557}</id>
+     <text>Ψ</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
+     <phonemes/>
+    </phrase>
+    <phrase>
+     <id>{2dc5190f-66ed-473d-a6cc-539c979da212}</id>
+     <text>Ω</text>
+     <i18nText></i18nText>
+     <soundFile></soundFile>
+     <type>word</type>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
