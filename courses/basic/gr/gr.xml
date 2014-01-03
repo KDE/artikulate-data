@@ -11984,96 +11984,96 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{457bf4b7-86a1-416f-880d-5c9e1e346245}</id>
    <foreignId>{9656d693-2cbc-4ff5-be52-c3749effd144}</foreignId>
-   <title>Pets</title>
+   <title>Κατοικίδια</title>
    <phrases>
     <phrase>
      <id>{f4371d40-b2a4-4496-81a7-f59a24646837}</id>
      <foreignId>{7a3093e2-4668-499b-924f-0c3745c09fe7}</foreignId>
-     <text>dog</text>
+     <text>σκύλος</text>
      <i18nText>dog</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f410ad92-1558-4a22-a7f4-c0a055fb8b76}</id>
      <foreignId>{86ff747e-01c1-4909-b17c-5c46c77a01dd}</foreignId>
-     <text>puppies</text>
+     <text>κουτάβια</text>
      <i18nText>puppies</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ea20b80c-2be9-407c-8ae4-250d17d0bef1}</id>
      <foreignId>{53151b94-a46a-41fc-95c5-52d7e43c77c0}</foreignId>
-     <text>cat</text>
+     <text>γάτα</text>
      <i18nText>cat</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{bd618d75-a298-4f0d-b418-98f1b39e583e}</id>
      <foreignId>{0cad0354-c55c-401a-8258-aa013f4b9c82}</foreignId>
-     <text>kitten</text>
+     <text>γατάκι</text>
      <i18nText>kitten</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{23cbd5ee-a54d-4e8f-9d02-1cd723edd508}</id>
      <foreignId>{ea69888e-8df5-41ff-90b9-91e5013dcc17}</foreignId>
-     <text>companion</text>
+     <text>συντροφιά</text>
      <i18nText>companion</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4d7cee58-965d-4ff3-ba72-94d73c68532a}</id>
      <foreignId>{668cf3d0-0f1e-4c58-803a-84b0ff37c591}</foreignId>
-     <text>adopt</text>
+     <text>υιοθετώ</text>
      <i18nText>adopt</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{793760c9-d611-407f-99a6-13c527336142}</id>
      <foreignId>{4f585b0b-37cf-470b-93e1-6390046b170a}</foreignId>
-     <text>rodent</text>
+     <text>τρωκτικό</text>
      <i18nText>rodent</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5a0d7ab8-065a-44e1-af34-9c0a2f7483f4}</id>
      <foreignId>{b0a79606-2b25-4f28-b108-1e10a36deeae}</foreignId>
-     <text>avian</text>
+     <text>ορνιθοειδές</text>
      <i18nText>avian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{29653b91-011a-4351-b6cf-dd051da5a290}</id>
      <foreignId>{cc8d0351-9da6-42bf-905a-0bdae81a11cd}</foreignId>
-     <text>aquarium</text>
+     <text>ενυδρείο</text>
      <i18nText>aquarium</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12085,255 +12085,257 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{fd3116d7-7acf-4ce7-88ac-bbbc428fcafb}</id>
      <foreignId>{903eeb14-e304-4d12-813c-15fdf094577c}</foreignId>
-     <text>hamsters</text>
+     <text>χάμστερ</text>
      <i18nText>hamsters</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b0ad2ef6-8c1d-49db-a759-751754586f44}</id>
      <foreignId>{9e9dcfd9-7813-4218-8e69-8ebee12f8e7c}</foreignId>
-     <text>chinchillas</text>
+     <text>τσιντσιλά</text>
      <i18nText>chinchillas</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6e2c5bfb-72c0-41a2-b19e-2652b6374bd2}</id>
      <foreignId>{f5b7ad46-7538-41cc-8883-ade2eec16d10}</foreignId>
-     <text>canaries</text>
+     <text>καναρίνια</text>
      <i18nText>canaries</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{31b58c53-0086-4850-8531-332683dcf544}</id>
      <foreignId>{dc48bd8b-4fb3-46d4-a9a3-01a1f9900fef}</foreignId>
-     <text>parakeets</text>
+     <text>παπαγάλοι</text>
      <i18nText>parakeets</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{785989d6-a6cb-47e6-b4e0-2ef3a1c98394}</id>
      <foreignId>{26948fe8-620e-4939-a6aa-a5424402b2fb}</foreignId>
-     <text>parrots</text>
+     <text>παπαγάλοι</text>
      <i18nText>parrots</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c5c5192c-b0e9-4488-aa34-67b09fdd0b0a}</id>
      <foreignId>{4e47aef6-6039-4b4f-b5a9-91c02b0974a9}</foreignId>
-     <text>turtles</text>
+     <text>χελώνες</text>
      <i18nText>turtles</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a1af94cb-8470-472e-b3aa-2cabec94ef49}</id>
      <foreignId>{441de0b2-8b23-4e12-be2a-fa3dc8794892}</foreignId>
-     <text>lizards</text>
+     <text>σαύρες</text>
      <i18nText>lizards</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b736db4a-5a8c-4657-8edb-a7b96dcc977d}</id>
      <foreignId>{79f2a834-46e2-42f2-87e4-29f090f228ae}</foreignId>
-     <text>snakes</text>
+     <text>φίδια</text>
      <i18nText>snakes</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0c4a34bb-8002-4de9-82c8-c38847fd173c}</id>
      <foreignId>{b3a54aad-eab9-4d7f-8dcb-02c0c1e38150}</foreignId>
-     <text>fish</text>
+     <text>ψάρι</text>
      <i18nText>fish</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8c2a12b5-8609-420c-a5b6-b813fd9776c1}</id>
      <foreignId>{f1bfd3b2-83cb-4226-b2ca-f28c637a982a}</foreignId>
-     <text>frogs</text>
+     <text>βάτραχοι</text>
      <i18nText>frogs</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6bf68dbb-25e8-41ba-ab11-b6732ec3e90f}</id>
      <foreignId>{cf842fb6-ffdd-4dd5-b22f-568ca65be521}</foreignId>
-     <text>arthropod</text>
+     <text>αρθρόποδο</text>
      <i18nText>arthropod</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1898fea0-daf6-4c14-8c52-d5f031c28fbf}</id>
      <foreignId>{cd535508-6e00-46b7-aa4e-b29a9b10d7fb}</foreignId>
-     <text>tarantula</text>
+     <text>ταραντούλα</text>
      <i18nText>tarantula</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{67db7e68-b03d-482d-84db-ccd786b354d4}</id>
      <foreignId>{9dbffee5-819f-4083-a15c-f2d8adae421f}</foreignId>
-     <text>equine</text>
+     <text>αλογίσιος</text>
      <i18nText>equine</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{90107e05-cfcd-4af7-b4a8-898e7e18e710}</id>
      <foreignId>{33232aa8-8358-4c14-8cc3-83ec1f41ad9d}</foreignId>
-     <text>rabbit</text>
+     <text>κουνέλι</text>
      <i18nText>rabbit</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{da252893-c04f-4825-b9d7-ba81fed2e87d}</id>
      <foreignId>{ce99d8aa-3e3e-4134-a040-874976b10ff1}</foreignId>
-     <text>millipede</text>
+     <text>σαρανταποδαρούσα</text>
      <i18nText>millipede</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0ce99e7b-9411-4221-ab08-fdbe884b9934}</id>
      <foreignId>{a248e424-159f-4af3-b3e9-3bfc16ef3731}</foreignId>
-     <text>friend</text>
+     <text>φίλος</text>
      <i18nText>friend</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{22811961-e406-40ce-bac6-58f4c7d68ec6}</id>
      <foreignId>{b3ffb883-1a07-4e1c-b429-18196c85f4f6}</foreignId>
-     <text>love</text>
+     <text>αγάπη</text>
      <i18nText>love</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a4f357b8-3bdc-4152-9dce-a00d691ba66f}</id>
      <foreignId>{3712b08f-e33a-4ff2-83df-a80958c21585}</foreignId>
-     <text>care</text>
+     <text>φροντίζω</text>
      <i18nText>care</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2f8f1973-edb7-47fc-bcce-833a024f54f7}</id>
      <foreignId>{6e088abb-9e85-42c3-9478-63a2223dbbb4}</foreignId>
-     <text>protection</text>
+     <text>προστασία</text>
      <i18nText>protection</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{706fae86-b949-46aa-ad17-e700eee3c804}</id>
      <foreignId>{3c097561-fab5-4b74-898d-bf5a363efb53}</foreignId>
-     <text>shelter</text>
+     <text>καταφύγιο</text>
      <i18nText>shelter</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f5779198-a27d-4fc9-a77a-444a98315d86}</id>
      <foreignId>{417f49ff-cb38-4f89-9fe1-cc2833963605}</foreignId>
-     <text>house</text>
+     <text>σπίτι</text>
      <i18nText>house</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c56723d7-5874-4acd-84f7-77ee890359a4}</id>
      <foreignId>{c025082b-e2a0-4dda-af8a-d3600504242e}</foreignId>
-     <text>veterinarian</text>
+     <text>κτηνίατρος</text>
      <i18nText>veterinarian</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e63f4afb-3e5b-4eb1-9a95-8627f28aa3c6}</id>
      <foreignId>{85fff692-40bc-45f0-af04-7eb95ee9b8bd}</foreignId>
-     <text>disease</text>
+     <text>ασθένεια</text>
      <i18nText>disease</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c88761d4-44c5-4f0e-b256-eb929729d64b}</id>
      <foreignId>{bdc6a92c-593d-49ef-95c0-e849e3d905ab}</foreignId>
-     <text>fur</text>
+     <text>γούνα</text>
      <i18nText>fur</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{22b75ad2-ddbd-4329-ad45-77e631ae3c57}</id>
      <foreignId>{1f57915f-aa60-4aff-97fb-40fc59012722}</foreignId>
-     <text>tail</text>
+     <text>ουρά</text>
      <i18nText>tail</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12345,45 +12347,46 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <type>word</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{97bdd2fd-78a7-40f9-95f8-8aa088a88c2c}</id>
      <foreignId>{fc6dde39-5dde-4138-a4e9-88c041fbab1c}</foreignId>
-     <text>bulldog</text>
+     <text>μπουλντόγκ</text>
      <i18nText>bulldog</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{49ffa453-7df2-4962-a16c-dba8135de955}</id>
      <foreignId>{d346e26b-0bce-4fee-9f41-b6a26e214831}</foreignId>
-     <text>aquatic pet</text>
+     <text>υδρόβιο κατοικίδιο</text>
      <i18nText>aquatic pet</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f1908e49-9195-4694-8d2d-44e8c99140c5}</id>
      <foreignId>{0adec509-3070-4b8d-a0b9-6502df04a462}</foreignId>
-     <text>tropical fish</text>
+     <text>τροπικό ψάρι</text>
      <i18nText>tropical fish</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2ba98389-ee3b-4e5c-a3e2-f2f7cd8069e0}</id>
      <foreignId>{d5373204-d88a-4c86-93d3-cb8fa9b317ec}</foreignId>
-     <text>hermit crab</text>
+     <text>παγούρι</text>
      <i18nText>hermit crab</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12395,25 +12398,26 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <type>expression</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{fa629b22-0cd8-4385-87f2-befca7c6cc78}</id>
      <foreignId>{4ad454e4-809e-4bdb-afa5-e95a311bb2e4}</foreignId>
-     <text>regular health checkups</text>
+     <text>τακτικές ιατρικές εξετάσεις</text>
      <i18nText>regular health checkups</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{072f61ee-f91b-4cc0-a50b-e3868d9c7163}</id>
      <foreignId>{d1f7c570-1c43-4593-9653-cdb82b9a2700}</foreignId>
-     <text>guinea pig</text>
+     <text>ινδικό χοιρίδιο</text>
      <i18nText>guinea pig</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12425,35 +12429,36 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <type>expression</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{9365d5d9-d9a2-4a44-931d-0736a16c57eb}</id>
      <foreignId>{d70782c3-017c-46ce-b47b-be35b15ddc04}</foreignId>
-     <text>breeds of dogs</text>
+     <text>ράτσες σκύλων</text>
      <i18nText>breeds of dogs</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b13abefc-13db-40cc-9924-9a93790a5054}</id>
      <foreignId>{bf4d95bc-e8b4-4ed3-b40a-8b198a5b990a}</foreignId>
-     <text>german shepherd</text>
+     <text>γερμανικός ποιμενικός</text>
      <i18nText>german shepherd</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b5294c88-36e9-4e24-ace3-b2a135c08fc3}</id>
      <foreignId>{0573566f-847d-4fa6-b902-4ad7255ed910}</foreignId>
-     <text>black russian terrier</text>
+     <text>ρωσικό μαύρο τεριέ</text>
      <i18nText>black russian terrier</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -12465,315 +12470,316 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
      <type>expression</type>
      <editState>unknown</editState>
      <phonemes/>
+     <excluded>true</excluded>
     </phrase>
     <phrase>
      <id>{5e40d79d-eb24-4083-9847-fbcfa83a733a}</id>
      <foreignId>{64172dca-d896-4386-9052-9396086ba053}</foreignId>
-     <text>cute little puppies</text>
+     <text>χαριτωμένα μικρά κουτάβια</text>
      <i18nText>cute little puppies</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a445438d-1eeb-4edb-a6bd-5231444bfc0b}</id>
      <foreignId>{1f41fb5f-9eed-4fdb-988f-855c1da3dc99}</foreignId>
-     <text>go for a walk</text>
+     <text>πάω βόλτα</text>
      <i18nText>go for a walk</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2b32cd24-6e95-4ad2-8507-f59e504975c3}</id>
      <foreignId>{ded7fc23-1b01-4959-87e2-c09b3ca13936}</foreignId>
-     <text>feed the cats</text>
+     <text>ταΐζω τις γάτες</text>
      <i18nText>feed the cats</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e8e3da80-ca82-459a-8d4b-6d844c0f802a}</id>
      <foreignId>{c7fec4c3-ea65-4b83-842e-da1f60454999}</foreignId>
-     <text>fight loneliness</text>
+     <text>καταπολεμώ τη μοναξιά</text>
      <i18nText>fight loneliness</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{859f7f30-57c4-40ef-81c8-cf36f4846e47}</id>
      <foreignId>{f4eb5447-f44a-426f-817b-ceb1a4791caa}</foreignId>
-     <text>furry friend</text>
+     <text>χνουδωτός φίλος</text>
      <i18nText>furry friend</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3c06cd6f-50bb-40af-b50f-20132ebec2ce}</id>
      <foreignId>{07c49776-3c63-488f-a81e-bf60d97e6fab}</foreignId>
-     <text>feel happy</text>
+     <text>είμαι χαρούμενος</text>
      <i18nText>feel happy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{156703fc-44db-41f1-baca-20ba85eb5353}</id>
      <foreignId>{50ccf5fe-ccb9-46a7-8e34-b537699c2aff}</foreignId>
-     <text>yellow labrador retriever</text>
+     <text>κίτρινο λαμπραντόρ επαναφοράς</text>
      <i18nText>yellow labrador retriever</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{64da1ed4-872f-4cb1-9d1e-c8053a0b9f14}</id>
      <foreignId>{2b22ff78-53a0-4cc9-994e-b6f8f002edc8}</foreignId>
-     <text>play with</text>
+     <text>παίζω με</text>
      <i18nText>play with</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{db9d9d3e-ed40-4ca4-9d39-59a283694768}</id>
      <foreignId>{6d123bc2-b303-47f0-89e7-7f6ea9189833}</foreignId>
-     <text>talk to</text>
+     <text>μιλάω</text>
      <i18nText>talk to</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d21c6051-bfe9-4af6-b5ec-5eb9ba9c5b83}</id>
      <foreignId>{12c47607-c183-4ba6-8c76-881710d22df9}</foreignId>
-     <text>family member</text>
+     <text>οικογενειακό μέλος</text>
      <i18nText>family member</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{79c90233-7220-41b0-94b5-972630308729}</id>
      <foreignId>{b75a3b38-04b8-456d-8d36-fb47b5864495}</foreignId>
-     <text>Dog is man's best friend.</text>
+     <text>Ο σκύλος είναι ο καλύτερος φίλος του ανθρώπου.</text>
      <i18nText>Dog is man's best friend.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8b99f954-0e9c-4246-87c0-a59d774134db}</id>
      <foreignId>{7aee94c4-2835-4aa1-aefb-d5349fad3f9d}</foreignId>
-     <text>I need to take my dog for a walk now.</text>
+     <text>Θα πρέπει να πάω το σκυλί μου μια βόλτα τώρα.</text>
      <i18nText>I need to take my dog for a walk now.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9633cfda-c878-48e1-aa6c-3de2f7fcc146}</id>
      <foreignId>{5daa81cb-bce9-497e-9fff-d396ba6929e1}</foreignId>
-     <text>Are pets allowed inside the supermarket?</text>
+     <text>Επιτρέπονται τα κατοικίδια μέσα στο σούπερ μάρκετ;</text>
      <i18nText>Are pets allowed inside the supermarket?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{d9d33b18-b098-4d00-9a78-34559ec4623e}</id>
      <foreignId>{1a9660cc-3b37-4a1f-959d-3868ee88bc02}</foreignId>
-     <text>I take my cats to the vet every month.</text>
+     <text>Πάω τις γάτες μου στον κτηνίατρο κάθε μήνα.</text>
      <i18nText>I take my cats to the vet every month.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{aa35164c-29b0-4f7b-870f-928f2852cae0}</id>
      <foreignId>{e4b8b08b-4fc6-4b03-b1b6-201185c59ef2}</foreignId>
-     <text>Where can I get dog food?</text>
+     <text>Πού μπορώ να βρω τροφή για σκύλους;</text>
      <i18nText>Where can I get dog food?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0dcd9ebb-b9c8-4693-bda6-b0a1ff4bd42e}</id>
      <foreignId>{e493c854-e0ee-419b-8a77-e733c06d245b}</foreignId>
-     <text>My son recently got a pet iguana which he named Jamie.</text>
+     <text>Ο γιος μου πήρε πρόσφατα ένα κατοικίδιο ζώο ιγκουάνα που ονόμασε Τζέιμι.</text>
      <i18nText>My son recently got a pet iguana which he named Jamie.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b47bd2a7-920b-483d-a0c7-cdf7dc3c6b12}</id>
      <foreignId>{f3b7e4b2-8dea-47ee-8870-cfbbb7733fd3}</foreignId>
-     <text>My dog won the local pet talent show this week.</text>
+     <text>Το σκυλί μου κέρδισε το τοπικό σόου ταλέντων για κατοικίδια ζώα αυτή την εβδομάδα.</text>
      <i18nText>My dog won the local pet talent show this week.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6a5ef6d7-447a-43d6-8d21-106389eed43e}</id>
      <foreignId>{768ae8f5-35d9-4130-a663-c691d26d9835}</foreignId>
-     <text>Does that gorgeous golden retriever belong to you?</text>
+     <text>Εκείνος ο υπέροχος γκόλντεν ριτρίβερ είναι δικός σας;</text>
      <i18nText>Does that gorgeous golden retriever belong to you?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6c80a90d-58ba-4501-adae-adc3f6b0e4fb}</id>
      <foreignId>{3a7d156c-af72-4230-b1aa-612e662b20b5}</foreignId>
-     <text>Pugs are one of the most popular pet dogs.</text>
+     <text>Τα παγκ είναι από τα πιο δημοφιλή κατοικίδια σκυλιά.</text>
      <i18nText>Pugs are one of the most popular pet dogs.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{166f1bca-1ab4-4a52-8f40-b92a9b93be59}</id>
      <foreignId>{6a035e5b-84e7-4ed3-a913-d84ece8b1e32}</foreignId>
-     <text>Its my cat's first birthday today.</text>
+     <text>Σήμερα είναι τα πρώτα γενέθλια της γάτας μου.</text>
      <i18nText>Its my cat's first birthday today.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{025c9563-dad6-430e-ab78-3b50b062699c}</id>
      <foreignId>{9a70d618-bf90-4a85-8100-1f15e7f92193}</foreignId>
-     <text>My dog is five years and eight months old.</text>
+     <text>Ο σκύλος μου είναι πέντε ετών και οκτώ μηνών.</text>
      <i18nText>My dog is five years and eight months old.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0727a6d3-d7f6-4804-9fd4-02099856acdb}</id>
      <foreignId>{4514bf50-9547-4465-a746-1bf984f77d0e}</foreignId>
-     <text>My grandmother gifted me these two lovely parakeets on my birthday this year.</text>
+     <text>Η γιαγιά μου μού χάρισε αυτούς τους δυο υπέροχους παπαγάλους στα γενέθλιά μου φέτος.</text>
      <i18nText>My grandmother gifted me these two lovely parakeets on my birthday this year.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3eda5747-3771-4ca4-8933-3d8089c1a043}</id>
      <foreignId>{5aab3f35-390e-415d-bc08-6f10e90740e7}</foreignId>
-     <text>Our neighbour's hamster went missing last night.</text>
+     <text>Το χάμστερ του γείτονά μας χάθηκε χθες το βράδυ.</text>
      <i18nText>Our neighbour's hamster went missing last night.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{47e60cac-ca79-4aca-a905-f4d6ed2f22b4}</id>
      <foreignId>{6e47e36d-96e0-4297-8a26-ec28b48a26b5}</foreignId>
-     <text>Mrs Wilson had a tough time dealing with her dog's sudden death.</text>
+     <text>Η κυρία Ουίλσον πέρασε μια δύσκολη περίοδο με τον αιφνίδιο θάνατο του σκύλου της.</text>
      <i18nText>Mrs Wilson had a tough time dealing with her dog's sudden death.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1cf65d04-b069-4cf8-8fb6-0a73ba0c3440}</id>
      <foreignId>{44c01401-d2d1-4bcb-9b96-2a87f1f007a7}</foreignId>
-     <text>I always wanted to have pet rabbits.</text>
+     <text>Πάντα ήθελα να έχω κουνέλια συντροφιάς.</text>
      <i18nText>I always wanted to have pet rabbits.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fa3c628a-a226-4bfe-bebe-7824cb9b3935}</id>
      <foreignId>{2f0ebad7-0e8e-4645-a917-6e9efab78fa3}</foreignId>
-     <text>My mother takes care of the kittens while I'm at work.</text>
+     <text>Η μητέρα μου φροντίζει τα γατάκια ενώ είμαι στη δουλειά.</text>
      <i18nText>My mother takes care of the kittens while I'm at work.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{6e488a40-fdab-4b0d-b486-e4fd86ac1ef1}</id>
      <foreignId>{caf316c1-0c78-49fb-b9d9-e0cf25c5350f}</foreignId>
-     <text>After a lot of pestering, my father got me a cat last summer. She is absolutely adorable and her furry coat is as white as snow. So, we named her Snowball.</text>
+     <text>Μετά από πολλά παρακάλια, ο πατέρας μου μού πήρε μια γάτα το περασμένο καλοκαίρι. Είναι εντελώς αξιολάτρευτη και το γούνινο τρίχωμά της είναι άσπρο σαν το χιόνι. Έτσι, την ονομάσαμε Χιονόμπαλα.</text>
      <i18nText>After a lot of pestering, my father got me a cat last summer. She is absolutely adorable and her furry coat is as white as snow. So, we named her Snowball.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f1d1a7ed-57e7-407d-9b6e-bb5682c47980}</id>
      <foreignId>{283e769b-7b7c-47e4-9798-17c73f066a4a}</foreignId>
-     <text>When I was six years old, I had a little dog named Jimmy. He was a very faithful dog to our family. He used to take care of me and my sister when we were little. My mother always trusted Jimmy because he never used to leave us alone or allow anyone to touch us while she was away.</text>
+     <text>Όταν ήμουν έξι χρονών, είχα ένα μικρό σκυλί που το έλεγαν Τζίμι. Ήταν ένα σκυλί πολύ πιστό στην οικογένειά μας. Συνήθιζε να προσέχει εμένα και την αδελφή μου, όταν ήμασταν μικροί. Η μητέρα μου εμπιστευόταν πάντα τον Τζίμι γιατί ποτέ δεν μας άφηνε μόνους και δεν επέτρεπε σε κανέναν να μας αγγίζει, όταν ήταν μακριά.</text>
      <i18nText>When I was six years old, I had a little dog named Jimmy. He was a very faithful dog to our family. He used to take care of me and my sister when we were little. My mother always trusted Jimmy because he never used to leave us alone or allow anyone to touch us while she was away.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{abd37748-f62f-45b7-bf85-60353aebeede}</id>
      <foreignId>{644769f9-1851-4d5e-bf11-e211f2ac1918}</foreignId>
-     <text>Pets have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past. Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.</text>
+     <text>Τα κατοικίδια ζώα έχουν την ικανότητα να ενεργοποιούν αυτούς που τα φροντίζουν, ιδίως τους ηλικιωμένους, προσφέροντας στους ανθρώπους κάτι για να φροντίσουν, κάτι για να ασκηθούν και κάτι να τους βοηθήσει να επουλώσουν σωματικά ή ψυχολογικά τράυματα από το παρελθόν. Ένα κατοικίδιο ζώο μπορεί να βοηθήσει τους ανθρώπους να επιτύχουν στόχους σχετικά με την υγεία, όπως μείωση της αρτηριακή πίεσης, ή ψυχικών στόχων, όπως η μείωση του στρες.</text>
      <i18nText>Pets have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past. Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c9234d17-ac91-410d-adc4-6ac8334ac1dd}</id>
      <foreignId>{9f2a289a-ea4f-4999-8879-6b17c9595599}</foreignId>
-     <text>Snakes are among the most fascinating animals to keep as pets, and with a wide variety of species to choose from, snake lovers may have a tough time keeping just one type. Though ferocious predators, most snakes can become docile and even friendly with enough handling and good care.</text>
+     <text>Τα φίδια είναι από τα πιο όμορφα ζώα για να έχει κανείς σαν κατοικίδιο, και με μια μεγάλη ποικιλία από είδη για να επιλέξεις, οι εραστές των φιδιών θα δυσκολευτούν να μείνουν με ένα μόνο είδος. Αν και άγρια ​​αρπακτικά, τα περισσότερα φίδια μπορεί να γίνουν υπάκουα και φιλικά ακόμη, με σωστό χειρισμό και καλή φροντίδα.</text>
      <i18nText>Snakes are among the most fascinating animals to keep as pets, and with a wide variety of species to choose from, snake lovers may have a tough time keeping just one type. Though ferocious predators, most snakes can become docile and even friendly with enough handling and good care.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{40cb68cd-2662-4945-970e-0a7ef7b2546b}</id>
      <foreignId>{81f52b41-ab44-463d-9934-a7f997ed6381}</foreignId>
-     <text>One of the health risks that is associated with pets is falling injuries. Tripping over pets, especially dogs, causes more than 86,000 falls serious enough to prompt a trip to the emergency room each year in the United States. Among elderly and disabled people, these falls have resulted in life-threatening injuries and broken bones.</text>
+     <text>Ένας από τους κινδύνους για την υγεία που σχετίζεται με τα κατοικίδια ζώα είναι οι τραυματισμοί από πτώση. Τα γλιστρήματα πάνω σε κατοικίδια ζώα, κυρίως σκυλιά, προκαλούν περισσότερες από 86.000 πτώσεις κάθε χρόνο στις Ηνωμένες Πολιτείες, τόσο σοβαρές ώστε να οδηγήσουν στο δωμάτιο έκτακτης ανάγκης. Μεταξύ των ηλικιωμένων και των ατόμων με ειδικές ανάγκες, οι πτώσεις αυτές έχουν οδηγήσει σε απειλητικούς για τη ζωή τραυματισμούς και σπασμένα κόκαλα.</text>
      <i18nText>One of the health risks that is associated with pets is falling injuries. Tripping over pets, especially dogs, causes more than 86,000 falls serious enough to prompt a trip to the emergency room each year in the United States. Among elderly and disabled people, these falls have resulted in life-threatening injuries and broken bones.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
