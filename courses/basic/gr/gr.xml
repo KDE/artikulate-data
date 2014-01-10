@@ -2,8 +2,8 @@
 <course>
  <id>{b5dde3e3-5157-4cf5-8e1f-ca09ca1caa9b}</id>
  <foreignId>artikulate-basic</foreignId>
- <title>basic</title>
- <description>Basic course for Greek.</description>
+ <title>Artikulate ελληνικά</title>
+ <description>Basic pronunciation course for Greek.</description>
  <language>gr</language>
  <units>
   <unit>
