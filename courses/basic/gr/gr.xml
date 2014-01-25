@@ -11732,41 +11732,41 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{2e50b817-a589-47fd-85e1-ad48b382b1d1}</id>
      <foreignId>{4b82e142-1cbb-483b-9302-20f913c0cd97}</foreignId>
-     <text>Please help me.</text>
+     <text>Σας παρακαλώ βοηθήστε με.</text>
      <i18nText>Please help me.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c0a13300-3e0d-4f0e-be09-690dd543f563}</id>
      <foreignId>{c5aba185-c137-4c0f-9c00-f244f0c97679}</foreignId>
-     <text>Call the police.</text>
+     <text>Καλέστε την αστυνομία.</text>
      <i18nText>Call the police.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f86d8193-b2a1-40f0-816b-218bfc76870f}</id>
      <foreignId>{699d6261-52ff-4e7c-b28d-1066e0be0fe6}</foreignId>
-     <text>Please call the ambulance.</text>
+     <text>Παρακαλώ καλέστε ασθενοφόρο.</text>
      <i18nText>Please call the ambulance.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{983e3d16-fc8e-4d97-a2b9-3cc8d36893f8}</id>
      <foreignId>{08a43f0a-3bfc-4f79-a8b9-2b1724c3bb81}</foreignId>
-     <text>Can I use your mobile phone, please?</text>
+     <text>Μπορώ να χρησιμοποιήσω το κινητό σας τηλέφωνο, παρακαλώ;</text>
      <i18nText>Can I use your mobile phone, please?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11792,21 +11792,21 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{36f7fc77-d1a3-4ad2-a7d0-a2c627867c6f}</id>
      <foreignId>{6f5294db-b387-4170-9c70-4964898e4ee2}</foreignId>
-     <text>My brother has been missing for two days now.</text>
+     <text>Ο αδελφός μου αγνοείται για δύο μέρες τώρα.</text>
      <i18nText>My brother has been missing for two days now.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9d863879-55b0-4ce9-88a4-0b09e2a116bc}</id>
      <foreignId>{85035a10-4f7c-45ee-a3f0-c98374b48b86}</foreignId>
-     <text>I want to lodge a complaint against the teacher for child abuse.</text>
+     <text>Θέλω να υποβάλλω μια καταγγελία κατά του δασκάλου για κακοποίηση παιδιού.</text>
      <i18nText>I want to lodge a complaint against the teacher for child abuse.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11822,11 +11822,11 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{7c71b5a8-e28e-4492-afa8-d611380c7e5a}</id>
      <foreignId>{c0ab297e-ccac-4de9-b176-65a20b89472a}</foreignId>
-     <text>Take deep breaths.</text>
+     <text>Πάρτε βαθιές αναπνοές.</text>
      <i18nText>Take deep breaths.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11842,41 +11842,41 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{8c38757e-822f-4130-affd-f9d21a878d15}</id>
      <foreignId>{121beac8-d843-4eab-bb5a-b75fb93fddd2}</foreignId>
-     <text>Somebody broke into the house.</text>
+     <text>Κάποιος διέρρηξε το σπίτι.</text>
      <i18nText>Somebody broke into the house.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2cd7fb1f-4fdd-48d0-935c-8e33578bcbed}</id>
      <foreignId>{1b66ce36-a635-42fa-b80e-38871b1f6530}</foreignId>
-     <text>All the sea shores have been evacuated.</text>
+     <text>Όλες οι θαλάσσιες ακτές έχουν εκκενωθεί.</text>
      <i18nText>All the sea shores have been evacuated.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{478dc7c4-3e93-4773-92e1-07a7db2ee062}</id>
      <foreignId>{840d75b4-b641-4648-ae93-a35bf02c40e2}</foreignId>
-     <text>There has been a theft in my apartment.</text>
+     <text>Έγινε μια κλοπή στο διαμέρισμά μου.</text>
      <i18nText>There has been a theft in my apartment.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{db8ae144-00bc-4da7-b9da-d88abb6cd449}</id>
      <foreignId>{1d6b5dc5-f179-4938-b15b-b1a0c020aea2}</foreignId>
-     <text>All flights have been cancelled due to the heavy rains.</text>
+     <text>Όλες οι πτήσεις έχουν ακυρωθεί λόγω των ισχυρών βροχοπτώσεων.</text>
      <i18nText>All flights have been cancelled due to the heavy rains.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11892,91 +11892,91 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{936f1623-066d-49f1-b053-c91c6b0e20e2}</id>
      <foreignId>{923d2a40-5c5a-40d1-aaa5-ea531220d37d}</foreignId>
-     <text>There has been a train accident.</text>
+     <text>Υπήρξε ένα ατύχημα με το τρένο.</text>
      <i18nText>There has been a train accident.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{62755f9a-15ba-4696-b444-9ac914d430c5}</id>
      <foreignId>{93b31566-b586-45c8-adc5-6bfa8c829a9a}</foreignId>
-     <text>Please do not panic.</text>
+     <text>Παρακαλώ μην πανικοβάλεστε.</text>
      <i18nText>Please do not panic.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fbcaa6b3-da5a-4ea6-8909-b938d2198c23}</id>
      <foreignId>{5cfb1a43-b60d-4ba3-9018-bc0d203c9d5d}</foreignId>
-     <text>Please evacuate the building.</text>
+     <text>Παρακαλούμε εκκενώστε το κτίριο.</text>
      <i18nText>Please evacuate the building.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b2b0f8e9-1708-4f0c-a832-1f33bba4a299}</id>
      <foreignId>{96812e1b-7efa-4ef4-ab4e-b2deed446dec}</foreignId>
-     <text>A lady and her two kids are trapped on the ninth floor.</text>
+     <text>Μια κυρία και τα δύο παιδιά της έχουν παγιδευτεί στον ένατο όροφο.</text>
      <i18nText>A lady and her two kids are trapped on the ninth floor.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5ca0c72c-ba17-4316-9721-04261685c158}</id>
      <foreignId>{c5dc268e-b4ce-4d8b-8424-ccdc67663618}</foreignId>
-     <text>Please hurry up and call the ambulance. My son was hit by a car. He is unconscious and is bleeding profusely.</text>
+     <text>Παρακαλώ βιαστείτε και καλέστε ασθενοφόρο. Ο γιος μου χτυπήθηκε από ένα αυτοκίνητο. Έχει χάσει τις αισθήσεις και αιμορραγεί ακατάσχετα.</text>
      <i18nText>Please hurry up and call the ambulance. My son was hit by a car. He is unconscious and is bleeding profusely.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{410757d0-cef2-45f9-945e-71ffd9294a93}</id>
      <foreignId>{39822cb4-5abf-489d-a468-4af9470c35f9}</foreignId>
-     <text>Never use water on electrical fires, equipment or wires. Unplug equipment or cut power at the control panel if possible. If the fire is small, use baking soda or a multipurpose or dry chemical fire extinguisher. Call the emergency services as soon as possible.</text>
+     <text>Ποτέ μην χρησιμοποιείτε νερό σε ηλεκτρικές πυρκαγιές, εξοπλισμό ή καλώδια. Αποσυνδέστε τον εξοπλισμό ή διακόψτε την παροχή ρεύματος από τον πίνακα ελέγχου, αν είναι δυνατόν. Αν η φωτιά είναι μικρή, χρησιμοποιήστε μαγειρική σόδα ή έναν πολλαπλών χρήσεων ή ξηρό πυροσβεστήρα για χημικές φωτιές. Καλέστε τις υπηρεσίες έκτακτης ανάγκης το συντομότερο δυνατόν.</text>
      <i18nText>Never use water on electrical fires, equipment or wires. Unplug equipment or cut power at the control panel if possible. If the fire is small, use baking soda or a multipurpose or dry chemical fire extinguisher. Call the emergency services as soon as possible.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8b27d4a5-9d5c-437b-a025-d65bccae9fc5}</id>
      <foreignId>{6c5b0710-d976-4562-a747-3b11ea459535}</foreignId>
-     <text>If your clothing catches fire, do not run. Stop where you are, drop to the ground, cover your face with your hands, and roll over and over to smother the flames. If someone else's clothes catch fire, push them to the ground and roll them over and over, or smother the flames with a blanket or carpet.</text>
+     <text>Αν τα ρούχα σας πιάσουν φωτιά, μην τρέξετε. Σταματήστε εκεί που είστε, πέστε στο έδαφος, καλύψτε το πρόσωπό σας με τα χέρια σας, και κυλήστε ξανά και ξανά για να πνίξετε τις φλόγες. Αν τα ρούχα κάποιων αλλων πιάσουν φωτιά, σπρώξτε τους στο έδαφος και κυλήστε τους ξανά και ξανά, ή πνίξτε τις φλόγες με μια κουβέρτα ή ένα χαλί.</text>
      <i18nText>If your clothing catches fire, do not run. Stop where you are, drop to the ground, cover your face with your hands, and roll over and over to smother the flames. If someone else's clothes catch fire, push them to the ground and roll them over and over, or smother the flames with a blanket or carpet.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{07402952-d763-4216-813b-4e38fe495ebc}</id>
      <foreignId>{2f8d06a9-9ef7-4bb5-b9f7-85e0ee62ac5a}</foreignId>
-     <text>Incessant and intense rains have hit the hills for over three days triggering flash floods and landslides. This has led to hundreds of deaths and hundreds more going missing. With many bodies still buried under 5-10 feet high mounds of debris in the valley area, the threat of an epidemic due to decaying corpses is looming large.</text>
+     <text>Αδιάκοπες και έντονες βροχοπτώσεις έπληξαν τους λόφους για πάνω από τρεις ημέρες προκαλώντας πλημμύρες και κατολισθήσεις. Αυτό έχει οδηγήσει σε εκατοντάδες νεκρούς και εκατοντάδες άλλους να αγνοούνται. Με πολλά πτώματα να εξακολουθούν να είναι θαμμένα κάτω από σωρούς απορριμμάτων με 5-10 πόδια ύψος στην περιοχή της κοιλάδας, ο κίνδυνος μιας επιδημίας λόγω των πτωμάτων σε αποσύνθεση φαίνεται να είναι μεγάλος.</text>
      <i18nText>Incessant and intense rains have hit the hills for over three days triggering flash floods and landslides. This has led to hundreds of deaths and hundreds more going missing. With many bodies still buried under 5-10 feet high mounds of debris in the valley area, the threat of an epidemic due to decaying corpses is looming large.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{deac75e8-f452-4056-b57a-b591386e7914}</id>
      <foreignId>{01ddec7a-52fe-42fb-8c37-0dc61a2b8090}</foreignId>
-     <text>There were a series of bomb blasts and continuous firing at the town centre two hours ago. Fifty-four people have died including twenty-three women and nine childrean and around a hundred have been injured. The area has been evacuated and cordoned off. The police have started their investigation.</text>
-     <i18nText>There were a series of bomb blasts and continuous firing at the town centre two hours ago. Fifty-four people have died including twenty-three women and nine childrean and around a hundred have been injured. The area has been evacuated and cordoned off. The police have started their investigation.</i18nText>
+     <text>Υπήρξε μια σειρά από εκρήξεις βομβών και συνεχείς πυροβολισμοί στο κέντρο της πόλης πριν από δύο ώρες. Πενήντα τέσσερις άνθρωποι έχασαν τη ζωή τους, συμπεριλαμβανομένων είκοσι-τριών γυναικών και εννέα παιδιών και περίπου εκατό άνθρωποι έχουν τραυματιστεί. Η περιοχή έχει εκκενωθεί και είναι αποκλεισμένη. Η αστυνομία έχει αρχίσει την έρευνα για αυτά.</text>
+     <i18nText>There were a series of bomb blasts and continuous firing at the town centre two hours ago. Fifty-four people have died including twenty-three women and nine children and around a hundred have been injured. The area has been evacuated and cordoned off. The police have started their investigation.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
    </phrases>
