@@ -11772,21 +11772,21 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{643c2cf1-85c1-40cb-b3a7-983b8a373db8}</id>
      <foreignId>{85dc6216-3dc3-4180-abb2-981c129b14b2}</foreignId>
-     <text>There was a gun shot in the alley.</text>
+     <text>Υπήρξε ένας πυροβολισμός στο σοκάκι.</text>
      <i18nText>There was a gun shot in the alley.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{552930a8-b550-41fb-ba0a-f986ed5fb622}</id>
      <foreignId>{42db9c96-bb95-4e58-a073-1e1b14f7200a}</foreignId>
-     <text>Two men were murdered.</text>
+     <text>Δύο άνδρες δολοφονήθηκαν.</text>
      <i18nText>Two men were murdered.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11812,11 +11812,11 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{536dba61-7340-4c20-a873-634bd40c433f}</id>
      <foreignId>{785a217d-6724-4362-88f3-f8a58c6a8f04}</foreignId>
-     <text>Where is the emergency exit?</text>
+     <text>Πού είναι η έξοδος κινδύνου;</text>
      <i18nText>Where is the emergency exit?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11832,11 +11832,11 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{bba0a4b8-7de5-49aa-bac3-8275647c52c6}</id>
      <foreignId>{9296525e-55a4-463c-954e-d4abd45d1c9c}</foreignId>
-     <text>What is the local emergency number?</text>
+     <text>Ποιος είναι ο τοπικός αριθμός έκτακτης ανάγκης;</text>
      <i18nText>What is the local emergency number?</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11882,11 +11882,11 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{b096e776-995a-411a-8c8b-61a9f6bfea75}</id>
      <foreignId>{ab07c72b-ec94-4203-8f00-e1136ffcd879}</foreignId>
-     <text>You are asked to move to the emergency shelter as soon as possible.</text>
+     <text>Καλείστε να μεταβείτε στο καταφύγιο έκτακτης ανάγκης το ταχύτερο δυνατόν.</text>
      <i18nText>You are asked to move to the emergency shelter as soon as possible.</i18nText>
      <soundFile></soundFile>
      <type>sentence</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
