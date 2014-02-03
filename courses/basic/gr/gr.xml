@@ -11077,656 +11077,656 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
   <unit>
    <id>{ad2237e6-8434-4591-b80e-97a6ac114e23}</id>
    <foreignId>{734a054a-6bbe-4a68-8492-60e760a18887}</foreignId>
-   <title>During an Emergency</title>
+   <title>Κατά τη διάρκεια επείγουσας ανάγκης</title>
    <phrases>
     <phrase>
      <id>{c9fbffd8-ace1-424e-83ff-bc32368c528a}</id>
      <foreignId>{e48e1bf5-7ec6-49d9-baf7-99ad9f09c21b}</foreignId>
-     <text>help</text>
+     <text>βοήθεια</text>
      <i18nText>help</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{00fde458-0e05-4b9a-bdb6-a18f633837ad}</id>
      <foreignId>{12d223e8-0b66-419b-ad70-79063bcfcc66}</foreignId>
-     <text>police</text>
+     <text>αστυνομία</text>
      <i18nText>police</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cfc84ed8-2571-4fcd-bbde-29440594beac}</id>
      <foreignId>{75a3aefd-c990-4992-946e-3865eb3ec84b}</foreignId>
-     <text>hospital</text>
+     <text>νοσοκομείο</text>
      <i18nText>hospital</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{e27e2aa2-83b6-4a37-b652-b74c657e332c}</id>
      <foreignId>{20eea2fd-814a-4498-824b-ba994c3abc54}</foreignId>
-     <text>ambulance</text>
+     <text>ασθενοφόρο</text>
      <i18nText>ambulance</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cd57ea98-a552-4a25-9c20-62ce1010e06c}</id>
      <foreignId>{46e8939c-b755-408d-8aa1-9239bd7670d7}</foreignId>
-     <text>doctor</text>
+     <text>γιατρός</text>
      <i18nText>doctor</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fc5659fa-14eb-4115-a9a2-d98baa5ddfd9}</id>
      <foreignId>{3f63355f-1572-4ac6-b8c8-794658ebe68d}</foreignId>
-     <text>injury</text>
+     <text>βλάβη</text>
      <i18nText>injury</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{76f7fb79-00a9-4f13-9819-d14b66e99f10}</id>
      <foreignId>{0b5d266b-ddf5-435d-a1ed-538abaa89a56}</foreignId>
-     <text>fire</text>
+     <text>φωτιά</text>
      <i18nText>fire</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{457a1242-5a05-4f4b-ace4-d1fed0b60ec6}</id>
      <foreignId>{f4de2be2-be6c-4e65-8592-54a728c12b88}</foreignId>
-     <text>disaster</text>
+     <text>καταστροφή</text>
      <i18nText>disaster</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{da3ebe7f-222f-4af2-b5bf-c73dee809b60}</id>
      <foreignId>{3d6274d7-1198-43b5-a120-0375b004e70a}</foreignId>
-     <text>calamity</text>
+     <text>συμφορά</text>
      <i18nText>calamity</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2272da2a-e492-4806-aa15-fc79173d97b8}</id>
      <foreignId>{21488ee7-0e5f-433b-aaee-20781c16b261}</foreignId>
-     <text>death</text>
+     <text>θάνατος</text>
      <i18nText>death</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a5e67c0e-231f-48ed-8753-3df48e20146f}</id>
      <foreignId>{21328797-6ae7-4ba5-b5fc-c95f08a4ead0}</foreignId>
-     <text>murder</text>
+     <text>φόνος</text>
      <i18nText>murder</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7ee3632a-ded1-4a93-b70a-c60c7a65ca63}</id>
      <foreignId>{7fb1f4fa-e5fb-4e26-b798-b96374403f8a}</foreignId>
-     <text>kidnap</text>
+     <text>απαγάγω</text>
      <i18nText>kidnap</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cf43df70-70f7-4719-a255-83b9ba89fd05}</id>
      <foreignId>{a8431712-2a8e-4fc3-b27b-92ab990ac504}</foreignId>
-     <text>hijack</text>
+     <text>κάνω αεροπειρατία</text>
      <i18nText>hijack</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{50d02d14-dfee-42d6-8f20-a9334a4b9a7c}</id>
      <foreignId>{eb9e30f9-d2c4-4e9d-b045-f11b50755d3c}</foreignId>
-     <text>hurry</text>
+     <text>βιασύνη</text>
      <i18nText>hurry</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{36a73ba0-455c-4c73-9266-8e06757a6923}</id>
      <foreignId>{771a05aa-0f96-45c0-a585-62e99917a5be}</foreignId>
-     <text>report</text>
+     <text>αναφορά</text>
      <i18nText>report</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{071f861f-f736-49ab-b6f4-df4d698f2c55}</id>
      <foreignId>{c7915bd6-c704-45fa-ba51-a2864c0d6201}</foreignId>
-     <text>theft</text>
+     <text>κλοπή</text>
      <i18nText>theft</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{c8cf9a6d-7010-427f-b870-7785618ecc4b}</id>
      <foreignId>{42ca71b9-474c-4ed4-b56a-d80c3d487dee}</foreignId>
-     <text>robbery</text>
+     <text>ληστεία</text>
      <i18nText>robbery</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a1b1c39f-d6d4-45f0-b693-4056799b0319}</id>
      <foreignId>{2f06ca25-aa20-472f-aa23-0aa4efe7e14b}</foreignId>
-     <text>burglary</text>
+     <text>διάρρηξη</text>
      <i18nText>burglary</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{eb9d1dde-947a-44b8-9477-8b280209f407}</id>
      <foreignId>{36111d35-3340-4198-aa03-8956b1264426}</foreignId>
-     <text>escape</text>
+     <text>απόδραση</text>
      <i18nText>escape</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1b94d90e-86d6-4ae0-bcc0-16a8a3ca429b}</id>
      <foreignId>{65f5cc14-acb5-4e79-a5c7-c311b9b9a53a}</foreignId>
-     <text>homicide</text>
+     <text>αυτοκτονία</text>
      <i18nText>homicide</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{51da6bc3-7334-4966-8ea2-0de21b775938}</id>
      <foreignId>{eca7f2a3-d5e4-4b22-89d6-09e7f0a87396}</foreignId>
-     <text>flood</text>
+     <text>πλημμύρα</text>
      <i18nText>flood</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{89133e69-9eed-464a-acd1-5f3bd7b32d46}</id>
      <foreignId>{986a988b-33be-49cb-9d93-7137b911bc07}</foreignId>
-     <text>cyclone</text>
+     <text>κυκλώνας</text>
      <i18nText>cyclone</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f1e4dae9-cd7e-4a22-9fbe-2e31c42fca76}</id>
      <foreignId>{a8eb6700-ebb7-4ee7-9085-9ff08c76531a}</foreignId>
-     <text>tornado</text>
+     <text>ανεμοστρόβιλος</text>
      <i18nText>tornado</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3a56b033-21fa-4c19-b8c4-634753fb043f}</id>
      <foreignId>{6da2c27c-ba8e-4908-af75-65019934e873}</foreignId>
-     <text>hurricane</text>
+     <text>τυφώνας</text>
      <i18nText>hurricane</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b44794d1-7710-4ead-9530-1b68446634c4}</id>
      <foreignId>{6b10b667-9c2d-42e7-9cf1-4046c157d6b7}</foreignId>
-     <text>tsunami</text>
+     <text>τσουνάμι</text>
      <i18nText>tsunami</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0f4bf418-6c28-4d6f-9c1c-67e1cee69207}</id>
      <foreignId>{9f1daa80-54e0-4987-8237-79e89d4673df}</foreignId>
-     <text>earthquake</text>
+     <text>σεισμός</text>
      <i18nText>earthquake</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5ff39dd0-bca4-4473-bf3e-328aa91b6ac4}</id>
      <foreignId>{9d856de8-aca7-4d1a-87fd-c519ec500df3}</foreignId>
-     <text>landslide</text>
+     <text>κατολίσθηση</text>
      <i18nText>landslide</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{28b465d6-3e72-4ff0-88dd-5e8f6ba3e703}</id>
      <foreignId>{722c310d-8745-4a3b-b512-eb71caf03ef1}</foreignId>
-     <text>attack</text>
+     <text>επίθεση</text>
      <i18nText>attack</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{cb434b4e-10aa-4866-a95d-c0363c2a3228}</id>
      <foreignId>{798d13c9-7bad-45ed-ae66-4dd4fce3bdb1}</foreignId>
-     <text>safety</text>
+     <text>ασφάλεια</text>
      <i18nText>safety</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a656c05c-2209-4c47-aeb7-1b73962c73d7}</id>
      <foreignId>{0219b2c1-b5ba-433a-84a0-132b37e158e3}</foreignId>
-     <text>security</text>
+     <text>ασφάλεια</text>
      <i18nText>security</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a1eb4c6b-3074-4505-b275-09d93c31ea65}</id>
      <foreignId>{94e5496a-4ce0-4ed7-b7f8-c2000cfdd0e7}</foreignId>
-     <text>evacuate</text>
+     <text>εκκενώνω</text>
      <i18nText>evacuate</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7b49bd1e-6228-40f6-b28d-2ea925e152ff}</id>
      <foreignId>{8a00817c-1764-42dc-ae40-982d931da5ce}</foreignId>
-     <text>investigation</text>
+     <text>έρευνα</text>
      <i18nText>investigation</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{942949fb-2b46-4f8c-a320-fa760adb062f}</id>
      <foreignId>{c1890562-a513-477c-9538-edb7cfdb1d9d}</foreignId>
-     <text>intervention</text>
+     <text>παρέμβαση</text>
      <i18nText>intervention</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{15394e06-8726-47f3-ae7d-a7cd32755a5c}</id>
      <foreignId>{5ff94165-e434-46a5-9e31-06a908aa91d9}</foreignId>
-     <text>prevention</text>
+     <text>πρόληψη</text>
      <i18nText>prevention</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{2c9c84cf-9408-4b96-a9e6-08568d2656e5}</id>
      <foreignId>{511fa07c-d5c9-47eb-9919-3cf86c2e8b86}</foreignId>
-     <text>jurisdiction</text>
+     <text>δικαιοδοσία</text>
      <i18nText>jurisdiction</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3ed0829d-d5a7-4bc9-b2fd-b369b2c8f19e}</id>
      <foreignId>{a8e6e7f0-7998-4f31-a748-0e9c58381dc8}</foreignId>
-     <text>victim</text>
+     <text>θύμα</text>
      <i18nText>victim</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{57a86e7e-2d48-45f5-9d53-a487c2fd2321}</id>
      <foreignId>{34be17a8-5263-4110-99d3-2b9cd62c724e}</foreignId>
-     <text>perpetrator</text>
+     <text>δράστης</text>
      <i18nText>perpetrator</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{64294c9d-1f96-4943-a7ce-a5a8483ca0c1}</id>
      <foreignId>{a49b5eb5-99aa-4f42-a8f2-2e8cd6254784}</foreignId>
-     <text>danger</text>
+     <text>κίνδυνος</text>
      <i18nText>danger</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ed3ac8ba-77be-4a1f-aaf2-4e9084e05ccc}</id>
      <foreignId>{df1d6c7a-4404-479a-a1bc-bf115e16a4a1}</foreignId>
-     <text>threatening</text>
+     <text>απειλή</text>
      <i18nText>threatening</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5e6f1696-1940-4390-99ce-e8be800c3859}</id>
      <foreignId>{f8d6d4ce-5fbb-4eee-89f0-818168596b9c}</foreignId>
-     <text>fear</text>
+     <text>φόβος</text>
      <i18nText>fear</i18nText>
      <soundFile></soundFile>
      <type>word</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f77ed77d-c160-4342-905d-eb4d558c419a}</id>
      <foreignId>{4b651ae2-fd54-40fc-99cf-30beeeca154c}</foreignId>
-     <text>remain calm</text>
+     <text>παραμείνετε ήρεμος</text>
      <i18nText>remain calm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8e43e481-329d-4b0b-b078-0b56a6ac2235}</id>
      <foreignId>{e0fefde5-a68d-4d2b-b08a-6ee68fe62604}</foreignId>
-     <text>feeling scared</text>
+     <text>νιώθω τρομαγμένος</text>
      <i18nText>feeling scared</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{5c6353c1-1065-4e31-a20a-5a0545bdd0b9}</id>
      <foreignId>{d69ff627-2633-4af1-b290-72abb41b5d47}</foreignId>
-     <text>have patience</text>
+     <text>κάνετε υπομονή</text>
      <i18nText>have patience</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{56326124-5668-401b-b1d9-b654eb15e284}</id>
      <foreignId>{54b4e3cf-9623-444a-8142-f62cd2fa5044}</foreignId>
-     <text>being courageous</text>
+     <text>να είστε θαραλλέος</text>
      <i18nText>being courageous</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{011d2e92-19a1-4a21-98b0-e52c607bad80}</id>
      <foreignId>{48c148c9-11f8-432a-b27d-0a8893a1eeef}</foreignId>
-     <text>rescue operation</text>
+     <text>επιχείρηση διάσωσης</text>
      <i18nText>rescue operation</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{f39eb354-72dc-4131-bcfe-7b1501964ebb}</id>
      <foreignId>{7419e19c-04e5-426a-bc81-c675075c12f6}</foreignId>
-     <text>emergency exit</text>
+     <text>έξοδος κινδύνου</text>
      <i18nText>emergency exit</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{77733007-6550-4a14-b594-90b300104f64}</id>
      <foreignId>{b117655b-1ac3-47c1-8b58-0d3582e56783}</foreignId>
-     <text>volcanic eruptions</text>
+     <text>ηφαιστειακές εκρήξεις</text>
      <i18nText>volcanic eruptions</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{15c94c79-edd3-40fe-a9aa-c4718417307e}</id>
      <foreignId>{2d715685-3958-4238-ab66-4f0b78383fb1}</foreignId>
-     <text>richter scale</text>
+     <text>κλίμακα ρίχτερ</text>
      <i18nText>richter scale</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{3590e39b-fdcb-4080-9b9c-7436fd16f265}</id>
      <foreignId>{3b846ac1-6edc-45b6-9cd0-4ebf350b0337}</foreignId>
-     <text>scene of crime</text>
+     <text>σκηνή εγκλήματος</text>
      <i18nText>scene of crime</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ee5ca93e-59d5-47c4-bdbf-26ef448dcdb3}</id>
      <foreignId>{c223a7ca-3c27-4372-8008-5fc69006c43c}</foreignId>
-     <text>act of terror</text>
+     <text>τρομοκρατική ενέργεια</text>
      <i18nText>act of terror</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ec6454a6-afed-4321-8b86-141c257c756b}</id>
      <foreignId>{0d917552-139e-4b8f-871c-710bbdd75dbc}</foreignId>
-     <text>file a complaint</text>
+     <text>υποβάλλω παράπονο</text>
      <i18nText>file a complaint</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{7729aa22-0665-433f-a4c3-d1acb60cd46e}</id>
      <foreignId>{5c6064d4-ea12-443c-975e-d26448df1370}</foreignId>
-     <text>lodge a report</text>
+     <text>υποβάλλω αναφορά</text>
      <i18nText>lodge a report</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{02bb3369-e674-4236-a524-ff2762692c75}</id>
      <foreignId>{15d6801a-d811-4cda-8b53-f2bafa65ff36}</foreignId>
-     <text>call 911</text>
+     <text>καλέστε τα επείγοντα</text>
      <i18nText>call 911</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1452c31b-aa6d-43cf-b48f-c6eb331afbc0}</id>
      <foreignId>{ecc35ee6-8dde-4e87-91a6-2138608eaf0f}</foreignId>
-     <text>bomb blast</text>
+     <text>έκρηξη βόμβας</text>
      <i18nText>bomb blast</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b78703fd-bdaa-4b68-93e0-1f771ac2c02a}</id>
      <foreignId>{9101ba9d-472b-4aa8-ac63-f858d8e22e55}</foreignId>
-     <text>fire alarm</text>
+     <text>συναγερμός πυρκαγιάς</text>
      <i18nText>fire alarm</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{a2b4fdbc-e6da-4fd3-bb24-cab908a67d37}</id>
      <foreignId>{924fd909-2d51-44de-9d79-eb68a9426a89}</foreignId>
-     <text>fire extinguisher</text>
+     <text>πυροσβεστήρας</text>
      <i18nText>fire extinguisher</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{8ea70061-ebfc-4ec1-921e-2d67134cb216}</id>
      <foreignId>{9e7625ce-eb8e-4cfb-b1c6-a1cc170dddb4}</foreignId>
-     <text>fire service</text>
+     <text>πυροσβεστική υπηρεσία</text>
      <i18nText>fire service</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{1520b9e4-2e01-4c8b-b700-bb228651117e}</id>
      <foreignId>{085a4197-eff0-479d-bdd9-b07f8142c7b0}</foreignId>
-     <text>fire exit</text>
+     <text>έξοδος πυρκαγιάς</text>
      <i18nText>fire exit</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{4d9738a2-853b-4055-bdae-ce3b6fd42c20}</id>
      <foreignId>{fc48bb2b-9ebc-42ef-a310-15f66c091910}</foreignId>
-     <text>victims of a disaster</text>
+     <text>θύματα καταστροφής</text>
      <i18nText>victims of a disaster</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{9106953d-b68a-49ba-8e2d-1bce17018350}</id>
      <foreignId>{f1c89b38-d96f-4994-bf24-36f3259bb529}</foreignId>
-     <text>survival strategy</text>
+     <text>στρατηγική επιβίωσης</text>
      <i18nText>survival strategy</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{07106fd0-ce96-44ba-9eef-3309c07e02b9}</id>
      <foreignId>{ccc5b7f3-4f17-411e-82cd-2cf4c1145dd1}</foreignId>
-     <text>been mugged</text>
+     <text>με λήστεψαν</text>
      <i18nText>been mugged</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{b56ca76d-d4f8-4c71-8ad7-2cb7a73ca93f}</id>
      <foreignId>{6ddb3823-aff3-4c1b-adce-6f6cf7cef798}</foreignId>
-     <text>lost valuables</text>
+     <text>χαμένα αντικείμενα αξίας</text>
      <i18nText>lost valuables</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{0d9c5b60-11a7-4f5e-bc11-4f857ba7a2fd}</id>
      <foreignId>{8b4df30b-5d8d-40e4-8bbf-c822ae12c02b}</foreignId>
-     <text>life risk</text>
+     <text>κίνδυνος για τη ζωή</text>
      <i18nText>life risk</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{ecf6848e-4118-48e2-86bc-cb1e58be98ab}</id>
      <foreignId>{505878fe-f3e5-45a6-8a02-04c8cad4e0e4}</foreignId>
-     <text>civil rights</text>
+     <text>πολιτικά δικαιώματα</text>
      <i18nText>civil rights</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
      <id>{fa43505c-5686-41ff-a42e-9bb75349710b}</id>
      <foreignId>{03eb3ebc-adde-4543-b7d3-63047d5ba3b7}</foreignId>
-     <text>local emergency number</text>
+     <text>τοπικός αριθμός έκτακτης ανάγκης</text>
      <i18nText>local emergency number</i18nText>
      <soundFile></soundFile>
      <type>expression</type>
-     <editState>unknown</editState>
+     <editState>translated</editState>
      <phonemes/>
     </phrase>
     <phrase>
@@ -11962,7 +11962,7 @@ Anne είναι το μικρότερο παιδί στην οικογένειά
     <phrase>
      <id>{07402952-d763-4216-813b-4e38fe495ebc}</id>
      <foreignId>{2f8d06a9-9ef7-4bb5-b9f7-85e0ee62ac5a}</foreignId>
-     <text>Αδιάκοπες και έντονες βροχοπτώσεις έπληξαν τους λόφους για πάνω από τρεις ημέρες προκαλώντας πλημμύρες και κατολισθήσεις. Αυτό έχει οδηγήσει σε εκατοντάδες νεκρούς και εκατοντάδες άλλους να αγνοούνται. Με πολλά πτώματα να εξακολουθούν να είναι θαμμένα κάτω από σωρούς απορριμμάτων με 5-10 πόδια ύψος στην περιοχή της κοιλάδας, ο κίνδυνος μιας επιδημίας λόγω των πτωμάτων σε αποσύνθεση φαίνεται να είναι μεγάλος.</text>
+     <text>Αδιάκοπες και έντονες βροχοπτώσεις έπληξαν τους λόφους για πάνω από τρεις ημέρες προκαλώντας πλημμύρες και κατολισθήσεις. Αυτό έχει οδηγήσει σε εκατοντάδες νεκρούς και εκατοντάδες άλλοι αγνοούνται. Με πολλά πτώματα να εξακολουθούν να είναι θαμμένα κάτω από σωρούς απορριμμάτων με 5-10 πόδια ύψος στην περιοχή της κοιλάδας, ο κίνδυνος μιας επιδημίας λόγω των πτωμάτων σε αποσύνθεση φαίνεται να είναι μεγάλος.</text>
      <i18nText>Incessant and intense rains have hit the hills for over three days triggering flash floods and landslides. This has led to hundreds of deaths and hundreds more going missing. With many bodies still buried under 5-10 feet high mounds of debris in the valley area, the threat of an epidemic due to decaying corpses is looming large.</i18nText>
      <soundFile></soundFile>
      <type>paragraph</type>
