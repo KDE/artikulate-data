@@ -9,7 +9,7 @@ This creates tar.bz2 packages of the courses in folder "upload"
 2. copy all data to edu@filesmaster.kde.org into directory web/artikulate
 This copy must overwrite the knewstuff.xml file.
 
-scp upload/* edu@filesmaster.kde.org:/home/edu/web/artikulate
+scp upload/* edu@depot.kde.org:/home/edu/web/artikulate
 
 3. It will take some hours that all changes are propagated to all mirrors.
 
